@@ -1,0 +1,24 @@
+{
+  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "sourceStrength": "Medium",
+  "freshness": "Daily",
+  "whatChanged": "Starter market snapshot published locally. Replace with workflow-generated daily market JSON later.",
+  "sourceLinks": [
+    {
+      "label": "Google Finance",
+      "url": "https://www.google.com/finance/"
+    },
+    {
+      "label": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/"
+    }
+  ],
+  "notes": [
+    "Keep this as context only. Do not overweight it operationally."
+  ],
+  "latest": {
+    "sp500": 5240,
+    "dow": 39120,
+    "vix": 18.7
+  }
+}

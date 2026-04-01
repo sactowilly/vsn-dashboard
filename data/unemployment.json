@@ -1,0 +1,93 @@
+{
+  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "sourceStrength": "High",
+  "freshness": "Monthly",
+  "sourceLinks": [
+    {
+      "label": "BLS API Features",
+      "url": "https://www.bls.gov/bls/api_features.htm"
+    },
+    {
+      "label": "FRED",
+      "url": "https://fred.stlouisfed.org/"
+    }
+  ],
+  "notes": [
+    "Starter data is published locally for GitHub Pages compatibility.",
+    "Replace this file with workflow-generated JSON once the BLS adapter is built."
+  ],
+  "series": [
+    {
+      "date": "2025-04",
+      "sacramento": 4.7,
+      "california": 5.3,
+      "us": 3.9
+    },
+    {
+      "date": "2025-05",
+      "sacramento": 4.8,
+      "california": 5.3,
+      "us": 4.0
+    },
+    {
+      "date": "2025-06",
+      "sacramento": 4.8,
+      "california": 5.4,
+      "us": 4.1
+    },
+    {
+      "date": "2025-07",
+      "sacramento": 4.9,
+      "california": 5.4,
+      "us": 4.1
+    },
+    {
+      "date": "2025-08",
+      "sacramento": 5.0,
+      "california": 5.5,
+      "us": 4.2
+    },
+    {
+      "date": "2025-09",
+      "sacramento": 4.9,
+      "california": 5.4,
+      "us": 4.1
+    },
+    {
+      "date": "2025-10",
+      "sacramento": 4.8,
+      "california": 5.3,
+      "us": 4.1
+    },
+    {
+      "date": "2025-11",
+      "sacramento": 4.8,
+      "california": 5.3,
+      "us": 4.1
+    },
+    {
+      "date": "2025-12",
+      "sacramento": 4.9,
+      "california": 5.4,
+      "us": 4.1
+    },
+    {
+      "date": "2026-01",
+      "sacramento": 5.0,
+      "california": 5.5,
+      "us": 4.2
+    },
+    {
+      "date": "2026-02",
+      "sacramento": 5.1,
+      "california": 5.6,
+      "us": 4.2
+    },
+    {
+      "date": "2026-03",
+      "sacramento": 5.1,
+      "california": 5.6,
+      "us": 4.2
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "sourceStrength": "Medium",
+  "freshness": "Daily",
+  "whatChanged": "Starter packaging-news dataset published locally. Replace with curated or workflow-generated story JSON later.",
+  "notes": [
+    "This phase stays packaging-focused. Broader supply-chain expansion can come later."
+  ],
+  "sourceLinks": [
+    {
+      "label": "Packaging World",
+      "url": "https://www.packworld.com/"
+    },
+    {
+      "label": "Packaging Digest",
+      "url": "https://www.packagingdigest.com/"
+    },
+    {
+      "label": "International Paper News",
+      "url": "https://www.internationalpaper.com/company/news-and-media"
+    }
+  ],
+  "stories": [
+    {
+      "title": "Containerboard pricing remains a margin watch item",
+      "source": "Packaging World",
+      "impact": "Medium",
+      "summary": "Starter placeholder story for published JSON architecture."
+    },
+    {
+      "title": "Packaging materials and sustainability remain active themes",
+      "source": "Packaging Digest",
+      "impact": "Medium",
+      "summary": "Starter placeholder story for published JSON architecture."
+    },
+    {
+      "title": "Major packaging-company updates should flow into this panel",
+      "source": "Company newsrooms",
+      "impact": "Low",
+      "summary": "Starter placeholder story for published JSON architecture."
+    }
+  ]
+}

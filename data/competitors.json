@@ -1,0 +1,62 @@
+{
+  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "sourceStrength": "Medium",
+  "freshness": "Manual + published JSON",
+  "whatChanged": "Starter competitor dataset published locally. Expand this list as you refine the watchlist.",
+  "notes": [
+    "This dataset is intentionally curated rather than scraped live in the browser."
+  ],
+  "companies": [
+    {
+      "name": "Packaging Corporation of America",
+      "city": "Sacramento Region, CA",
+      "specialties": [
+        "corrugated",
+        "packaging",
+        "distribution"
+      ],
+      "website": "https://www.packagingcorp.com/",
+      "googleNewsUrl": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
+      "searchUrl": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20Sacramento%20packaging",
+      "notes": "Large corrugated and packaging overlap"
+    },
+    {
+      "name": "Veritiv",
+      "city": "Northern California",
+      "specialties": [
+        "industrial packaging",
+        "distribution"
+      ],
+      "website": "https://www.veritiv.com/",
+      "googleNewsUrl": "https://news.google.com/search?q=Veritiv%20packaging",
+      "searchUrl": "https://www.google.com/search?q=Veritiv%20packaging%20California",
+      "notes": "Broad industrial packaging overlap"
+    },
+    {
+      "name": "Imperial Dade",
+      "city": "Northern California",
+      "specialties": [
+        "jan/san",
+        "packaging",
+        "distribution"
+      ],
+      "website": "https://www.imperialdade.com/",
+      "googleNewsUrl": "https://news.google.com/search?q=Imperial%20Dade%20packaging",
+      "searchUrl": "https://www.google.com/search?q=Imperial%20Dade%20Northern%20California",
+      "notes": "Regional overlap in broad supply categories"
+    },
+    {
+      "name": "Uline",
+      "city": "Regional",
+      "specialties": [
+        "shipping supplies",
+        "warehouse",
+        "packaging"
+      ],
+      "website": "https://www.uline.com/",
+      "googleNewsUrl": "https://news.google.com/search?q=Uline%20packaging",
+      "searchUrl": "https://www.google.com/search?q=Uline%20packaging%20California",
+      "notes": "National generalist competitor"
+    }
+  ]
+}

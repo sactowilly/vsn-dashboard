@@ -1,0 +1,24 @@
+{
+  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "sourceStrength": "Medium",
+  "freshness": "Daily + Weekly",
+  "sourceLinks": [
+    {
+      "label": "AAA California Gas Prices",
+      "url": "https://gasprices.aaa.com/?state=CA"
+    },
+    {
+      "label": "EIA",
+      "url": "https://www.eia.gov/"
+    }
+  ],
+  "notes": [
+    "For GitHub Pages, AAA should be mirrored into JSON by a workflow rather than scraped in the browser.",
+    "Diesel is intentionally included in both the tile and the detail panel."
+  ],
+  "currentRegular": 4.89,
+  "weekAgoRegular": 4.79,
+  "currentDiesel": 5.18,
+  "weekAgoDiesel": 5.05,
+  "sacramentoRegular": 4.97
+}

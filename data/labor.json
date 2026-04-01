@@ -1,0 +1,27 @@
+{
+  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "sourceStrength": "High",
+  "freshness": "Daily",
+  "whatChanged": "Starter labor dataset published locally. Replace with workflow-generated Cornell and curated source JSON later.",
+  "sourceLinks": [
+    {
+      "label": "Cornell ILR Labor Action Tracker",
+      "url": "https://striketracker.ilr.cornell.edu/"
+    }
+  ],
+  "notes": [
+    "Keep this focused on freight, ports, warehousing, manufacturing, and major labor relevance."
+  ],
+  "actions": [
+    {
+      "headline": "Warehouse contract dispute",
+      "region": "West Coast",
+      "sector": "Logistics"
+    },
+    {
+      "headline": "Regional manufacturing labor action",
+      "region": "California",
+      "sector": "Manufacturing"
+    }
+  ]
+}

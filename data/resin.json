@@ -1,0 +1,40 @@
+{
+  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "sourceStrength": "Medium",
+  "freshness": "Monthly",
+  "sourceLinks": [
+    {
+      "label": "Plastics News",
+      "url": "https://www.plasticsnews.com/"
+    }
+  ],
+  "notes": [
+    "This is a published proxy series, not benchmark settlement pricing."
+  ],
+  "series": [
+    {
+      "date": "2025-10",
+      "value": 99.7
+    },
+    {
+      "date": "2025-11",
+      "value": 100.2
+    },
+    {
+      "date": "2025-12",
+      "value": 100.0
+    },
+    {
+      "date": "2026-01",
+      "value": 100.8
+    },
+    {
+      "date": "2026-02",
+      "value": 101.3
+    },
+    {
+      "date": "2026-03",
+      "value": 101.6
+    }
+  ]
+}
