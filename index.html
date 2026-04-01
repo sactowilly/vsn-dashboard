@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vision Packaging Dashboard</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-header">
+      <div class="brand-block">
+        <div class="brand-mark">VP</div>
+        <div>
+          <h1 class="dashboard-title">Vision Packaging</h1>
+          <p class="dashboard-subtitle">Sacramento Management Dashboard</p>
+        </div>
+      </div>
+
+      <div class="header-meta">
+        <div class="clock-panel">
+          <span class="meta-label">Local Time</span>
+          <strong id="clockDisplay" class="clock-display">--:--</strong>
+        </div>
+        <div class="clock-panel">
+          <span class="meta-label">Published Data Timestamp</span>
+          <strong id="globalLastUpdated" class="last-updated-global">Loading...</strong>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <button id="refreshButton" class="refresh-button" type="button">Reload Latest Published Data</button>
+      </div>
+    </header>
+
+    <main class="dashboard-main">
+      <section class="overview-strip">
+        <div>
+          <h2>Executive Overview</h2>
+          <p id="overviewSummary">Loading dashboard datasets...</p>
+        </div>
+      </section>
+
+      <section id="tileGrid" class="tile-grid" aria-label="Dashboard summary tiles"></section>
+    </main>
+
+    <aside id="detailDrawer" class="detail-drawer" aria-hidden="true" aria-label="Tile detail drawer">
+      <div class="detail-overlay" id="detailOverlay"></div>
+      <div class="detail-panel" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+        <button id="detailCloseButton" class="detail-close" type="button" aria-label="Close detail view">×</button>
+        <div id="detailContent" class="detail-content">
+          <div class="loading-state">Select a tile to view details.</div>
+        </div>
+      </div>
+    </aside>
+
+    <div id="statusToast" class="status-toast" aria-live="polite"></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
