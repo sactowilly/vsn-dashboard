@@ -1,31 +1,81 @@
 {
-  "lastUpdated": "2026-04-01T15:20:00-07:00",
+  "lastUpdated": "2026-04-01T23:07+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
-  "whatChanged": "Starter disruption dataset published locally.",
+  "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
   "sourceLinks": [
     {
       "label": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/feed/"
     },
     {
-      "label": "NWS API",
+      "label": "NWS Alerts API",
       "url": "https://www.weather.gov/documentation/services-web-api"
     }
   ],
   "notes": [
-    "Starter data present until GitHub Actions writes live JSON."
+    "This tile is event-card driven rather than using a synthetic single score."
   ],
   "events": [
     {
       "type": "Earthquake",
-      "region": "Northern California",
-      "severity": "Medium"
+      "region": "17 km NNW of Ivanof Bay, Alaska",
+      "severity": "Low"
     },
     {
-      "type": "Flood Alert",
-      "region": "Central Valley corridor",
+      "type": "Earthquake",
+      "region": "4 km NNW of The Geysers, CA",
       "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "127 km WNW of Ternate, Indonesia",
+      "severity": "High"
+    },
+    {
+      "type": "Earthquake",
+      "region": "9 km W of Clear Creek, Utah",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "53 km NW of Toyah, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "10 km ENE of Borrego Springs, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "25 km WNW of Mentone, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "50 km SE of Mammoth, Wyoming",
+      "severity": "Low"
+    },
+    {
+      "type": "Wind Advisory issued April 1 at 2:19PM PDT until April 3 at 12:00PM PDT by NWS Hanford CA",
+      "region": "Indian Wells Valley; Mojave Desert",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Winter Weather Advisory issued April 1 at 2:19PM PDT until April 2 at 8:00AM PDT by NWS Hanford CA",
+      "region": "Yosemite NP outside of the valley; Upper San Joaquin River",
+      "severity": "Moderate"
+    },
+    {
+      "type": "High Wind Warning issued April 1 at 2:19PM PDT until April 3 at 12:00PM PDT by NWS Hanford CA",
+      "region": "Mojave Desert Slopes",
+      "severity": "Severe"
+    },
+    {
+      "type": "Wind Advisory issued April 1 at 2:18PM PDT until April 1 at 11:00PM PDT by NWS Medford OR",
+      "region": "Modoc County",
+      "severity": "Moderate"
     }
   ]
 }

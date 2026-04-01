@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T15:20:00-07:00",
+  "lastUpdated": "2026-04-01T23:07+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -17,80 +17,63 @@
     }
   ],
   "notes": [
-    "Starter data present until GitHub Actions writes live JSON."
+    "This file is refreshed by GitHub Actions using FRED-hosted BLS series.",
+    "Sacramento series id used: CASACR5URN"
   ],
   "series": [
     {
-      "date": "2025-04",
-      "sacramento": 4.7,
+      "date": "2025-03",
+      "us": 4.2,
       "california": 5.3,
-      "us": 3.9
+      "sacramento": 4.7
+    },
+    {
+      "date": "2025-04",
+      "us": 4.2,
+      "california": 5.3,
+      "sacramento": 4.5
     },
     {
       "date": "2025-05",
-      "sacramento": 4.8,
+      "us": 4.3,
       "california": 5.3,
-      "us": 4.0
+      "sacramento": 4.4
     },
     {
       "date": "2025-06",
-      "sacramento": 4.8,
+      "us": 4.1,
       "california": 5.4,
-      "us": 4.1
+      "sacramento": 5.3
     },
     {
       "date": "2025-07",
-      "sacramento": 4.9,
-      "california": 5.4,
-      "us": 4.1
+      "us": 4.3,
+      "california": 5.5,
+      "sacramento": 5.7
     },
     {
       "date": "2025-08",
-      "sacramento": 5.0,
+      "us": 4.3,
       "california": 5.5,
-      "us": 4.2
+      "sacramento": 5.5
     },
     {
       "date": "2025-09",
-      "sacramento": 4.9,
-      "california": 5.4,
-      "us": 4.1
-    },
-    {
-      "date": "2025-10",
-      "sacramento": 4.8,
-      "california": 5.3,
-      "us": 4.1
+      "us": 4.4,
+      "california": 5.6,
+      "sacramento": 5.3
     },
     {
       "date": "2025-11",
-      "sacramento": 4.8,
-      "california": 5.3,
-      "us": 4.1
+      "us": 4.5,
+      "california": 5.6,
+      "sacramento": 5.1
     },
     {
       "date": "2025-12",
-      "sacramento": 4.9,
-      "california": 5.4,
-      "us": 4.1
-    },
-    {
-      "date": "2026-01",
-      "sacramento": 5.0,
+      "us": 4.4,
       "california": 5.5,
-      "us": 4.2
-    },
-    {
-      "date": "2026-02",
-      "sacramento": 5.1,
-      "california": 5.6,
-      "us": 4.2
-    },
-    {
-      "date": "2026-03",
-      "sacramento": 5.1,
-      "california": 5.6,
-      "us": 4.2
+      "sacramento": 4.9
     }
   ]
 }
