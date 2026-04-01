@@ -1,20 +1,23 @@
 {
-  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "lastUpdated": "2026-04-01T15:20:00-07:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
     {
-      "label": "BLS API Features",
-      "url": "https://www.bls.gov/bls/api_features.htm"
+      "label": "FRED UNRATE",
+      "url": "https://fred.stlouisfed.org/series/UNRATE"
     },
     {
-      "label": "FRED",
-      "url": "https://fred.stlouisfed.org/"
+      "label": "FRED CAUR",
+      "url": "https://fred.stlouisfed.org/series/CAUR"
+    },
+    {
+      "label": "FRED Sacramento unemployment search",
+      "url": "https://fred.stlouisfed.org/tags/series?t=sacramento%3Bunemployment"
     }
   ],
   "notes": [
-    "Starter data is published locally for GitHub Pages compatibility.",
-    "Replace this file with workflow-generated JSON once the BLS adapter is built."
+    "Starter data present until GitHub Actions writes live JSON."
   ],
   "series": [
     {

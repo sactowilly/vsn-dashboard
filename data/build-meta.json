@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-04-01T14:15:00-07:00",
-  "summary": "GitHub Pages scaffold loaded. All 10 tiles are reading local published JSON. Reload will refetch the latest repo-hosted data files.",
+  "publishedAt": "2026-04-01T15:20:00-07:00",
+  "summary": "GitHub Pages scaffold loaded. The first live GitHub Actions refresh path is wired for unemployment, federal funds, Sacramento gas and diesel, and natural disasters.",
   "notes": [
     "This dashboard is designed for GitHub Pages static hosting.",
-    "Third-party sources should be mirrored into local JSON via GitHub Actions or manual updates."
+    "Third-party sources are mirrored into local JSON by GitHub Actions."
   ]
 }

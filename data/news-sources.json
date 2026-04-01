@@ -11,24 +11,9 @@
       "tag": "industry"
     },
     {
-      "name": "Food & Beverage Packaging",
-      "url": "https://www.foodbeverageinsider.com/packaging",
-      "tag": "food-bev"
-    },
-    {
       "name": "International Paper News",
       "url": "https://www.internationalpaper.com/company/news-and-media",
       "tag": "company"
-    },
-    {
-      "name": "Pratt Industries",
-      "url": "https://innovations.prattindustries.com/",
-      "tag": "company"
-    },
-    {
-      "name": "Google News: corrugated packaging California",
-      "url": "https://news.google.com/search?q=corrugated%20packaging%20California",
-      "tag": "search"
     }
   ]
 }

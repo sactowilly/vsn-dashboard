@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "lastUpdated": "2026-04-01T15:20:00-07:00",
   "sourceStrength": "High",
   "freshness": "Daily",
-  "whatChanged": "Starter labor dataset published locally. Replace with workflow-generated Cornell and curated source JSON later.",
+  "whatChanged": "Starter labor dataset published locally.",
   "sourceLinks": [
     {
       "label": "Cornell ILR Labor Action Tracker",
@@ -10,7 +10,7 @@
     }
   ],
   "notes": [
-    "Keep this focused on freight, ports, warehousing, manufacturing, and major labor relevance."
+    "Still starter-only. Not yet live in actions."
   ],
   "actions": [
     {

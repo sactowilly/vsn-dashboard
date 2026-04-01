@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "lastUpdated": "2026-04-01T15:20:00-07:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "sourceLinks": [
@@ -9,7 +9,7 @@
     }
   ],
   "notes": [
-    "Replace this file with workflow-generated JSON once the FRED adapter is built."
+    "Starter data present until GitHub Actions writes live JSON."
   ],
   "series": [
     {

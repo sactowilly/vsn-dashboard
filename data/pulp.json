@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "lastUpdated": "2026-04-01T15:20:00-07:00",
   "sourceStrength": "Medium",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -9,7 +9,7 @@
     }
   ],
   "notes": [
-    "This is a published proxy series, not benchmark settlement pricing."
+    "Proxy data only."
   ],
   "series": [
     {

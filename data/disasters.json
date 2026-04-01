@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-01T14:15:00-07:00",
+  "lastUpdated": "2026-04-01T15:20:00-07:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
-  "whatChanged": "Starter disruption dataset published locally. Replace with workflow-generated USGS/NWS summary JSON later.",
+  "whatChanged": "Starter disruption dataset published locally.",
   "sourceLinks": [
     {
       "label": "USGS",
@@ -14,7 +14,7 @@
     }
   ],
   "notes": [
-    "This tile is event-card driven, not a synthetic single number."
+    "Starter data present until GitHub Actions writes live JSON."
   ],
   "events": [
     {
