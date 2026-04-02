@@ -1,1 +1,0 @@
-window.DASHBOARD_CONFIG = {};
