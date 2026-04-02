@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T23:07+00:00",
+  "lastUpdated": "2026-04-02T14:25+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,62 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "17 km NNW of Ivanof Bay, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
       "region": "4 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "127 km WNW of Ternate, Indonesia",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "9 km W of Clear Creek, Utah",
+      "region": "13 km WNW of Ivanof Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "53 km NW of Toyah, Texas",
+      "region": "58 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "68 km WNW of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km ENE of Borrego Springs, CA",
+      "region": "2 km ESE of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "25 km WNW of Mentone, Texas",
+      "region": "2 km NE of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "50 km SE of Mammoth, Wyoming",
+      "region": "10 km E of Alum Rock, CA",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued April 1 at 2:19PM PDT until April 3 at 12:00PM PDT by NWS Hanford CA",
-      "region": "Indian Wells Valley; Mojave Desert",
-      "severity": "Moderate"
+      "type": "Earthquake",
+      "region": "1 km W of Cabazon, CA",
+      "severity": "Low"
     },
     {
-      "type": "Winter Weather Advisory issued April 1 at 2:19PM PDT until April 2 at 8:00AM PDT by NWS Hanford CA",
-      "region": "Yosemite NP outside of the valley; Upper San Joaquin River",
-      "severity": "Moderate"
-    },
-    {
-      "type": "High Wind Warning issued April 1 at 2:19PM PDT until April 3 at 12:00PM PDT by NWS Hanford CA",
+      "type": "High Wind Warning issued April 2 at 6:04AM PDT until April 3 at 12:00PM PDT by NWS Hanford CA",
       "region": "Mojave Desert Slopes",
       "severity": "Severe"
     },
     {
-      "type": "Wind Advisory issued April 1 at 2:18PM PDT until April 1 at 11:00PM PDT by NWS Medford OR",
-      "region": "Modoc County",
+      "type": "Wind Advisory issued April 2 at 6:04AM PDT until April 3 at 12:00PM PDT by NWS Hanford CA",
+      "region": "Indian Wells Valley; Mojave Desert",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued April 2 at 5:29AM PDT until April 2 at 11:00PM PDT by NWS San Diego CA",
+      "region": "San Bernardino County Mountains; Riverside County Mountains; San Diego County Mountains; Apple and Lucerne Valleys; Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Winter Weather Advisory issued April 2 at 5:05AM PDT until April 2 at 11:00AM PDT by NWS Eureka CA",
+      "region": "Northern Trinity",
       "severity": "Moderate"
     }
   ]
