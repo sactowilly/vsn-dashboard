@@ -1,15 +1,58 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sacramento Packaging Dashboard</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Sacramento Packaging Dashboard</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Sacramento Packaging Dashboard</h1>
-<div id="app"></div>
-<script src="config.js"></script>
-<script src="app.js"></script>
+  <div class="wrap">
+    <header class="top">
+      <div class="logo">SD</div>
+      <div class="brand">
+        <h1>Sacramento Packaging Dashboard</h1>
+        <p>Management market and risk monitor</p>
+      </div>
+      <div class="meta">
+        <div class="meta-card">
+          <span>Local Time</span>
+          <strong id="clockDisplay">--:--</strong>
+        </div>
+        <div class="meta-card">
+          <span>Published Data</span>
+          <strong id="globalLastUpdated">Loading...</strong>
+        </div>
+      </div>
+      <button id="refreshButton" type="button">Reload Latest Published Data</button>
+    </header>
+
+    <section class="overview">
+      <h2>Executive Overview</h2>
+      <p id="overviewSummary">Loading dashboard datasets...</p>
+    </section>
+
+    <section id="tileGrid" class="grid" aria-label="Dashboard summary tiles"></section>
+
+    <div id="detailDrawer" class="drawer" aria-hidden="true">
+      <div id="detailOverlay" class="overlay"></div>
+      <aside class="panel" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+        <button id="detailCloseButton" class="closebtn" aria-label="Close detail view">×</button>
+        <div id="detailContent">
+          <div class="box">
+            <h3>Tile details</h3>
+            <p>Select a tile to view details.</p>
+          </div>
+        </div>
+      </aside>
+    </div>
+
+    <div id="statusToast" class="toast" aria-live="polite"></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
