@@ -1,10 +1,8 @@
 from __future__ import annotations
 import requests
 from common import now_iso, write_json
-
 USGS_URL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson"
 NWS_URL = "https://api.weather.gov/alerts/active?area=CA"
-
 r = requests.get(USGS_URL, timeout=30); r.raise_for_status()
 usgs = []
 for f in r.json().get("features", [])[:8]:
