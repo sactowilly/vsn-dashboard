@@ -1,0 +1,12 @@
+body{
+background:#08111d;
+color:#ffffff;
+font-family:Arial, sans-serif;
+}
+h1{color:#ffffff;}
+.tile{
+background:#142238;
+padding:16px;
+margin:10px;
+border-radius:10px;
+}
