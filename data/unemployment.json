@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T14:36+00:00",
+  "lastUpdated": "2026-04-02T08:05:00-07:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -10,70 +10,83 @@
     {
       "label": "FRED CAUR",
       "url": "https://fred.stlouisfed.org/series/CAUR"
-    },
-    {
-      "label": "FRED Sacramento unemployment search",
-      "url": "https://fred.stlouisfed.org/tags/series?t=sacramento%3Bunemployment"
     }
   ],
   "notes": [
-    "This file is refreshed by GitHub Actions using FRED-hosted BLS series.",
-    "Sacramento series id used: CASACR5URN"
+    "Starter data present until GitHub Actions writes live JSON."
   ],
   "series": [
     {
-      "date": "2025-03",
-      "us": 4.2,
-      "california": 5.3,
-      "sacramento": 4.7
-    },
-    {
       "date": "2025-04",
-      "us": 4.2,
+      "sacramento": 4.7,
       "california": 5.3,
-      "sacramento": 4.5
+      "us": 3.9
     },
     {
       "date": "2025-05",
-      "us": 4.3,
+      "sacramento": 4.8,
       "california": 5.3,
-      "sacramento": 4.4
+      "us": 4.0
     },
     {
       "date": "2025-06",
-      "us": 4.1,
+      "sacramento": 4.8,
       "california": 5.4,
-      "sacramento": 5.3
+      "us": 4.1
     },
     {
       "date": "2025-07",
-      "us": 4.3,
-      "california": 5.5,
-      "sacramento": 5.7
+      "sacramento": 4.9,
+      "california": 5.4,
+      "us": 4.1
     },
     {
       "date": "2025-08",
-      "us": 4.3,
+      "sacramento": 5.0,
       "california": 5.5,
-      "sacramento": 5.5
+      "us": 4.2
     },
     {
       "date": "2025-09",
-      "us": 4.4,
-      "california": 5.6,
-      "sacramento": 5.3
+      "sacramento": 4.9,
+      "california": 5.4,
+      "us": 4.1
+    },
+    {
+      "date": "2025-10",
+      "sacramento": 4.8,
+      "california": 5.3,
+      "us": 4.1
     },
     {
       "date": "2025-11",
-      "us": 4.5,
-      "california": 5.6,
-      "sacramento": 5.1
+      "sacramento": 4.8,
+      "california": 5.3,
+      "us": 4.1
     },
     {
       "date": "2025-12",
-      "us": 4.4,
+      "sacramento": 4.9,
+      "california": 5.4,
+      "us": 4.1
+    },
+    {
+      "date": "2026-01",
+      "sacramento": 5.0,
       "california": 5.5,
-      "sacramento": 4.9
+      "us": 4.2
+    },
+    {
+      "date": "2026-02",
+      "sacramento": 5.1,
+      "california": 5.6,
+      "us": 4.2
+    },
+    {
+      "date": "2026-03",
+      "sacramento": 4.9,
+      "california": 5.5,
+      "us": 4.4
     }
   ]
 }

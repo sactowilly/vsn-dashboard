@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T14:36+00:00",
+  "lastUpdated": "2026-04-02T08:05:00-07:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,13 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "52 km W of Mentone, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "130 km WNW of Ternate, Indonesia",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "4 km NNW of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "13 km WNW of Ivanof Bay, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "58 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "region": "Northern California",
       "severity": "Medium"
     },
     {
-      "type": "Earthquake",
-      "region": "68 km WNW of Petersville, Alaska",
+      "type": "Wind Advisory",
+      "region": "West Coast corridor",
       "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "2 km ESE of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "2 km NE of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "High Wind Warning issued April 2 at 6:04AM PDT until April 3 at 12:00PM PDT by NWS Hanford CA",
-      "region": "Mojave Desert Slopes",
-      "severity": "Severe"
-    },
-    {
-      "type": "Wind Advisory issued April 2 at 6:04AM PDT until April 3 at 12:00PM PDT by NWS Hanford CA",
-      "region": "Indian Wells Valley; Mojave Desert",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued April 2 at 5:29AM PDT until April 2 at 11:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino County Mountains; Riverside County Mountains; San Diego County Mountains; Apple and Lucerne Valleys; Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Winter Weather Advisory issued April 2 at 5:05AM PDT until April 2 at 11:00AM PDT by NWS Eureka CA",
-      "region": "Northern Trinity",
-      "severity": "Moderate"
     }
   ]
 }

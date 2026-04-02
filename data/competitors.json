@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T15:20:00-07:00",
+  "lastUpdated": "2026-04-02T08:05:00-07:00",
   "sourceStrength": "Medium",
   "freshness": "Manual + published JSON",
   "whatChanged": "Starter competitor dataset published locally.",
@@ -10,40 +10,21 @@
     {
       "name": "Packaging Corporation of America",
       "city": "Sacramento Region, CA",
-      "specialties": [
-        "corrugated",
-        "packaging",
-        "distribution"
-      ],
       "website": "https://www.packagingcorp.com/"
     },
     {
       "name": "Veritiv",
       "city": "Northern California",
-      "specialties": [
-        "industrial packaging",
-        "distribution"
-      ],
       "website": "https://www.veritiv.com/"
     },
     {
       "name": "Imperial Dade",
       "city": "Northern California",
-      "specialties": [
-        "jan/san",
-        "packaging",
-        "distribution"
-      ],
       "website": "https://www.imperialdade.com/"
     },
     {
       "name": "Uline",
       "city": "Regional",
-      "specialties": [
-        "shipping supplies",
-        "warehouse",
-        "packaging"
-      ],
       "website": "https://www.uline.com/"
     }
   ]

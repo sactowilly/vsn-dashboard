@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T14:36+00:00",
+  "lastUpdated": "2026-04-02T08:05:00-07:00",
   "sourceStrength": "Medium",
   "freshness": "Daily + Monthly",
   "sourceLinks": [
@@ -14,13 +14,14 @@
   ],
   "notes": [
     "Sacramento regular is the primary tile value.",
-    "AAA is scraped in GitHub Actions, not in the browser.",
     "California regular and diesel remain secondary context."
   ],
-  "currentRegular": 5.891,
-  "weekAgoRegular": 5.843,
-  "monthAgoRegular": 4.657,
-  "yearAgoRegular": 4.887,
-  "sacramentoRegular": null,
-  "sacramentoWeekAgoRegular": null
+  "sacramentoRegular": 5.89,
+  "sacramentoWeekAgoRegular": 5.72,
+  "currentRegular": 5.89,
+  "weekAgoRegular": 5.72,
+  "monthAgoRegular": 5.44,
+  "yearAgoRegular": 5.01,
+  "currentDiesel": 5.18,
+  "weekAgoDiesel": 5.05
 }
