@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T14:25+00:00",
+  "lastUpdated": "2026-04-02T14:36+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -17,6 +17,16 @@
     "This tile is event-card driven rather than using a synthetic single score."
   ],
   "events": [
+    {
+      "type": "Earthquake",
+      "region": "52 km W of Mentone, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "130 km WNW of Ternate, Indonesia",
+      "severity": "High"
+    },
     {
       "type": "Earthquake",
       "region": "4 km NNW of The Geysers, CA",
@@ -45,16 +55,6 @@
     {
       "type": "Earthquake",
       "region": "2 km NE of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "10 km E of Alum Rock, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "1 km W of Cabazon, CA",
       "severity": "Low"
     },
     {
