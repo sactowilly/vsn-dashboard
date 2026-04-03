@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-02T08:20:00-07:00",
+  "lastUpdated": "2026-04-02T09:10:00-07:00",
   "sourceStrength": "Medium",
   "freshness": "Manual + published JSON",
-  "whatChanged": "Starter competitor dataset published locally.",
+  "whatChanged": "Expanded competitor watch list.",
   "notes": [
-    "Curated list, not scraped live."
+    "Curated list, not scraped live. Add or remove companies by editing this file in GitHub."
   ],
   "companies": [
     {
@@ -26,6 +26,46 @@
       "name": "Uline",
       "city": "Regional",
       "website": "https://www.uline.com/"
+    },
+    {
+      "name": "International Paper",
+      "city": "Northern California",
+      "website": "https://www.internationalpaper.com/"
+    },
+    {
+      "name": "Pratt Industries",
+      "city": "California",
+      "website": "https://innovations.prattindustries.com/"
+    },
+    {
+      "name": "WestRock",
+      "city": "West Coast",
+      "website": "https://www.westrock.com/"
+    },
+    {
+      "name": "DS Smith",
+      "city": "West Coast",
+      "website": "https://www.dssmith.com/"
+    },
+    {
+      "name": "Associated Packaging",
+      "city": "Northern California",
+      "website": "https://www.associatedpackaging.com/"
+    },
+    {
+      "name": "Berlin Packaging",
+      "city": "California",
+      "website": "https://www.berlinpackaging.com/"
+    },
+    {
+      "name": "SupplyOne",
+      "city": "West Coast",
+      "website": "https://www.supplyone.com/"
+    },
+    {
+      "name": "Bennett Packaging",
+      "city": "California",
+      "website": "https://www.bpkc.com/"
     }
   ]
 }
