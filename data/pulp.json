@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T08:20:00-07:00",
+  "lastUpdated": "2026-04-02T09:10:00-07:00",
   "sourceStrength": "Medium",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -9,8 +9,10 @@
     }
   ],
   "notes": [
-    "Proxy data only."
+    "Proxy data only.",
+    "Current published view indicates pulp is up roughly $40/ton versus the prior period."
   ],
+  "currentDeltaTon": 40,
   "series": [
     {
       "date": "2025-10",
