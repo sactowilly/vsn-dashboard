@@ -1,8 +1,7 @@
 {
-  "publishedAt": "2026-04-03T14:08+00:00",
-  "summary": "GitHub Pages production build loaded. Sacramento-first gas logic, high-contrast UI, and live GitHub Actions refresh path are wired.",
+  "publishedAt": "2026-04-02T09:10:00-07:00",
+  "summary": "Published GitHub Pages dashboard data is available and reloadable from repo-hosted JSON.",
   "notes": [
-    "This dashboard is designed for GitHub Pages static hosting.",
-    "Third-party sources are mirrored into local JSON by GitHub Actions."
+    "Reload Latest Published Data refreshes browser data after the GitHub Action publishes updated JSON."
   ]
 }
