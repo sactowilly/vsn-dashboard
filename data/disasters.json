@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T08:20:00-07:00",
+  "lastUpdated": "2026-04-03T14:08+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,13 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "Northern California",
-      "severity": "Medium"
+      "region": "27 km NW of San Simeon, CA",
+      "severity": "Low"
     },
     {
-      "type": "Wind Advisory",
-      "region": "West Coast corridor",
+      "type": "Earthquake",
+      "region": "34 km W of Nanwalek, Alaska",
       "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "12 km SW of Puako, Hawaii",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "5 km SE of Seal Beach, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "6 km WNW of Cobb, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "55 km SW of Cantwell, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "6 km SW of Gilroy, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "6 km SE of Seal Beach, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Freeze Warning issued April 3 at 6:58AM PDT until April 3 at 9:00AM PDT by NWS Medford OR",
+      "region": "Western Siskiyou County",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued April 3 at 6:12AM MST until April 3 at 12:00PM MST by NWS Phoenix AZ",
+      "region": "Parker Valley; Palo Verde Valley; Chuckwalla Valley",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued April 3 at 4:23AM PDT until April 3 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Bernardino and Riverside County Valleys-The Inland Empire; San Bernardino County Mountains; Santa Ana Mountains and Foothills; San Gorgonio Pass Near Banning; Orange County Inland",
+      "severity": "Moderate"
+    },
+    {
+      "type": "High Wind Warning issued April 3 at 12:17AM PDT until April 3 at 6:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Western Santa Monica Mountains Recreational Area; Western San Gabriel Mountains and Highway 14 Corridor",
+      "severity": "Severe"
     }
   ]
 }
