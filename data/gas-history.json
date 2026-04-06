@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T14:08+00:00",
+  "lastUpdated": "2026-04-06T14:16+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -10,6 +10,7 @@
   ],
   "notes": [
     "Starter history kept until EIA writes a live series.",
+    "EIA returned no rows on this run. Preserved previous history.",
     "EIA returned no rows on this run. Preserved previous history."
   ],
   "series": [
