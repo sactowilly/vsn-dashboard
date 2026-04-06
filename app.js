@@ -101,6 +101,37 @@ function publishedAt() {
   return state.data.buildMeta?.publishedAt || new Date().toISOString();
 }
 
+function buildCompetitorSignals(companies) {
+  const rows = [];
+
+  for (const company of companies || []) {
+    const signals = company.signals || {};
+    const news = signals.news || [];
+    const hiring = signals.hiring || [];
+    const moves = signals.moves || [];
+
+    if (!news.length && !hiring.length && !moves.length) continue;
+
+    rows.push({
+      name: company.name,
+      city: company.city,
+      category: company.category,
+      priority: company.priority,
+      notes: company.notes,
+      website: company.website,
+      googleNews: company.googleNews,
+      search: company.search,
+      lastUpdated: signals.lastUpdated || company.lastUpdated || "",
+      news,
+      hiring,
+      moves,
+      total: news.length + hiring.length + moves.length
+    });
+  }
+
+  return rows;
+}
+
 function buildCards() {
   const unemployment = state.data.unemployment || {};
   const uSeries = unemployment.series || [];
@@ -130,6 +161,13 @@ function buildCards() {
   const rLast = rSeries[rSeries.length - 1] || {};
   const competitors = state.data.competitors || {};
   const news = state.data.news || {};
+
+  const competitorCompanies = competitors.companies || [];
+  const competitorSignals = buildCompetitorSignals(competitorCompanies);
+  const competitorSignalCount = competitorSignals.reduce((sum, row) => sum + row.total, 0);
+  const competitorHiringCount = competitorSignals.reduce((sum, row) => sum + row.hiring.length, 0);
+  const competitorMovesCount = competitorSignals.reduce((sum, row) => sum + row.moves.length, 0);
+  const competitorNewsCount = competitorSignals.reduce((sum, row) => sum + row.news.length, 0);
 
   const unemploymentDelta =
     uLast.sacramento != null && uPrev.sacramento != null
@@ -317,24 +355,23 @@ function buildCards() {
     {
       id: "competitors",
       title: "Competitor Watch",
-      risk: "low",
+      risk: competitorSignalCount >= 6 ? "high" : competitorSignalCount >= 3 ? "medium" : "low",
       freshness: competitors.freshness || "Manual + published JSON",
-      value: String((competitors.companies || []).length),
-      secondary: "Tracked companies",
-      subtext: "Add or remove competitor profiles from the published list",
-      const signals = (competitors.companies || []).flatMap(c => c.signals ? [
-  ...(c.signals.news || []),
-  ...(c.signals.hiring || []),
-  ...(c.signals.moves || [])
-] : []);
-
-const signalCount = signals.length;
-
-summary: signalCount
-  ? `${signalCount} competitive signals detected across tracked companies.`
-  : `No new competitive signals detected.`,
-      changed: "This panel updates when you edit data/competitors.json and publish new JSON.",
-      why: "This tile uses a curated competitor list with outbound links and manual maintenance.",
+      value: String(competitorSignalCount),
+      secondary:
+        competitorSignalCount
+          ? `${competitorHiringCount} hiring • ${competitorMovesCount} moves • ${competitorNewsCount} news`
+          : `${competitorCompanies.length} tracked companies`,
+      subtext: competitorSignalCount
+        ? "Competitive signals detected across tracked companies"
+        : "Add or remove competitor profiles from the published list",
+      summary: competitorSignalCount
+        ? `${competitorSignalCount} competitive signals detected across tracked companies. ${competitorHiringCount} hiring signals, ${competitorMovesCount} move signals, and ${competitorNewsCount} news signals are currently in the published set.`
+        : `No new competitive signals detected. ${competitorCompanies.length} competitors are currently tracked.`,
+      changed: competitorSignalCount
+        ? "This panel is now surfacing actionable competitive signals, including hiring, operational moves, and relevant news."
+        : "This panel updates when you edit data/competitors.json and publish new JSON.",
+      why: "This tile is meant to surface actionable intelligence on competitor expansion, hiring, and market moves in and around Sacramento.",
       links: [],
       extraHtml:
         `<div class="box"><h3>Competitor Watch Controls</h3>` +
@@ -342,10 +379,35 @@ summary: signalCount
         `<p><a href="./data/competitors.json" target="_blank" rel="noopener noreferrer">View competitor file</a></p>` +
         `</div>` +
         `<div class="box"><h3>Tracked Competitors</h3><ul>` +
-        ((competitors.companies || []).map(c =>
+        (competitorCompanies.map(c =>
           `<li><strong>${esc(c.name)}</strong> • ${esc(c.city)}${c.category ? ` • ${esc(c.category)}` : ""}${c.priority ? ` • ${esc(c.priority)}` : ""}</li>`
         ).join("")) +
-        `</ul></div>`
+        `</ul></div>` +
+        (
+          competitorSignals.length
+            ? `<div class="box"><h3>Competitive Signals</h3>` +
+              competitorSignals.map(row =>
+                `<div style="margin-bottom:16px;">` +
+                `<p><strong>${esc(row.name)}</strong>${row.city ? ` • ${esc(row.city)}` : ""}${row.category ? ` • ${esc(row.category)}` : ""}${row.priority ? ` • ${esc(row.priority)}` : ""}</p>` +
+                (row.lastUpdated ? `<p>Signal updated: ${esc(row.lastUpdated)}</p>` : "") +
+                (row.notes ? `<p>Notes: ${esc(row.notes)}</p>` : "") +
+                (row.news.length ? `<p><strong>News</strong></p><ul>${row.news.map(item => `<li>${esc(item)}</li>`).join("")}</ul>` : "") +
+                (row.hiring.length ? `<p><strong>Hiring</strong></p><ul>${row.hiring.map(item => `<li>${esc(item)}</li>`).join("")}</ul>` : "") +
+                (row.moves.length ? `<p><strong>Moves</strong></p><ul>${row.moves.map(item => `<li>${esc(item)}</li>`).join("")}</ul>` : "") +
+                (
+                  row.website || row.googleNews || row.search
+                    ? `<p>` +
+                      (row.website ? `<a href="${esc(row.website)}" target="_blank" rel="noopener noreferrer">Website</a> ` : "") +
+                      (row.googleNews ? `<a href="${esc(row.googleNews)}" target="_blank" rel="noopener noreferrer">Google News</a> ` : "") +
+                      (row.search ? `<a href="${esc(row.search)}" target="_blank" rel="noopener noreferrer">Search</a>` : "") +
+                      `</p>`
+                    : ""
+                ) +
+                `</div>`
+              ).join("") +
+              `</div>`
+            : ""
+        )
     },
     {
       id: "news",
@@ -365,8 +427,10 @@ summary: signalCount
     }
   ];
 }
+
 function renderTiles() {
   buildCards();
+
   els.tileGrid.innerHTML = state.cards.map(card => {
     return (
       `<button class="tile ${riskClass(card.risk)}" data-id="${esc(card.id)}">` +
