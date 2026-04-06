@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T20:12+00:00",
+  "lastUpdated": "2026-04-06T20:43+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,6 +19,36 @@
   "events": [
     {
       "type": "Earthquake",
+      "region": "15 km WNW of Pawnee, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "8 km NW of Marina, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "7 km W of Cobb, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "40 km WNW of Skwentna, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "8 km NW of The Geysers, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "33 km NE of Larsen Bay, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
       "region": "9 km NW of The Geysers, CA",
       "severity": "Low"
     },
@@ -26,36 +56,6 @@
       "type": "Earthquake",
       "region": "14 km S of Atoka, New Mexico",
       "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "9 km NW of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "4 km SSW of P\u0101hala, Hawaii",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "20 km WNW of Mentone, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "44 km SW of Whites City, New Mexico",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "14 km WNW of Volcano, Hawaii",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "1 km NE of P\u0101hala, Hawaii",
-      "severity": "Low"
     },
     {
       "type": "Wind Advisory issued April 6 at 5:27AM PDT until April 7 at 8:00AM PDT by NWS Los Angeles/Oxnard CA",
