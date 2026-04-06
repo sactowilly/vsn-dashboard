@@ -1,71 +1,132 @@
 {
-  "lastUpdated": "2026-04-02T09:10:00-07:00",
+  "lastUpdated": "2026-04-02T09:30:00-07:00",
   "sourceStrength": "Medium",
   "freshness": "Manual + published JSON",
-  "whatChanged": "Expanded competitor watch list.",
+  "whatChanged": "Expanded competitor watch list and added management fields.",
   "notes": [
-    "Curated list, not scraped live. Add or remove companies by editing this file in GitHub."
+    "Curated list, not scraped live.",
+    "Add or remove companies by editing this file in GitHub."
   ],
   "companies": [
     {
       "name": "Packaging Corporation of America",
       "city": "Sacramento Region, CA",
-      "website": "https://www.packagingcorp.com/"
+      "category": "Corrugated",
+      "priority": "High",
+      "notes": "Major corrugated overlap",
+      "website": "https://www.packagingcorp.com/",
+      "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
+      "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California"
     },
     {
       "name": "Veritiv",
       "city": "Northern California",
-      "website": "https://www.veritiv.com/"
+      "category": "Distribution",
+      "priority": "High",
+      "notes": "Broad industrial packaging overlap",
+      "website": "https://www.veritiv.com/",
+      "googleNews": "https://news.google.com/search?q=Veritiv",
+      "search": "https://www.google.com/search?q=Veritiv%20California%20packaging"
     },
     {
       "name": "Imperial Dade",
       "city": "Northern California",
-      "website": "https://www.imperialdade.com/"
+      "category": "Distribution",
+      "priority": "Medium",
+      "notes": "Jan-san plus packaging overlap",
+      "website": "https://www.imperialdade.com/",
+      "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
+      "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging"
     },
     {
       "name": "Uline",
       "city": "Regional",
-      "website": "https://www.uline.com/"
+      "category": "Catalog / Distribution",
+      "priority": "High",
+      "notes": "National price and convenience competitor",
+      "website": "https://www.uline.com/",
+      "googleNews": "https://news.google.com/search?q=Uline",
+      "search": "https://www.google.com/search?q=Uline%20packaging%20California"
     },
     {
       "name": "International Paper",
       "city": "Northern California",
-      "website": "https://www.internationalpaper.com/"
+      "category": "Corrugated / Paper",
+      "priority": "High",
+      "notes": "Key corrugated market signal",
+      "website": "https://www.internationalpaper.com/",
+      "googleNews": "https://news.google.com/search?q=International%20Paper",
+      "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated"
     },
     {
       "name": "Pratt Industries",
       "city": "California",
-      "website": "https://innovations.prattindustries.com/"
+      "category": "Corrugated / Paper",
+      "priority": "High",
+      "notes": "Important corrugated pricing benchmark",
+      "website": "https://innovations.prattindustries.com/",
+      "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
+      "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated"
     },
     {
       "name": "WestRock",
       "city": "West Coast",
-      "website": "https://www.westrock.com/"
+      "category": "Corrugated / Packaging",
+      "priority": "Medium",
+      "notes": "Large national packaging player",
+      "website": "https://www.westrock.com/",
+      "googleNews": "https://news.google.com/search?q=WestRock",
+      "search": "https://www.google.com/search?q=WestRock%20California%20packaging"
     },
     {
       "name": "DS Smith",
       "city": "West Coast",
-      "website": "https://www.dssmith.com/"
+      "category": "Corrugated / Packaging",
+      "priority": "Medium",
+      "notes": "Large global packaging player",
+      "website": "https://www.dssmith.com/",
+      "googleNews": "https://news.google.com/search?q=DS%20Smith",
+      "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging"
     },
     {
       "name": "Associated Packaging",
       "city": "Northern California",
-      "website": "https://www.associatedpackaging.com/"
+      "category": "Distribution",
+      "priority": "Medium",
+      "notes": "Regional industrial packaging competitor",
+      "website": "https://www.associatedpackaging.com/",
+      "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
+      "search": "https://www.google.com/search?q=Associated%20Packaging%20California"
     },
     {
       "name": "Berlin Packaging",
       "city": "California",
-      "website": "https://www.berlinpackaging.com/"
+      "category": "Packaging Distribution",
+      "priority": "Medium",
+      "notes": "Broad packaging portfolio",
+      "website": "https://www.berlinpackaging.com/",
+      "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
+      "search": "https://www.google.com/search?q=Berlin%20Packaging%20California"
     },
     {
       "name": "SupplyOne",
       "city": "West Coast",
-      "website": "https://www.supplyone.com/"
+      "category": "Packaging Distribution",
+      "priority": "Medium",
+      "notes": "National packaging distribution competitor",
+      "website": "https://www.supplyone.com/",
+      "googleNews": "https://news.google.com/search?q=SupplyOne",
+      "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging"
     },
     {
       "name": "Bennett Packaging",
       "city": "California",
-      "website": "https://www.bpkc.com/"
+      "category": "Packaging Distribution",
+      "priority": "Medium",
+      "notes": "Regional packaging overlap",
+      "website": "https://www.bpkc.com/",
+      "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
+      "search": "https://www.google.com/search?q=Bennett%20Packaging%20California"
     }
   ]
 }
