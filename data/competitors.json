@@ -17,6 +17,13 @@
       "website": "https://www.packagingcorp.com/",
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "Veritiv",
@@ -27,6 +34,13 @@
       "website": "https://www.veritiv.com/",
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "Imperial Dade",
@@ -37,6 +51,13 @@
       "website": "https://www.imperialdade.com/",
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "Uline",
@@ -47,6 +68,13 @@
       "website": "https://www.uline.com/",
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "International Paper",
@@ -57,6 +85,13 @@
       "website": "https://www.internationalpaper.com/",
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "Pratt Industries",
@@ -67,6 +102,13 @@
       "website": "https://innovations.prattindustries.com/",
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "WestRock",
@@ -77,6 +119,13 @@
       "website": "https://www.westrock.com/",
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "DS Smith",
@@ -87,6 +136,13 @@
       "website": "https://www.dssmith.com/",
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "Associated Packaging",
@@ -97,6 +153,13 @@
       "website": "https://www.associatedpackaging.com/",
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California"
+       "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "Berlin Packaging",
@@ -107,6 +170,13 @@
       "website": "https://www.berlinpackaging.com/",
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     },
     {
       "name": "SupplyOne",
@@ -117,6 +187,13 @@
       "website": "https://www.supplyone.com/",
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }   
     },
     {
       "name": "Bennett Packaging",
@@ -127,6 +204,13 @@
       "website": "https://www.bpkc.com/",
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
     }
   ]
 }
