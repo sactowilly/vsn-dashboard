@@ -322,7 +322,17 @@ function buildCards() {
       value: String((competitors.companies || []).length),
       secondary: "Tracked companies",
       subtext: "Add or remove competitor profiles from the published list",
-      summary: `This panel includes ${(competitors.companies || []).length} tracked competitors.`,
+      const signals = (competitors.companies || []).flatMap(c => c.signals ? [
+  ...(c.signals.news || []),
+  ...(c.signals.hiring || []),
+  ...(c.signals.moves || [])
+] : []);
+
+const signalCount = signals.length;
+
+summary: signalCount
+  ? `${signalCount} competitive signals detected across tracked companies.`
+  : `No new competitive signals detected.`,
       changed: "This panel updates when you edit data/competitors.json and publish new JSON.",
       why: "This tile uses a curated competitor list with outbound links and manual maintenance.",
       links: [],
