@@ -142,11 +142,13 @@ function buildCards() {
       : 0;
 
   const sacGasDelta = percentChange(gas.sacramentoRegular, gas.sacramentoWeekAgoRegular);
+  const sacDieselDelta = percentChange(gas.sacramentoDiesel, gas.sacramentoWeekAgoDiesel);
   const caGasDelta = percentChange(gas.currentRegular, gas.weekAgoRegular);
   const caDieselDelta = percentChange(gas.currentDiesel, gas.weekAgoDiesel);
 
   const maxFuelMove = Math.max(
     Math.abs(sacGasDelta || 0),
+    Math.abs(sacDieselDelta || 0),
     Math.abs(caGasDelta || 0),
     Math.abs(caDieselDelta || 0)
   );
@@ -157,6 +159,13 @@ function buildCards() {
 
   const pulpTon = pulp.currentDeltaTon != null ? pulp.currentDeltaTon : 40;
   const pulpRisk = Math.abs(pulpTon) >= 40 ? "medium" : "low";
+
+  const arrow = (v) => {
+    if (v == null || Number.isNaN(Number(v))) return "•";
+    if (Number(v) > 0.15) return "▲";
+    if (Number(v) < -0.15) return "▼";
+    return "•";
+  };
 
   state.cards = [
     {
@@ -282,9 +291,9 @@ function buildCards() {
       freshness: gas.freshness || "Daily + Monthly",
       value: `Sac Gas ${money(gas.sacramentoRegular)}`,
       secondary: `Sac Diesel ${money(gas.sacramentoDiesel)}`,
-      subtext: `CA Gas ${pct(caGasDelta)} • CA Diesel ${pct(caDieselDelta)}`,
+      subtext: `Sac Gas ${arrow(sacGasDelta)} ${pct(sacGasDelta)} • Sac Diesel ${arrow(sacDieselDelta)} ${pct(sacDieselDelta)} • CA Gas ${arrow(caGasDelta)} ${pct(caGasDelta)} • CA Diesel ${arrow(caDieselDelta)} ${pct(caDieselDelta)}`,
       summary: `Sacramento gas is ${money(gas.sacramentoRegular)} and Sacramento diesel is ${money(gas.sacramentoDiesel)}. California gas is ${money(gas.currentRegular)} and California diesel is ${money(gas.currentDiesel)}.`,
-      changed: `Use a 72-hour and week-ago comparison window. Sacramento gas changed ${pct(sacGasDelta)}, California gas changed ${pct(caGasDelta)}, and California diesel changed ${pct(caDieselDelta)}.`,
+      changed: `Use a 72-hour and week-ago comparison window. Sacramento gas changed ${pct(sacGasDelta)}, Sacramento diesel changed ${pct(sacDieselDelta)}, California gas changed ${pct(caGasDelta)}, and California diesel changed ${pct(caDieselDelta)}.`,
       why: "This is one of the clearest operating-cost pressure indicators for local driving, supplier freight, and customer logistics sensitivity.",
       links: gas.sourceLinks || [],
       chartLabels: (sacHistory.length ? sacHistory : caHistory).map(x => x.date),
@@ -323,7 +332,9 @@ function buildCards() {
         `<p><a href="./data/competitors.json" target="_blank" rel="noopener noreferrer">View competitor file</a></p>` +
         `</div>` +
         `<div class="box"><h3>Tracked Competitors</h3><ul>` +
-        ((competitors.companies || []).map(c => `<li>${esc(c.name)} • ${esc(c.city)}</li>`).join("")) +
+        ((competitors.companies || []).map(c =>
+          `<li><strong>${esc(c.name)}</strong> • ${esc(c.city)}${c.category ? ` • ${esc(c.category)}` : ""}${c.priority ? ` • ${esc(c.priority)}` : ""}</li>`
+        ).join("")) +
         `</ul></div>`
     },
     {
@@ -344,7 +355,6 @@ function buildCards() {
     }
   ];
 }
-
 function renderTiles() {
   buildCards();
   els.tileGrid.innerHTML = state.cards.map(card => {
