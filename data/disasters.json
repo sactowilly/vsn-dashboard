@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T14:51+00:00",
+  "lastUpdated": "2026-04-08T14:50+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,52 +19,47 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "13 km ENE of Borrego Springs, CA",
+      "region": "8 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km NNE of Hoodsport, Washington",
+      "region": "24 km WNW of Inyokern, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "22 km WNW of Clam Gulch, Alaska",
+      "region": "4 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of Cobb, CA",
+      "region": "62 km WNW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km WNW of Frazier Park, CA",
+      "region": "2 km N of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km ENE of P\u0101hala, Hawaii",
+      "region": "6 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km WNW of Frazier Park, CA",
+      "region": "2 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NW of Livermore, CA",
+      "region": "3 km SE of Pacifica, CA",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued April 7 at 6:32AM PDT until April 8 at 11:00AM PDT by NWS Hanford CA",
+      "type": "Wind Advisory issued April 8 at 6:48AM PDT until April 8 at 11:00AM PDT by NWS Hanford CA",
       "region": "Mojave Desert Slopes",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued April 6 at 5:27AM PDT until April 7 at 8:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Barbara County Southwestern Coast; Santa Ynez Mountains Western Range",
       "severity": "Moderate"
     }
   ]
