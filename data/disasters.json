@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T14:50+00:00",
+  "lastUpdated": "2026-04-13T14:57+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,48 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "8 km W of Cobb, CA",
+      "region": "54 km ENE of Healy, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "24 km WNW of Inyokern, CA",
+      "region": "19 km SE of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km NW of The Geysers, CA",
+      "region": "6 km SSW of Anderson Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "62 km WNW of Toyah, Texas",
+      "region": "5 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km N of The Geysers, CA",
+      "region": "5 km ENE of Big Lake, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NW of The Geysers, CA",
+      "region": "9 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NW of The Geysers, CA",
+      "region": "80 km NW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SE of Pacifica, CA",
+      "region": "79 km WSW of Karluk, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued April 8 at 6:48AM PDT until April 8 at 11:00AM PDT by NWS Hanford CA",
-      "region": "Mojave Desert Slopes",
+      "type": "Frost Advisory issued April 13 at 7:48AM PDT until April 13 at 8:00AM PDT by NWS Eureka CA",
+      "region": "Northwestern Mendocino Interior; Northeastern Mendocino Interior; Northern Lake County; Southern Lake County",
+      "severity": "Minor"
+    },
+    {
+      "type": "Winter Weather Advisory issued April 13 at 12:17AM PDT until April 13 at 7:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Interior Mountains; Southern Ventura County Mountains; Northern Ventura County Mountains",
       "severity": "Moderate"
+    },
+    {
+      "type": "Winter Weather Advisory issued April 13 at 12:17AM PDT until April 13 at 7:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Air Quality Alert issued April 12 at 2:48PM PDT by NWS San Diego CA",
+      "region": "Coachella Valley",
+      "severity": "Unknown"
     }
   ]
 }

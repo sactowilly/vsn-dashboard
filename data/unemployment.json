@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T14:50+00:00",
+  "lastUpdated": "2026-04-13T14:57+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -24,19 +24,19 @@
     {
       "date": "2025-04",
       "us": 4.2,
-      "california": 5.3,
+      "california": 5.4,
       "sacramento": 4.5
     },
     {
       "date": "2025-05",
       "us": 4.3,
-      "california": 5.3,
+      "california": 5.5,
       "sacramento": 4.4
     },
     {
       "date": "2025-06",
       "us": 4.1,
-      "california": 5.4,
+      "california": 5.5,
       "sacramento": 5.3
     },
     {
@@ -54,13 +54,13 @@
     {
       "date": "2025-09",
       "us": 4.4,
-      "california": 5.6,
+      "california": 5.5,
       "sacramento": 5.3
     },
     {
       "date": "2025-11",
       "us": 4.5,
-      "california": 5.6,
+      "california": 5.5,
       "sacramento": 5.1
     },
     {
