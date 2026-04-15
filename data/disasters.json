@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T14:57+00:00",
+  "lastUpdated": "2026-04-15T14:51+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "18 km SE of Silver Springs, Nevada",
+      "region": "38 km SE of Denali National Park, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "28 km W of Ivanof Bay, Alaska",
+      "region": "20 km ESE of Silver Springs, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km WNW of Cobb, CA",
+      "region": "21 km NE of Minto, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km W of Johannesburg, CA",
+      "region": "3 km WNW of Puako, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km ENE of Loma Linda, CA",
+      "region": "20 km ESE of Silver Springs, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km ESE of Silver Springs, Nevada",
+      "region": "3 km W of Anderson Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km S of Idyllwild, CA",
+      "region": "54 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "18 km SE of Silver Springs, Nevada",
+      "region": "14 km SE of Anza, CA",
       "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued April 14 at 12:37AM PDT until April 15 at 11:00PM PDT by NWS Reno NV",
-      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "type": "Wind Advisory issued April 15 at 5:54AM PDT until April 15 at 8:00PM PDT by NWS Medford OR",
+      "region": "Modoc County; Northern and Eastern Klamath County and Western Lake County; Central and Eastern Lake County",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued April 14 at 12:37AM PDT until April 15 at 11:00PM PDT by NWS Reno NV",
-      "region": "Surprise Valley California; Northern Washoe County",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Lake Wind Advisory issued April 14 at 12:26AM PDT until April 15 at 11:00PM PDT by NWS Reno NV",
-      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Frost Advisory issued April 13 at 1:14PM PDT until April 14 at 8:00AM PDT by NWS Eureka CA",
-      "region": "Northwestern Mendocino Interior; Northeastern Mendocino Interior; Northern Lake County; Southern Lake County",
+      "type": "Frost Advisory issued April 15 at 5:54AM PDT until April 16 at 9:00AM PDT by NWS Medford OR",
+      "region": "Western Siskiyou County; Eastern Curry County and Josephine County",
       "severity": "Minor"
+    },
+    {
+      "type": "Freeze Watch issued April 15 at 5:54AM PDT until April 17 at 9:00AM PDT by NWS Medford OR",
+      "region": "Western Siskiyou County; Eastern Curry County and Josephine County",
+      "severity": "Severe"
+    },
+    {
+      "type": "Wind Advisory issued April 15 at 12:41AM PDT until April 17 at 5:00AM PDT by NWS Las Vegas NV",
+      "region": "Northwest Plateau; Eastern Sierra Slopes of Inyo County; Owens Valley; White Mountains of Inyo County; Death Valley National Park; Lincoln County; Northeast Clark County; Western Clark and Southern Nye County; Sheep Range; Spring Mountains-Red Rock Canyon; Las Vegas Valley",
+      "severity": "Moderate"
     }
   ]
 }
