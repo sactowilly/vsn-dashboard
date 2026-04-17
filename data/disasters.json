@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T14:51+00:00",
+  "lastUpdated": "2026-04-17T14:37+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,62 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "38 km SE of Denali National Park, Alaska",
+      "region": "14 km SE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "20 km ESE of Silver Springs, Nevada",
+      "region": "17 km ESE of Little Lake, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "21 km NE of Minto, Alaska",
+      "region": "18 km ESE of Silver Springs, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km WNW of Puako, Hawaii",
+      "region": "2 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "20 km ESE of Silver Springs, Nevada",
+      "region": "28 km SSW of Los Ybanez, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km W of Anderson Springs, CA",
+      "region": "17 km SE of Silver Springs, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "54 km NNW of Karluk, Alaska",
+      "region": "18 km ESE of Hinton, Oklahoma",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km SE of Anza, CA",
+      "region": "8 km SE of Pearsall, Texas",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued April 15 at 5:54AM PDT until April 15 at 8:00PM PDT by NWS Medford OR",
-      "region": "Modoc County; Northern and Eastern Klamath County and Western Lake County; Central and Eastern Lake County",
+      "type": "Wind Advisory issued April 17 at 5:29AM PDT until April 17 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains",
       "severity": "Moderate"
     },
     {
-      "type": "Frost Advisory issued April 15 at 5:54AM PDT until April 16 at 9:00AM PDT by NWS Medford OR",
-      "region": "Western Siskiyou County; Eastern Curry County and Josephine County",
-      "severity": "Minor"
+      "type": "Wind Advisory issued April 17 at 5:29AM PDT until April 17 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Southern Ventura County Mountains; Interstate 5 Corridor",
+      "severity": "Moderate"
     },
     {
-      "type": "Freeze Watch issued April 15 at 5:54AM PDT until April 17 at 9:00AM PDT by NWS Medford OR",
-      "region": "Western Siskiyou County; Eastern Curry County and Josephine County",
-      "severity": "Severe"
+      "type": "Wind Advisory issued April 17 at 5:29AM PDT until April 17 at 8:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Lucia Mountains",
+      "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued April 15 at 12:41AM PDT until April 17 at 5:00AM PDT by NWS Las Vegas NV",
-      "region": "Northwest Plateau; Eastern Sierra Slopes of Inyo County; Owens Valley; White Mountains of Inyo County; Death Valley National Park; Lincoln County; Northeast Clark County; Western Clark and Southern Nye County; Sheep Range; Spring Mountains-Red Rock Canyon; Las Vegas Valley",
+      "type": "Wind Advisory issued April 17 at 5:29AM PDT until April 17 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Clarita Valley; Ventura County Beaches; Ventura County Inland Coast; Central Ventura County Valleys; Western Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains",
       "severity": "Moderate"
     }
   ]

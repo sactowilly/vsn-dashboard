@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T14:51+00:00",
+  "lastUpdated": "2026-04-17T14:37+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -68,6 +68,12 @@
       "us": 4.4,
       "california": 5.5,
       "sacramento": 4.9
+    },
+    {
+      "date": "2026-01",
+      "us": 4.3,
+      "california": 5.4,
+      "sacramento": 5.2
     }
   ]
 }
