@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T14:37+00:00",
+  "lastUpdated": "2026-04-20T14:59+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,27 +19,12 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "14 km SE of P\u0101hala, Hawaii",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km ESE of Little Lake, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "18 km ESE of Silver Springs, Nevada",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "2 km SSW of P\u0101hala, Hawaii",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "28 km SSW of Los Ybanez, Texas",
+      "region": "3 km SSE of Redwood Valley, CA",
       "severity": "Low"
     },
     {
@@ -49,33 +34,48 @@
     },
     {
       "type": "Earthquake",
-      "region": "18 km ESE of Hinton, Oklahoma",
+      "region": "3 km WSW of San Juan Bautista, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km SE of Pearsall, Texas",
+      "region": "115 km S of McCarthy, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued April 17 at 5:29AM PDT until April 17 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains",
+      "type": "Earthquake",
+      "region": "31 km N of Beluga, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "17 km SE of Silver Springs, Nevada",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "14 km ESE of Anza, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Winter Weather Advisory issued April 20 at 3:40AM PDT until April 21 at 11:00AM PDT by NWS Eureka CA",
+      "region": "Northeastern Trinity",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued April 17 at 5:29AM PDT until April 17 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Southern Ventura County Mountains; Interstate 5 Corridor",
+      "type": "Winter Weather Advisory issued April 20 at 2:41AM PDT until April 21 at 11:00AM PDT by NWS Medford OR",
+      "region": "Western Siskiyou County; Central Siskiyou County; South Central Siskiyou County",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued April 17 at 5:29AM PDT until April 17 at 8:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Lucia Mountains",
+      "type": "Wind Advisory issued April 20 at 2:40AM PDT until April 20 at 6:00PM PDT by NWS Medford OR",
+      "region": "Central Siskiyou County",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued April 17 at 5:29AM PDT until April 17 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Clarita Valley; Ventura County Beaches; Ventura County Inland Coast; Central Ventura County Valleys; Western Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains",
-      "severity": "Moderate"
+      "type": "Winter Storm Watch issued April 20 at 1:50AM PDT until April 22 at 5:00PM PDT by NWS Hanford CA",
+      "region": "Yosemite NP outside of the valley; Upper San Joaquin River; Kaiser to Rodgers Ridge; Kings Canyon NP; Sequoia NP",
+      "severity": "Severe"
     }
   ]
 }
