@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T14:59+00:00",
+  "lastUpdated": "2026-04-22T14:54+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "2 km NNE of Prunedale, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SSE of Redwood Valley, CA",
+      "region": "55 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km SE of Silver Springs, Nevada",
+      "region": "10 km SSW of Gorman, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km WSW of San Juan Bautista, CA",
+      "region": "13 km NNW of Point Possession, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "115 km S of McCarthy, Alaska",
+      "region": "8 km SSW of Kanosh, Utah",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "3 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "31 km N of Beluga, Alaska",
+      "region": "11 km S of Metchosin, Canada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km SE of Silver Springs, Nevada",
+      "region": "2 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "14 km ESE of Anza, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Winter Weather Advisory issued April 20 at 3:40AM PDT until April 21 at 11:00AM PDT by NWS Eureka CA",
-      "region": "Northeastern Trinity",
+      "type": "Wind Advisory issued April 22 at 6:57AM PDT until April 22 at 8:00PM PDT by NWS Hanford CA",
+      "region": "Mojave Desert Slopes",
       "severity": "Moderate"
     },
     {
-      "type": "Winter Weather Advisory issued April 20 at 2:41AM PDT until April 21 at 11:00AM PDT by NWS Medford OR",
-      "region": "Western Siskiyou County; Central Siskiyou County; South Central Siskiyou County",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued April 20 at 2:40AM PDT until April 20 at 6:00PM PDT by NWS Medford OR",
-      "region": "Central Siskiyou County",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Winter Storm Watch issued April 20 at 1:50AM PDT until April 22 at 5:00PM PDT by NWS Hanford CA",
+      "type": "Winter Storm Warning issued April 22 at 2:41AM PDT until April 22 at 5:00PM PDT by NWS Hanford CA",
       "region": "Yosemite NP outside of the valley; Upper San Joaquin River; Kaiser to Rodgers Ridge; Kings Canyon NP; Sequoia NP",
       "severity": "Severe"
+    },
+    {
+      "type": "Wind Advisory issued April 22 at 12:22AM PDT until April 22 at 8:00AM PDT by NWS Phoenix AZ",
+      "region": "Imperial County Southwest",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Winter Weather Advisory issued April 21 at 1:46PM PDT until April 22 at 5:00PM PDT by NWS Reno NV",
+      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "severity": "Moderate"
     }
   ]
 }
