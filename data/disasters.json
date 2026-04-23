@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T14:54+00:00",
+  "lastUpdated": "2026-04-23T15:22+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,47 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "2 km NNE of Prunedale, CA",
+      "region": "22 km S of Denali National Park, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "55 km S of Whites City, New Mexico",
+      "region": "72 km SE of Denali National Park, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km SSW of Gorman, CA",
+      "region": "7 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "13 km NNW of Point Possession, Alaska",
+      "region": "2 km ESE of Colton, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km SSW of Kanosh, Utah",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "3 km SSW of P\u0101hala, Hawaii",
+      "region": "2 km ENE of Berkeley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km S of Metchosin, Canada",
+      "region": "6 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km SSW of P\u0101hala, Hawaii",
+      "region": "112 km WNW of Yakutat, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued April 22 at 6:57AM PDT until April 22 at 8:00PM PDT by NWS Hanford CA",
-      "region": "Mojave Desert Slopes",
-      "severity": "Moderate"
+      "type": "Earthquake",
+      "region": "18 km SE of Silver Springs, Nevada",
+      "severity": "Low"
     },
     {
-      "type": "Winter Storm Warning issued April 22 at 2:41AM PDT until April 22 at 5:00PM PDT by NWS Hanford CA",
-      "region": "Yosemite NP outside of the valley; Upper San Joaquin River; Kaiser to Rodgers Ridge; Kings Canyon NP; Sequoia NP",
-      "severity": "Severe"
-    },
-    {
-      "type": "Wind Advisory issued April 22 at 12:22AM PDT until April 22 at 8:00AM PDT by NWS Phoenix AZ",
-      "region": "Imperial County Southwest",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Winter Weather Advisory issued April 21 at 1:46PM PDT until April 22 at 5:00PM PDT by NWS Reno NV",
-      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "type": "Freeze Warning issued April 22 at 11:03PM PDT until April 23 at 9:00AM PDT by NWS Eureka CA",
+      "region": "Northwestern and Central Trinity",
       "severity": "Moderate"
     }
   ]
