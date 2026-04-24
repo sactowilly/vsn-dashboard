@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T15:22+00:00",
+  "lastUpdated": "2026-04-24T14:50+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,47 +19,52 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "22 km S of Denali National Park, Alaska",
+      "region": "6 km SW of Volcano, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "72 km SE of Denali National Park, Alaska",
+      "region": "6 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km WNW of Cobb, CA",
+      "region": "88 km NW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km ESE of Colton, CA",
+      "region": "76 km NNW of Vallenar, Chile",
+      "severity": "High"
+    },
+    {
+      "type": "Earthquake",
+      "region": "18 km NW of Stanton, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km ENE of Berkeley, CA",
+      "region": "3 km SSW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of Cobb, CA",
+      "region": "2 km NNE of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "112 km WNW of Yakutat, Alaska",
+      "region": "2 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "18 km SE of Silver Springs, Nevada",
-      "severity": "Low"
+      "type": "Wind Advisory issued April 24 at 1:28AM PDT until April 26 at 11:00AM PDT by NWS San Diego CA",
+      "region": "Apple and Lucerne Valleys; San Gorgonio Pass Near Banning",
+      "severity": "Moderate"
     },
     {
-      "type": "Freeze Warning issued April 22 at 11:03PM PDT until April 23 at 9:00AM PDT by NWS Eureka CA",
-      "region": "Northwestern and Central Trinity",
+      "type": "Wind Advisory issued April 23 at 11:39PM PDT until April 26 at 11:00AM PDT by NWS Las Vegas NV",
+      "region": "Western Mojave Desert; Morongo Basin",
       "severity": "Moderate"
     }
   ]
