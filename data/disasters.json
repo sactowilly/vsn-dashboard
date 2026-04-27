@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T14:50+00:00",
+  "lastUpdated": "2026-04-27T15:21+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,53 +19,53 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km SW of Volcano, Hawaii",
+      "region": "3 km NE of Benicia, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NW of The Geysers, CA",
+      "region": "17 km SW of La Quinta, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "88 km NW of Karluk, Alaska",
+      "region": "6 km SSW of Redlands, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "76 km NNW of Vallenar, Chile",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "18 km NW of Stanton, Texas",
+      "region": "11 km SW of Searles Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SSW of Cobb, CA",
+      "region": "7 km SSW of Redlands, CA",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "6 km SSW of Redlands, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NNE of The Geysers, CA",
+      "region": "3 km NE of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NNW of The Geysers, CA",
+      "region": "64 km WSW of Nanwalek, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued April 24 at 1:28AM PDT until April 26 at 11:00AM PDT by NWS San Diego CA",
-      "region": "Apple and Lucerne Valleys; San Gorgonio Pass Near Banning",
-      "severity": "Moderate"
+      "type": "Frost Advisory issued April 26 at 9:21PM PDT until April 27 at 9:00AM PDT by NWS Eureka CA",
+      "region": "Southeastern Interior Humboldt; Southern Trinity",
+      "severity": "Minor"
     },
     {
-      "type": "Wind Advisory issued April 23 at 11:39PM PDT until April 26 at 11:00AM PDT by NWS Las Vegas NV",
-      "region": "Western Mojave Desert; Morongo Basin",
-      "severity": "Moderate"
+      "type": "Air Quality Alert issued April 26 at 1:27PM PDT by NWS San Diego CA",
+      "region": "Coachella Valley",
+      "severity": "Unknown"
     }
   ]
 }
