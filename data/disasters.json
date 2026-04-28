@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T15:21+00:00",
+  "lastUpdated": "2026-04-28T15:41+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,48 +19,43 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "3 km NE of Benicia, CA",
+      "region": "10 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km SW of La Quinta, CA",
+      "region": "16 km SSW of Leilani Estates, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SSW of Redlands, CA",
+      "region": "87 km NNE of Yakutat, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km SW of Searles Valley, CA",
+      "region": "2 km ENE of Big Lake, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km SSW of Redlands, CA",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "6 km SSW of Redlands, CA",
+      "region": "4 km WSW of Happy Valley, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km NE of The Geysers, CA",
+      "region": "38 km W of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "64 km WSW of Nanwalek, Alaska",
+      "region": "6 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
-      "type": "Frost Advisory issued April 26 at 9:21PM PDT until April 27 at 9:00AM PDT by NWS Eureka CA",
-      "region": "Southeastern Interior Humboldt; Southern Trinity",
-      "severity": "Minor"
+      "type": "Earthquake",
+      "region": "18 km SSE of Silver Springs, Nevada",
+      "severity": "Low"
     },
     {
       "type": "Air Quality Alert issued April 26 at 1:27PM PDT by NWS San Diego CA",
