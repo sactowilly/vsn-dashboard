@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T15:41+00:00",
+  "lastUpdated": "2026-04-30T15:24+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,32 +19,22 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "10 km NW of The Geysers, CA",
+      "region": "47 km NW of Tatitlek, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km SSW of Leilani Estates, Hawaii",
+      "region": "12 km SW of Puebla, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "87 km NNE of Yakutat, Alaska",
+      "region": "17 km SW of La Quinta, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km ENE of Big Lake, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "4 km WSW of Happy Valley, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "38 km W of Petersville, Alaska",
+      "region": "9 km SSE of Pearsall, Texas",
       "severity": "Low"
     },
     {
@@ -54,13 +44,18 @@
     },
     {
       "type": "Earthquake",
-      "region": "18 km SSE of Silver Springs, Nevada",
+      "region": "59 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
-      "type": "Air Quality Alert issued April 26 at 1:27PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley",
-      "severity": "Unknown"
+      "type": "Earthquake",
+      "region": "57 km S of Whites City, New Mexico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "58 km NW of Tatitlek, Alaska",
+      "severity": "Low"
     }
   ]
 }
