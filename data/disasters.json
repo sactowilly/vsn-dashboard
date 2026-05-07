@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T15:24+00:00",
+  "lastUpdated": "2026-05-07T15:39+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,43 +19,48 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "47 km NW of Tatitlek, Alaska",
+      "region": "5 km SSW of Salcha, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km SW of Puebla, B.C., MX",
+      "region": "5 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km SW of La Quinta, CA",
+      "region": "2 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km SSE of Pearsall, Texas",
+      "region": "2 km WNW of La Mirada, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of Cobb, CA",
+      "region": "9 km N of Sterling, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "59 km S of Whites City, New Mexico",
+      "region": "5 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "57 km S of Whites City, New Mexico",
+      "region": "13 km NE of Little Lake, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km NW of Tatitlek, Alaska",
+      "region": "7 km WSW of Anza, CA",
       "severity": "Low"
+    },
+    {
+      "type": "Wind Advisory issued May 7 at 6:27AM PDT until May 8 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southwestern Coast; Santa Ynez Mountains Western Range",
+      "severity": "Moderate"
     }
   ]
 }
