@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T15:39+00:00",
+  "lastUpdated": "2026-05-08T15:03+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -21,12 +21,6 @@
     "Sacramento series id used: CASACR5URN"
   ],
   "series": [
-    {
-      "date": "2025-04",
-      "us": 4.2,
-      "california": 5.4,
-      "sacramento": 4.5
-    },
     {
       "date": "2025-05",
       "us": 4.3,

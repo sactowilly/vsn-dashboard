@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T15:39+00:00",
+  "lastUpdated": "2026-05-08T15:04+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,48 +19,58 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "5 km SSW of Salcha, Alaska",
+      "region": "4 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of The Geysers, CA",
+      "region": "8 km SSE of Lindsay, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km WNW of The Geysers, CA",
+      "region": "11 km WNW of Templeton, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km WNW of La Mirada, CA",
+      "region": "2 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km N of Sterling, Alaska",
+      "region": "7 km SE of Loma Linda, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km SSW of P\u0101hala, Hawaii",
+      "region": "4 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "13 km NE of Little Lake, CA",
+      "region": "1 km SW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km WSW of Anza, CA",
+      "region": "84 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued May 7 at 6:27AM PDT until May 8 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "type": "Wind Advisory issued May 8 at 6:55AM PDT until May 9 at 2:00AM PDT by NWS Los Angeles/Oxnard CA",
       "region": "Santa Barbara County Southwestern Coast; Santa Ynez Mountains Western Range",
       "severity": "Moderate"
+    },
+    {
+      "type": "Extreme Heat Watch issued May 8 at 3:42AM PDT until May 12 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
+      "severity": "Severe"
+    },
+    {
+      "type": "Extreme Heat Watch issued May 7 at 11:33PM MST until May 11 at 8:00PM MST by NWS Phoenix AZ",
+      "region": "Imperial County Southwest; Salton Sea; Imperial County West",
+      "severity": "Severe"
     }
   ]
 }
