@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T15:04+00:00",
+  "lastUpdated": "2026-05-11T16:12+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,57 +19,62 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "4 km W of Cobb, CA",
+      "region": "1 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km SSE of Lindsay, Texas",
+      "region": "9 km NNE of Borrego Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km WNW of Templeton, CA",
+      "region": "4 km SE of Home Gardens, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NW of The Geysers, CA",
+      "region": "8 km SSW of Fort Greely, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km SE of Loma Linda, CA",
+      "region": "22 km SSE of Redway, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km NNW of The Geysers, CA",
+      "region": "19 km SE of Silver Springs, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km SW of P\u0101hala, Hawaii",
+      "region": "16 km SE of Ocotillo Wells, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "84 km NNW of Karluk, Alaska",
+      "region": "6 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued May 8 at 6:55AM PDT until May 9 at 2:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Barbara County Southwestern Coast; Santa Ynez Mountains Western Range",
+      "type": "Heat Advisory issued May 11 at 3:52AM PDT until May 12 at 8:00PM PDT by NWS Hanford CA",
+      "region": "West Side Mountains north of 198; Los Banos - Dos Palos; Merced - Madera - Mendota; Planada - Le Grand - Snelling; Coalinga - Avenal; West Side of Fresno and Kings Counties; Caruthers - San Joaquin - Selma; Fresno-Clovis; West Side Mountains South of 198; Buttonwillow - Lost Hills - I5; Delano-Wasco-Shafter; Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley; Buena Vista; Bakersfield; Southeast San Joaquin Valley; South End San Joaquin Valley; Mariposa Madera Foothills; Fresno-Tulare Foothills; South End Sierra Foothills; Kern River Valley",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Watch issued May 8 at 3:42AM PDT until May 12 at 8:00PM PDT by NWS San Diego CA",
+      "type": "Heat Advisory issued May 11 at 2:07AM PDT until May 11 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Extreme Heat Warning issued May 11 at 2:07AM PDT until May 11 at 8:00PM PDT by NWS San Diego CA",
       "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
       "severity": "Severe"
     },
     {
-      "type": "Extreme Heat Watch issued May 7 at 11:33PM MST until May 11 at 8:00PM MST by NWS Phoenix AZ",
-      "region": "Imperial County Southwest; Salton Sea; Imperial County West",
+      "type": "Extreme Heat Warning issued May 11 at 12:19AM MST until May 11 at 8:00PM MST by NWS Phoenix AZ",
+      "region": "Parker Valley; Yuma; Imperial Valley; Palo Verde Valley; Chuckwalla Valley",
       "severity": "Severe"
     }
   ]
