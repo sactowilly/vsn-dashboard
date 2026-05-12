@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T16:12+00:00",
+  "lastUpdated": "2026-05-12T15:47+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "1 km WNW of The Geysers, CA",
+      "region": "28 km ESE of Midland, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km NNE of Borrego Springs, CA",
+      "region": "6 km SE of Loma Linda, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km SE of Home Gardens, CA",
+      "region": "14 km ESE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km SSW of Fort Greely, Alaska",
+      "region": "2 km SSW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "22 km SSE of Redway, CA",
+      "region": "5 km NNE of Thomas, Oklahoma",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km SE of Silver Springs, Nevada",
+      "region": "12 km W of Salcha, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km SE of Ocotillo Wells, CA",
+      "region": "11 km W of Salcha, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of The Geysers, CA",
+      "region": "42 km W of Petrolia, CA",
       "severity": "Low"
     },
     {
-      "type": "Heat Advisory issued May 11 at 3:52AM PDT until May 12 at 8:00PM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198; Los Banos - Dos Palos; Merced - Madera - Mendota; Planada - Le Grand - Snelling; Coalinga - Avenal; West Side of Fresno and Kings Counties; Caruthers - San Joaquin - Selma; Fresno-Clovis; West Side Mountains South of 198; Buttonwillow - Lost Hills - I5; Delano-Wasco-Shafter; Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley; Buena Vista; Bakersfield; Southeast San Joaquin Valley; South End San Joaquin Valley; Mariposa Madera Foothills; Fresno-Tulare Foothills; South End Sierra Foothills; Kern River Valley",
+      "type": "Lake Wind Advisory issued May 12 at 7:15AM PDT until May 12 at 8:00PM PDT by NWS Reno NV",
+      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued May 11 at 2:07AM PDT until May 11 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
+      "type": "Heat Advisory issued May 12 at 5:47AM PDT until May 12 at 8:00PM PDT by NWS Hanford CA",
+      "region": "Coalinga - Avenal; West Side Mountains South of 198; Buttonwillow - Lost Hills - I5; Buena Vista",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued May 11 at 2:07AM PDT until May 11 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
-      "severity": "Severe"
+      "type": "Heat Advisory issued May 12 at 5:47AM PDT until May 12 at 8:00PM PDT by NWS Hanford CA",
+      "region": "West Side Mountains north of 198",
+      "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued May 11 at 12:19AM MST until May 11 at 8:00PM MST by NWS Phoenix AZ",
-      "region": "Parker Valley; Yuma; Imperial Valley; Palo Verde Valley; Chuckwalla Valley",
-      "severity": "Severe"
+      "type": "Heat Advisory issued May 12 at 5:47AM PDT until May 12 at 8:00PM PDT by NWS Hanford CA",
+      "region": "Los Banos - Dos Palos; Merced - Madera - Mendota; Planada - Le Grand - Snelling; West Side of Fresno and Kings Counties; Caruthers - San Joaquin - Selma; Fresno-Clovis; Delano-Wasco-Shafter; Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley; Bakersfield; Southeast San Joaquin Valley; South End San Joaquin Valley; Mariposa Madera Foothills; Fresno-Tulare Foothills; South End Sierra Foothills; Kern River Valley",
+      "severity": "Moderate"
     }
   ]
 }
