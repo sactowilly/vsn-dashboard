@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T15:47+00:00",
+  "lastUpdated": "2026-05-13T15:59+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,47 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "28 km ESE of Midland, Texas",
+      "region": "55 km NW of Aleneva, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SE of Loma Linda, CA",
+      "region": "32 km ESE of Pleasant Valley, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km ESE of P\u0101hala, Hawaii",
+      "region": "21 km E of Julian, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km SSW of Cobb, CA",
+      "region": "7 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NNE of Thomas, Oklahoma",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km W of Salcha, Alaska",
+      "region": "54 km WNW of Ninilchik, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km W of Salcha, Alaska",
+      "region": "1 km ENE of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "42 km W of Petrolia, CA",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued May 12 at 7:15AM PDT until May 12 at 8:00PM PDT by NWS Reno NV",
-      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Heat Advisory issued May 12 at 5:47AM PDT until May 12 at 8:00PM PDT by NWS Hanford CA",
-      "region": "Coalinga - Avenal; West Side Mountains South of 198; Buttonwillow - Lost Hills - I5; Buena Vista",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Heat Advisory issued May 12 at 5:47AM PDT until May 12 at 8:00PM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Heat Advisory issued May 12 at 5:47AM PDT until May 12 at 8:00PM PDT by NWS Hanford CA",
-      "region": "Los Banos - Dos Palos; Merced - Madera - Mendota; Planada - Le Grand - Snelling; West Side of Fresno and Kings Counties; Caruthers - San Joaquin - Selma; Fresno-Clovis; Delano-Wasco-Shafter; Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley; Bakersfield; Southeast San Joaquin Valley; South End San Joaquin Valley; Mariposa Madera Foothills; Fresno-Tulare Foothills; South End Sierra Foothills; Kern River Valley",
+      "type": "Lake Wind Advisory issued May 13 at 7:31AM PDT until May 13 at 8:00PM PDT by NWS Hanford CA",
+      "region": "Kern River Valley",
       "severity": "Moderate"
     }
   ]

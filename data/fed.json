@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T15:46+00:00",
+  "lastUpdated": "2026-05-13T15:59+00:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "sourceLinks": [
@@ -17,15 +17,7 @@
       "value": 3.64
     },
     {
-      "date": "2026-04",
-      "value": 3.64
-    },
-    {
-      "date": "2026-04",
-      "value": 3.64
-    },
-    {
-      "date": "2026-04",
+      "date": "2026-05",
       "value": 3.64
     },
     {
@@ -50,7 +42,15 @@
     },
     {
       "date": "2026-05",
-      "value": 3.64
+      "value": 3.63
+    },
+    {
+      "date": "2026-05",
+      "value": 3.63
+    },
+    {
+      "date": "2026-05",
+      "value": 3.63
     },
     {
       "date": "2026-05",
