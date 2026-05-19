@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T16:34+00:00",
+  "lastUpdated": "2026-05-19T16:32+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,58 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "83 km NNW of Karluk, Alaska",
+      "region": "6 km W of Calimesa, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km NNW of The Geysers, CA",
+      "region": "16 km ESE of Barstow, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "53 km ENE of Tonopah, Nevada",
+      "region": "44 km WSW of Healy, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km E of Whittier, Alaska",
+      "region": "8 km WSW of Larsen Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km NW of Cabazon, CA",
+      "region": "8 km SE of Pearsall, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "43 km E of Susitna North, Alaska",
+      "region": "2 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km WSW of Johannesburg, CA",
+      "region": "42 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km W of Midland, Texas",
+      "region": "22 km W of Petrolia, CA",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued May 18 at 8:57AM PDT until May 19 at 3:00AM PDT by NWS San Francisco CA",
-      "region": "North Bay Interior Valleys",
-      "severity": "Minor"
+      "type": "Air Quality Alert issued May 18 at 7:41PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Clarita Valley; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Santa Susana Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
+      "severity": "Unknown"
     },
     {
-      "type": "Red Flag Warning issued May 18 at 6:48AM PDT until May 18 at 8:00PM PDT by NWS Hanford CA",
-      "region": "West Side Hills; San Joaquin Valley",
-      "severity": "Severe"
+      "type": "Air Quality Alert issued May 18 at 7:40PM PDT by NWS San Diego CA",
+      "region": "Santa Ana Mountains and Foothills; Orange County Coastal; Orange County Inland",
+      "severity": "Unknown"
     },
     {
-      "type": "High Wind Warning issued May 18 at 4:44AM PDT until May 18 at 11:00AM PDT by NWS Las Vegas NV",
-      "region": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; San Bernardino County-Upper Colorado River Valley; Lake Mead - NV side; Lake Mohave - NV side",
-      "severity": "Severe"
-    },
-    {
-      "type": "Wind Advisory issued May 18 at 2:05AM PDT until May 18 at 3:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Susana Mountains; Southern Ventura County Mountains; Northern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains",
-      "severity": "Moderate"
+      "type": "Air Quality Alert issued May 18 at 7:18PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Eastern San Fernando Valley; Eastern San Gabriel Mountains; Eastern Santa Monica Mountains Recreational Area; Interstate 5 Corridor; Los Angeles County Beaches; Los Angeles County Inland Coast including Downtown Los Angeles; Los Angeles County San Gabriel Valley; Palos Verdes Hills; Santa Clarita Valley; Santa Susana Mountains; Western San Fernando Valley; Western San Gabriel Mountains and Highway 14 Corridor; Western Santa Monica Mountains Recreational Area",
+      "severity": "Unknown"
     }
   ]
 }
