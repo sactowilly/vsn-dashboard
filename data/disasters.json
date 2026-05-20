@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T16:32+00:00",
+  "lastUpdated": "2026-05-20T16:31+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,27 +19,27 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km W of Calimesa, CA",
+      "region": "6 km SW of Brawley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km ESE of Barstow, Texas",
+      "region": "4 km SW of Palomar Observatory, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "44 km WSW of Healy, Alaska",
+      "region": "1 km ESE of Big Lake, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km WSW of Larsen Bay, Alaska",
+      "region": "58 km N of Chase, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km SE of Pearsall, Texas",
+      "region": "6 km SSE of Redlands, CA",
       "severity": "Low"
     },
     {
@@ -49,27 +49,32 @@
     },
     {
       "type": "Earthquake",
-      "region": "42 km NW of Toyah, Texas",
+      "region": "13 km N of Hatillo, Puerto Rico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "22 km W of Petrolia, CA",
+      "region": "73 km WSW of Cantwell, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Air Quality Alert issued May 18 at 7:41PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Clarita Valley; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Santa Susana Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
+      "type": "Air Quality Alert issued May 19 at 11:05PM PDT by NWS San Diego CA",
+      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
       "severity": "Unknown"
     },
     {
-      "type": "Air Quality Alert issued May 18 at 7:40PM PDT by NWS San Diego CA",
+      "type": "Air Quality Alert issued May 19 at 11:05PM PDT by NWS San Diego CA",
       "region": "Santa Ana Mountains and Foothills; Orange County Coastal; Orange County Inland",
       "severity": "Unknown"
     },
     {
-      "type": "Air Quality Alert issued May 18 at 7:18PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Eastern San Fernando Valley; Eastern San Gabriel Mountains; Eastern Santa Monica Mountains Recreational Area; Interstate 5 Corridor; Los Angeles County Beaches; Los Angeles County Inland Coast including Downtown Los Angeles; Los Angeles County San Gabriel Valley; Palos Verdes Hills; Santa Clarita Valley; Santa Susana Mountains; Western San Fernando Valley; Western San Gabriel Mountains and Highway 14 Corridor; Western Santa Monica Mountains Recreational Area",
+      "type": "Air Quality Alert issued May 19 at 11:05PM PDT by NWS San Diego CA",
+      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
+      "severity": "Unknown"
+    },
+    {
+      "type": "Air Quality Alert issued May 19 at 10:52PM PDT by NWS San Diego CA",
+      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
       "severity": "Unknown"
     }
   ]
