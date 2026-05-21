@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T16:31+00:00",
+  "lastUpdated": "2026-05-21T16:23+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,57 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km SW of Brawley, CA",
+      "region": "57 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km SW of Palomar Observatory, CA",
+      "region": "65 km WNW of Beluga, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km ESE of Big Lake, Alaska",
+      "region": "19 km N of Three Rivers, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km N of Chase, Alaska",
+      "region": "6 km SE of Pearsall, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SSE of Redlands, CA",
+      "region": "23 km WSW of Westmorland, CA",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "50 km NW of Stevens Village, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NW of The Geysers, CA",
+      "region": "5 km ENE of Los Alamos, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "13 km N of Hatillo, Puerto Rico",
+      "region": "1 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "73 km WSW of Cantwell, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Air Quality Alert issued May 19 at 11:05PM PDT by NWS San Diego CA",
+      "type": "Air Quality Alert issued May 20 at 5:44PM PDT by NWS San Diego CA",
       "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
       "severity": "Unknown"
     },
     {
-      "type": "Air Quality Alert issued May 19 at 11:05PM PDT by NWS San Diego CA",
-      "region": "Santa Ana Mountains and Foothills; Orange County Coastal; Orange County Inland",
+      "type": "Air Quality Alert issued May 20 at 3:59PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Eastern San Fernando Valley; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley; Santa Clarita Valley; Santa Susana Mountains; Western San Fernando Valley; Western San Gabriel Mountains and Highway 14 Corridor",
       "severity": "Unknown"
     },
     {
-      "type": "Air Quality Alert issued May 19 at 11:05PM PDT by NWS San Diego CA",
-      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
-      "severity": "Unknown"
-    },
-    {
-      "type": "Air Quality Alert issued May 19 at 10:52PM PDT by NWS San Diego CA",
-      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
+      "type": "Air Quality Alert issued May 20 at 10:06AM MST by NWS Phoenix AZ",
+      "region": "Imperial Valley",
       "severity": "Unknown"
     }
   ]
