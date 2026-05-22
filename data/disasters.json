@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T16:23+00:00",
+  "lastUpdated": "2026-05-22T15:58+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,58 +19,43 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "57 km S of Whites City, New Mexico",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "65 km WNW of Beluga, Alaska",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km N of Three Rivers, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "6 km SE of Pearsall, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "23 km WSW of Westmorland, CA",
+      "region": "103 km ENE of H\u00e9rcules, Mexico",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "50 km NW of Stevens Village, Alaska",
+      "region": "27 km SE of Chickaloon, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km ENE of Los Alamos, CA",
+      "region": "41 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km NW of The Geysers, CA",
+      "region": "114 km SE of Port Graham, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Air Quality Alert issued May 20 at 5:44PM PDT by NWS San Diego CA",
-      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
-      "severity": "Unknown"
+      "type": "Earthquake",
+      "region": "14 km SE of Pearsall, Texas",
+      "severity": "Low"
     },
     {
-      "type": "Air Quality Alert issued May 20 at 3:59PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Eastern San Fernando Valley; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley; Santa Clarita Valley; Santa Susana Mountains; Western San Fernando Valley; Western San Gabriel Mountains and Highway 14 Corridor",
-      "severity": "Unknown"
-    },
-    {
-      "type": "Air Quality Alert issued May 20 at 10:06AM MST by NWS Phoenix AZ",
-      "region": "Imperial Valley",
-      "severity": "Unknown"
+      "type": "Earthquake",
+      "region": "16 km WSW of Johannesburg, CA",
+      "severity": "Low"
     }
   ]
 }
