@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T15:58+00:00",
+  "lastUpdated": "2026-05-25T16:04+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,7 +19,7 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "8 km NW of The Geysers, CA",
+      "region": "11 km NNW of Fillmore, CA",
       "severity": "Low"
     },
     {
@@ -29,33 +29,53 @@
     },
     {
       "type": "Earthquake",
-      "region": "103 km ENE of H\u00e9rcules, Mexico",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "27 km SE of Chickaloon, Alaska",
+      "region": "2 km NNE of Colton, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "41 km NW of Toyah, Texas",
+      "region": "14 km S of Honaunau-Napoopoo, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "114 km SE of Port Graham, Alaska",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km SE of Pearsall, Texas",
+      "region": "45 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km WSW of Johannesburg, CA",
+      "region": "30 km NW of Toyah, Texas",
       "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "32 km W of Ester, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Air Quality Alert issued May 25 at 8:33AM MST by NWS Phoenix AZ",
+      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
+      "severity": "Unknown"
+    },
+    {
+      "type": "Lake Wind Advisory issued May 25 at 8:18AM PDT until May 25 at 11:00PM PDT by NWS Reno NV",
+      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Lake Wind Advisory issued May 25 at 8:18AM PDT until May 26 at 2:00PM PDT by NWS Reno NV",
+      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "severity": "Moderate"
+    },
+    {
+      "type": "High Surf Advisory issued May 25 at 7:35AM PDT until May 27 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
+      "severity": "Minor"
     }
   ]
 }
