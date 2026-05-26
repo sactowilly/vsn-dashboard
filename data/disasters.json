@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T16:04+00:00",
+  "lastUpdated": "2026-05-26T16:54+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "11 km NNW of Fillmore, CA",
+      "region": "7 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "64 km S of Glacier View, Alaska",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "4 km SSE of Home Gardens, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NNE of Colton, CA",
+      "region": "26 km NNE of Aleneva, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km S of Honaunau-Napoopoo, Hawaii",
+      "region": "11 km NNE of Calama, Chile",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "84 km SSW of Sand Point, Alaska",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "11 km S of Searles Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "4 km WSW of Martinez, CA",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "45 km NW of Toyah, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "30 km NW of Toyah, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "32 km W of Ester, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Air Quality Alert issued May 25 at 8:33AM MST by NWS Phoenix AZ",
-      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
-      "severity": "Unknown"
-    },
-    {
-      "type": "Lake Wind Advisory issued May 25 at 8:18AM PDT until May 25 at 11:00PM PDT by NWS Reno NV",
-      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Lake Wind Advisory issued May 25 at 8:18AM PDT until May 26 at 2:00PM PDT by NWS Reno NV",
-      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
-      "severity": "Moderate"
-    },
-    {
-      "type": "High Surf Advisory issued May 25 at 7:35AM PDT until May 27 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "type": "High Surf Advisory issued May 26 at 8:55AM PDT until May 27 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
       "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
       "severity": "Minor"
+    },
+    {
+      "type": "Beach Hazards Statement issued May 26 at 6:55AM PDT until May 27 at 9:00AM PDT by NWS San Francisco CA",
+      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued May 26 at 5:27AM PDT until May 28 at 5:00AM PDT by NWS San Diego CA",
+      "region": "Riverside County Mountains; San Diego County Mountains; San Diego County Deserts; San Gorgonio Pass Near Banning",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued May 26 at 5:27AM PDT until May 27 at 12:00AM PDT by NWS San Diego CA",
+      "region": "Apple and Lucerne Valleys",
+      "severity": "Moderate"
     }
   ]
 }
