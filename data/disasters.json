@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T16:54+00:00",
+  "lastUpdated": "2026-05-27T16:47+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,62 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "7 km SSW of P\u0101hala, Hawaii",
+      "region": "20 km WSW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "64 km S of Glacier View, Alaska",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "4 km SSE of Home Gardens, CA",
+      "region": "9 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "26 km NNE of Aleneva, Alaska",
+      "region": "5 km WSW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km NNE of Calama, Chile",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "84 km SSW of Sand Point, Alaska",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "11 km S of Searles Valley, CA",
+      "region": "47 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km WSW of Martinez, CA",
+      "region": "11 km E of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
-      "type": "High Surf Advisory issued May 26 at 8:55AM PDT until May 27 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
-      "severity": "Minor"
+      "type": "Earthquake",
+      "region": "44 km NW of Toyah, Texas",
+      "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued May 26 at 6:55AM PDT until May 27 at 9:00AM PDT by NWS San Francisco CA",
-      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "type": "Earthquake",
+      "region": "3 km WSW of Fuig, Puerto Rico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "6 km W of Cobb, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Beach Hazards Statement issued May 27 at 9:02AM PDT until May 28 at 11:00PM PDT by NWS Eureka CA",
+      "region": "Coastal Del Norte; Northern Coastal Humboldt; Southwestern Humboldt; Coastal Mendocino",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued May 26 at 5:27AM PDT until May 28 at 5:00AM PDT by NWS San Diego CA",
+      "type": "Wind Advisory issued May 27 at 4:47AM PDT until May 28 at 5:00AM PDT by NWS San Diego CA",
       "region": "Riverside County Mountains; San Diego County Mountains; San Diego County Deserts; San Gorgonio Pass Near Banning",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued May 26 at 5:27AM PDT until May 27 at 12:00AM PDT by NWS San Diego CA",
-      "region": "Apple and Lucerne Valleys",
+      "type": "Wind Advisory issued May 27 at 4:46AM PDT until May 28 at 5:00AM PDT by NWS Las Vegas NV",
+      "region": "Western Mojave Desert",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued May 27 at 4:46AM PDT until May 28 at 5:00AM PDT by NWS Las Vegas NV",
+      "region": "Morongo Basin",
       "severity": "Moderate"
     }
   ]
