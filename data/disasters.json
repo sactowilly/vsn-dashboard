@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T16:47+00:00",
+  "lastUpdated": "2026-05-28T17:07+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,57 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "20 km WSW of Karluk, Alaska",
+      "region": "3 km N of Fontana, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km WNW of Cobb, CA",
+      "region": "2 km NNE of Yauco, Puerto Rico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km WSW of Anza, CA",
+      "region": "16 km S of Volcano, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "47 km NW of Toyah, Texas",
+      "region": "4 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km E of P\u0101hala, Hawaii",
+      "region": "8 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "44 km NW of Toyah, Texas",
+      "region": "Revilla Gigedo Islands region",
+      "severity": "High"
+    },
+    {
+      "type": "Earthquake",
+      "region": "24 km E of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km WSW of Fuig, Puerto Rico",
+      "region": "24 km E of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "6 km W of Cobb, CA",
-      "severity": "Low"
+      "type": "Beach Hazards Statement issued May 28 at 9:49AM PDT until May 29 at 3:00AM PDT by NWS San Francisco CA",
+      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued May 27 at 9:02AM PDT until May 28 at 11:00PM PDT by NWS Eureka CA",
+      "type": "Wind Advisory issued May 28 at 5:04AM PDT until May 29 at 5:00AM PDT by NWS Phoenix AZ",
+      "region": "Imperial County Southwest",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Beach Hazards Statement issued May 28 at 12:30AM PDT until May 28 at 11:00PM PDT by NWS Eureka CA",
       "region": "Coastal Del Norte; Northern Coastal Humboldt; Southwestern Humboldt; Coastal Mendocino",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued May 27 at 4:47AM PDT until May 28 at 5:00AM PDT by NWS San Diego CA",
-      "region": "Riverside County Mountains; San Diego County Mountains; San Diego County Deserts; San Gorgonio Pass Near Banning",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued May 27 at 4:46AM PDT until May 28 at 5:00AM PDT by NWS Las Vegas NV",
-      "region": "Western Mojave Desert",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued May 27 at 4:46AM PDT until May 28 at 5:00AM PDT by NWS Las Vegas NV",
-      "region": "Morongo Basin",
       "severity": "Moderate"
     }
   ]
