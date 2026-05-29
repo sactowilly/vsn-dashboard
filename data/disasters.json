@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T17:07+00:00",
+  "lastUpdated": "2026-05-29T16:54+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,58 +19,43 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "3 km N of Fontana, CA",
+      "region": "52 km WNW of Happy Valley, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NNE of Yauco, Puerto Rico",
+      "region": "11 km NNW of Laytonville, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km S of Volcano, Hawaii",
+      "region": "1 km WSW of Rohnert Park, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km W of Cobb, CA",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km W of Cobb, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "Revilla Gigedo Islands region",
+      "region": "250 km ESE of Severo-Kuril\u2019sk, Russia",
       "severity": "High"
     },
     {
       "type": "Earthquake",
-      "region": "24 km E of P\u0101hala, Hawaii",
+      "region": "17 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "24 km E of P\u0101hala, Hawaii",
+      "region": "32 km ENE of Chignik, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued May 28 at 9:49AM PDT until May 29 at 3:00AM PDT by NWS San Francisco CA",
-      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued May 28 at 5:04AM PDT until May 29 at 5:00AM PDT by NWS Phoenix AZ",
-      "region": "Imperial County Southwest",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Beach Hazards Statement issued May 28 at 12:30AM PDT until May 28 at 11:00PM PDT by NWS Eureka CA",
-      "region": "Coastal Del Norte; Northern Coastal Humboldt; Southwestern Humboldt; Coastal Mendocino",
-      "severity": "Moderate"
+      "type": "Earthquake",
+      "region": "29 km W of Nanwalek, Alaska",
+      "severity": "Low"
     }
   ]
 }
