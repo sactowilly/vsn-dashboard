@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T16:54+00:00",
+  "lastUpdated": "2026-06-01T19:01+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,43 +19,48 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "52 km WNW of Happy Valley, Alaska",
+      "region": "2 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km NNW of Laytonville, CA",
+      "region": "41 km WNW of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km WSW of Rohnert Park, CA",
+      "region": "15 km WSW of Forsan, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "46 km W of Salamatof, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "250 km ESE of Severo-Kuril\u2019sk, Russia",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "17 km WSW of Johannesburg, CA",
+      "region": "9 km W of Petrolia, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "32 km ENE of Chignik, Alaska",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "29 km W of Nanwalek, Alaska",
+      "region": "1 km E of Salinas, Puerto Rico",
       "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "10 km SW of Morongo Valley, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Beach Hazards Statement issued June 1 at 4:31AM PDT until June 2 at 5:00AM PDT by NWS San Francisco CA",
+      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "severity": "Moderate"
     }
   ]
 }
