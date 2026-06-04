@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T19:01+00:00",
+  "lastUpdated": "2026-06-04T16:30+00:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "sourceLinks": [
@@ -14,11 +14,7 @@
   "series": [
     {
       "date": "2026-05",
-      "value": 3.63
-    },
-    {
-      "date": "2026-05",
-      "value": 3.63
+      "value": 3.62
     },
     {
       "date": "2026-05",
@@ -57,7 +53,11 @@
       "value": 3.62
     },
     {
-      "date": "2026-05",
+      "date": "2026-06",
+      "value": 3.62
+    },
+    {
+      "date": "2026-06",
       "value": 3.62
     }
   ]

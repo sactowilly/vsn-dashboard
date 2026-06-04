@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T19:01+00:00",
+  "lastUpdated": "2026-06-04T16:30+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,48 +19,43 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "2 km NNW of The Geysers, CA",
+      "region": "9 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "41 km WNW of Anchor Point, Alaska",
+      "region": "26 km SSE of Susitna North, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km WSW of Forsan, Texas",
+      "region": "12 km NE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "46 km W of Salamatof, Alaska",
+      "region": "6 km SSW of Redlands, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km W of Petrolia, CA",
+      "region": "90 km NW of Aleneva, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NW of The Geysers, CA",
+      "region": "12 km SE of Pearsall, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km E of Salinas, Puerto Rico",
+      "region": "4 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km SW of Morongo Valley, CA",
+      "region": "5 km W of Dover, Oklahoma",
       "severity": "Low"
-    },
-    {
-      "type": "Beach Hazards Statement issued June 1 at 4:31AM PDT until June 2 at 5:00AM PDT by NWS San Francisco CA",
-      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
     }
   ]
 }
