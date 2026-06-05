@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T16:30+00:00",
+  "lastUpdated": "2026-06-05T16:09+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,43 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
+      "region": "46 km SSW of Skwentna, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "187 km SE of Chignik, Alaska",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
       "region": "9 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "26 km SSE of Susitna North, Alaska",
+      "region": "11 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km NE of P\u0101hala, Hawaii",
+      "region": "83 km SW of Kaktovik, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SSW of Redlands, CA",
+      "region": "8 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "90 km NW of Aleneva, Alaska",
+      "region": "17 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km SE of Pearsall, Texas",
+      "region": "14 km W of Johannesburg, CA",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "4 km NW of The Geysers, CA",
-      "severity": "Low"
+      "type": "Beach Hazards Statement issued June 5 at 5:49AM PDT until June 6 at 9:00AM PDT by NWS San Francisco CA",
+      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "severity": "Moderate"
     },
     {
-      "type": "Earthquake",
-      "region": "5 km W of Dover, Oklahoma",
-      "severity": "Low"
+      "type": "Lake Wind Advisory issued June 5 at 1:18AM PDT until June 6 at 11:00PM PDT by NWS Reno NV",
+      "region": "Mono",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Fire Weather Watch issued June 4 at 10:54PM MST until June 6 at 11:00PM MST by NWS Phoenix AZ",
+      "region": "Yuma/Martinez Lake and Vicinity/Lower Colorado River Valley AZ; Central Deserts; Lower Colorado River Valley CA",
+      "severity": "Severe"
+    },
+    {
+      "type": "Fire Weather Watch issued June 4 at 12:53PM PDT until June 6 at 11:00PM PDT by NWS Reno NV",
+      "region": "Eastern Lassen County; Northern Sierra Front - Carson City/Douglas/Storey/Southern Washoe/Eastern Lyon/Far Southern Lassen Counties; West Humboldt Basin - Pershing County; Lahontan Basin - Churchill and Eastern Mineral Counties; Northern Washoe County",
+      "severity": "Severe"
     }
   ]
 }
