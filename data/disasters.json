@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T16:09+00:00",
+  "lastUpdated": "2026-06-08T16:53+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "46 km SSW of Skwentna, Alaska",
+      "region": "11 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "187 km SE of Chignik, Alaska",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "9 km NW of The Geysers, CA",
+      "region": "11 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km NW of The Geysers, CA",
+      "region": "37 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "83 km SW of Kaktovik, Alaska",
+      "region": "37 km SSW of Los Ybanez, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km W of Cobb, CA",
+      "region": "3 km WNW of Honaunau-Napoopoo, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km WSW of Johannesburg, CA",
+      "region": "7 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km W of Johannesburg, CA",
+      "region": "16 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued June 5 at 5:49AM PDT until June 6 at 9:00AM PDT by NWS San Francisco CA",
-      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
+      "type": "Earthquake",
+      "region": "30 km E of Balmorhea, Texas",
+      "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued June 5 at 1:18AM PDT until June 6 at 11:00PM PDT by NWS Reno NV",
-      "region": "Mono",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Fire Weather Watch issued June 4 at 10:54PM MST until June 6 at 11:00PM MST by NWS Phoenix AZ",
-      "region": "Yuma/Martinez Lake and Vicinity/Lower Colorado River Valley AZ; Central Deserts; Lower Colorado River Valley CA",
+      "type": "Red Flag Warning issued June 8 at 9:18AM PDT until June 11 at 5:00PM PDT by NWS Sacramento CA",
+      "region": "South-Central Shasta County Including Redding Metro; Northern Sacramento Valley in Tehama County; Central Glenn County Including Interstate 5; Eastern Glenn County; Butte County Below 1000 ft; Central Colusa County Including Interstate 5; Eastern Colusa County; Sutter and Yuba Counties Below 1000 ft; Western Yolo County Including Capay Valley and Interstate 505; Central Yolo and Northeast Solano Counties Including Woodland and Davis",
       "severity": "Severe"
     },
     {
-      "type": "Fire Weather Watch issued June 4 at 12:53PM PDT until June 6 at 11:00PM PDT by NWS Reno NV",
-      "region": "Eastern Lassen County; Northern Sierra Front - Carson City/Douglas/Storey/Southern Washoe/Eastern Lyon/Far Southern Lassen Counties; West Humboldt Basin - Pershing County; Lahontan Basin - Churchill and Eastern Mineral Counties; Northern Washoe County",
-      "severity": "Severe"
+      "type": "Beach Hazards Statement issued June 8 at 2:39AM PDT until June 11 at 5:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued June 8 at 2:36AM PDT until June 9 at 5:00AM PDT by NWS Hanford CA",
+      "region": "Mojave Desert Slopes",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Beach Hazards Statement issued June 8 at 1:31AM PDT until June 11 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Ventura County Beaches",
+      "severity": "Moderate"
     }
   ]
 }
