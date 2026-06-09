@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T16:53+00:00",
+  "lastUpdated": "2026-06-09T16:13+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,62 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "11 km WNW of Cobb, CA",
+      "region": "5 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km WNW of Cobb, CA",
+      "region": "15 km NW of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "37 km NW of Toyah, Texas",
+      "region": "13 km NNE of Pine Mountain Club, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "37 km SSW of Los Ybanez, Texas",
+      "region": "12 km NE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km WNW of Honaunau-Napoopoo, Hawaii",
+      "region": "15 km ENE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km W of Cobb, CA",
+      "region": "54 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km WSW of Johannesburg, CA",
+      "region": "16 km SW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "30 km E of Balmorhea, Texas",
+      "region": "5 km SE of Loma Linda, CA",
       "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued June 8 at 9:18AM PDT until June 11 at 5:00PM PDT by NWS Sacramento CA",
-      "region": "South-Central Shasta County Including Redding Metro; Northern Sacramento Valley in Tehama County; Central Glenn County Including Interstate 5; Eastern Glenn County; Butte County Below 1000 ft; Central Colusa County Including Interstate 5; Eastern Colusa County; Sutter and Yuba Counties Below 1000 ft; Western Yolo County Including Capay Valley and Interstate 505; Central Yolo and Northeast Solano Counties Including Woodland and Davis",
-      "severity": "Severe"
+      "type": "Wind Advisory issued June 9 at 5:38AM PDT until June 10 at 7:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southwestern Coast; Santa Ynez Mountains Western Range",
+      "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued June 8 at 2:39AM PDT until June 11 at 5:00PM PDT by NWS San Diego CA",
+      "type": "Wind Advisory issued June 9 at 5:38AM PDT until June 10 at 7:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Interstate 5 Corridor",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Frost Advisory issued June 9 at 3:56AM PDT until June 10 at 8:00AM PDT by NWS Medford OR",
+      "region": "South Central Siskiyou County; North Central and Southeast Siskiyou County; Northeast Siskiyou and Northwest Modoc Counties; Modoc County; Klamath Basin; Central and Eastern Lake County",
+      "severity": "Minor"
+    },
+    {
+      "type": "Beach Hazards Statement issued June 9 at 2:44AM PDT until June 11 at 5:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued June 8 at 2:36AM PDT until June 9 at 5:00AM PDT by NWS Hanford CA",
-      "region": "Mojave Desert Slopes",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Beach Hazards Statement issued June 8 at 1:31AM PDT until June 11 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Beaches",
       "severity": "Moderate"
     }
   ]
