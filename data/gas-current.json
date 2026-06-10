@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T16:13+00:00",
+  "lastUpdated": "2026-06-10T16:45+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily + Monthly",
   "sourceLinks": [
@@ -17,10 +17,10 @@
     "AAA is scraped in GitHub Actions, not in the browser.",
     "California regular and diesel remain secondary context."
   ],
-  "currentRegular": 5.866,
-  "weekAgoRegular": 6.012,
+  "currentRegular": 5.835,
+  "weekAgoRegular": 5.993,
   "monthAgoRegular": 6.154,
-  "yearAgoRegular": 4.704,
+  "yearAgoRegular": 4.689,
   "sacramentoRegular": null,
   "sacramentoWeekAgoRegular": null,
   "currentDiesel": 5.18,
