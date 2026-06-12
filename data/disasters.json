@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T17:02+00:00",
+  "lastUpdated": "2026-06-12T16:28+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km W of Calimesa, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "19 km NNE of Indio, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "55 km NE of Ugashik, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "24 km SW of Lamont, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "6 km WSW of Anza, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
       "region": "5 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km S of Willits, CA",
+      "region": "4 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "13 km SW of Searles Valley, CA",
+      "region": "3 km SE of Oakland, CA",
       "severity": "Low"
     },
     {
-      "type": "Air Quality Alert issued June 11 at 9:38AM MST by NWS Phoenix AZ",
-      "region": "Imperial Valley",
-      "severity": "Unknown"
+      "type": "Earthquake",
+      "region": "20 km N of Hawaiian Ocean View, Hawaii",
+      "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued June 11 at 8:52AM PDT until June 11 at 5:00PM PDT by NWS Eureka CA",
-      "region": "Eastern Lake Including Clearlake and Middletown",
-      "severity": "Severe"
+      "type": "Earthquake",
+      "region": "15 km SW of Ivanof Bay, Alaska",
+      "severity": "Low"
     },
     {
-      "type": "High Surf Advisory issued June 11 at 7:19AM PDT until June 11 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands; Malibu Coast; Los Angeles County Beaches",
-      "severity": "Minor"
+      "type": "Earthquake",
+      "region": "3 km ENE of Hemet, CA",
+      "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued June 11 at 7:19AM PDT until June 11 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Beaches",
+      "type": "Earthquake",
+      "region": "14 km NE of Ridgecrest, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "14 km NE of Ridgecrest, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Heat Advisory issued June 12 at 6:31AM PDT until June 12 at 10:00PM PDT by NWS Eureka CA",
+      "region": "Southeastern Interior Mendocino; Northern Lake; Western Lake; Southwestern Lake; Eastern Lake",
       "severity": "Moderate"
+    },
+    {
+      "type": "Heat Advisory issued June 12 at 5:26AM PDT until June 12 at 7:00PM PDT by NWS San Francisco CA",
+      "region": "East Bay Interior Valleys; Santa Clara Valley Including San Jose; Eastern Santa Clara Hills; East Bay Hills",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Heat Advisory issued June 12 at 2:34AM PDT until June 13 at 11:00PM PDT by NWS Hanford CA",
+      "region": "West Side Mountains north of 198; Los Banos - Dos Palos; Merced - Madera - Mendota; Planada - Le Grand - Snelling; Coalinga - Avenal; West Side of Fresno and Kings Counties; Caruthers - San Joaquin - Selma; Fresno-Clovis; West Side Mountains South of 198; Buttonwillow - Lost Hills - I5; Delano-Wasco-Shafter; Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley; Buena Vista; Bakersfield; Southeast San Joaquin Valley; South End San Joaquin Valley; Mariposa Madera Foothills; Mariposa-Madera Lower Sierra; Fresno-Tulare Foothills; Fresno-Tulare Lower Sierra; South End Sierra Foothills; Kern River Valley",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Coastal Flood Advisory issued June 11 at 8:48PM PDT until June 17 at 3:00AM PDT by NWS San Francisco CA",
+      "region": "San Francisco; San Francisco Bay Shoreline",
+      "severity": "Minor"
     }
   ]
 }
