@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T18:03+00:00",
+  "lastUpdated": "2026-06-16T18:11+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,62 +19,62 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "21 km E of P\u0101pa\u2018ikou, Hawaii",
+      "region": "86 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "25 km NNW of Valdez, Alaska",
+      "region": "8 km S of Eielson Air Force Base, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "56 km E of Port Alsworth, Alaska",
+      "region": "10 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "66 km ESE of Denali National Park, Alaska",
+      "region": "20 km SE of Midland, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km SSE of Volcano, Hawaii",
+      "region": "20 km SE of Midland, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km NNE of Government Camp, Oregon",
+      "region": "10 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SE of Loma Linda, CA",
+      "region": "9 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km W of Cobb, CA",
+      "region": "44 km N of Petersville, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Heat Advisory issued June 15 at 10:37AM PDT until June 16 at 11:00PM PDT by NWS Hanford CA",
+      "type": "Coastal Flood Advisory issued June 16 at 10:40AM PDT until June 17 at 3:00AM PDT by NWS Eureka CA",
+      "region": "Northern Coastal Humboldt",
+      "severity": "Minor"
+    },
+    {
+      "type": "Heat Advisory issued June 16 at 10:32AM PDT until June 16 at 11:00PM PDT by NWS Hanford CA",
       "region": "West Side Mountains north of 198; Los Banos - Dos Palos; Merced - Madera - Mendota; Planada - Le Grand - Snelling; Coalinga - Avenal; West Side of Fresno and Kings Counties; Caruthers - San Joaquin - Selma; Fresno-Clovis; West Side Mountains South of 198; Buttonwillow - Lost Hills - I5; Delano-Wasco-Shafter; Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley; Buena Vista; Bakersfield; Southeast San Joaquin Valley; South End San Joaquin Valley; Mariposa Madera Foothills; Mariposa-Madera Lower Sierra; Fresno-Tulare Foothills; Fresno-Tulare Lower Sierra; South End Sierra Foothills; Kern River Valley",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued June 15 at 9:58AM PDT until June 16 at 10:00PM PDT by NWS Eureka CA",
-      "region": "Northeastern Trinity",
+      "type": "Beach Hazards Statement issued June 16 at 9:44AM PDT until June 18 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Ventura County Beaches",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued June 15 at 9:58AM PDT until June 16 at 10:00PM PDT by NWS Eureka CA",
-      "region": "Southern Trinity",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Heat Advisory issued June 15 at 9:58AM PDT until June 16 at 10:00PM PDT by NWS Eureka CA",
-      "region": "Northeastern Interior Humboldt",
+      "type": "Beach Hazards Statement issued June 16 at 9:44AM PDT until June 18 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Malibu Coast; Los Angeles County Beaches",
       "severity": "Moderate"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T18:03+00:00",
+  "lastUpdated": "2026-06-16T18:11+00:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "sourceLinks": [
@@ -13,7 +13,7 @@
   ],
   "series": [
     {
-      "date": "2026-05",
+      "date": "2026-06",
       "value": 3.62
     },
     {
