@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T16:44+00:00",
+  "lastUpdated": "2026-06-18T16:43+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "9 km ESE of Ninilchik, Alaska",
+      "region": "9 km SSE of Gorman, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "29 km WSW of Port Lions, Alaska",
+      "region": "10 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "18 km WSW of Johannesburg, CA",
+      "region": "9 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km S of Coyanosa, Texas",
+      "region": "1 km SSE of Loma Linda, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "22 km NE of San Lucas, CA",
+      "region": "232 km ESE of Attu Station, Alaska",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "15 km ENE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "62 km ESE of Denali Park, Alaska",
+      "region": "2 km NE of Palomar Observatory, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "223 km SE of Akutan, Alaska",
+      "region": "23 km ENE of June Lake, California",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "18 km WSW of Johannesburg, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Beach Hazards Statement issued June 17 at 9:36AM PDT until June 18 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
+      "type": "Beach Hazards Statement issued June 18 at 4:42AM PDT until June 21 at 5:00AM PDT by NWS San Francisco CA",
+      "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
       "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued June 17 at 9:36AM PDT until June 18 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast",
+      "type": "Beach Hazards Statement issued June 18 at 4:42AM PDT until June 21 at 5:00AM PDT by NWS San Francisco CA",
+      "region": "San Francisco",
       "severity": "Moderate"
     },
     {
-      "type": "Lake Wind Advisory issued June 17 at 9:08AM PDT until June 17 at 11:00PM PDT by NWS Hanford CA",
+      "type": "Lake Wind Advisory issued June 18 at 3:41AM PDT until June 19 at 5:00AM PDT by NWS Hanford CA",
       "region": "West Side Mountains north of 198",
       "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued June 17 at 6:25AM PDT until June 18 at 5:00AM PDT by NWS San Francisco CA",
-      "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
+      "type": "Fire Weather Watch issued June 17 at 10:58PM PDT until June 19 at 7:00PM PDT by NWS Medford OR",
+      "region": "Western Klamath National Forest; Central Siskiyou County Including Shasta Valley; Siskiyou County from the Cascade Mountains East and South to Mt Shasta; Modoc County Except for the Surprise Valley",
+      "severity": "Severe"
     }
   ]
 }
