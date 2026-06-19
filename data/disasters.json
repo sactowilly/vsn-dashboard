@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T16:43+00:00",
+  "lastUpdated": "2026-06-19T16:15+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,13 +19,28 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "9 km SSE of Gorman, CA",
+      "region": "61 km WNW of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km WNW of Cobb, CA",
+      "region": "23 km N of Borrego Springs, CA",
       "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "13 km NNE of Cabazon, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "58 km S of Whites City, New Mexico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "Fiji region",
+      "severity": "Medium"
     },
     {
       "type": "Earthquake",
@@ -34,47 +49,32 @@
     },
     {
       "type": "Earthquake",
-      "region": "1 km SSE of Loma Linda, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "232 km ESE of Attu Station, Alaska",
+      "region": "58 km SSE of Boca de Yuma, Dominican Republic",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "15 km ENE of P\u0101hala, Hawaii",
+      "region": "18 km ESE of Anza, CA",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "2 km NE of Palomar Observatory, CA",
-      "severity": "Low"
+      "type": "Red Flag Warning issued June 19 at 8:30AM PDT until June 19 at 7:00PM PDT by NWS Eureka CA",
+      "region": "Eastern Trinity Including Weaverville and Hayfork",
+      "severity": "Severe"
     },
     {
-      "type": "Earthquake",
-      "region": "23 km ENE of June Lake, California",
-      "severity": "Low"
+      "type": "Red Flag Warning issued June 19 at 8:30AM PDT until June 19 at 7:00PM PDT by NWS Eureka CA",
+      "region": "Northeastern Interior Humboldt and Southwestern Siskiyou Including Orleans; Eastern Interior Humboldt Including Willow Creek and Hoopa; Northwestern Trinity Including Salyer and Big Bar; Northeastern Trinity Including Trinity Lake",
+      "severity": "Severe"
     },
     {
-      "type": "Beach Hazards Statement issued June 18 at 4:42AM PDT until June 21 at 5:00AM PDT by NWS San Francisco CA",
-      "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
+      "type": "Red Flag Warning issued June 19 at 6:16AM PDT until June 19 at 7:00PM PDT by NWS Sacramento CA",
+      "region": "Western Shasta County Mountains Above 3000 ft; Western Shasta County Foothills Between 1000-3000 ft; Shasta Lake Area and Interstate 5 Between 1000-3000 ft; South-Central Shasta County Including Redding Metro; Eastern Shasta County Foothills Between 1000-3000 ft; Eastern Shasta County Mountains and Southern Cascades Above 3000 ft; Burney Basin",
+      "severity": "Severe"
     },
     {
-      "type": "Beach Hazards Statement issued June 18 at 4:42AM PDT until June 21 at 5:00AM PDT by NWS San Francisco CA",
-      "region": "San Francisco",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Lake Wind Advisory issued June 18 at 3:41AM PDT until June 19 at 5:00AM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Fire Weather Watch issued June 17 at 10:58PM PDT until June 19 at 7:00PM PDT by NWS Medford OR",
-      "region": "Western Klamath National Forest; Central Siskiyou County Including Shasta Valley; Siskiyou County from the Cascade Mountains East and South to Mt Shasta; Modoc County Except for the Surprise Valley",
+      "type": "Red Flag Warning issued June 19 at 2:10AM PDT until June 19 at 11:00PM PDT by NWS Reno NV",
+      "region": "Surprise Valley California; Eastern Lassen County; Northern Washoe County",
       "severity": "Severe"
     }
   ]
