@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:56+00:00",
+  "lastUpdated": "2026-06-22T22:11+00:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "sourceLinks": [
@@ -13,52 +13,59 @@
   ],
   "series": [
     {
-      "date": "2026-06",
+      "date": "2026-06-08",
       "value": 3.62
     },
     {
-      "date": "2026-06",
+      "date": "2026-06-09",
       "value": 3.62
     },
     {
-      "date": "2026-06",
+      "date": "2026-06-10",
       "value": 3.62
     },
     {
-      "date": "2026-06",
+      "date": "2026-06-11",
       "value": 3.62
     },
     {
-      "date": "2026-06",
+      "date": "2026-06-12",
       "value": 3.62
     },
     {
-      "date": "2026-06",
+      "date": "2026-06-13",
       "value": 3.62
     },
     {
-      "date": "2026-06",
+      "date": "2026-06-14",
       "value": 3.62
     },
     {
-      "date": "2026-06",
-      "value": 3.62
-    },
-    {
-      "date": "2026-06",
-      "value": 3.62
-    },
-    {
-      "date": "2026-06",
+      "date": "2026-06-15",
       "value": 3.63
     },
     {
-      "date": "2026-06",
+      "date": "2026-06-16",
       "value": 3.63
     },
     {
-      "date": "2026-06",
+      "date": "2026-06-17",
+      "value": 3.63
+    },
+    {
+      "date": "2026-06-18",
+      "value": 3.63
+    },
+    {
+      "date": "2026-06-19",
       "value": 3.63
     }
+  ],
+  "sourceType": "automated",
+  "refreshStatus": "success",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
+  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
+  "sourceLimitations": [
+    "Daily federal funds data may publish with a short FRED lag."
   ]
 }

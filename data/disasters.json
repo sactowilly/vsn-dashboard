@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:56+00:00",
+  "lastUpdated": "2026-06-22T22:11+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,70 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "49 km E of Pedro Bay, Alaska",
+      "region": "5 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km NW of The Geysers, CA",
+      "region": "31 km N of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NE of Cabazon, CA",
+      "region": "32 km SE of Mina, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "30 km NE of Fort Irwin, California",
+      "region": "1 km NNE of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "21 km NW of Parkfield, CA",
+      "region": "5 km SSW of Redlands, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "36 km E of Pedro Bay, Alaska",
+      "region": "30 km SW of Tetlin, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km SSE of Toyah, Texas",
+      "region": "37 km SE of Odessa, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km SW of Morongo Valley, CA",
-      "severity": "Low"
+      "region": "276 km SSW of \u2018Ohonua, Tonga",
+      "severity": "Medium"
     },
     {
-      "type": "Heat Advisory issued June 22 at 9:34AM PDT until June 25 at 9:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Los Angeles County Inland Coast including Downtown Los Angeles",
-      "severity": "Moderate"
+      "type": "Extreme Heat Watch issued June 22 at 2:28PM MST until June 25 at 8:00PM MST by NWS Phoenix AZ",
+      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
+      "severity": "Severe"
     },
     {
-      "type": "Heat Advisory issued June 22 at 9:34AM PDT until June 25 at 9:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Clarita Valley; Western San Fernando Valley; Eastern San Fernando Valley; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
-      "severity": "Moderate"
+      "type": "Extreme Heat Watch issued June 22 at 2:28PM MST until June 25 at 8:00PM MST by NWS Phoenix AZ",
+      "region": "Parker Valley; Yuma; Central La Paz; Palo Verde Valley",
+      "severity": "Severe"
     },
     {
-      "type": "Beach Hazards Statement issued June 22 at 8:44AM PDT until June 24 at 5:00PM PDT by NWS San Francisco CA",
-      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Heat Advisory issued June 22 at 12:02AM PDT until June 23 at 11:00PM PDT by NWS Medford OR",
+      "type": "Heat Advisory issued June 22 at 1:43PM PDT until June 23 at 11:00PM PDT by NWS Medford OR",
       "region": "Western Siskiyou County; Central Siskiyou County; South Central Siskiyou County; Eastern Curry County and Josephine County; Jackson County",
       "severity": "Moderate"
+    },
+    {
+      "type": "Air Quality Alert issued June 22 at 12:28PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Los Angeles County Inland Coast including Downtown Los Angeles; Los Angeles County San Gabriel Valley",
+      "severity": "Unknown"
     }
+  ],
+  "sourceType": "automated",
+  "refreshStatus": "success",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
+  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
+  "sourceLimitations": [
+    "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
 }

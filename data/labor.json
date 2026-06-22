@@ -1,8 +1,8 @@
 {
   "lastUpdated": "2026-04-02T08:20:00-07:00",
-  "sourceStrength": "High",
-  "freshness": "Daily",
-  "whatChanged": "Starter labor dataset published locally.",
+  "sourceStrength": "Medium",
+  "freshness": "Manual / monitored",
+  "whatChanged": "Labor remains a manually monitored source in v0.5; daily automation is not claimed.",
   "sourceLinks": [
     {
       "label": "Cornell ILR Labor Action Tracker",
@@ -10,7 +10,7 @@
     }
   ],
   "notes": [
-    "Still starter-only. Not yet live in actions."
+    "Manual labor dataset. Use as a monitored watchlist, not a live feed."
   ],
   "actions": [
     {
@@ -23,5 +23,13 @@
       "region": "California",
       "sector": "Manufacturing"
     }
+  ],
+  "sourceType": "manual",
+  "refreshStatus": "manual",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
+  "lastSuccessfulAt": "2026-04-02T08:20:00-07:00",
+  "sourceLimitations": [
+    "Labor data remains manual in v0.5 because no stable public Cornell/download endpoint is confirmed in this implementation.",
+    "Review Cornell ILR Labor Action Tracker manually before treating this tile as complete."
   ]
 }

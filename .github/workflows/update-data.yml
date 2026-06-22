@@ -27,7 +27,13 @@ jobs:
       - run: python scripts/update_fed.py
       - run: python scripts/update_gas.py
       - run: python scripts/update_disasters.py
+      - run: python scripts/update_stocks.py
+      - run: python scripts/update_materials.py
+      - run: python scripts/update_news.py
+      - run: python scripts/update_competitor_signals.py
+      - run: python scripts/update_labor.py
       - run: python scripts/update_build_meta.py
+      - run: python scripts/validate_data.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

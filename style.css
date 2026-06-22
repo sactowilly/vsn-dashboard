@@ -38,18 +38,27 @@ a:hover{text-decoration:underline}
 }
 
 .top{
+  position:relative;
   display:grid;
-  grid-template-columns:64px minmax(260px,1fr) auto auto;
+  grid-template-columns:minmax(390px,1fr) auto auto;
   gap:16px;
   align-items:center;
   border-radius:14px;
   padding:18px;
+  overflow:hidden;
 }
-.logo{
-  width:56px;height:56px;border-radius:12px;
-  display:grid;place-items:center;
-  background:linear-gradient(135deg,var(--cyan),var(--blue));
-  color:#06111f;font-weight:900;letter-spacing:.05em;
+.top::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  z-index:0;
+  background:url("assets/vision-logo-white.png") no-repeat left 28px center / min(520px,48vw) auto;
+  opacity:.10;
+  pointer-events:none;
+}
+.top > *{
+  position:relative;
+  z-index:1;
 }
 .eyebrow{
   color:var(--cyan);
@@ -67,11 +76,11 @@ a:hover{text-decoration:underline}
   color:#cffafe;
   text-transform:none;
 }
-.brand h1{margin:5px 0 4px;font-size:clamp(1.65rem,2.6vw,2.6rem);line-height:1.02;letter-spacing:0}
+.brand h1{margin:5px 0 4px;font-size:clamp(1.55rem,2.15vw,2.25rem);line-height:1.05;letter-spacing:0}
 .brand p{margin:0;color:var(--muted);font-size:1rem;line-height:1.45}
 .meta{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
 .meta-card{
-  min-width:148px;
+  min-width:130px;
   padding:10px 12px;
   border:1px solid rgba(148,163,184,.18);
   border-radius:10px;
@@ -89,7 +98,7 @@ a:hover{text-decoration:underline}
 .primary-action{
   border:0;
   border-radius:10px;
-  padding:12px 16px;
+  padding:11px 14px;
   min-height:44px;
   background:linear-gradient(135deg,var(--cyan),var(--blue));
   color:#06111f;
@@ -196,6 +205,7 @@ a:hover{text-decoration:underline}
 }
 .chip.ok{border-color:rgba(73,201,137,.34);color:#bbf7d0}
 .chip.warn{border-color:rgba(242,201,76,.42);color:#fde68a}
+.chip.limited{border-color:rgba(147,197,253,.34);color:#bfdbfe}
 .val{margin-top:18px;color:#fff;font-size:1.75rem;font-weight:900;line-height:1.08}
 .sec{min-height:22px;margin-top:7px;color:#dbeafe;font-weight:800;line-height:1.35}
 .sub{margin-top:10px;color:var(--muted);font-size:.92rem;line-height:1.45;overflow-wrap:anywhere}
@@ -359,7 +369,7 @@ a:hover{text-decoration:underline}
 .toast.show{opacity:1;transform:translateY(0)}
 
 @media(max-width:1280px){
-  .top{grid-template-columns:64px minmax(0,1fr)}
+  .top{grid-template-columns:minmax(0,1fr)}
   .meta{grid-column:1/-1;justify-content:flex-start}
   .primary-action{justify-self:start}
   .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
@@ -374,7 +384,7 @@ a:hover{text-decoration:underline}
 }
 @media(max-width:600px){
   .top{grid-template-columns:1fr}
-  .logo{width:50px;height:50px}
+  .top::before{background-size:340px auto;background-position:center 22px}
   .meta{display:grid;grid-template-columns:1fr}
   .grid{grid-template-columns:1fr}
   .panel{padding:16px}

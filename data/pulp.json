@@ -1,42 +1,75 @@
 {
-  "lastUpdated": "2026-04-02T09:10:00-07:00",
-  "sourceStrength": "Medium",
-  "freshness": "Monthly",
+  "lastUpdated": "2026-06-22T22:11+00:00",
+  "sourceStrength": "High",
+  "freshness": "Monthly proxy",
+  "whatChanged": "Pulp/Paper Proxy moved -0.2 index points versus the prior published month.",
   "sourceLinks": [
     {
-      "label": "Fastmarkets Pulp Overview",
-      "url": "https://www.fastmarkets.com/forest-products/pulp/pulp-prices/"
+      "label": "FRED Pulp, Paper, and Allied Products PPI",
+      "url": "https://fred.stlouisfed.org/series/WPU0911"
     }
   ],
   "notes": [
-    "Proxy data only.",
-    "Current published view indicates pulp is up roughly $40/ton versus the prior period."
+    "Refreshed from FRED Pulp, Paper, and Allied Products PPI.",
+    "Use as directional pricing context only."
   ],
-  "currentDeltaTon": 40,
+  "currentDeltaIndex": -0.18,
   "series": [
     {
+      "date": "2025-06",
+      "value": 223.495
+    },
+    {
+      "date": "2025-07",
+      "value": 224.831
+    },
+    {
+      "date": "2025-08",
+      "value": 226.231
+    },
+    {
+      "date": "2025-09",
+      "value": 222.355
+    },
+    {
       "date": "2025-10",
-      "value": 101.4
+      "value": 215.803
     },
     {
       "date": "2025-11",
-      "value": 101.9
+      "value": 209.19
     },
     {
       "date": "2025-12",
-      "value": 102.1
+      "value": 205.046
     },
     {
       "date": "2026-01",
-      "value": 102.5
+      "value": 202.159
     },
     {
       "date": "2026-02",
-      "value": 102.8
+      "value": 199.252
     },
     {
       "date": "2026-03",
-      "value": 103.0
+      "value": 200.18
+    },
+    {
+      "date": "2026-04",
+      "value": 201.453
+    },
+    {
+      "date": "2026-05",
+      "value": 201.275
     }
+  ],
+  "sourceType": "proxy",
+  "refreshStatus": "success",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
+  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
+  "sourceLimitations": [
+    "This is a FRED/BLS PPI proxy, not paid-grade spot pulp or corrugated input pricing.",
+    "Monthly PPI data can lag current supplier quotes."
   ]
 }
