@@ -59,12 +59,12 @@ def fetch_eia_history(api_key: str | None):
         raise RuntimeError("EIA returned no California weekly gasoline or diesel history rows.")
     reg_map = {row["period"]: float(row["value"]) for row in reg_rows}
     diesel_map = {row["period"]: float(row["value"]) for row in diesel_rows}
-    months = list(reversed(sorted(set(reg_map) & set(diesel_map))[-12:]))
-    if not months:
+    weeks = sorted(set(reg_map) & set(diesel_map))[-12:]
+    if not weeks:
         if existing.get("series"): return with_refresh_metadata({**existing, "lastUpdated": now_iso(), "notes": (existing.get("notes", []) + ["EIA returned no overlapping California gasoline/diesel periods. Preserved previous history."])[-5:]}, source_type="automated", refresh_status="source_limited", limitations=["EIA returned no overlapping California weekly gasoline/diesel periods; previous history was preserved."])
         raise RuntimeError("EIA returned no overlapping California weekly gasoline/diesel periods.")
     stamp = now_iso()
-    return with_refresh_metadata({"lastUpdated": stamp,"sourceStrength":"High","freshness":"Weekly backup/context","sourceLinks":[{"label":"EIA California weekly gasoline and diesel prices","url":EIA_CA_URL}],"notes":["California backup/context history refreshed from EIA weekly retail gasoline and diesel prices."],"series":[{"date":m,"regular":reg_map[m],"diesel":diesel_map[m]} for m in months]}, source_type="automated", refresh_status="success", attempted_at=stamp, successful_at=stamp, limitations=["EIA California weekly prices are not Sacramento metro prices; they are backup/context for the Sacramento-first AAA view."])
+    return with_refresh_metadata({"lastUpdated": stamp,"sourceStrength":"High","freshness":"Weekly backup/context","sourceLinks":[{"label":"EIA California weekly gasoline and diesel prices","url":EIA_CA_URL}],"notes":["California backup/context history refreshed from EIA weekly retail gasoline and diesel prices."],"series":[{"date":w,"regular":reg_map[w],"diesel":diesel_map[w]} for w in weeks]}, source_type="automated", refresh_status="success", attempted_at=stamp, successful_at=stamp, limitations=["EIA California weekly prices are not Sacramento metro prices; they are backup/context for the Sacramento-first AAA view."])
 aaa = scrape_aaa()
 history = fetch_eia_history(env("EIA_API_KEY"))
 stamp = now_iso()
