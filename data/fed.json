@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T23:08+00:00",
+  "lastUpdated": "2026-06-22T23:10+00:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "sourceLinks": [
@@ -63,8 +63,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-22T23:08+00:00",
-  "lastSuccessfulAt": "2026-06-22T23:08+00:00",
+  "lastAttemptedAt": "2026-06-22T23:10+00:00",
+  "lastSuccessfulAt": "2026-06-22T23:10+00:00",
   "sourceLimitations": [
     "Daily federal funds data may publish with a short FRED lag."
   ]

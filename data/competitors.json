@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T23:08+00:00",
+  "lastUpdated": "2026-06-22T23:10+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "Packaging Corporation of America Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
@@ -44,7 +44,7 @@
             "title": "Sales Representative \u2013 Northern California",
             "source": "Curated",
             "url": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
-            "publishedAt": "2026-06-22T16:00-07:00"
+            "publishedAt": "2026-06-22T23:08+00:00"
           }
         ],
         "moves": [],
@@ -82,7 +82,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "Veritiv Expands Packaging Distribution Footprint Through Acquisition of Stickel Packaging Supply - citybiz",
@@ -108,7 +108,7 @@
             "title": "Sales Representative \u2013 Northern California",
             "source": "Curated",
             "url": "https://www.google.com/search?q=Veritiv%20California%20packaging",
-            "publishedAt": "2026-06-22T16:00-07:00"
+            "publishedAt": "2026-06-22T23:08+00:00"
           }
         ],
         "moves": [
@@ -153,7 +153,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "Imperial Dade Canada Completes Acquisition of Enterprise Paper, Expands Presence in Western Canada - Business Wire",
@@ -229,7 +229,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "Uline Invests in Braselton Facility, Announces Hiring Event - Valdosta Today",
@@ -244,10 +244,10 @@
             "publishedAt": "2026-06-16T19:56+00:00"
           },
           {
-            "title": "More than 1.25 tons of confetti to fly for NYC Knicks parade \u2014 but it won't be orange and blue - New York Post",
-            "source": "New York Post",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVFRBQk52WnhGWmpjakFOV2M1ZTZjdlZ0NEdrUlJWM3lhQmpMb3ozMS1EZndfTFpnNUlBZUF6NTRuSWMzbE0zV0lXZ3NJWEpaclZhakJ0QWUtMmFNdkJPaXJnOUlLVVp4blJTOXI4enFacnN4QXZIZGpZYnF5NzNNTzhXYkt4ckVlM2otb0RuSW8wY245eUY0S1VqQlY4dld5LTdmMWpvUFU0Z0pHX1Y1U05JLWhWVVRESVhFTGYyMjFJV1BuVWN4d0tB?oc=5",
-            "publishedAt": "2026-06-16T21:22+00:00"
+            "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREZqVW5YeE1uN2VtNk1YRElyY3habnVpay1TV19Ybm1LaTZNVEItc3BoMFhIa1JDdndaeE5HbjFTNEVpTDJGMl9iNFY2cEpHcUZnQ2tkeUlhQW5hZ1daV19LdWVCa0UycEdPeUprc0NveERHb3pOcFIzd2dWNkVVdi1qWEh0N0JXb2hONy1lN095eDRielZkN1pQUTVoOGk0RXBhWGtHWVNMdHJIdDcxS25VejhQM09DNG9QZGYtSDc2YkxabXc?oc=5",
+            "publishedAt": "2026-06-22T20:34+00:00"
           }
         ],
         "hiring": [
@@ -270,6 +270,12 @@
             "source": "The Business Journals",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FBUmdOanBoYXBZUUJXeDM1eWE5OFFacXJrT3htTzU3WWpZSTl0Ni1DYnladXFlMkVtQmRhbU1EU3U2VnlmbVRHVl95UElMc1ZsOUhBQnl0SFBvNFlLQUFqZUd2VGEyajhVd0xjQW11eHMzd09nclRDRzYydmVrVHhPY1VCQ1dCQ1NkTHRROEc4RVpaUl82b3FYaG1jQ1A4?oc=5",
             "publishedAt": "2026-06-16T19:56+00:00"
+          },
+          {
+            "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREZqVW5YeE1uN2VtNk1YRElyY3habnVpay1TV19Ybm1LaTZNVEItc3BoMFhIa1JDdndaeE5HbjFTNEVpTDJGMl9iNFY2cEpHcUZnQ2tkeUlhQW5hZ1daV19LdWVCa0UycEdPeUprc0NveERHb3pOcFIzd2dWNkVVdi1qWEh0N0JXb2hONy1lN095eDRielZkN1pQUTVoOGk0RXBhWGtHWVNMdHJIdDcxS25VejhQM09DNG9QZGYtSDc2YkxabXc?oc=5",
+            "publishedAt": "2026-06-22T20:34+00:00"
           }
         ],
         "items": [
@@ -286,10 +292,10 @@
             "publishedAt": "2026-06-16T19:56+00:00"
           },
           {
-            "title": "More than 1.25 tons of confetti to fly for NYC Knicks parade \u2014 but it won't be orange and blue - New York Post",
-            "source": "New York Post",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVFRBQk52WnhGWmpjakFOV2M1ZTZjdlZ0NEdrUlJWM3lhQmpMb3ozMS1EZndfTFpnNUlBZUF6NTRuSWMzbE0zV0lXZ3NJWEpaclZhakJ0QWUtMmFNdkJPaXJnOUlLVVp4blJTOXI4enFacnN4QXZIZGpZYnF5NzNNTzhXYkt4ckVlM2otb0RuSW8wY245eUY0S1VqQlY4dld5LTdmMWpvUFU0Z0pHX1Y1U05JLWhWVVRESVhFTGYyMjFJV1BuVWN4d0tB?oc=5",
-            "publishedAt": "2026-06-16T21:22+00:00"
+            "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREZqVW5YeE1uN2VtNk1YRElyY3habnVpay1TV19Ybm1LaTZNVEItc3BoMFhIa1JDdndaeE5HbjFTNEVpTDJGMl9iNFY2cEpHcUZnQ2tkeUlhQW5hZ1daV19LdWVCa0UycEdPeUprc0NveERHb3pOcFIzd2dWNkVVdi1qWEh0N0JXb2hONy1lN095eDRielZkN1pQUTVoOGk0RXBhWGtHWVNMdHJIdDcxS25VejhQM09DNG9QZGYtSDc2YkxabXc?oc=5",
+            "publishedAt": "2026-06-22T20:34+00:00"
           }
         ],
         "query": "\"Uline\" packaging OR corrugated OR distribution when:30d",
@@ -306,7 +312,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "International Paper Breaks Ground on New Sustainable Packaging Facility in Rankin County, Mississippi - PR Newswire",
@@ -376,7 +382,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "Pratt Industries to expand in Rockwall Technology Park - Pulp and Paper News",
@@ -453,7 +459,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "Washington paper mills mum about chemical safety after Longview disaster - KUOW",
@@ -510,7 +516,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "DS Smith develops fiber-based tray for fresh produce transportation - Packaging Insights",
@@ -567,7 +573,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "Orkka Launches Patented 3D Honeycomb Paper Mat System - MEM Magazine",
@@ -631,7 +637,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "Berlin Packaging Continues North American Expansion with the Acquisition of O.Berk Company - PR Newswire",
@@ -707,25 +713,13 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Compass Packaging Solutions to Continue New England Expansion - PR Newswire",
             "source": "PR Newswire",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFU1Z045U2M1SU5xVndCMlpNdTh6QVY3R1YtNEN2enNpQUhxRlVtWUxUWmdibDRHYTRrTmdpeEhlZTd3ajNpczI2QXNGVHYyTVJZc28wMkZERzdpRGRiV3owLV9talVSV0NnUHRkWndGTjRmQzBXNVdNYi1GZFI5bWMyRi1HNW02VWNiOUZPME5TZGJTZkxNVU1RSUxSOWZHV00tWl8xNjNzdVl4VTVVNUtRZ1E4UHYwLUVjMVZJTk1IWlo3Zk5ySjJhV002WWVpZ1E?oc=5",
             "publishedAt": "2026-06-01T07:00+00:00"
-          },
-          {
-            "title": "SupplyOne acquires Compass Packaging Solutions - Packaging Gateway",
-            "source": "Packaging Gateway",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54cmVubGpZWHY2MnRmU0l3R2Z1R01fOVRqejlyUXdzUTdZWGlIb2VVRnJKc0c2VDdSMHFhalp0UlhqMHJuZ2QzeTVJcnJObUN5T3V5R05LOWFaZTQ0RzE5R2NWc1J2anV1NjBkcjM2UHJQSVFIRDBEYldOWC0?oc=5",
-            "publishedAt": "2026-06-02T07:00+00:00"
-          },
-          {
-            "title": "SupplyOne Expands New England Footprint With Compass Packaging Acquisition - citybiz",
-            "source": "citybiz",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDhpd2hRZWN2NHJsUUx3aGFUS0lUSzU4c3NVbDVWR3o0NmlCS2pULV93NWlfQWhQM25uZHBWXzJBNHBUMzAxTlpnbnowVENTVXRyRDluYS1LTGVOOWJMUGpJM0VidnZveGtMSnhReHMyMlJKWWd6eTJETl83eG1oWEFlMmlSWW8yN2tELTBWWXN0N21SNTNGSk43RGl3d1FudmN5OW05Vjd4RHZVWkpBMjNFNA?oc=5",
-            "publishedAt": "2026-06-01T18:50+00:00"
           }
         ],
         "hiring": [],
@@ -735,18 +729,6 @@
             "source": "PR Newswire",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFU1Z045U2M1SU5xVndCMlpNdTh6QVY3R1YtNEN2enNpQUhxRlVtWUxUWmdibDRHYTRrTmdpeEhlZTd3ajNpczI2QXNGVHYyTVJZc28wMkZERzdpRGRiV3owLV9talVSV0NnUHRkWndGTjRmQzBXNVdNYi1GZFI5bWMyRi1HNW02VWNiOUZPME5TZGJTZkxNVU1RSUxSOWZHV00tWl8xNjNzdVl4VTVVNUtRZ1E4UHYwLUVjMVZJTk1IWlo3Zk5ySjJhV002WWVpZ1E?oc=5",
             "publishedAt": "2026-06-01T07:00+00:00"
-          },
-          {
-            "title": "SupplyOne acquires Compass Packaging Solutions - Packaging Gateway",
-            "source": "Packaging Gateway",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54cmVubGpZWHY2MnRmU0l3R2Z1R01fOVRqejlyUXdzUTdZWGlIb2VVRnJKc0c2VDdSMHFhalp0UlhqMHJuZ2QzeTVJcnJObUN5T3V5R05LOWFaZTQ0RzE5R2NWc1J2anV1NjBkcjM2UHJQSVFIRDBEYldOWC0?oc=5",
-            "publishedAt": "2026-06-02T07:00+00:00"
-          },
-          {
-            "title": "SupplyOne Expands New England Footprint With Compass Packaging Acquisition - citybiz",
-            "source": "citybiz",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDhpd2hRZWN2NHJsUUx3aGFUS0lUSzU4c3NVbDVWR3o0NmlCS2pULV93NWlfQWhQM25uZHBWXzJBNHBUMzAxTlpnbnowVENTVXRyRDluYS1LTGVOOWJMUGpJM0VidnZveGtMSnhReHMyMlJKWWd6eTJETl83eG1oWEFlMmlSWW8yN2tELTBWWXN0N21SNTNGSk43RGl3d1FudmN5OW05Vjd4RHZVWkpBMjNFNA?oc=5",
-            "publishedAt": "2026-06-01T18:50+00:00"
           }
         ],
         "items": [
@@ -755,18 +737,6 @@
             "source": "PR Newswire",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFU1Z045U2M1SU5xVndCMlpNdTh6QVY3R1YtNEN2enNpQUhxRlVtWUxUWmdibDRHYTRrTmdpeEhlZTd3ajNpczI2QXNGVHYyTVJZc28wMkZERzdpRGRiV3owLV9talVSV0NnUHRkWndGTjRmQzBXNVdNYi1GZFI5bWMyRi1HNW02VWNiOUZPME5TZGJTZkxNVU1RSUxSOWZHV00tWl8xNjNzdVl4VTVVNUtRZ1E4UHYwLUVjMVZJTk1IWlo3Zk5ySjJhV002WWVpZ1E?oc=5",
             "publishedAt": "2026-06-01T07:00+00:00"
-          },
-          {
-            "title": "SupplyOne acquires Compass Packaging Solutions - Packaging Gateway",
-            "source": "Packaging Gateway",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54cmVubGpZWHY2MnRmU0l3R2Z1R01fOVRqejlyUXdzUTdZWGlIb2VVRnJKc0c2VDdSMHFhalp0UlhqMHJuZ2QzeTVJcnJObUN5T3V5R05LOWFaZTQ0RzE5R2NWc1J2anV1NjBkcjM2UHJQSVFIRDBEYldOWC0?oc=5",
-            "publishedAt": "2026-06-02T07:00+00:00"
-          },
-          {
-            "title": "SupplyOne Expands New England Footprint With Compass Packaging Acquisition - citybiz",
-            "source": "citybiz",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDhpd2hRZWN2NHJsUUx3aGFUS0lUSzU4c3NVbDVWR3o0NmlCS2pULV93NWlfQWhQM25uZHBWXzJBNHBUMzAxTlpnbnowVENTVXRyRDluYS1LTGVOOWJMUGpJM0VidnZveGtMSnhReHMyMlJKWWd6eTJETl83eG1oWEFlMmlSWW8yN2tELTBWWXN0N21SNTNGSk43RGl3d1FudmN5OW05Vjd4RHZVWkpBMjNFNA?oc=5",
-            "publishedAt": "2026-06-01T18:50+00:00"
           }
         ],
         "query": "\"SupplyOne\" packaging OR corrugated OR distribution when:30d",
@@ -783,7 +753,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T23:08+00:00",
+        "lastUpdated": "2026-06-22T23:10+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -795,8 +765,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-22T23:08+00:00",
-  "lastSuccessfulAt": "2026-06-22T23:08+00:00",
+  "lastAttemptedAt": "2026-06-22T23:10+00:00",
+  "lastSuccessfulAt": "2026-06-22T23:10+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives."
