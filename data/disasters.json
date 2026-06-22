@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T16:15+00:00",
+  "lastUpdated": "2026-06-22T17:56+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,63 +19,63 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "61 km WNW of Anchor Point, Alaska",
+      "region": "49 km E of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "23 km N of Borrego Springs, CA",
+      "region": "9 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "13 km NNE of Cabazon, CA",
+      "region": "6 km NE of Cabazon, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km S of Whites City, New Mexico",
+      "region": "30 km NE of Fort Irwin, California",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "Fiji region",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "9 km WNW of Cobb, CA",
+      "region": "21 km NW of Parkfield, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km SSE of Boca de Yuma, Dominican Republic",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "18 km ESE of Anza, CA",
+      "region": "36 km E of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued June 19 at 8:30AM PDT until June 19 at 7:00PM PDT by NWS Eureka CA",
-      "region": "Eastern Trinity Including Weaverville and Hayfork",
-      "severity": "Severe"
+      "type": "Earthquake",
+      "region": "17 km SSE of Toyah, Texas",
+      "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued June 19 at 8:30AM PDT until June 19 at 7:00PM PDT by NWS Eureka CA",
-      "region": "Northeastern Interior Humboldt and Southwestern Siskiyou Including Orleans; Eastern Interior Humboldt Including Willow Creek and Hoopa; Northwestern Trinity Including Salyer and Big Bar; Northeastern Trinity Including Trinity Lake",
-      "severity": "Severe"
+      "type": "Earthquake",
+      "region": "10 km SW of Morongo Valley, CA",
+      "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued June 19 at 6:16AM PDT until June 19 at 7:00PM PDT by NWS Sacramento CA",
-      "region": "Western Shasta County Mountains Above 3000 ft; Western Shasta County Foothills Between 1000-3000 ft; Shasta Lake Area and Interstate 5 Between 1000-3000 ft; South-Central Shasta County Including Redding Metro; Eastern Shasta County Foothills Between 1000-3000 ft; Eastern Shasta County Mountains and Southern Cascades Above 3000 ft; Burney Basin",
-      "severity": "Severe"
+      "type": "Heat Advisory issued June 22 at 9:34AM PDT until June 25 at 9:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Los Angeles County Inland Coast including Downtown Los Angeles",
+      "severity": "Moderate"
     },
     {
-      "type": "Red Flag Warning issued June 19 at 2:10AM PDT until June 19 at 11:00PM PDT by NWS Reno NV",
-      "region": "Surprise Valley California; Eastern Lassen County; Northern Washoe County",
-      "severity": "Severe"
+      "type": "Heat Advisory issued June 22 at 9:34AM PDT until June 25 at 9:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Clarita Valley; Western San Fernando Valley; Eastern San Fernando Valley; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Beach Hazards Statement issued June 22 at 8:44AM PDT until June 24 at 5:00PM PDT by NWS San Francisco CA",
+      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Heat Advisory issued June 22 at 12:02AM PDT until June 23 at 11:00PM PDT by NWS Medford OR",
+      "region": "Western Siskiyou County; Central Siskiyou County; South Central Siskiyou County; Eastern Curry County and Josephine County; Jackson County",
+      "severity": "Moderate"
     }
   ]
 }
