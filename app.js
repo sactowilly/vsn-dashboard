@@ -401,6 +401,8 @@ function buildCards() {
   const sacDieselDelta = percentChange(gas.sacramentoDiesel, gas.sacramentoWeekAgoDiesel);
   const caGasDelta = percentChange(gas.currentRegular, gas.weekAgoRegular);
   const caDieselDelta = percentChange(gas.currentDiesel, gas.weekAgoDiesel);
+  const eiaCaGasDelta = percentChange(gas.eiaCaliforniaRegular, gas.eiaCaliforniaWeekAgoRegular);
+  const eiaCaDieselDelta = percentChange(gas.eiaCaliforniaDiesel, gas.eiaCaliforniaWeekAgoDiesel);
   const maxFuelMove = Math.max(
     Math.abs(sacGasDelta || 0),
     Math.abs(sacDieselDelta || 0),
@@ -579,23 +581,25 @@ function buildCards() {
         ? "Sacramento metro data unavailable from AAA; California values are shown in the flyout only."
         : `Sac weekly move: gas ${signedPct(sacGasDelta)} | diesel ${signedPct(sacDieselDelta)}`,
       freshness: gas.freshness || "Daily + Monthly",
-      executiveRead: `Sacramento gas is ${money(gasHeadlineRegular)} and Sacramento diesel is ${money(gasHeadlineDiesel)}. California averages are retained below as context only.`,
+      executiveRead: `Sacramento gas is ${money(gasHeadlineRegular)} and Sacramento diesel is ${money(gasHeadlineDiesel)}. California averages and EIA weekly values are retained below as backup/context only.`,
       recommendedAction: gasRisk === "high"
         ? "Review delivery surcharges, route efficiency, and expedited freight exposure immediately."
         : gasRisk === "medium"
           ? "Watch freight-sensitive quotes and consider shorter validity windows if the move persists."
           : "Fuel is not flashing an immediate escalation signal, but keep it visible for logistics and delivery pricing.",
-      history: `Sacramento gas moved ${signedPct(sacGasDelta)} versus a week ago; Sacramento diesel moved ${signedPct(sacDieselDelta)}. California gas moved ${signedPct(caGasDelta)} and California diesel moved ${signedPct(caDieselDelta)}.`,
+      history: `Sacramento gas moved ${signedPct(sacGasDelta)} versus a week ago; Sacramento diesel moved ${signedPct(sacDieselDelta)}. California gas moved ${signedPct(caGasDelta)} and California diesel moved ${signedPct(caDieselDelta)}. EIA weekly California backup moved gas ${signedPct(eiaCaGasDelta)} and diesel ${signedPct(eiaCaDieselDelta)} when available.`,
       why: "Fuel is one of the clearest operating-cost indicators for local delivery, inbound supplier freight, and customer logistics sensitivity.",
       use: "Use this tile for delivery-charge review, route planning, and deciding when freight-sensitive quotes need updated assumptions.",
       chart: fuelChart,
-      extraHtml: box("Sacramento vs California",
+      extraHtml: box("Sacramento Primary / CA Backup",
         `<div class="quality-grid compact">` +
         `<div><span>Sac gas</span><strong>${esc(money(gas.sacramentoRegular))}</strong></div>` +
         `<div><span>Sac diesel</span><strong>${esc(money(gas.sacramentoDiesel))}</strong></div>` +
-        `<div><span>CA gas</span><strong>${esc(money(gas.currentRegular))}</strong></div>` +
-        `<div><span>CA diesel</span><strong>${esc(money(gas.currentDiesel))}</strong></div>` +
-        `</div>`),
+        `<div><span>AAA CA gas</span><strong>${esc(money(gas.currentRegular))}</strong></div>` +
+        `<div><span>AAA CA diesel</span><strong>${esc(money(gas.currentDiesel))}</strong></div>` +
+        `<div><span>EIA CA gas</span><strong>${esc(money(gas.eiaCaliforniaRegular))}</strong></div>` +
+        `<div><span>EIA CA diesel</span><strong>${esc(money(gas.eiaCaliforniaDiesel))}</strong></div>` +
+        `</div><p class="fineprint">EIA is statewide weekly backup/context. Sacramento AAA values remain the dashboard's primary gas and diesel signal.</p>`),
       links: gas.sourceLinks || []
     },
     {
