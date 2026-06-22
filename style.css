@@ -38,18 +38,27 @@ a:hover{text-decoration:underline}
 }
 
 .top{
+  position:relative;
   display:grid;
-  grid-template-columns:230px minmax(390px,1fr) auto auto;
+  grid-template-columns:minmax(390px,1fr) auto auto;
   gap:16px;
   align-items:center;
   border-radius:14px;
   padding:18px;
+  overflow:hidden;
 }
-.brand-logo{
-  width:min(230px,100%);
-  height:auto;
-  display:block;
-  filter:drop-shadow(0 10px 22px rgba(0,0,0,.30));
+.top::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  z-index:0;
+  background:url("assets/vision-logo-white.png") no-repeat left 28px center / min(520px,48vw) auto;
+  opacity:.10;
+  pointer-events:none;
+}
+.top > *{
+  position:relative;
+  z-index:1;
 }
 .eyebrow{
   color:var(--cyan);
@@ -360,7 +369,7 @@ a:hover{text-decoration:underline}
 .toast.show{opacity:1;transform:translateY(0)}
 
 @media(max-width:1280px){
-  .top{grid-template-columns:220px minmax(0,1fr)}
+  .top{grid-template-columns:minmax(0,1fr)}
   .meta{grid-column:1/-1;justify-content:flex-start}
   .primary-action{justify-self:start}
   .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
@@ -375,7 +384,7 @@ a:hover{text-decoration:underline}
 }
 @media(max-width:600px){
   .top{grid-template-columns:1fr}
-  .brand-logo{width:min(240px,100%)}
+  .top::before{background-size:340px auto;background-position:center 22px}
   .meta{display:grid;grid-template-columns:1fr}
   .grid{grid-template-columns:1fr}
   .panel{padding:16px}
