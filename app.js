@@ -1,9 +1,12 @@
 const cfg = window.DASHBOARD_CONFIG;
+const APP_VERSION = "v0.1";
 
 const state = {
   data: {},
   cards: [],
-  chart: null
+  chart: null,
+  loadErrors: [],
+  lastClientRefresh: null
 };
 
 const els = {
@@ -16,7 +19,24 @@ const els = {
   clockDisplay: document.getElementById("clockDisplay"),
   globalLastUpdated: document.getElementById("globalLastUpdated"),
   statusToast: document.getElementById("statusToast"),
-  overviewSummary: document.getElementById("overviewSummary")
+  overviewSummary: document.getElementById("overviewSummary"),
+  overviewStats: document.getElementById("overviewStats"),
+  appVersion: document.getElementById("appVersion")
+};
+
+if (els.appVersion) els.appVersion.textContent = APP_VERSION;
+
+const TILE_SOURCE = {
+  unemployment: { key: "unemployment", maxAgeDays: 45 },
+  fed: { key: "fed", maxAgeDays: 5 },
+  stocks: { key: "stocks", maxAgeDays: 5 },
+  disasters: { key: "disasters", maxAgeDays: 4 },
+  labor: { key: "labor", maxAgeDays: 14 },
+  pulp: { key: "pulp", maxAgeDays: 45 },
+  resin: { key: "resin", maxAgeDays: 45 },
+  gas: { key: "gasCurrent", maxAgeDays: 5 },
+  competitors: { key: "competitors", maxAgeDays: 30 },
+  news: { key: "news", maxAgeDays: 14 }
 };
 
 function esc(value) {
@@ -28,15 +48,17 @@ function esc(value) {
     .replace(/'/g, "&#39;");
 }
 
-function fmt(dateLike, options) {
+function fmt(dateLike, options = {}) {
+  const date = new Date(dateLike);
+  if (Number.isNaN(date.getTime())) return "Unavailable";
   return new Intl.DateTimeFormat("en-US", {
     timeZone: cfg.timezone,
     ...options
-  }).format(new Date(dateLike));
+  }).format(date);
 }
 
 function money(value) {
-  if (value == null || Number.isNaN(Number(value))) return "N/A";
+  if (value == null || Number.isNaN(Number(value))) return "Unavailable";
   return new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: "USD"
@@ -44,17 +66,25 @@ function money(value) {
 }
 
 function pct(value, digits = 1) {
-  if (value == null || Number.isNaN(Number(value))) return "N/A";
+  if (value == null || Number.isNaN(Number(value))) return "Unavailable";
   return `${Number(value).toFixed(digits)}%`;
 }
 
+function signedPct(value, digits = 1) {
+  if (value == null || Number.isNaN(Number(value))) return "Unavailable";
+  const sign = Number(value) > 0 ? "+" : "";
+  return `${sign}${Number(value).toFixed(digits)}%`;
+}
+
 function num(value, digits = 1) {
-  if (value == null || Number.isNaN(Number(value))) return "N/A";
+  if (value == null || Number.isNaN(Number(value))) return "Unavailable";
   return Number(value).toFixed(digits);
 }
 
-function chip(text) {
-  return `<span class="chip">${esc(text)}</span>`;
+function signedNum(value, digits = 1) {
+  if (value == null || Number.isNaN(Number(value))) return "Unavailable";
+  const sign = Number(value) > 0 ? "+" : "";
+  return `${sign}${Number(value).toFixed(digits)}`;
 }
 
 function percentChange(current, previous) {
@@ -62,8 +92,64 @@ function percentChange(current, previous) {
   return ((Number(current) - Number(previous)) / Number(previous)) * 100;
 }
 
-function riskClass(level) {
-  return level || "low";
+function chip(text, tone = "") {
+  return `<span class="chip ${esc(tone)}">${esc(text)}</span>`;
+}
+
+function trendWord(value, threshold = 0) {
+  if (value == null || Number.isNaN(Number(value))) return "unavailable";
+  if (Number(value) > threshold) return "up";
+  if (Number(value) < -threshold) return "down";
+  return "flat";
+}
+
+function riskLabel(risk) {
+  return risk === "high" ? "High" : risk === "medium" ? "Medium" : "Low";
+}
+
+function latest(series) {
+  return (series || [])[series.length - 1] || {};
+}
+
+function previous(series) {
+  return (series || [])[Math.max(0, (series || []).length - 2)] || {};
+}
+
+function sourceFor(tileId) {
+  const meta = TILE_SOURCE[tileId];
+  return meta ? state.data[meta.key] || {} : {};
+}
+
+function publishedAt() {
+  return state.data.buildMeta?.publishedAt || state.data.buildMeta?.lastUpdated || new Date().toISOString();
+}
+
+function freshnessInfo(tileId) {
+  const meta = TILE_SOURCE[tileId];
+  if (!meta) return { updated: null, stale: false, ageDays: null, strength: null, freshness: null };
+  const src = state.data[meta.key] || {};
+  const updated = src.lastUpdated || null;
+  const strength = src.sourceStrength || "Unknown";
+  const freshness = src.freshness || "Unspecified";
+  let ageDays = null;
+  let stale = false;
+
+  if (updated) {
+    ageDays = (Date.now() - new Date(updated).getTime()) / 86400000;
+    stale = ageDays > meta.maxAgeDays;
+  } else {
+    stale = true;
+  }
+
+  return { updated, stale, ageDays, strength, freshness, maxAgeDays: meta.maxAgeDays };
+}
+
+function sourceQuality(tileId) {
+  const info = freshnessInfo(tileId);
+  if (!info.updated) return "No timestamp. Treat as manual/starter data until verified.";
+  const age = Math.max(0, Math.round(info.ageDays || 0));
+  const status = info.stale ? "Stale" : "Current";
+  return `${status}: ${info.strength} source, updated ${age} day(s) ago, expected freshness ${info.freshness}.`;
 }
 
 function showToast(message) {
@@ -72,374 +158,491 @@ function showToast(message) {
   clearTimeout(showToast.timer);
   showToast.timer = setTimeout(() => {
     els.statusToast.className = "toast";
-  }, 2500);
+  }, 2800);
+}
+
+function setLoading(isLoading) {
+  els.refreshButton.disabled = isLoading;
+  els.refreshButton.textContent = isLoading ? "Refreshing..." : "Refresh Published Data";
+  els.tileGrid.classList.toggle("loading", isLoading);
+  if (isLoading && !state.cards.length) {
+    els.tileGrid.innerHTML = `<div class="loading-card">Loading published data...</div>`;
+  }
 }
 
 async function loadPublishedData() {
   const entries = Object.entries(cfg.dataFiles);
+  const cacheBust = `v=${Date.now()}`;
   const results = await Promise.allSettled(
     entries.map(async ([key, path]) => {
-      const res = await fetch(path, { cache: "no-store" });
-      if (!res.ok) {
-        throw new Error(`Failed to load ${path}`);
+      const separator = path.includes("?") ? "&" : "?";
+      const res = await fetch(`${path}${separator}${cacheBust}`, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      try {
+        return [key, await res.json()];
+      } catch (e) {
+        throw new Error("invalid JSON");
       }
-      return [key, await res.json()];
     })
   );
 
   const out = {};
-  for (const result of results) {
+  const errors = [];
+  results.forEach((result, i) => {
+    const [key, path] = entries[i];
     if (result.status === "fulfilled") {
-      const [key, value] = result.value;
-      out[key] = value;
+      out[result.value[0]] = result.value[1];
+    } else {
+      errors.push({ key, path, reason: result.reason?.message || "load failed" });
     }
-  }
+  });
+
   state.data = out;
+  state.loadErrors = errors;
+  state.lastClientRefresh = new Date().toISOString();
 }
 
-function publishedAt() {
-  return state.data.buildMeta?.publishedAt || new Date().toISOString();
+function chartConfig(labels, series, title) {
+  if (!labels?.length || !series?.length) return null;
+  return { labels, series, title };
+}
+
+function buildLineChartFromSeries(series, fields, title) {
+  if (!series?.length) return null;
+  return chartConfig(
+    series.map(row => row.date || ""),
+    fields.map(field => ({
+      label: field.label,
+      data: series.map(row => row[field.key])
+    })),
+    title
+  );
 }
 
 function buildCompetitorSignals(companies) {
-  const rows = [];
+  return (companies || [])
+    .map(company => {
+      const signals = company.signals || {};
+      const news = signals.news || [];
+      const hiring = signals.hiring || [];
+      const moves = signals.moves || [];
+      return {
+        ...company,
+        signalUpdated: signals.lastUpdated || "",
+        news,
+        hiring,
+        moves,
+        total: news.length + hiring.length + moves.length
+      };
+    })
+    .filter(company => company.total > 0);
+}
 
-  for (const company of companies || []) {
-    const signals = company.signals || {};
-    const news = signals.news || [];
-    const hiring = signals.hiring || [];
-    const moves = signals.moves || [];
+function box(title, body, className = "") {
+  return `<section class="box ${esc(className)}"><h3>${esc(title)}</h3>${body}</section>`;
+}
 
-    if (!news.length && !hiring.length && !moves.length) continue;
+function paragraphList(items) {
+  const usable = (items || []).filter(Boolean);
+  if (!usable.length) return `<p>Unavailable.</p>`;
+  return `<ul>${usable.map(item => `<li>${esc(item)}</li>`).join("")}</ul>`;
+}
 
-    rows.push({
-      name: company.name,
-      city: company.city,
-      category: company.category,
-      priority: company.priority,
-      notes: company.notes,
-      website: company.website,
-      googleNews: company.googleNews,
-      search: company.search,
-      lastUpdated: signals.lastUpdated || company.lastUpdated || "",
-      news,
-      hiring,
-      moves,
-      total: news.length + hiring.length + moves.length
-    });
-  }
+function linkList(links) {
+  if (!links?.length) return `<p>No source links published for this tile.</p>`;
+  return `<div class="detail-links">${links.map(link =>
+    `<a href="${esc(link.url)}" target="_blank" rel="noopener noreferrer">${esc(link.label || link.url)}</a>`
+  ).join("")}</div>`;
+}
 
-  return rows;
+function notesHtml(notes) {
+  return notes?.length ? paragraphList(notes) : `<p>No notes published.</p>`;
+}
+
+function sourceHtml(card) {
+  const src = sourceFor(card.id);
+  const f = freshnessInfo(card.id);
+  const updated = f.updated
+    ? fmt(f.updated, { year: "numeric", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })
+    : "No timestamp";
+  return (
+    `<div class="quality-grid">` +
+    `<div><span>Status</span><strong>${esc(f.stale ? "Needs review" : "Current")}</strong></div>` +
+    `<div><span>Source strength</span><strong>${esc(f.strength || "Unknown")}</strong></div>` +
+    `<div><span>Freshness</span><strong>${esc(f.freshness || "Unspecified")}</strong></div>` +
+    `<div><span>Updated</span><strong>${esc(updated)}</strong></div>` +
+    `</div>` +
+    `<p>${esc(sourceQuality(card.id))}</p>` +
+    notesHtml(src.notes)
+  );
 }
 
 function buildCards() {
   const unemployment = state.data.unemployment || {};
   const uSeries = unemployment.series || [];
-  const uLast = uSeries[uSeries.length - 1] || {};
-  const uPrev = uSeries[uSeries.length - 2] || {};
+  const uLast = latest(uSeries);
+  const uPrev = previous(uSeries);
+  const unemploymentDelta = uLast.sacramento != null && uPrev.sacramento != null
+    ? Number(uLast.sacramento) - Number(uPrev.sacramento)
+    : null;
+  const unemploymentRisk = unemploymentDelta != null && unemploymentDelta > 0.2 ? "medium" : "low";
 
   const fed = state.data.fed || {};
   const fSeries = fed.series || [];
-  const fLast = fSeries[fSeries.length - 1] || {};
-  const fPrev = fSeries[fSeries.length - 2] || {};
+  const fLast = latest(fSeries);
+  const fPrev = previous(fSeries);
+  const fedDelta = fLast.value != null && fPrev.value != null ? Number(fLast.value) - Number(fPrev.value) : null;
 
   const stocks = state.data.stocks || {};
   const sLast = stocks.latest || {};
+  const vixRisk = Number(sLast.vix) >= 30 ? "high" : Number(sLast.vix) >= 20 ? "medium" : "low";
+
+  const disasters = state.data.disasters || {};
+  const disasterEvents = disasters.events || [];
+  const severeEvents = disasterEvents.filter(event => /severe|extreme|high/i.test(event.severity || ""));
+  const disasterRisk = severeEvents.length >= 4 || disasterEvents.length >= 8
+    ? "high"
+    : severeEvents.length >= 1 || disasterEvents.length >= 3 ? "medium" : "low";
+
+  const labor = state.data.labor || {};
+  const laborActions = labor.actions || [];
+  const laborRisk = laborActions.length >= 4 ? "high" : laborActions.length >= 2 ? "medium" : "low";
+
+  const pulp = state.data.pulp || {};
+  const pSeries = pulp.series || [];
+  const pLast = latest(pSeries);
+  const pPrev = previous(pSeries);
+  const pulpDelta = pLast.value != null && pPrev.value != null ? Number(pLast.value) - Number(pPrev.value) : null;
+  const pulpTon = pulp.currentDeltaTon != null ? Number(pulp.currentDeltaTon) : null;
+  const pulpRisk = Math.abs(pulpTon || 0) >= 40 ? "medium" : "low";
+
+  const resin = state.data.resin || {};
+  const rSeries = resin.series || [];
+  const rLast = latest(rSeries);
+  const rPrev = previous(rSeries);
+  const resinDelta = rLast.value != null && rPrev.value != null ? Number(rLast.value) - Number(rPrev.value) : null;
+  const resinRisk = Math.abs(resinDelta || 0) >= 1 ? "medium" : "low";
 
   const gas = state.data.gasCurrent || {};
   const gasHistory = state.data.gasHistory || {};
   const sacHistory = gas.sacramentoHistory || [];
   const caHistory = gasHistory.series || [];
-
-  const disasters = state.data.disasters || {};
-  const labor = state.data.labor || {};
-  const pulp = state.data.pulp || {};
-  const pSeries = pulp.series || [];
-  const pLast = pSeries[pSeries.length - 1] || {};
-  const resin = state.data.resin || {};
-  const rSeries = resin.series || [];
-  const rLast = rSeries[rSeries.length - 1] || {};
-  const competitors = state.data.competitors || {};
-  const news = state.data.news || {};
-
-  const competitorCompanies = competitors.companies || [];
-  const competitorSignals = buildCompetitorSignals(competitorCompanies);
-  const competitorSignalCount = competitorSignals.reduce((sum, row) => sum + row.total, 0);
-  const competitorHiringCount = competitorSignals.reduce((sum, row) => sum + row.hiring.length, 0);
-  const competitorMovesCount = competitorSignals.reduce((sum, row) => sum + row.moves.length, 0);
-  const competitorNewsCount = competitorSignals.reduce((sum, row) => sum + row.news.length, 0);
-
-  const unemploymentDelta =
-    uLast.sacramento != null && uPrev.sacramento != null
-      ? uLast.sacramento - uPrev.sacramento
-      : 0;
-
-  const fedDelta =
-    fLast.value != null && fPrev.value != null
-      ? fLast.value - fPrev.value
-      : 0;
-
+  const gasGeo = gas.sacramentoRegular != null ? "Sacramento" : "California";
+  const gasHeadlineRegular = gas.sacramentoRegular != null ? gas.sacramentoRegular : gas.currentRegular;
+  const gasHeadlineDiesel = gas.sacramentoDiesel != null ? gas.sacramentoDiesel : gas.currentDiesel;
   const sacGasDelta = percentChange(gas.sacramentoRegular, gas.sacramentoWeekAgoRegular);
   const sacDieselDelta = percentChange(gas.sacramentoDiesel, gas.sacramentoWeekAgoDiesel);
   const caGasDelta = percentChange(gas.currentRegular, gas.weekAgoRegular);
   const caDieselDelta = percentChange(gas.currentDiesel, gas.weekAgoDiesel);
-
   const maxFuelMove = Math.max(
     Math.abs(sacGasDelta || 0),
     Math.abs(sacDieselDelta || 0),
     Math.abs(caGasDelta || 0),
     Math.abs(caDieselDelta || 0)
   );
-
   const gasRisk = maxFuelMove >= 5 ? "high" : maxFuelMove >= 2 ? "medium" : "low";
-  const vixRisk =
-    Number(sLast.vix) >= 30 ? "high" : Number(sLast.vix) >= 20 ? "medium" : "low";
+  const fuelChartRows = sacHistory.length ? sacHistory : caHistory;
+  const fuelChart = fuelChartRows.length
+    ? buildLineChartFromSeries(fuelChartRows, [
+        { key: "regular", label: `${gasGeo} gas` },
+        { key: "diesel", label: `${gasGeo} diesel` }
+      ], "Fuel price trend")
+    : null;
 
-  const pulpTon = pulp.currentDeltaTon != null ? pulp.currentDeltaTon : 40;
-  const pulpRisk = Math.abs(pulpTon) >= 40 ? "medium" : "low";
+  const competitors = state.data.competitors || {};
+  const competitorCompanies = competitors.companies || [];
+  const competitorSignals = buildCompetitorSignals(competitorCompanies);
+  const competitorSignalCount = competitorSignals.reduce((sum, row) => sum + row.total, 0);
+  const competitorHiringCount = competitorSignals.reduce((sum, row) => sum + row.hiring.length, 0);
+  const competitorMovesCount = competitorSignals.reduce((sum, row) => sum + row.moves.length, 0);
+  const competitorNewsCount = competitorSignals.reduce((sum, row) => sum + row.news.length, 0);
+  const competitorRisk = competitorSignalCount >= 6 ? "high" : competitorSignalCount >= 3 ? "medium" : "low";
 
-  const arrow = (v) => {
-    if (v == null || Number.isNaN(Number(v))) return "•";
-    if (Number(v) > 0.15) return "▲";
-    if (Number(v) < -0.15) return "▼";
-    return "•";
-  };
+  const news = state.data.news || {};
+  const stories = news.stories || [];
+  const mediumImpactStories = stories.filter(story => /medium|high/i.test(story.impact || ""));
 
   state.cards = [
     {
       id: "unemployment",
       title: "Unemployment Rate",
-      risk: unemploymentDelta > 0.2 ? "medium" : "low",
+      risk: unemploymentRisk,
+      value: uLast.sacramento != null ? pct(uLast.sacramento) : "Unavailable",
+      secondary: `CA ${pct(uLast.california)} | US ${pct(uLast.us)}`,
+      subtext: `Sacramento ${trendWord(unemploymentDelta, 0.05)} ${signedNum(unemploymentDelta, 1)} pts vs prior period`,
       freshness: unemployment.freshness || "Monthly",
-      value: uLast.sacramento != null ? pct(uLast.sacramento) : "N/A",
-      secondary:
-        uLast.california != null
-          ? `CA ${pct(uLast.california)} • US ${pct(uLast.us)}`
-          : "",
-      subtext: "Sacramento headline with California and U.S. context",
-      summary: `Sacramento unemployment is ${uLast.sacramento != null ? pct(uLast.sacramento) : "N/A"}. California is ${uLast.california != null ? pct(uLast.california) : "N/A"} and the U.S. is ${uLast.us != null ? pct(uLast.us) : "N/A"}.`,
-      changed:
-        unemploymentDelta === 0
-          ? "Using the latest published period versus prior period, Sacramento was unchanged."
-          : `Using the latest published period versus prior period, Sacramento moved ${pct(unemploymentDelta)}.`,
-      why: "Regional labor conditions influence customer demand, staffing pressure, and local manufacturing activity.",
+      executiveRead: `Sacramento unemployment is ${pct(uLast.sacramento)} for ${uLast.date || "the latest period"}, versus California at ${pct(uLast.california)} and the U.S. at ${pct(uLast.us)}.`,
+      recommendedAction: unemploymentRisk === "medium"
+        ? "Review staffing plans and customer-demand assumptions; a local labor softening signal can pressure discretionary packaging demand."
+        : "Keep hiring and customer demand assumptions steady; no immediate labor-market escalation is visible in the published data.",
+      history: `The latest month moved ${signedNum(unemploymentDelta, 1)} percentage points versus the prior published Sacramento reading.`,
+      why: "Regional labor conditions influence production activity, local customer health, and the pressure customers may feel on purchasing decisions.",
+      use: "Use this as a demand-temperature signal when reviewing pipeline quality, credit exposure, and staffing plans for local accounts.",
+      chart: buildLineChartFromSeries(uSeries, [
+        { key: "sacramento", label: "Sacramento" },
+        { key: "california", label: "California" },
+        { key: "us", label: "U.S." }
+      ], "Unemployment trend"),
       links: unemployment.sourceLinks || []
     },
     {
       id: "fed",
       title: "Federal Funds Rate",
       risk: Number(fLast.value) >= 5 ? "medium" : "low",
+      value: fLast.value != null ? pct(fLast.value, 2) : "Unavailable",
+      secondary: fedDelta === 0 ? "Stable vs prior point" : `${signedNum(fedDelta, 2)} pts vs prior point`,
+      subtext: "Borrowing-cost and macro-demand backdrop",
       freshness: fed.freshness || "Daily",
-      value: fLast.value != null ? pct(fLast.value, 2) : "N/A",
-      secondary: "",
-      subtext: fedDelta === 0 ? "Stable versus prior point" : `${fedDelta > 0 ? "Up" : "Down"} versus prior point`,
-      summary: `The effective federal funds rate is ${fLast.value != null ? pct(fLast.value, 2) : "N/A"}.`,
-      changed:
-        fedDelta === 0
-          ? "Over the past 72 hours, the published rate held steady."
-          : `Over the past 72 hours, the published rate changed ${pct(fedDelta, 2)}.`,
-      why: "Rates shape borrowing conditions and macro demand sentiment.",
+      executiveRead: `The effective federal funds rate is ${pct(fLast.value, 2)} on ${fLast.date || "the latest published day"}.`,
+      recommendedAction: Number(fLast.value) >= 5
+        ? "Keep margin discipline tight on longer quotes and financing-sensitive accounts."
+        : "Use rates as context, but do not over-weight this tile unless customer financing or inventory behavior changes.",
+      history: fedDelta === 0 ? "The latest published point is unchanged from the prior observation." : `The latest point changed ${signedNum(fedDelta, 2)} percentage points.`,
+      why: "Rates shape borrowing conditions, capital spending, inventory behavior, and confidence among packaging buyers.",
+      use: "Use this tile to frame pricing patience, large-account terms, and demand risk in rate-sensitive verticals.",
+      chart: buildLineChartFromSeries(fSeries, [{ key: "value", label: "Fed funds" }], "Fed funds trend"),
       links: fed.sourceLinks || []
     },
     {
       id: "stocks",
       title: "Markets & VIX",
       risk: vixRisk,
+      value: `S&P ${sLast.sp500 != null ? num(sLast.sp500, 0) : "Unavailable"}`,
+      secondary: `Dow ${sLast.dow != null ? num(sLast.dow, 0) : "Unavailable"} | VIX ${sLast.vix != null ? num(sLast.vix, 1) : "Unavailable"}`,
+      subtext: vixRisk === "high" ? "High market volatility" : vixRisk === "medium" ? "Elevated volatility" : "Stable volatility backdrop",
       freshness: stocks.freshness || "Daily",
-      value: `S&P ${sLast.sp500 != null ? num(sLast.sp500, 0) : "N/A"}`,
-      secondary: `Dow ${sLast.dow != null ? num(sLast.dow, 0) : "N/A"} • VIX ${sLast.vix != null ? num(sLast.vix, 1) : "N/A"}`,
-      subtext: "Macro sentiment and volatility context",
-      summary: `The S&P is ${sLast.sp500 != null ? num(sLast.sp500, 0) : "N/A"}, the Dow is ${sLast.dow != null ? num(sLast.dow, 0) : "N/A"}, and the VIX is ${sLast.vix != null ? num(sLast.vix, 1) : "N/A"}.`,
-      changed: "Use a 72-hour window here. The key story is market tone and VIX movement.",
-      why: "This is supporting context, not a direct pricing input.",
+      executiveRead: `Market context shows S&P ${num(sLast.sp500, 0)}, Dow ${num(sLast.dow, 0)}, and VIX ${num(sLast.vix, 1)}.`,
+      recommendedAction: vixRisk === "high"
+        ? "Flag customer demand and payment-risk conversations; high VIX often coincides with cautious purchasing behavior."
+        : "Treat market tone as supporting context only; no direct operational action is required from this tile alone.",
+      history: stocks.whatChanged || "No market history is published in the current JSON, so this tile is a point-in-time sentiment read.",
+      why: "Markets and volatility are not direct packaging inputs, but they help explain management confidence and buyer caution.",
+      use: "Use this as an executive context tile when discussing pipeline risk, quote timing, and large customer sentiment.",
       links: stocks.sourceLinks || []
     },
     {
       id: "disasters",
       title: "Natural Disasters",
-      risk:
-        (disasters.events || []).length >= 4
-          ? "high"
-          : (disasters.events || []).length >= 2
-            ? "medium"
-            : "low",
+      risk: disasterRisk,
+      value: String(disasterEvents.length),
+      secondary: severeEvents.length ? `${severeEvents.length} severe event(s)` : "No severe events flagged",
+      subtext: "Freight, utility, supplier, and West Coast corridor watch",
       freshness: disasters.freshness || "Live mirror",
-      value: String((disasters.events || []).length),
-      secondary:
-        disasters.events && disasters.events[0]
-          ? disasters.events[0].type
-          : "No active published events",
-      subtext: "California and West Coast freight corridor scope",
-      summary: `There are ${(disasters.events || []).length} active or recent relevant published events.`,
-      changed: "Use a 72-hour window for current disruptions affecting freight corridors, utilities, or supplier operations.",
-      why: "Disruption events matter when they threaten ports, highways, suppliers, utilities, or regional freight movement.",
+      executiveRead: `${disasterEvents.length} active or recent relevant event(s) are published; ${severeEvents.length} are marked severe/high.`,
+      recommendedAction: severeEvents.length
+        ? "Check affected freight corridors, supplier lead times, and customers near the severe-event regions before promising tight delivery windows."
+        : "Keep normal logistics assumptions, while monitoring the event list for any California corridor escalation.",
+      history: disasters.whatChanged || "This event-card tile reflects the latest mirrored alerts rather than a long historical series.",
+      why: "Natural disasters matter when they interrupt ports, highways, utilities, supplier operations, or customer receiving capacity.",
+      use: "Use this panel in daily ops review before committing expedited deliveries or supplier-dependent timelines.",
+      extraHtml: box("Event Watch", disasterEvents.length
+        ? `<div class="event-list">${disasterEvents.map(event =>
+            `<div class="event-row"><strong>${esc(event.severity || "Unknown")}</strong><span>${esc(event.type || "Event")}</span><em>${esc(event.region || "Region unavailable")}</em></div>`
+          ).join("")}</div>`
+        : `<p>No active published events.</p>`),
       links: disasters.sourceLinks || []
     },
     {
       id: "labor",
       title: "Strikes & Labor",
-      risk: "low",
-      freshness: labor.freshness || "Daily",
-      value: String((labor.actions || []).length),
-      secondary:
-        labor.actions && labor.actions[0]
-          ? labor.actions[0].headline
-          : "No active items",
+      risk: laborRisk,
+      value: String(laborActions.length),
+      secondary: laborActions[0]?.headline || "No active items",
       subtext: "Port, warehouse, manufacturing, and freight relevance",
-      summary: `This panel includes ${(labor.actions || []).length} published items.`,
-      changed: "Use a 72-hour view for active labor-related items.",
-      why: "Labor actions matter when they affect ports, production, transport, or regional labor stability.",
+      freshness: labor.freshness || "Daily",
+      executiveRead: `${laborActions.length} labor action(s) are published in the current set.`,
+      recommendedAction: laborActions.length
+        ? "Review whether any action touches logistics, manufacturing, ports, or key customers before locking delivery commitments."
+        : "No immediate labor escalation is published; continue routine monitoring.",
+      history: labor.whatChanged || "The current labor dataset is starter/manual until additional live refresh jobs are added.",
+      why: "Labor actions can disrupt freight, customer production schedules, and the reliability of warehouse or manufacturing operations.",
+      use: "Use this to prompt supplier/customer check-ins when logistics or manufacturing sectors appear in the action list.",
+      extraHtml: box("Published Actions", laborActions.length
+        ? `<div class="event-list">${laborActions.map(action =>
+            `<div class="event-row"><strong>${esc(action.sector || "Sector unavailable")}</strong><span>${esc(action.headline || "Labor action")}</span><em>${esc(action.region || "Region unavailable")}</em></div>`
+          ).join("")}</div>`
+        : `<p>No active published labor items.</p>`),
       links: labor.sourceLinks || []
     },
     {
       id: "pulp",
       title: "Pulp Market",
       risk: pulpRisk,
+      value: pulpTon == null ? "Unavailable" : pulpTon > 0 ? `Up ${money(Math.abs(pulpTon))}/ton` : pulpTon < 0 ? `Down ${money(Math.abs(pulpTon))}/ton` : "Flat",
+      secondary: pLast.value != null ? `Index ${num(pLast.value, 1)}` : "No index",
+      subtext: `${trendWord(pulpDelta, 0.05)} ${signedNum(pulpDelta, 1)} index pts vs prior period`,
       freshness: pulp.freshness || "Monthly",
-      value:
-        pulpTon > 0
-          ? `Up ${money(Math.abs(pulpTon))}/ton`
-          : pulpTon < 0
-            ? `Down ${money(Math.abs(pulpTon))}/ton`
-            : "Flat",
-      secondary: pLast.value != null ? `Index ${num(pLast.value, 1)}` : "",
-      subtext: "Proxy index for pulp/corrugated market direction",
-      summary: `Pulp is ${pulpTon > 0 ? "up" : pulpTon < 0 ? "down" : "flat"} ${pulpTon !== 0 ? money(Math.abs(pulpTon)) + "/ton" : ""}.`,
-      changed: "Use latest published period versus prior period. If pulp is up, Pratt and International Paper have more room to support firmer local pricing.",
-      why: "A meaningful upward move can support firmer local corrugated pricing from major suppliers.",
+      executiveRead: `The pulp proxy index is ${num(pLast.value, 1)} and the published market view shows ${pulpTon == null ? "no tonnage delta" : signedNum(pulpTon, 0) + " per ton"}.`,
+      recommendedAction: pulpRisk === "medium"
+        ? "Prepare account teams for firmer corrugated pricing conversations and protect margin on longer-running quotes."
+        : "Keep pulp in the pricing watchlist, but no immediate corrugated escalation is indicated by the proxy.",
+      history: `The proxy index moved ${signedNum(pulpDelta, 1)} points versus the prior published period.`,
+      why: "Pulp and fiber direction can support or weaken corrugated pricing pressure from large paper and box suppliers.",
+      use: "Use this tile when deciding whether to hold quote expirations short, recheck supplier costs, or pre-brief sales on price movement.",
+      chart: buildLineChartFromSeries(pSeries, [{ key: "value", label: "Pulp proxy" }], "Pulp proxy trend"),
       links: pulp.sourceLinks || []
     },
     {
       id: "resin",
       title: "Resin Market",
-      risk: "low",
+      risk: resinRisk,
+      value: rLast.value != null ? num(rLast.value, 1) : "Unavailable",
+      secondary: `${trendWord(resinDelta, 0.05)} ${signedNum(resinDelta, 1)} pts`,
+      subtext: "Stretch film, poly, and resin-linked packaging signal",
       freshness: resin.freshness || "Monthly",
-      value: rLast.value != null ? num(rLast.value, 1) : "N/A",
-      secondary: "Proxy direction",
-      subtext: "Proxy index for plastics/resins direction",
-      summary: `Resin proxy is ${rLast.value != null ? num(rLast.value, 1) : "N/A"}.`,
-      changed: "Use latest published period versus prior period for this monthly panel.",
-      why: "This matters for stretch film, poly, and resin-linked packaging conversations.",
+      executiveRead: `The resin proxy is ${num(rLast.value, 1)} for ${rLast.date || "the latest period"}.`,
+      recommendedAction: resinRisk === "medium"
+        ? "Recheck resin-linked product margins and flag accounts with large stretch-film or poly exposure."
+        : "Maintain normal resin-linked pricing posture while watching for a sharper monthly move.",
+      history: `The resin proxy moved ${signedNum(resinDelta, 1)} points versus the prior published period.`,
+      why: "Resin direction matters for stretch film, poly bags, and other plastic packaging conversations.",
+      use: "Use this as a monthly prompt to review resin-sensitive SKU margins and supplier replacement costs.",
+      chart: buildLineChartFromSeries(rSeries, [{ key: "value", label: "Resin proxy" }], "Resin proxy trend"),
       links: resin.sourceLinks || []
     },
     {
       id: "gas",
       title: "Gas & Diesel Prices",
       risk: gasRisk,
+      value: `${gasGeo} Gas ${money(gasHeadlineRegular)}`,
+      secondary: `${gasGeo} Diesel ${money(gasHeadlineDiesel)}`,
+      subtext: `Weekly move: gas ${signedPct(gasGeo === "Sacramento" ? sacGasDelta : caGasDelta)} | diesel ${signedPct(gasGeo === "Sacramento" ? sacDieselDelta : caDieselDelta)}`,
       freshness: gas.freshness || "Daily + Monthly",
-      value: `Sac Gas ${money(gas.sacramentoRegular)}`,
-      secondary: `Sac Diesel ${money(gas.sacramentoDiesel)}`,
-      subtext: `Sac Gas ${arrow(sacGasDelta)} ${pct(sacGasDelta)} • Sac Diesel ${arrow(sacDieselDelta)} ${pct(sacDieselDelta)} • CA Gas ${arrow(caGasDelta)} ${pct(caGasDelta)} • CA Diesel ${arrow(caDieselDelta)} ${pct(caDieselDelta)}`,
-      summary: `Sacramento gas is ${money(gas.sacramentoRegular)} and Sacramento diesel is ${money(gas.sacramentoDiesel)}. California gas is ${money(gas.currentRegular)} and California diesel is ${money(gas.currentDiesel)}.`,
-      changed: `Use a 72-hour and week-ago comparison window. Sacramento gas changed ${pct(sacGasDelta)}, Sacramento diesel changed ${pct(sacDieselDelta)}, California gas changed ${pct(caGasDelta)}, and California diesel changed ${pct(caDieselDelta)}.`,
-      why: "This is one of the clearest operating-cost pressure indicators for local driving, supplier freight, and customer logistics sensitivity.",
-      links: gas.sourceLinks || [],
-      chartLabels: (sacHistory.length ? sacHistory : caHistory).map(x => x.date),
-      chartSeries: sacHistory.length
-        ? [
-            { label: "Sacramento Gas", data: sacHistory.map(x => x.regular) },
-            { label: "Sacramento Diesel", data: sacHistory.map(x => x.diesel) }
-          ]
-        : [
-            { label: "California Gas", data: caHistory.map(x => x.regular) },
-            { label: "California Diesel", data: caHistory.map(x => x.diesel) }
-          ],
-      extraHtml:
-        `<div class="box"><h3>Sacramento vs California</h3><ul>` +
-        `<li>Sacramento gas: ${esc(money(gas.sacramentoRegular))}</li>` +
-        `<li>Sacramento diesel: ${esc(money(gas.sacramentoDiesel))}</li>` +
-        `<li>California gas: ${esc(money(gas.currentRegular))}</li>` +
-        `<li>California diesel: ${esc(money(gas.currentDiesel))}</li>` +
-        `</ul></div>`
+      executiveRead: `${gasGeo} gas is ${money(gasHeadlineRegular)} and ${gasGeo} diesel is ${money(gasHeadlineDiesel)}.`,
+      recommendedAction: gasRisk === "high"
+        ? "Review delivery surcharges, route efficiency, and expedited freight exposure immediately."
+        : gasRisk === "medium"
+          ? "Watch freight-sensitive quotes and consider shorter validity windows if the move persists."
+          : "Fuel is not flashing an immediate escalation signal, but keep it visible for logistics and delivery pricing.",
+      history: `California gas moved ${signedPct(caGasDelta)} versus a week ago; California diesel moved ${signedPct(caDieselDelta)}.`,
+      why: "Fuel is one of the clearest operating-cost indicators for local delivery, inbound supplier freight, and customer logistics sensitivity.",
+      use: "Use this tile for delivery-charge review, route planning, and deciding when freight-sensitive quotes need updated assumptions.",
+      chart: fuelChart,
+      extraHtml: box("Sacramento vs California",
+        `<div class="quality-grid compact">` +
+        `<div><span>Sac gas</span><strong>${esc(money(gas.sacramentoRegular))}</strong></div>` +
+        `<div><span>Sac diesel</span><strong>${esc(money(gas.sacramentoDiesel))}</strong></div>` +
+        `<div><span>CA gas</span><strong>${esc(money(gas.currentRegular))}</strong></div>` +
+        `<div><span>CA diesel</span><strong>${esc(money(gas.currentDiesel))}</strong></div>` +
+        `</div>`),
+      links: gas.sourceLinks || []
     },
     {
       id: "competitors",
       title: "Competitor Watch",
-      risk: competitorSignalCount >= 6 ? "high" : competitorSignalCount >= 3 ? "medium" : "low",
-      freshness: competitors.freshness || "Manual + published JSON",
+      risk: competitorRisk,
       value: String(competitorSignalCount),
-      secondary:
-        competitorSignalCount
-          ? `${competitorHiringCount} hiring • ${competitorMovesCount} moves • ${competitorNewsCount} news`
-          : `${competitorCompanies.length} tracked companies`,
-      subtext: competitorSignalCount
-        ? "Competitive signals detected across tracked companies"
-        : "Add or remove competitor profiles from the published list",
-      summary: competitorSignalCount
-        ? `${competitorSignalCount} competitive signals detected across tracked companies. ${competitorHiringCount} hiring signals, ${competitorMovesCount} move signals, and ${competitorNewsCount} news signals are currently in the published set.`
-        : `No new competitive signals detected. ${competitorCompanies.length} competitors are currently tracked.`,
-      changed: competitorSignalCount
-        ? "This panel is now surfacing actionable competitive signals, including hiring, operational moves, and relevant news."
-        : "This panel updates when you edit data/competitors.json and publish new JSON.",
-      why: "This tile is meant to surface actionable intelligence on competitor expansion, hiring, and market moves in and around Sacramento.",
-      links: [],
+      secondary: competitorSignalCount ? `${competitorHiringCount} hiring | ${competitorMovesCount} moves | ${competitorNewsCount} news` : `${competitorCompanies.length} tracked companies`,
+      subtext: "Expansion, hiring, pricing, and account-defense cues",
+      freshness: competitors.freshness || "Manual + published JSON",
+      executiveRead: `${competitorSignalCount} competitive signal(s) are published across ${competitorCompanies.length} tracked companies.`,
+      recommendedAction: competitorSignalCount
+        ? "Assign owner follow-up for high-priority accounts touched by competitor hiring, regional moves, or relevant news."
+        : "Keep the tracked list current; no active competitive moves are published right now.",
+      history: competitors.whatChanged || "Competitor tracking is curated in the published JSON and should be treated as manual intelligence.",
+      why: "Competitor hiring and operating moves can indicate price pressure, territory focus, service investments, or account-targeting risk.",
+      use: "Use this tile for sales meeting prep, account-defense planning, and deciding where to refresh competitive positioning.",
       extraHtml:
-        `<div class="box"><h3>Competitor Watch Controls</h3>` +
-        `<p>Add or remove companies by editing <code>data/competitors.json</code> in GitHub, then publish and press reload.</p>` +
-        `<p><a href="./data/competitors.json" target="_blank" rel="noopener noreferrer">View competitor file</a></p>` +
-        `</div>` +
-        `<div class="box"><h3>Tracked Competitors</h3><ul>` +
-        (competitorCompanies.map(c =>
-          `<li><strong>${esc(c.name)}</strong> • ${esc(c.city)}${c.category ? ` • ${esc(c.category)}` : ""}${c.priority ? ` • ${esc(c.priority)}` : ""}</li>`
-        ).join("")) +
-        `</ul></div>` +
-        (
-          competitorSignals.length
-            ? `<div class="box"><h3>Competitive Signals</h3>` +
-              competitorSignals.map(row =>
-                `<div style="margin-bottom:16px;">` +
-                `<p><strong>${esc(row.name)}</strong>${row.city ? ` • ${esc(row.city)}` : ""}${row.category ? ` • ${esc(row.category)}` : ""}${row.priority ? ` • ${esc(row.priority)}` : ""}</p>` +
-                (row.lastUpdated ? `<p>Signal updated: ${esc(row.lastUpdated)}</p>` : "") +
-                (row.notes ? `<p>Notes: ${esc(row.notes)}</p>` : "") +
-                (row.news.length ? `<p><strong>News</strong></p><ul>${row.news.map(item => `<li>${esc(item)}</li>`).join("")}</ul>` : "") +
-                (row.hiring.length ? `<p><strong>Hiring</strong></p><ul>${row.hiring.map(item => `<li>${esc(item)}</li>`).join("")}</ul>` : "") +
-                (row.moves.length ? `<p><strong>Moves</strong></p><ul>${row.moves.map(item => `<li>${esc(item)}</li>`).join("")}</ul>` : "") +
-                (
-                  row.website || row.googleNews || row.search
-                    ? `<p>` +
-                      (row.website ? `<a href="${esc(row.website)}" target="_blank" rel="noopener noreferrer">Website</a> ` : "") +
-                      (row.googleNews ? `<a href="${esc(row.googleNews)}" target="_blank" rel="noopener noreferrer">Google News</a> ` : "") +
-                      (row.search ? `<a href="${esc(row.search)}" target="_blank" rel="noopener noreferrer">Search</a>` : "") +
-                      `</p>`
-                    : ""
-                ) +
-                `</div>`
-              ).join("") +
-              `</div>`
-            : ""
-        )
+        box("Competitive Signals", competitorSignals.length
+          ? `<div class="signal-list">${competitorSignals.map(row =>
+              `<article class="signal-card">` +
+              `<h4>${esc(row.name)}</h4>` +
+              `<p>${esc(row.city || "Region unavailable")} | ${esc(row.category || "Category unavailable")} | ${esc(row.priority || "Priority unavailable")}</p>` +
+              `<p>${esc(row.notes || "No notes published.")}</p>` +
+              (row.news.length ? `<strong>News</strong>${paragraphList(row.news)}` : "") +
+              (row.hiring.length ? `<strong>Hiring</strong>${paragraphList(row.hiring)}` : "") +
+              (row.moves.length ? `<strong>Moves</strong>${paragraphList(row.moves)}` : "") +
+              `<div class="mini-links">` +
+              (row.website ? `<a href="${esc(row.website)}" target="_blank" rel="noopener noreferrer">Website</a>` : "") +
+              (row.googleNews ? `<a href="${esc(row.googleNews)}" target="_blank" rel="noopener noreferrer">News</a>` : "") +
+              (row.search ? `<a href="${esc(row.search)}" target="_blank" rel="noopener noreferrer">Search</a>` : "") +
+              `</div>` +
+              `</article>`
+            ).join("")}</div>`
+          : `<p>No active competitive signals are published.</p>`) +
+        box("Tracked Companies", competitorCompanies.length
+          ? `<div class="tracked-grid">${competitorCompanies.map(company =>
+              `<div><strong>${esc(company.name)}</strong><span>${esc(company.city || "Region unavailable")} | ${esc(company.category || "Category unavailable")}</span></div>`
+            ).join("")}</div>`
+          : `<p>No tracked competitors are published.</p>`),
+      links: []
     },
     {
       id: "news",
       title: "Industry News",
-      risk: "low",
+      risk: mediumImpactStories.length >= 4 ? "medium" : "low",
+      value: String(stories.length),
+      secondary: stories[0]?.title || "No published stories",
+      subtext: "Packaging, materials, and market narrative cues",
       freshness: news.freshness || "Daily",
-      value: String((news.stories || []).length),
-      secondary:
-        news.stories && news.stories[0]
-          ? news.stories[0].title
-          : "No published stories",
-      subtext: "Packaging-focused now; broader supply chain can come later",
-      summary: `This panel includes ${(news.stories || []).length} published news items.`,
-      changed: "Use a 72-hour lens for this daily news panel.",
-      why: "This tile is strongest when it focuses on packaging materials, containerboard, and competitor-relevant developments.",
+      executiveRead: `${stories.length} packaging story/stories are published; ${mediumImpactStories.length} are marked medium or higher impact.`,
+      recommendedAction: stories.length
+        ? "Use the story list to brief sales on pricing narratives, sustainability themes, and customer talking points."
+        : "No action until current packaging news is published.",
+      history: news.whatChanged || "The news dataset is starter/manual in this phase unless the published JSON is refreshed upstream.",
+      why: "Industry news helps translate material-price moves and market changes into customer-ready talking points.",
+      use: "Use this panel before customer meetings to connect market context to practical packaging recommendations.",
+      extraHtml: box("Published Stories", stories.length
+        ? `<div class="event-list">${stories.map(story =>
+            `<div class="event-row"><strong>${esc(story.impact || "Impact unavailable")}</strong><span>${esc(story.title || "Untitled story")}</span><em>${esc(story.source || "Source unavailable")}</em></div>`
+          ).join("")}</div>`
+        : `<p>No published stories.</p>`),
       links: news.sourceLinks || []
     }
   ];
 }
 
+function renderOverview() {
+  const high = state.cards.filter(card => card.risk === "high").length;
+  const medium = state.cards.filter(card => card.risk === "medium").length;
+  const stale = state.cards.filter(card => freshnessInfo(card.id).stale).length;
+  const errors = state.loadErrors.length;
+  const leadingRisk = high ? `${high} high-risk tile(s)` : medium ? `${medium} medium-risk tile(s)` : "No high-risk tiles";
+
+  els.overviewSummary.textContent =
+    `${leadingRisk}. ${stale} tile(s) need freshness review. This is ${APP_VERSION}: an executive interpretation layer over the currently published data.`;
+
+  els.overviewStats.innerHTML =
+    `<div><span>High</span><strong>${high}</strong></div>` +
+    `<div><span>Medium</span><strong>${medium}</strong></div>` +
+    `<div><span>Stale</span><strong>${stale}</strong></div>` +
+    `<div><span>Load errors</span><strong>${errors}</strong></div>`;
+}
+
 function renderTiles() {
   buildCards();
+  renderOverview();
 
-  els.tileGrid.innerHTML = state.cards.map(card => {
+  const loadErrors = state.loadErrors || [];
+  const staleTiles = state.cards
+    .map(card => ({ title: card.title, f: freshnessInfo(card.id) }))
+    .filter(item => item.f.stale);
+
+  let banner = "";
+  if (loadErrors.length || staleTiles.length) {
+    const parts = [];
+    if (loadErrors.length) {
+      parts.push(`<strong>${loadErrors.length} data file(s) failed:</strong> ${loadErrors.map(e => `${esc(e.key)} (${esc(e.reason)})`).join(", ")}`);
+    }
+    if (staleTiles.length) {
+      parts.push(`<strong>${staleTiles.length} tile(s) need freshness review:</strong> ${staleTiles.map(s => `${esc(s.title)}${s.f.updated ? ` (${Math.round(s.f.ageDays)}d old)` : " (no timestamp)"}`).join(", ")}`);
+    }
+    banner = `<div class="data-quality-banner" role="alert">${parts.map(part => `<div>${part}</div>`).join("")}</div>`;
+  }
+
+  els.tileGrid.innerHTML = banner + state.cards.map(card => {
+    const f = freshnessInfo(card.id);
+    const stamp = f.updated
+      ? `Updated ${fmt(f.updated, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}`
+      : "No data timestamp";
     return (
-      `<button class="tile ${riskClass(card.risk)}" data-id="${esc(card.id)}">` +
-      `<div class="tile-title">${esc(card.title)}</div>` +
-      `<div class="chips">${chip("Risk: " + card.risk)}${chip(card.freshness)}</div>` +
+      `<button class="tile ${esc(card.risk)}${f.stale ? " stale" : ""}" data-id="${esc(card.id)}">` +
+      `<div class="tile-head"><span>${esc(card.title)}</span><em>${esc(riskLabel(card.risk))}</em></div>` +
+      `<div class="chips">${chip(card.freshness)}${chip(f.strength || "Unknown")}${f.stale ? chip("Needs review", "warn") : chip("Current", "ok")}</div>` +
       `<div class="val">${esc(card.value)}</div>` +
-      (card.secondary ? `<div class="sec">${esc(card.secondary)}</div>` : "") +
-      `<div class="sub">${esc(card.subtext)}</div>` +
-      `<div class="stamp">Published ${esc(fmt(publishedAt(), { year:"numeric", month:"short", day:"numeric", hour:"numeric", minute:"2-digit" }))}</div>` +
+      `<div class="sec">${esc(card.secondary || "")}</div>` +
+      `<div class="sub">${esc(card.subtext || "")}</div>` +
+      `<div class="stamp">${esc(stamp)}</div>` +
       `</button>`
     );
   }).join("");
@@ -450,58 +653,64 @@ function renderTiles() {
 }
 
 function openDetail(id) {
-  const card = state.cards.find(c => c.id === id);
+  const card = state.cards.find(item => item.id === id);
   if (!card) return;
 
-  const linksHtml = (card.links || []).length
-    ? `<div class="box"><h3>Source Links</h3>` +
-      (card.links.map(link => `<p><a href="${esc(link.url)}" target="_blank" rel="noopener noreferrer">${esc(link.label)}</a></p>`).join("")) +
-      `</div>`
-    : "";
+  if (state.chart) {
+    state.chart.destroy();
+    state.chart = null;
+  }
 
-  const chartHtml = id === "gas"
-    ? `<div class="box"><h3>Historical View</h3><div class="chart-wrap"><canvas id="detailChart"></canvas></div></div>`
-    : "";
+  const chartHtml = card.chart
+    ? box("History / Trend", `<p>${esc(card.history)}</p><div class="chart-wrap"><canvas id="detailChart"></canvas></div>`)
+    : box("History / Trend", `<p>${esc(card.history || "No published history is available for this tile.")}</p>`);
 
   els.detailContent.innerHTML =
-    `<h2>${esc(card.title)}</h2>` +
-    `<div class="chips">${chip("Risk: " + card.risk)}${chip(card.freshness)}</div>` +
-    `<div class="box"><h3>Executive Summary</h3><p>${esc(card.summary)}</p><p>Published data timestamp: ${esc(fmt(publishedAt(), { year:"numeric", month:"short", day:"numeric", hour:"numeric", minute:"2-digit" }))}</p></div>` +
-    `<div class="box"><h3>What Changed</h3><p>${esc(card.changed)}</p></div>` +
-    `<div class="box"><h3>Why This Matters</h3><p>${esc(card.why)}</p></div>` +
-    (card.extraHtml || "") +
+    `<div class="panel-header">` +
+    `<div><div class="eyebrow">Dashboard ${esc(APP_VERSION)}</div><h2 id="detailTitle">${esc(card.title)}</h2></div>` +
+    `<div class="risk-pill ${esc(card.risk)}">${esc(riskLabel(card.risk))} risk</div>` +
+    `</div>` +
+    `<div class="chips detail-chip-row">${chip(card.freshness)}${chip(sourceFor(card.id).sourceStrength || "Unknown source")}${chip(freshnessInfo(card.id).stale ? "Needs review" : "Current", freshnessInfo(card.id).stale ? "warn" : "ok")}</div>` +
+    box("Executive Read", `<p>${esc(card.executiveRead)}</p>`, "hero-box") +
+    box("Recommended Action", `<p>${esc(card.recommendedAction)}</p>`, "action-box") +
     chartHtml +
-    linksHtml;
+    box("Why This Matters", `<p>${esc(card.why)}</p>`) +
+    box("How Vision Packaging Can Use This", `<p>${esc(card.use)}</p>`) +
+    (card.extraHtml || "") +
+    box("Data Quality", sourceHtml(card)) +
+    box("Sources", linkList(card.links));
 
   els.detailDrawer.classList.add("open");
   els.detailDrawer.setAttribute("aria-hidden", "false");
 
-  if (id === "gas" && window.Chart) {
+  if (card.chart && window.Chart) {
     const canvas = document.getElementById("detailChart");
     if (canvas) {
-      if (state.chart) state.chart.destroy();
       state.chart = new Chart(canvas, {
         type: "line",
         data: {
-          labels: card.chartLabels || [],
-          datasets: (card.chartSeries || []).map(ds => ({
-            ...ds,
-            tension: 0.3,
+          labels: card.chart.labels,
+          datasets: card.chart.series.map((series, index) => ({
+            label: series.label,
+            data: series.data,
+            tension: 0.35,
             fill: false,
             pointRadius: 2,
-            borderWidth: 2
+            borderWidth: 2,
+            borderColor: ["#6ee7f9", "#9f7aea", "#49c989", "#e1b757"][index % 4],
+            backgroundColor: ["#6ee7f9", "#9f7aea", "#49c989", "#e1b757"][index % 4]
           }))
         },
         options: {
           responsive: true,
           maintainAspectRatio: false,
           plugins: {
-            legend: { labels: { color: "#fff" } },
-            title: { display: true, text: "Fuel trend", color: "#fff" }
+            legend: { labels: { color: "#dbeafe" } },
+            title: { display: true, text: card.chart.title, color: "#f8fafc" }
           },
           scales: {
-            x: { ticks: { color: "#f2f6fc" }, grid: { color: "rgba(255,255,255,.08)" } },
-            y: { ticks: { color: "#f2f6fc" }, grid: { color: "rgba(255,255,255,.08)" } }
+            x: { ticks: { color: "#cbd5e1", maxRotation: 0, autoSkip: true }, grid: { color: "rgba(148,163,184,.12)" } },
+            y: { ticks: { color: "#cbd5e1" }, grid: { color: "rgba(148,163,184,.12)" } }
           }
         }
       });
@@ -512,6 +721,10 @@ function openDetail(id) {
 function closeDetail() {
   els.detailDrawer.classList.remove("open");
   els.detailDrawer.setAttribute("aria-hidden", "true");
+  if (state.chart) {
+    state.chart.destroy();
+    state.chart = null;
+  }
 }
 
 function tickClock() {
@@ -522,44 +735,30 @@ function tickClock() {
 }
 
 async function refreshAll() {
-  els.refreshButton.disabled = true;
-  els.refreshButton.textContent = "Reloading...";
-
-  await loadPublishedData();
-
-  els.globalLastUpdated.textContent = fmt(publishedAt(), {
-    year: "numeric",
-    month: "short",
-    day: "numeric",
-    hour: "numeric",
-    minute: "2-digit"
-  });
-
-  els.overviewSummary.textContent =
-    "A high-level view of factors affecting the Sacramento packaging market.";
-
-  renderTiles();
-
-  els.refreshButton.disabled = false;
-  els.refreshButton.textContent = "Reload Latest Published Data";
-
-  showToast(
-    "Published data reloaded from " +
-      fmt(publishedAt(), {
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-        hour: "numeric",
-        minute: "2-digit"
-      })
-  );
+  setLoading(true);
+  try {
+    await loadPublishedData();
+    els.globalLastUpdated.textContent = fmt(publishedAt(), {
+      year: "numeric",
+      month: "short",
+      day: "numeric",
+      hour: "numeric",
+      minute: "2-digit"
+    });
+    renderTiles();
+    showToast(`Published data refreshed for ${APP_VERSION}`);
+  } catch (error) {
+    showToast(`Refresh failed: ${error.message || "unknown error"}`);
+  } finally {
+    setLoading(false);
+  }
 }
 
 els.detailOverlay.addEventListener("click", closeDetail);
 els.detailCloseButton.addEventListener("click", closeDetail);
 els.refreshButton.addEventListener("click", refreshAll);
-document.addEventListener("keydown", e => {
-  if (e.key === "Escape") closeDetail();
+document.addEventListener("keydown", event => {
+  if (event.key === "Escape") closeDetail();
 });
 
 tickClock();
