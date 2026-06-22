@@ -1,27 +1,108 @@
 {
-  "lastUpdated": "2026-04-02T08:20:00-07:00",
-  "sourceStrength": "Medium",
+  "lastUpdated": "2026-06-22T22:11+00:00",
+  "sourceStrength": "High",
   "freshness": "Daily",
-  "whatChanged": "Starter market snapshot published locally.",
+  "whatChanged": "Market indices refreshed from FRED daily series.",
   "sourceLinks": [
     {
-      "label": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/"
+      "label": "S&P 500",
+      "url": "https://fred.stlouisfed.org/series/SP500"
+    },
+    {
+      "label": "Dow Jones Industrial Average",
+      "url": "https://fred.stlouisfed.org/series/DJIA"
+    },
+    {
+      "label": "CBOE VIX",
+      "url": "https://fred.stlouisfed.org/series/VIXCLS"
     }
   ],
   "notes": [
-    "Keep this as context only.",
-    "FRED_API_KEY is required for update_stocks.py. Preserved previous market data."
+    "Context only; not a direct pricing input."
   ],
   "latest": {
-    "sp500": 5240,
-    "dow": 39120,
-    "vix": 18.7
+    "sp500": 7500.58,
+    "dow": 51564.7,
+    "vix": 16.78
   },
+  "series": [
+    {
+      "date": "2026-06-03",
+      "sp500": 7553.68,
+      "dow": 50687.07,
+      "vix": 16.06
+    },
+    {
+      "date": "2026-06-04",
+      "sp500": 7584.31,
+      "dow": 51561.93,
+      "vix": 15.4
+    },
+    {
+      "date": "2026-06-05",
+      "sp500": 7383.74,
+      "dow": 50866.78,
+      "vix": 21.51
+    },
+    {
+      "date": "2026-06-08",
+      "sp500": 7405.73,
+      "dow": 50786.01,
+      "vix": 18.92
+    },
+    {
+      "date": "2026-06-09",
+      "sp500": 7386.65,
+      "dow": 50872.11,
+      "vix": 19.87
+    },
+    {
+      "date": "2026-06-10",
+      "sp500": 7266.99,
+      "dow": 49918.78,
+      "vix": 22.22
+    },
+    {
+      "date": "2026-06-11",
+      "sp500": 7394.3,
+      "dow": 50848.75,
+      "vix": 19.44
+    },
+    {
+      "date": "2026-06-12",
+      "sp500": 7431.46,
+      "dow": 51202.26,
+      "vix": 17.68
+    },
+    {
+      "date": "2026-06-15",
+      "sp500": 7554.29,
+      "dow": 51671.03,
+      "vix": 16.2
+    },
+    {
+      "date": "2026-06-16",
+      "sp500": 7511.35,
+      "dow": 51999.67,
+      "vix": 16.41
+    },
+    {
+      "date": "2026-06-17",
+      "sp500": 7420.1,
+      "dow": 51492.55,
+      "vix": 18.44
+    },
+    {
+      "date": "2026-06-18",
+      "sp500": 7500.58,
+      "dow": 51564.7,
+      "vix": 16.4
+    }
+  ],
   "sourceType": "automated",
-  "refreshStatus": "failed",
-  "lastAttemptedAt": "2026-06-22T15:09-07:00",
-  "lastSuccessfulAt": "2026-04-02T08:20:00-07:00",
+  "refreshStatus": "success",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
+  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
   "sourceLimitations": [
     "FRED market series can lag live market quotes and should be treated as daily context, not intraday trading data."
   ]

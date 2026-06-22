@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T15:09-07:00",
+  "lastUpdated": "2026-06-22T22:11+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -80,8 +80,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-22T15:09-07:00",
-  "lastSuccessfulAt": "2026-06-22T15:09-07:00",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
+  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

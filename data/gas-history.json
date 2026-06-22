@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:56+00:00",
+  "lastUpdated": "2026-06-22T22:11+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -12,8 +12,8 @@
     "EIA returned no rows on this run. Preserved previous history.",
     "EIA returned no rows on this run. Preserved previous history.",
     "EIA returned no rows on this run. Preserved previous history.",
-    "EIA returned no rows on this run. Preserved previous history.",
-    "EIA_API_KEY unavailable. Preserved previous history."
+    "EIA_API_KEY unavailable. Preserved previous history.",
+    "EIA returned no rows on this run. Preserved previous history."
   ],
   "series": [
     {
@@ -49,9 +49,9 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "source_limited",
-  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
   "lastSuccessfulAt": null,
   "sourceLimitations": [
-    "EIA history requires EIA_API_KEY; previous history is preserved when unavailable."
+    "EIA returned no rows; previous history was preserved."
   ]
 }

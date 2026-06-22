@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T15:09-07:00",
+  "lastUpdated": "2026-06-22T22:11+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -72,8 +72,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-22T15:09-07:00",
-  "lastSuccessfulAt": "2026-06-22T15:09-07:00",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
+  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

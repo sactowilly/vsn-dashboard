@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T15:09-07:00",
+  "lastUpdated": "2026-06-22T22:11+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily + Monthly",
   "sourceLinks": [
@@ -27,8 +27,8 @@
   "weekAgoDiesel": 5.18,
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-22T15:09-07:00",
-  "lastSuccessfulAt": "2026-06-22T15:09-07:00",
+  "lastAttemptedAt": "2026-06-22T22:11+00:00",
+  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
   "sourceLimitations": [
     "AAA values are scraped from public pages; Sacramento metro values may be unavailable and fall back to California averages."
   ]
