@@ -39,17 +39,17 @@ a:hover{text-decoration:underline}
 
 .top{
   display:grid;
-  grid-template-columns:64px minmax(260px,1fr) auto auto;
+  grid-template-columns:230px minmax(390px,1fr) auto auto;
   gap:16px;
   align-items:center;
   border-radius:14px;
   padding:18px;
 }
-.logo{
-  width:56px;height:56px;border-radius:12px;
-  display:grid;place-items:center;
-  background:linear-gradient(135deg,var(--cyan),var(--blue));
-  color:#06111f;font-weight:900;letter-spacing:.05em;
+.brand-logo{
+  width:min(230px,100%);
+  height:auto;
+  display:block;
+  filter:drop-shadow(0 10px 22px rgba(0,0,0,.30));
 }
 .eyebrow{
   color:var(--cyan);
@@ -67,11 +67,11 @@ a:hover{text-decoration:underline}
   color:#cffafe;
   text-transform:none;
 }
-.brand h1{margin:5px 0 4px;font-size:clamp(1.65rem,2.6vw,2.6rem);line-height:1.02;letter-spacing:0}
+.brand h1{margin:5px 0 4px;font-size:clamp(1.55rem,2.15vw,2.25rem);line-height:1.05;letter-spacing:0}
 .brand p{margin:0;color:var(--muted);font-size:1rem;line-height:1.45}
 .meta{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
 .meta-card{
-  min-width:148px;
+  min-width:130px;
   padding:10px 12px;
   border:1px solid rgba(148,163,184,.18);
   border-radius:10px;
@@ -89,7 +89,7 @@ a:hover{text-decoration:underline}
 .primary-action{
   border:0;
   border-radius:10px;
-  padding:12px 16px;
+  padding:11px 14px;
   min-height:44px;
   background:linear-gradient(135deg,var(--cyan),var(--blue));
   color:#06111f;
@@ -360,7 +360,7 @@ a:hover{text-decoration:underline}
 .toast.show{opacity:1;transform:translateY(0)}
 
 @media(max-width:1280px){
-  .top{grid-template-columns:64px minmax(0,1fr)}
+  .top{grid-template-columns:220px minmax(0,1fr)}
   .meta{grid-column:1/-1;justify-content:flex-start}
   .primary-action{justify-self:start}
   .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
@@ -375,7 +375,7 @@ a:hover{text-decoration:underline}
 }
 @media(max-width:600px){
   .top{grid-template-columns:1fr}
-  .logo{width:50px;height:50px}
+  .brand-logo{width:min(240px,100%)}
   .meta{display:grid;grid-template-columns:1fr}
   .grid{grid-template-columns:1fr}
   .panel{padding:16px}
