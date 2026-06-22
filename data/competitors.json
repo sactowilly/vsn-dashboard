@@ -1,0 +1,228 @@
+{
+  "lastUpdated": "2026-04-02T09:30:00-07:00",
+  "sourceStrength": "Medium",
+  "freshness": "Manual + published JSON",
+  "whatChanged": "Expanded competitor watch list and added management fields.",
+  "notes": [
+    "Curated list, not scraped live.",
+    "Add or remove companies by editing this file in GitHub."
+  ],
+  "companies": [
+    {
+      "name": "Packaging Corporation of America",
+      "city": "Sacramento Region, CA",
+      "category": "Corrugated",
+      "priority": "High",
+      "notes": "Major corrugated overlap",
+      "website": "https://www.packagingcorp.com/",
+      "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
+      "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California"
+      "signals": 
+       {
+        "lastUpdated": "2026-04-06",
+        "news": [
+          "Packaging demand stabilizing after Q1 softness"
+        ],
+        "hiring": [
+          "Sales Representative – Northern California"
+        ],
+        "moves": [
+          "Increased focus on regional distribution efficiency"
+        ]
+       }
+    },
+    {
+      "name": "Veritiv",
+      "city": "Northern California",
+      "category": "Distribution",
+      "priority": "High",
+      "notes": "Broad industrial packaging overlap",
+      "website": "https://www.veritiv.com/",
+      "googleNews": "https://news.google.com/search?q=Veritiv",
+      "search": "https://www.google.com/search?q=Veritiv%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "2026-04-06",
+        "news": [
+          "Packaging demand stabilizing after Q1 softness"
+        ],
+        "hiring": [
+          "Sales Representative – Northern California"
+        ],
+        "moves": [
+          "Increased focus on regional distribution efficiency"
+        ]
+       }
+    },
+    {
+      "name": "Imperial Dade",
+      "city": "Northern California",
+      "category": "Distribution",
+      "priority": "Medium",
+      "notes": "Jan-san plus packaging overlap",
+      "website": "https://www.imperialdade.com/",
+      "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
+      "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    },
+    {
+      "name": "Uline",
+      "city": "Regional",
+      "category": "Catalog / Distribution",
+      "priority": "High",
+      "notes": "National price and convenience competitor",
+      "website": "https://www.uline.com/",
+      "googleNews": "https://news.google.com/search?q=Uline",
+      "search": "https://www.google.com/search?q=Uline%20packaging%20California"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    },
+    {
+      "name": "International Paper",
+      "city": "Northern California",
+      "category": "Corrugated / Paper",
+      "priority": "High",
+      "notes": "Key corrugated market signal",
+      "website": "https://www.internationalpaper.com/",
+      "googleNews": "https://news.google.com/search?q=International%20Paper",
+      "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    },
+    {
+      "name": "Pratt Industries",
+      "city": "California",
+      "category": "Corrugated / Paper",
+      "priority": "High",
+      "notes": "Important corrugated pricing benchmark",
+      "website": "https://innovations.prattindustries.com/",
+      "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
+      "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    },
+    {
+      "name": "WestRock",
+      "city": "West Coast",
+      "category": "Corrugated / Packaging",
+      "priority": "Medium",
+      "notes": "Large national packaging player",
+      "website": "https://www.westrock.com/",
+      "googleNews": "https://news.google.com/search?q=WestRock",
+      "search": "https://www.google.com/search?q=WestRock%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    },
+    {
+      "name": "DS Smith",
+      "city": "West Coast",
+      "category": "Corrugated / Packaging",
+      "priority": "Medium",
+      "notes": "Large global packaging player",
+      "website": "https://www.dssmith.com/",
+      "googleNews": "https://news.google.com/search?q=DS%20Smith",
+      "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    },
+    {
+      "name": "Associated Packaging",
+      "city": "Northern California",
+      "category": "Distribution",
+      "priority": "Medium",
+      "notes": "Regional industrial packaging competitor",
+      "website": "https://www.associatedpackaging.com/",
+      "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
+      "search": "https://www.google.com/search?q=Associated%20Packaging%20California"
+       "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    },
+    {
+      "name": "Berlin Packaging",
+      "city": "California",
+      "category": "Packaging Distribution",
+      "priority": "Medium",
+      "notes": "Broad packaging portfolio",
+      "website": "https://www.berlinpackaging.com/",
+      "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
+      "search": "https://www.google.com/search?q=Berlin%20Packaging%20California"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    },
+    {
+      "name": "SupplyOne",
+      "city": "West Coast",
+      "category": "Packaging Distribution",
+      "priority": "Medium",
+      "notes": "National packaging distribution competitor",
+      "website": "https://www.supplyone.com/",
+      "googleNews": "https://news.google.com/search?q=SupplyOne",
+      "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }   
+    },
+    {
+      "name": "Bennett Packaging",
+      "city": "California",
+      "category": "Packaging Distribution",
+      "priority": "Medium",
+      "notes": "Regional packaging overlap",
+      "website": "https://www.bpkc.com/",
+      "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
+      "search": "https://www.google.com/search?q=Bennett%20Packaging%20California"
+      "signals": 
+       {
+        "lastUpdated": "",
+        "news": [],
+        "hiring": [],
+        "moves": []
+       }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "lastUpdated": "2026-04-02T08:20:00-07:00",
+  "sourceStrength": "High",
+  "freshness": "Daily",
+  "whatChanged": "Starter labor dataset published locally.",
+  "sourceLinks": [
+    {
+      "label": "Cornell ILR Labor Action Tracker",
+      "url": "https://striketracker.ilr.cornell.edu/"
+    }
+  ],
+  "notes": [
+    "Still starter-only. Not yet live in actions."
+  ],
+  "actions": [
+    {
+      "headline": "Warehouse contract dispute",
+      "region": "West Coast",
+      "sector": "Logistics"
+    },
+    {
+      "headline": "Regional manufacturing labor action",
+      "region": "California",
+      "sector": "Manufacturing"
+    }
+  ]
+}

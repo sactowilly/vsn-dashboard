@@ -1,0 +1,31 @@
+{
+  "lastUpdated": "2026-04-02T08:20:00-07:00",
+  "sourceStrength": "Medium",
+  "freshness": "Daily",
+  "whatChanged": "Starter packaging-news dataset published locally.",
+  "notes": [
+    "Packaging-focused only in this phase."
+  ],
+  "sourceLinks": [
+    {
+      "label": "Packaging World",
+      "url": "https://www.packworld.com/"
+    },
+    {
+      "label": "Packaging Digest",
+      "url": "https://www.packagingdigest.com/"
+    }
+  ],
+  "stories": [
+    {
+      "title": "Containerboard pricing remains a margin watch item",
+      "source": "Packaging World",
+      "impact": "Medium"
+    },
+    {
+      "title": "Packaging materials and sustainability remain active themes",
+      "source": "Packaging Digest",
+      "impact": "Medium"
+    }
+  ]
+}
