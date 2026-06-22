@@ -1,31 +1,81 @@
 {
-  "lastUpdated": "2026-04-02T08:20:00-07:00",
+  "lastUpdated": "2026-06-22T15:09-07:00",
   "sourceStrength": "Medium",
-  "freshness": "Daily",
-  "whatChanged": "Starter packaging-news dataset published locally.",
+  "freshness": "Daily signal feed",
+  "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
   "notes": [
-    "Packaging-focused only in this phase."
+    "Packaging-focused public signal feed for management context."
   ],
   "sourceLinks": [
     {
-      "label": "Packaging World",
-      "url": "https://www.packworld.com/"
-    },
-    {
-      "label": "Packaging Digest",
-      "url": "https://www.packagingdigest.com/"
+      "label": "Google News RSS packaging query",
+      "url": "https://news.google.com/rss/search?q=packaging+industry+OR+containerboard+OR+corrugated+OR+resin+OR+plastics+packaging+when%3A30d&hl=en-US&gl=US&ceid=US:en"
     }
   ],
   "stories": [
     {
-      "title": "Containerboard pricing remains a margin watch item",
-      "source": "Packaging World",
-      "impact": "Medium"
+      "title": "Analysis of trade-offs of post-sorting plastic packaging - Nature",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PTzhZRXJyVFJjNGNxczB2QU5uYVBmdlphUVRJZmpHTGN1aE11NUEwTlZPVmkyQmVWVFVvV1Yxb3I2c2EyYnYxZEdaTThmLVVwc2lxR243a2Qyaks3bnNn?oc=5",
+      "publishedAt": "2026-06-03T07:00+00:00",
+      "impact": "Low"
     },
     {
-      "title": "Packaging materials and sustainability remain active themes",
-      "source": "Packaging Digest",
-      "impact": "Medium"
+      "title": "What\u2019s next for the US Plastics Pact under new leadership - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVcwVjVELUtGR0hlcnBmUjI2QTZsOUE0SEEzRGpCc3JJamdnMElhSEIzZXM1SEdnYTd3MlhtZVZpZWV6YzRaUnFXQ0IySHlZMjJISlRsUDBIS3R6bUJ4QW9CR2V5WDVUMXlSbi1JVU0tQ0FCbjlCbXk2RlM4cE9CYmRrMkI3ajRCMXBhSlFwdHNfNzRNVGJnanl3?oc=5",
+      "publishedAt": "2026-06-16T16:29+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "UConn grad develops seaweed coating to replace plastic in food packaging - WFSB",
+      "source": "WFSB",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTmJGbVJXOU9RSlNkT3VWVzI3WV9RUndleWhOa2YtcVdNZFdrZjRmd0twTHhsYkxINWxKbzRabFFqNDdSd0xMOFg0dnJVWkZVNXExTEFtQU9HOFRVSjVlWFJHd01jRndtX1J1bW9lOHdkOFZzM054czhaZ3ExUVBhMExtNnI4ZndfaDlFRFkwOW5xeDZjZUpFVFRqRTBJWTVI0gG0AUFVX3lxTE9NY08zYW1STGJ1eUtuaVlXZnJ5c2hXM3oyenpVNk1LZVFrQW9lajZDTDNyY2FqNjZWUnhlbkZLLVdJdXNKcG9xRkgxM19FUmhYSjhid0JVZkNaeHRQX2VhVi1mZVlCQmd3RFQxOWY4N1B0WUFrcHlWaDgyVWRYMGVaY2pUaUswZjJ1Nzg4WnVnendMS1ZwRVlVTGUwUE1UdmNmY1hCM2FDRndYS2JvZzhJYnRNdA?oc=5",
+      "publishedAt": "2026-06-15T22:29+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Family business grows from one man, one machine to major name in packaging industry - SiouxFalls.Business",
+      "source": "SiouxFalls.Business",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHFxckhzYTlSMWc4SEtJN1I3RGZNMGE0ajNxT0dzY216S1QzQUgwcWRDX3lzVDJ0ZG9ZZmRhbHBFLVdEZUVMZ09uUFZOTHVTdXB4dVZreGV0d1FGbnJNeUVpRGRtSENHRVg2TTBSQl9YeTdmdEVzaHo1Q0puQ1lpeGJqYTdTMDAyY0wteUt4azBzMFBkTUdQYkpVeUJybHZXM1ljeW1pQmV4eERxOTVKYQ?oc=5",
+      "publishedAt": "2026-06-10T12:45+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Packaging\u2019s Next Competitive Advantage: Managing the Flow of Fiber - ResourceWise",
+      "source": "ResourceWise",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTBDdTlSSXlLdlFUcS1kUWNpQjZYd0xvMk1uSmVMNUwwODF1RGE5OW16d1RPYmhQNW1wdXJFQ0tROGd1SFBDdk1KbERGSVlTb3NvU2tZME1BRlM1clRDaVB0THFVa3N3ekpXSTdsN0xwdVZVcGlWUEJQWFVvYXlGcm1reU1rb08tNXc0NnQ2cFhKcDZPME40d21CdlNuV3fSAa8BQVVfeXFMUDg3RkM1TmRlOXMwMDZGRGlBeHJQOWJjZ29VeFBYVEgyQ3FVRWloN2JqV1hPa3hiZ2l0TXZ0VDFoUFpCdkpXUWhYd0hKT3pWSG1CQWxqaHhjRlpIQlF0V0piNTYyRnNxSzJFRG5oRkpIS05qekhWaDZKaF9ldGh4WDFxdkpxX1BsUWdXMi1WUEttZDZjdFVQMmw2RWN4OVVaeDhyN0RTNFhva3ZUN0VxYw?oc=5",
+      "publishedAt": "2026-06-16T17:06+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Industrial Physics expert urges metal packaging industry to invest in automation - Packaging Insights",
+      "source": "Packaging Insights",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzNWZzJmLVFKMHRRMzJYMlhsVzVTd1pQZTZhb3hOZmdqQzZjRk81R3lKbTNsa1JnN2xhSl9DWXBxa1dlQXZMUHloRWUtOVFaNFpYWHBtYzZyaDNTekhvcUNDT2dtTWluZUFpeno1aGNPR3NYTnNHcW1RSmQybHdOYS1OaHAxU1pYVG8tUA?oc=5",
+      "publishedAt": "2026-06-11T09:17+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Alliance to End Plastic Waste Scales Solutions for Flexible Film Recycling - Packaging World",
+      "source": "Packaging World",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3M5TnRuTjNjcHZudTV5M09xdHZyaE1LTWxjUGZoTDRDWnFMdnM5SmVzR1FtV2xqUlRVX3pRV1VvTHJ1a1pGVV9KUWtqUUtJc2pKcEpsZmljR182MkVONWxKbTFDVzc3djlFOU5mVkRZdkxTNl84dUhmel96bWlpSVRiYkxIa1oxeGE4cC1LTGJUUGlGSUx0QTdoU2VBbjVILUUtZDNlcXVxNFFuOUg3TFgwTkhoV2M4b1VmWDBmeGc1WHN6TEJXX3dZejN6NUQ1VG03YnZyTlRNd2R6cTlHcg?oc=5",
+      "publishedAt": "2026-05-26T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Plastic food packaging blankets the world\u2019s coastlines, study finds - news - Mongabay",
+      "source": "news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYVVVY0Y1SkdxOU1Gc0lNSXhhRVZ1a1BOT2JDcElXN1Fwb3NkTnBkQnA4akRnUVBxNlVoWmg3TkxqWEdQSC1vNHdZYS15UGJ2TFBWeTNSR2pkbW5KdXFOUmRkbEZLN0xrTzNkek10ckxYTm1BUVkweXBXNnNQSDF1RXg2VTlRZzhiMG45c1FoSjdLcl9CV2lUelpzWTItdk1vM1HSAacBQVVfeXFMTlZYUExLQ3c2a3Z6SWI4YWsyV0c0Zzk3NkdDOUZVRzNjOC1ETGV6aXdzYjNnajZaaDhDV1Y1d1ZDRkR1RFpFQnc1QU5lTUtvVVRIenBxUGdjbW1LOXlFOHljMW9yYWdadlV5dkFFVWpxMGFFOWpwSTUyN3JaU0t6N0IyX0llVEhMaV9aa19jWnlJSC1JaUl3N1pTMjJ3eWpiMkNYa3hnQVk?oc=5",
+      "publishedAt": "2026-06-15T16:12+00:00",
+      "impact": "Low"
     }
+  ],
+  "sourceType": "automated",
+  "refreshStatus": "success",
+  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastSuccessfulAt": "2026-06-22T15:09-07:00",
+  "sourceLimitations": [
+    "Public Google News RSS results are a signal feed, not a complete industry news database.",
+    "Headlines are not manually verified before publication to this dashboard."
   ]
 }

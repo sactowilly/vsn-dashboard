@@ -9,7 +9,8 @@
     }
   ],
   "notes": [
-    "This file is refreshed by GitHub Actions using the FRED API."
+    "This file is refreshed by GitHub Actions using the FRED API.",
+    "FRED_API_KEY is required for update_fed.py. Preserved previous federal funds data."
   ],
   "series": [
     {
@@ -60,5 +61,12 @@
       "date": "2026-06",
       "value": 3.63
     }
+  ],
+  "sourceType": "automated",
+  "refreshStatus": "failed",
+  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastSuccessfulAt": "2026-06-22T17:56+00:00",
+  "sourceLimitations": [
+    "Daily federal funds data may publish with a short FRED lag."
   ]
 }

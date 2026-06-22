@@ -10,7 +10,8 @@
   ],
   "notes": [
     "Proxy data only.",
-    "Current published view indicates pulp is up roughly $40/ton versus the prior period."
+    "Current published view indicates pulp is up roughly $40/ton versus the prior period.",
+    "FRED_API_KEY is required for update_materials.py. Preserved previous pulp/paper proxy data."
   ],
   "currentDeltaTon": 40,
   "series": [
@@ -38,5 +39,13 @@
       "date": "2026-03",
       "value": 103.0
     }
+  ],
+  "sourceType": "proxy",
+  "refreshStatus": "failed",
+  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastSuccessfulAt": "2026-04-02T09:10:00-07:00",
+  "sourceLimitations": [
+    "This is a FRED/BLS PPI proxy, not paid-grade spot pulp or corrugated input pricing.",
+    "Monthly PPI data can lag current supplier quotes."
   ]
 }

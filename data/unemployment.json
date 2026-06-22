@@ -18,7 +18,8 @@
   ],
   "notes": [
     "This file is refreshed by GitHub Actions using FRED-hosted BLS series.",
-    "Sacramento series id used: CASACR5URN"
+    "Sacramento series id used: CASACR5URN",
+    "FRED_API_KEY is required for update_unemployment.py. Preserved previous unemployment data."
   ],
   "series": [
     {
@@ -81,5 +82,12 @@
       "california": 5.3,
       "sacramento": 4.5
     }
+  ],
+  "sourceType": "automated",
+  "refreshStatus": "failed",
+  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastSuccessfulAt": "2026-06-22T17:56+00:00",
+  "sourceLimitations": [
+    "Monthly BLS/FRED series can lag the current operating week."
   ]
 }

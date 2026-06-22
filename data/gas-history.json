@@ -13,7 +13,7 @@
     "EIA returned no rows on this run. Preserved previous history.",
     "EIA returned no rows on this run. Preserved previous history.",
     "EIA returned no rows on this run. Preserved previous history.",
-    "EIA returned no rows on this run. Preserved previous history."
+    "EIA_API_KEY unavailable. Preserved previous history."
   ],
   "series": [
     {
@@ -46,5 +46,12 @@
       "regular": 4.89,
       "diesel": 5.18
     }
+  ],
+  "sourceType": "automated",
+  "refreshStatus": "source_limited",
+  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastSuccessfulAt": null,
+  "sourceLimitations": [
+    "EIA history requires EIA_API_KEY; previous history is preserved when unavailable."
   ]
 }

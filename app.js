@@ -1,5 +1,5 @@
 const cfg = window.DASHBOARD_CONFIG;
-const APP_VERSION = "v0.1";
+const APP_VERSION = "v0.5";
 
 const state = {
   data: {},
@@ -126,30 +126,50 @@ function publishedAt() {
 
 function freshnessInfo(tileId) {
   const meta = TILE_SOURCE[tileId];
-  if (!meta) return { updated: null, stale: false, ageDays: null, strength: null, freshness: null };
+  if (!meta) return { updated: null, stale: false, ageDays: null, strength: null, freshness: null, sourceType: "unknown", refreshStatus: "unknown", qualityGroup: "current" };
   const src = state.data[meta.key] || {};
   const updated = src.lastUpdated || null;
   const strength = src.sourceStrength || "Unknown";
   const freshness = src.freshness || "Unspecified";
+  const sourceType = src.sourceType || "unknown";
+  const refreshStatus = src.refreshStatus || "unknown";
   let ageDays = null;
   let stale = false;
+  let qualityGroup = "current";
 
   if (updated) {
     ageDays = (Date.now() - new Date(updated).getTime()) / 86400000;
-    stale = ageDays > meta.maxAgeDays;
+    stale = ageDays > meta.maxAgeDays && sourceType !== "manual";
   } else {
-    stale = true;
+    stale = sourceType !== "manual";
   }
 
-  return { updated, stale, ageDays, strength, freshness, maxAgeDays: meta.maxAgeDays };
+  if (refreshStatus === "failed") qualityGroup = "failed";
+  else if (sourceType === "manual" || refreshStatus === "manual") qualityGroup = "manual";
+  else if (sourceType === "proxy" || refreshStatus === "source_limited") qualityGroup = "limited";
+  else if (stale) qualityGroup = "stale";
+
+  return { updated, stale, ageDays, strength, freshness, maxAgeDays: meta.maxAgeDays, sourceType, refreshStatus, qualityGroup };
 }
 
 function sourceQuality(tileId) {
   const info = freshnessInfo(tileId);
-  if (!info.updated) return "No timestamp. Treat as manual/starter data until verified.";
+  const src = sourceFor(tileId);
+  const limitations = src.sourceLimitations || [];
+  if (info.refreshStatus === "failed") return `Refresh failed. ${limitations[0] || "Use preserved data until the next successful workflow run."}`;
+  if (info.sourceType === "manual") return `Manual/curated source. ${limitations[0] || "Review this source before treating it as current."}`;
+  if (info.sourceType === "proxy") return `Proxy indicator. ${limitations[0] || "Use directionally, not as exact market pricing."}`;
+  if (info.refreshStatus === "source_limited") return `Source limited. ${limitations[0] || "The latest run preserved usable prior data."}`;
+  if (!info.updated) return "No timestamp. Treat as source-limited until verified.";
   const age = Math.max(0, Math.round(info.ageDays || 0));
   const status = info.stale ? "Stale" : "Current";
   return `${status}: ${info.strength} source, updated ${age} day(s) ago, expected freshness ${info.freshness}.`;
+}
+
+function titleCase(value) {
+  return String(value || "unknown")
+    .replace(/_/g, " ")
+    .replace(/\b\w/g, letter => letter.toUpperCase());
 }
 
 function showToast(message) {
@@ -267,12 +287,16 @@ function sourceHtml(card) {
     : "No timestamp";
   return (
     `<div class="quality-grid">` +
-    `<div><span>Status</span><strong>${esc(f.stale ? "Needs review" : "Current")}</strong></div>` +
+    `<div><span>Status</span><strong>${esc(titleCase(f.refreshStatus))}</strong></div>` +
+    `<div><span>Source type</span><strong>${esc(titleCase(f.sourceType))}</strong></div>` +
     `<div><span>Source strength</span><strong>${esc(f.strength || "Unknown")}</strong></div>` +
     `<div><span>Freshness</span><strong>${esc(f.freshness || "Unspecified")}</strong></div>` +
     `<div><span>Updated</span><strong>${esc(updated)}</strong></div>` +
+    `<div><span>Last attempt</span><strong>${esc(src.lastAttemptedAt ? fmt(src.lastAttemptedAt, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "Unavailable")}</strong></div>` +
+    `<div><span>Last success</span><strong>${esc(src.lastSuccessfulAt ? fmt(src.lastSuccessfulAt, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "Unavailable")}</strong></div>` +
     `</div>` +
     `<p>${esc(sourceQuality(card.id))}</p>` +
+    (src.sourceLimitations?.length ? `<p><strong>Limitations:</strong></p>${paragraphList(src.sourceLimitations)}` : "") +
     notesHtml(src.notes)
   );
 }
@@ -295,6 +319,7 @@ function buildCards() {
 
   const stocks = state.data.stocks || {};
   const sLast = stocks.latest || {};
+  const sSeries = stocks.series || [];
   const vixRisk = Number(sLast.vix) >= 30 ? "high" : Number(sLast.vix) >= 20 ? "medium" : "low";
 
   const disasters = state.data.disasters || {};
@@ -314,7 +339,8 @@ function buildCards() {
   const pPrev = previous(pSeries);
   const pulpDelta = pLast.value != null && pPrev.value != null ? Number(pLast.value) - Number(pPrev.value) : null;
   const pulpTon = pulp.currentDeltaTon != null ? Number(pulp.currentDeltaTon) : null;
-  const pulpRisk = Math.abs(pulpTon || 0) >= 40 ? "medium" : "low";
+  const pulpProxyDelta = pulp.currentDeltaIndex != null ? Number(pulp.currentDeltaIndex) : pulpDelta;
+  const pulpRisk = Math.abs(pulpTon || 0) >= 40 || Math.abs(pulpProxyDelta || 0) >= 1 ? "medium" : "low";
 
   const resin = state.data.resin || {};
   const rSeries = resin.series || [];
@@ -418,6 +444,7 @@ function buildCards() {
       history: stocks.whatChanged || "No market history is published in the current JSON, so this tile is a point-in-time sentiment read.",
       why: "Markets and volatility are not direct packaging inputs, but they help explain management confidence and buyer caution.",
       use: "Use this as an executive context tile when discussing pipeline risk, quote timing, and large customer sentiment.",
+      chart: buildLineChartFromSeries(sSeries, [{ key: "vix", label: "VIX" }], "Market volatility trend"),
       links: stocks.sourceLinks || []
     },
     {
@@ -468,15 +495,15 @@ function buildCards() {
       id: "pulp",
       title: "Pulp Market",
       risk: pulpRisk,
-      value: pulpTon == null ? "Unavailable" : pulpTon > 0 ? `Up ${money(Math.abs(pulpTon))}/ton` : pulpTon < 0 ? `Down ${money(Math.abs(pulpTon))}/ton` : "Flat",
-      secondary: pLast.value != null ? `Index ${num(pLast.value, 1)}` : "No index",
-      subtext: `${trendWord(pulpDelta, 0.05)} ${signedNum(pulpDelta, 1)} index pts vs prior period`,
+      value: pLast.value != null ? `Index ${num(pLast.value, 1)}` : pulpTon == null ? "Unavailable" : pulpTon > 0 ? `Up ${money(Math.abs(pulpTon))}/ton` : pulpTon < 0 ? `Down ${money(Math.abs(pulpTon))}/ton` : "Flat",
+      secondary: `Proxy move ${signedNum(pulpProxyDelta, 1)} pts`,
+      subtext: `${trendWord(pulpProxyDelta, 0.05)} ${signedNum(pulpProxyDelta, 1)} index pts vs prior period`,
       freshness: pulp.freshness || "Monthly",
-      executiveRead: `The pulp proxy index is ${num(pLast.value, 1)} and the published market view shows ${pulpTon == null ? "no tonnage delta" : signedNum(pulpTon, 0) + " per ton"}.`,
+      executiveRead: `The pulp proxy index is ${num(pLast.value, 1)}. This is a directional proxy, not a paid spot pulp price.`,
       recommendedAction: pulpRisk === "medium"
         ? "Prepare account teams for firmer corrugated pricing conversations and protect margin on longer-running quotes."
         : "Keep pulp in the pricing watchlist, but no immediate corrugated escalation is indicated by the proxy.",
-      history: `The proxy index moved ${signedNum(pulpDelta, 1)} points versus the prior published period.`,
+      history: `The proxy index moved ${signedNum(pulpProxyDelta, 1)} points versus the prior published period.`,
       why: "Pulp and fiber direction can support or weaken corrugated pricing pressure from large paper and box suppliers.",
       use: "Use this tile when deciding whether to hold quote expirations short, recheck supplier costs, or pre-brief sales on price movement.",
       chart: buildLineChartFromSeries(pSeries, [{ key: "value", label: "Pulp proxy" }], "Pulp proxy trend"),
@@ -595,17 +622,17 @@ function buildCards() {
 function renderOverview() {
   const high = state.cards.filter(card => card.risk === "high").length;
   const medium = state.cards.filter(card => card.risk === "medium").length;
-  const stale = state.cards.filter(card => freshnessInfo(card.id).stale).length;
+  const sourceIssues = state.cards.filter(card => ["failed", "stale"].includes(freshnessInfo(card.id).qualityGroup)).length;
   const errors = state.loadErrors.length;
   const leadingRisk = high ? `${high} high-risk tile(s)` : medium ? `${medium} medium-risk tile(s)` : "No high-risk tiles";
 
   els.overviewSummary.textContent =
-    `${leadingRisk}. ${stale} tile(s) need freshness review. This is ${APP_VERSION}: an executive interpretation layer over the currently published data.`;
+    `${leadingRisk}. ${sourceIssues} automated source issue(s). This is ${APP_VERSION}: a data reliability release with source-type and refresh-status labels.`;
 
   els.overviewStats.innerHTML =
     `<div><span>High</span><strong>${high}</strong></div>` +
     `<div><span>Medium</span><strong>${medium}</strong></div>` +
-    `<div><span>Stale</span><strong>${stale}</strong></div>` +
+    `<div><span>Source issues</span><strong>${sourceIssues}</strong></div>` +
     `<div><span>Load errors</span><strong>${errors}</strong></div>`;
 }
 
@@ -614,18 +641,29 @@ function renderTiles() {
   renderOverview();
 
   const loadErrors = state.loadErrors || [];
-  const staleTiles = state.cards
-    .map(card => ({ title: card.title, f: freshnessInfo(card.id) }))
-    .filter(item => item.f.stale);
+  const qualityRows = state.cards.map(card => ({ title: card.title, f: freshnessInfo(card.id) }));
+  const failedTiles = qualityRows.filter(item => item.f.qualityGroup === "failed");
+  const staleTiles = qualityRows.filter(item => item.f.qualityGroup === "stale");
+  const manualTiles = qualityRows.filter(item => item.f.qualityGroup === "manual");
+  const limitedTiles = qualityRows.filter(item => item.f.qualityGroup === "limited");
 
   let banner = "";
-  if (loadErrors.length || staleTiles.length) {
+  if (loadErrors.length || failedTiles.length || staleTiles.length || manualTiles.length || limitedTiles.length) {
     const parts = [];
     if (loadErrors.length) {
       parts.push(`<strong>${loadErrors.length} data file(s) failed:</strong> ${loadErrors.map(e => `${esc(e.key)} (${esc(e.reason)})`).join(", ")}`);
     }
+    if (failedTiles.length) {
+      parts.push(`<strong>Failed automated refresh:</strong> ${failedTiles.map(s => esc(s.title)).join(", ")}`);
+    }
     if (staleTiles.length) {
-      parts.push(`<strong>${staleTiles.length} tile(s) need freshness review:</strong> ${staleTiles.map(s => `${esc(s.title)}${s.f.updated ? ` (${Math.round(s.f.ageDays)}d old)` : " (no timestamp)"}`).join(", ")}`);
+      parts.push(`<strong>Stale automated data:</strong> ${staleTiles.map(s => `${esc(s.title)}${s.f.updated ? ` (${Math.round(s.f.ageDays)}d old)` : " (no timestamp)"}`).join(", ")}`);
+    }
+    if (manualTiles.length) {
+      parts.push(`<strong>Manual / curated source:</strong> ${manualTiles.map(s => esc(s.title)).join(", ")}`);
+    }
+    if (limitedTiles.length) {
+      parts.push(`<strong>Proxy / source-limited:</strong> ${limitedTiles.map(s => esc(s.title)).join(", ")}`);
     }
     banner = `<div class="data-quality-banner" role="alert">${parts.map(part => `<div>${part}</div>`).join("")}</div>`;
   }
@@ -638,7 +676,7 @@ function renderTiles() {
     return (
       `<button class="tile ${esc(card.risk)}${f.stale ? " stale" : ""}" data-id="${esc(card.id)}">` +
       `<div class="tile-head"><span>${esc(card.title)}</span><em>${esc(riskLabel(card.risk))}</em></div>` +
-      `<div class="chips">${chip(card.freshness)}${chip(f.strength || "Unknown")}${f.stale ? chip("Needs review", "warn") : chip("Current", "ok")}</div>` +
+      `<div class="chips">${chip(card.freshness)}${chip(titleCase(f.sourceType))}${chip(titleCase(f.refreshStatus), f.qualityGroup === "failed" || f.qualityGroup === "stale" ? "warn" : f.qualityGroup === "current" ? "ok" : "limited")}</div>` +
       `<div class="val">${esc(card.value)}</div>` +
       `<div class="sec">${esc(card.secondary || "")}</div>` +
       `<div class="sub">${esc(card.subtext || "")}</div>` +
@@ -670,7 +708,7 @@ function openDetail(id) {
     `<div><div class="eyebrow">Dashboard ${esc(APP_VERSION)}</div><h2 id="detailTitle">${esc(card.title)}</h2></div>` +
     `<div class="risk-pill ${esc(card.risk)}">${esc(riskLabel(card.risk))} risk</div>` +
     `</div>` +
-    `<div class="chips detail-chip-row">${chip(card.freshness)}${chip(sourceFor(card.id).sourceStrength || "Unknown source")}${chip(freshnessInfo(card.id).stale ? "Needs review" : "Current", freshnessInfo(card.id).stale ? "warn" : "ok")}</div>` +
+    `<div class="chips detail-chip-row">${chip(card.freshness)}${chip(titleCase(freshnessInfo(card.id).sourceType))}${chip(titleCase(freshnessInfo(card.id).refreshStatus), freshnessInfo(card.id).qualityGroup === "current" ? "ok" : freshnessInfo(card.id).qualityGroup === "failed" || freshnessInfo(card.id).qualityGroup === "stale" ? "warn" : "limited")}</div>` +
     box("Executive Read", `<p>${esc(card.executiveRead)}</p>`, "hero-box") +
     box("Recommended Action", `<p>${esc(card.recommendedAction)}</p>`, "action-box") +
     chartHtml +

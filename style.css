@@ -196,6 +196,7 @@ a:hover{text-decoration:underline}
 }
 .chip.ok{border-color:rgba(73,201,137,.34);color:#bbf7d0}
 .chip.warn{border-color:rgba(242,201,76,.42);color:#fde68a}
+.chip.limited{border-color:rgba(147,197,253,.34);color:#bfdbfe}
 .val{margin-top:18px;color:#fff;font-size:1.75rem;font-weight:900;line-height:1.08}
 .sec{min-height:22px;margin-top:7px;color:#dbeafe;font-weight:800;line-height:1.35}
 .sub{margin-top:10px;color:var(--muted);font-size:.92rem;line-height:1.45;overflow-wrap:anywhere}

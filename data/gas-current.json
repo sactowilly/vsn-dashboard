@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:56+00:00",
+  "lastUpdated": "2026-06-22T15:09-07:00",
   "sourceStrength": "Medium",
   "freshness": "Daily + Monthly",
   "sourceLinks": [
@@ -24,5 +24,12 @@
   "sacramentoRegular": null,
   "sacramentoWeekAgoRegular": null,
   "currentDiesel": 5.18,
-  "weekAgoDiesel": 5.18
+  "weekAgoDiesel": 5.18,
+  "sourceType": "automated",
+  "refreshStatus": "success",
+  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastSuccessfulAt": "2026-06-22T15:09-07:00",
+  "sourceLimitations": [
+    "AAA values are scraped from public pages; Sacramento metro values may be unavailable and fall back to California averages."
+  ]
 }

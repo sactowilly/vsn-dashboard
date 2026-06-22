@@ -9,7 +9,8 @@
     }
   ],
   "notes": [
-    "Proxy data only."
+    "Proxy data only.",
+    "FRED_API_KEY is required for update_materials.py. Preserved previous resin/plastics proxy data."
   ],
   "series": [
     {
@@ -36,5 +37,13 @@
       "date": "2026-03",
       "value": 101.6
     }
+  ],
+  "sourceType": "proxy",
+  "refreshStatus": "failed",
+  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastSuccessfulAt": "2026-04-02T08:20:00-07:00",
+  "sourceLimitations": [
+    "This is a FRED/BLS PPI proxy, not paid-grade spot resin pricing.",
+    "Monthly PPI data can lag current supplier quotes."
   ]
 }

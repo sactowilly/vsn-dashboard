@@ -10,11 +10,19 @@
     }
   ],
   "notes": [
-    "Keep this as context only."
+    "Keep this as context only.",
+    "FRED_API_KEY is required for update_stocks.py. Preserved previous market data."
   ],
   "latest": {
     "sp500": 5240,
     "dow": 39120,
     "vix": 18.7
-  }
+  },
+  "sourceType": "automated",
+  "refreshStatus": "failed",
+  "lastAttemptedAt": "2026-06-22T15:09-07:00",
+  "lastSuccessfulAt": "2026-04-02T08:20:00-07:00",
+  "sourceLimitations": [
+    "FRED market series can lag live market quotes and should be treated as daily context, not intraday trading data."
+  ]
 }
