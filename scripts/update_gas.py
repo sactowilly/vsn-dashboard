@@ -15,23 +15,32 @@ def scrape_aaa():
         # Tolerant of attributes/whitespace between the label cell and the value cell.
         m = re.search(rf"{re.escape(label)}\s*</td>\s*<td[^>]*>\s*\$?([0-9]+\.[0-9]+)", html, re.I)
         return clean_number(m.group(1)) if m else None
-    # Sacramento metro row: grab the next up-to-two price-like numbers that follow
-    # the "Sacramento" label, tolerant of the exact tag layout (which AAA changes).
-    sac_reg = sac_week = None
-    sac_block = re.search(r"Sacramento.{0,400}", html, re.I | re.S)
-    if sac_block:
-        prices = re.findall(r"\$?([0-9]\.[0-9]{2,3})", sac_block.group(0))
-        if prices:
-            sac_reg = clean_number(prices[0])
-        if len(prices) > 1:
-            sac_week = clean_number(prices[1])
+    sac_values = {}
+    sac_table = re.search(r"<h3[^>]*>\s*Sacramento\s*</h3>.*?<tbody>(.*?)</tbody>", html, re.I | re.S)
+    if sac_table:
+        rows = re.findall(
+            r"<tr>\s*<td>\s*(.*?)\s*</td>\s*"
+            r"<td[^>]*>\s*\$?([0-9]+\.[0-9]+)\s*</td>\s*"
+            r"<td[^>]*>\s*\$?([0-9]+\.[0-9]+)\s*</td>\s*"
+            r"<td[^>]*>\s*\$?([0-9]+\.[0-9]+)\s*</td>\s*"
+            r"<td[^>]*>\s*\$?([0-9]+\.[0-9]+)\s*</td>",
+            sac_table.group(1),
+            re.I | re.S,
+        )
+        for label, regular, _mid, _premium, diesel in rows:
+            key = re.sub(r"[^a-z]", "", label.lower())
+            sac_values[key] = {"regular": clean_number(regular), "diesel": clean_number(diesel)}
+    sac_current = sac_values.get("currentavg", {})
+    sac_week = sac_values.get("weekagoavg", {})
     return {
         "currentRegular": row("Current Avg."),
         "weekAgoRegular": row("Week Ago Avg."),
         "monthAgoRegular": row("Month Ago Avg."),
         "yearAgoRegular": row("Year Ago Avg."),
-        "sacramentoRegular": sac_reg,
-        "sacramentoWeekAgoRegular": sac_week,
+        "sacramentoRegular": sac_current.get("regular"),
+        "sacramentoDiesel": sac_current.get("diesel"),
+        "sacramentoWeekAgoRegular": sac_week.get("regular"),
+        "sacramentoWeekAgoDiesel": sac_week.get("diesel"),
     }
 def fetch_eia_history(api_key: str | None):
     existing = read_json("gas-history.json", default={"series": []}) or {"series": []}
@@ -59,5 +68,5 @@ stamp = now_iso()
 current = {"lastUpdated": stamp,"sourceStrength":"Medium","freshness":"Daily + Monthly","sourceLinks":[{"label":"AAA California Gas Prices","url":AAA_URL},{"label":"EIA","url":"https://www.eia.gov/"}],"notes":["Sacramento regular is the primary tile value.","AAA is scraped in GitHub Actions, not in the browser.","California regular and diesel remain secondary context."], **aaa}
 if current.get("currentDiesel") is None and history.get("series"): current["currentDiesel"] = history["series"][-1]["diesel"]
 if current.get("weekAgoDiesel") is None and history.get("series"): current["weekAgoDiesel"] = history["series"][-1]["diesel"]
-write_json("gas-current.json", with_refresh_metadata(current, source_type="automated", refresh_status="success", attempted_at=stamp, successful_at=stamp, limitations=["AAA values are scraped from public pages; Sacramento metro values may be unavailable and fall back to California averages."]))
+write_json("gas-current.json", with_refresh_metadata(current, source_type="automated", refresh_status="success", attempted_at=stamp, successful_at=stamp, limitations=["AAA values are scraped from public pages; Sacramento metro values are the primary dashboard display. California averages are retained as secondary drawer context."]))
 write_json("gas-history.json", history)

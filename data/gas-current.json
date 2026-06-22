@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T22:11+00:00",
+  "lastUpdated": "2026-06-22T16:00-07:00",
   "sourceStrength": "Medium",
   "freshness": "Daily + Monthly",
   "sourceLinks": [
@@ -21,15 +21,17 @@
   "weekAgoRegular": 5.741,
   "monthAgoRegular": 6.131,
   "yearAgoRegular": 4.657,
-  "sacramentoRegular": null,
-  "sacramentoWeekAgoRegular": null,
+  "sacramentoRegular": 5.596,
+  "sacramentoDiesel": 6.776,
+  "sacramentoWeekAgoRegular": 5.762,
+  "sacramentoWeekAgoDiesel": 7.001,
   "currentDiesel": 5.18,
   "weekAgoDiesel": 5.18,
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-22T22:11+00:00",
-  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
+  "lastAttemptedAt": "2026-06-22T16:00-07:00",
+  "lastSuccessfulAt": "2026-06-22T16:00-07:00",
   "sourceLimitations": [
-    "AAA values are scraped from public pages; Sacramento metro values may be unavailable and fall back to California averages."
+    "AAA values are scraped from public pages; Sacramento metro values are the primary dashboard display. California averages are retained as secondary drawer context."
   ]
 }
