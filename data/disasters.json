@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T22:11+00:00",
+  "lastUpdated": "2026-06-22T23:10+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,43 +19,43 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "5 km NW of The Geysers, CA",
+      "region": "60 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "31 km N of Karluk, Alaska",
+      "region": "85 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "32 km SE of Mina, Nevada",
+      "region": "6 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km NNE of The Geysers, CA",
+      "region": "11 km WSW of Templeton, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km SSW of Redlands, CA",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "30 km SW of Tetlin, Alaska",
+      "region": "18 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "37 km SE of Odessa, Texas",
+      "region": "29 km WSW of Susitna, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "276 km SSW of \u2018Ohonua, Tonga",
-      "severity": "Medium"
+      "region": "18 km WSW of Johannesburg, CA",
+      "severity": "Low"
     },
     {
       "type": "Extreme Heat Watch issued June 22 at 2:28PM MST until June 25 at 8:00PM MST by NWS Phoenix AZ",
@@ -80,8 +80,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-22T22:11+00:00",
-  "lastSuccessfulAt": "2026-06-22T22:11+00:00",
+  "lastAttemptedAt": "2026-06-22T23:10+00:00",
+  "lastSuccessfulAt": "2026-06-22T23:10+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

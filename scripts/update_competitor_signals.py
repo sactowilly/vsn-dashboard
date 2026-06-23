@@ -41,8 +41,17 @@ def classify_moves(items):
         title = item["title"]
         text = title.lower()
         if any(term in text for term in ("acquires", "acquisition", "expands", "expansion", "opens", "facility", "plant", "distribution")):
-            moves.append(title)
+            moves.append(item)
     return moves[:3]
+
+def classify_hiring(items):
+    hiring = []
+    for item in items:
+        title = item["title"]
+        text = title.lower()
+        if any(term in text for term in ("hiring", "jobs", "job fair", "career", "recruit", "new jobs")):
+            hiring.append(item)
+    return hiring[:3]
 
 data = read_json("competitors.json", default={}) or {}
 companies = data.get("companies", [])
@@ -58,16 +67,28 @@ try:
         category = company.get("category", "packaging")
         query = f'"{name}" packaging OR corrugated OR distribution when:30d'
         items = google_news_items(query, limit=3)
-        news_titles = [item["title"] for item in items[:3]]
+        news_items = items[:3]
         moves = classify_moves(items)
+        hiring = classify_hiring(items)
         existing_signals = company.get("signals", {}) or {}
+        existing_hiring = existing_signals.get("hiring", [])
+        if existing_hiring and not hiring:
+            hiring = [
+                {
+                    "title": item if isinstance(item, str) else item.get("title", "Hiring signal"),
+                    "source": "Curated",
+                    "url": company.get("search") or company.get("website") or "",
+                    "publishedAt": existing_signals.get("lastUpdated") or "",
+                }
+                for item in existing_hiring
+            ]
         updated.append(
             {
                 **company,
                 "signals": {
                     "lastUpdated": stamp,
-                    "news": news_titles,
-                    "hiring": existing_signals.get("hiring", []),
+                    "news": news_items,
+                    "hiring": hiring,
                     "moves": moves,
                     "items": items,
                     "query": query,

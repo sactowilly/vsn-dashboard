@@ -172,6 +172,44 @@ function titleCase(value) {
     .replace(/\b\w/g, letter => letter.toUpperCase());
 }
 
+function dateLabel(dateLike) {
+  if (!dateLike) return "Date unavailable";
+  return fmt(dateLike, { month: "short", day: "numeric", year: "numeric" });
+}
+
+function stampInfo(dateLike) {
+  if (!dateLike) return { text: "👎 No data timestamp", tone: "bad" };
+  const ageDays = (Date.now() - new Date(dateLike).getTime()) / 86400000;
+  if (Number.isNaN(ageDays)) return { text: "👎 Invalid timestamp", tone: "bad" };
+  const label = fmt(dateLike, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+  if (ageDays < 1) return { text: `👍 Updated today, ${label}`, tone: "good" };
+  if (ageDays <= 30) return { text: `⚠ Updated ${label}`, tone: "caution" };
+  return { text: `👎 Updated ${label}`, tone: "bad" };
+}
+
+function signalTitle(item) {
+  return typeof item === "string" ? item : item?.title || "Signal";
+}
+
+function signalUrl(item, fallback = "") {
+  return typeof item === "object" && item?.url ? item.url : fallback;
+}
+
+function signalDate(item, fallback = "") {
+  return typeof item === "object" && item?.publishedAt ? item.publishedAt : fallback;
+}
+
+function signalItemHtml(item, fallbackUrl = "") {
+  const title = signalTitle(item);
+  const url = signalUrl(item, fallbackUrl);
+  const date = signalDate(item);
+  const source = typeof item === "object" && item?.source ? ` · ${item.source}` : "";
+  const linked = url
+    ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(title)}</a>`
+    : esc(title);
+  return `<li>${linked}<span class="signal-meta">${esc(dateLabel(date))}${esc(source)}</span></li>`;
+}
+
 function showToast(message) {
   els.statusToast.textContent = message;
   els.statusToast.className = "toast show";
@@ -296,6 +334,9 @@ function sourceHtml(card) {
     `<div><span>Last success</span><strong>${esc(src.lastSuccessfulAt ? fmt(src.lastSuccessfulAt, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "Unavailable")}</strong></div>` +
     `</div>` +
     `<p>${esc(sourceQuality(card.id))}</p>` +
+    (f.sourceType === "proxy"
+      ? `<p><strong>What proxy means:</strong> This is a credible directional indicator from a public index. It helps show pressure and trend, but it is not the same as a supplier quote, contract price, or paid spot-market feed.</p>`
+      : "") +
     (src.sourceLimitations?.length ? `<p><strong>Limitations:</strong></p>${paragraphList(src.sourceLimitations)}` : "") +
     notesHtml(src.notes)
   );
@@ -353,13 +394,15 @@ function buildCards() {
   const gasHistory = state.data.gasHistory || {};
   const sacHistory = gas.sacramentoHistory || [];
   const caHistory = gasHistory.series || [];
-  const gasGeo = gas.sacramentoRegular != null ? "Sacramento" : "California";
-  const gasHeadlineRegular = gas.sacramentoRegular != null ? gas.sacramentoRegular : gas.currentRegular;
-  const gasHeadlineDiesel = gas.sacramentoDiesel != null ? gas.sacramentoDiesel : gas.currentDiesel;
+  const gasGeo = "Sacramento";
+  const gasHeadlineRegular = gas.sacramentoRegular;
+  const gasHeadlineDiesel = gas.sacramentoDiesel;
   const sacGasDelta = percentChange(gas.sacramentoRegular, gas.sacramentoWeekAgoRegular);
   const sacDieselDelta = percentChange(gas.sacramentoDiesel, gas.sacramentoWeekAgoDiesel);
   const caGasDelta = percentChange(gas.currentRegular, gas.weekAgoRegular);
   const caDieselDelta = percentChange(gas.currentDiesel, gas.weekAgoDiesel);
+  const eiaCaGasDelta = percentChange(gas.eiaCaliforniaRegular, gas.eiaCaliforniaWeekAgoRegular);
+  const eiaCaDieselDelta = percentChange(gas.eiaCaliforniaDiesel, gas.eiaCaliforniaWeekAgoDiesel);
   const maxFuelMove = Math.max(
     Math.abs(sacGasDelta || 0),
     Math.abs(sacDieselDelta || 0),
@@ -368,10 +411,11 @@ function buildCards() {
   );
   const gasRisk = maxFuelMove >= 5 ? "high" : maxFuelMove >= 2 ? "medium" : "low";
   const fuelChartRows = sacHistory.length ? sacHistory : caHistory;
+  const fuelChartGeo = sacHistory.length ? "Sacramento" : "California";
   const fuelChart = fuelChartRows.length
     ? buildLineChartFromSeries(fuelChartRows, [
-        { key: "regular", label: `${gasGeo} gas` },
-        { key: "diesel", label: `${gasGeo} diesel` }
+        { key: "regular", label: `${fuelChartGeo} gas` },
+        { key: "diesel", label: `${fuelChartGeo} diesel` }
       ], "Fuel price trend")
     : null;
 
@@ -531,27 +575,31 @@ function buildCards() {
       id: "gas",
       title: "Gas & Diesel Prices",
       risk: gasRisk,
-      value: `${gasGeo} Gas ${money(gasHeadlineRegular)}`,
+      value: gasHeadlineRegular == null ? "Sac Gas Unavailable" : `${gasGeo} Gas ${money(gasHeadlineRegular)}`,
       secondary: `${gasGeo} Diesel ${money(gasHeadlineDiesel)}`,
-      subtext: `Weekly move: gas ${signedPct(gasGeo === "Sacramento" ? sacGasDelta : caGasDelta)} | diesel ${signedPct(gasGeo === "Sacramento" ? sacDieselDelta : caDieselDelta)}`,
+      subtext: gasHeadlineRegular == null
+        ? "Sacramento metro data unavailable from AAA; California values are shown in the flyout only."
+        : `Sac weekly move: gas ${signedPct(sacGasDelta)} | diesel ${signedPct(sacDieselDelta)}`,
       freshness: gas.freshness || "Daily + Monthly",
-      executiveRead: `${gasGeo} gas is ${money(gasHeadlineRegular)} and ${gasGeo} diesel is ${money(gasHeadlineDiesel)}.`,
+      executiveRead: `Sacramento gas is ${money(gasHeadlineRegular)} and Sacramento diesel is ${money(gasHeadlineDiesel)}. California averages and EIA weekly values are retained below as backup/context only.`,
       recommendedAction: gasRisk === "high"
         ? "Review delivery surcharges, route efficiency, and expedited freight exposure immediately."
         : gasRisk === "medium"
           ? "Watch freight-sensitive quotes and consider shorter validity windows if the move persists."
           : "Fuel is not flashing an immediate escalation signal, but keep it visible for logistics and delivery pricing.",
-      history: `California gas moved ${signedPct(caGasDelta)} versus a week ago; California diesel moved ${signedPct(caDieselDelta)}.`,
+      history: `Sacramento gas moved ${signedPct(sacGasDelta)} versus a week ago; Sacramento diesel moved ${signedPct(sacDieselDelta)}. California gas moved ${signedPct(caGasDelta)} and California diesel moved ${signedPct(caDieselDelta)}. EIA weekly California backup moved gas ${signedPct(eiaCaGasDelta)} and diesel ${signedPct(eiaCaDieselDelta)} when available.`,
       why: "Fuel is one of the clearest operating-cost indicators for local delivery, inbound supplier freight, and customer logistics sensitivity.",
       use: "Use this tile for delivery-charge review, route planning, and deciding when freight-sensitive quotes need updated assumptions.",
       chart: fuelChart,
-      extraHtml: box("Sacramento vs California",
+      extraHtml: box("Sacramento Primary / CA Backup",
         `<div class="quality-grid compact">` +
         `<div><span>Sac gas</span><strong>${esc(money(gas.sacramentoRegular))}</strong></div>` +
         `<div><span>Sac diesel</span><strong>${esc(money(gas.sacramentoDiesel))}</strong></div>` +
-        `<div><span>CA gas</span><strong>${esc(money(gas.currentRegular))}</strong></div>` +
-        `<div><span>CA diesel</span><strong>${esc(money(gas.currentDiesel))}</strong></div>` +
-        `</div>`),
+        `<div><span>AAA CA gas</span><strong>${esc(money(gas.currentRegular))}</strong></div>` +
+        `<div><span>AAA CA diesel</span><strong>${esc(money(gas.currentDiesel))}</strong></div>` +
+        `<div><span>EIA CA gas</span><strong>${esc(money(gas.eiaCaliforniaRegular))}</strong></div>` +
+        `<div><span>EIA CA diesel</span><strong>${esc(money(gas.eiaCaliforniaDiesel))}</strong></div>` +
+        `</div><p class="fineprint">EIA is statewide weekly backup/context. Sacramento AAA values remain the dashboard's primary gas and diesel signal.</p>`),
       links: gas.sourceLinks || []
     },
     {
@@ -576,9 +624,9 @@ function buildCards() {
               `<h4>${esc(row.name)}</h4>` +
               `<p>${esc(row.city || "Region unavailable")} | ${esc(row.category || "Category unavailable")} | ${esc(row.priority || "Priority unavailable")}</p>` +
               `<p>${esc(row.notes || "No notes published.")}</p>` +
-              (row.news.length ? `<strong>News</strong>${paragraphList(row.news)}` : "") +
-              (row.hiring.length ? `<strong>Hiring</strong>${paragraphList(row.hiring)}` : "") +
-              (row.moves.length ? `<strong>Moves</strong>${paragraphList(row.moves)}` : "") +
+                (row.news.length ? `<strong>News</strong><ul>${row.news.map(item => signalItemHtml(item, row.googleNews || row.search || row.website || "")).join("")}</ul>` : "") +
+                (row.hiring.length ? `<strong>Hiring</strong><ul>${row.hiring.map(item => signalItemHtml(item, row.search || row.website || row.googleNews || "")).join("")}</ul>` : "") +
+                (row.moves.length ? `<strong>Moves</strong><ul>${row.moves.map(item => signalItemHtml(item, row.googleNews || row.search || row.website || "")).join("")}</ul>` : "") +
               `<div class="mini-links">` +
               (row.website ? `<a href="${esc(row.website)}" target="_blank" rel="noopener noreferrer">Website</a>` : "") +
               (row.googleNews ? `<a href="${esc(row.googleNews)}" target="_blank" rel="noopener noreferrer">News</a>` : "") +
@@ -670,9 +718,7 @@ function renderTiles() {
 
   els.tileGrid.innerHTML = banner + state.cards.map(card => {
     const f = freshnessInfo(card.id);
-    const stamp = f.updated
-      ? `Updated ${fmt(f.updated, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}`
-      : "No data timestamp";
+    const stamp = stampInfo(f.updated);
     return (
       `<button class="tile ${esc(card.risk)}${f.stale ? " stale" : ""}" data-id="${esc(card.id)}">` +
       `<div class="tile-head"><span>${esc(card.title)}</span><em>${esc(riskLabel(card.risk))}</em></div>` +
@@ -680,7 +726,7 @@ function renderTiles() {
       `<div class="val">${esc(card.value)}</div>` +
       `<div class="sec">${esc(card.secondary || "")}</div>` +
       `<div class="sub">${esc(card.subtext || "")}</div>` +
-      `<div class="stamp">${esc(stamp)}</div>` +
+      `<div class="stamp ${esc(stamp.tone)}">${esc(stamp.text)}</div>` +
       `</button>`
     );
   }).join("");
