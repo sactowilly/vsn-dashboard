@@ -1,6 +1,6 @@
 from __future__ import annotations
 from email.utils import parsedate_to_datetime
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 import time
 import xml.etree.ElementTree as ET
 import requests
@@ -9,7 +9,46 @@ from common import now_iso, preserve_with_failure, read_json, write_json, with_r
 LIMITATIONS = [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
+    "Hiring links are included only when a direct job advertisement or hiring announcement URL is available; generic search-result URLs are intentionally suppressed.",
 ]
+
+GENERIC_SEARCH_HOSTS = {"google.com", "www.google.com", "news.google.com", "bing.com", "www.bing.com"}
+GOOGLE_HOSTS = {"google.com", "www.google.com", "news.google.com"}
+
+def is_generic_search_url(url: str) -> bool:
+    if not url:
+        return False
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+    path = parsed.path.lower()
+    return host in GENERIC_SEARCH_HOSTS and ("/search" in path or "/rss/search" in path or "q=" in parsed.query)
+
+def is_google_url(url: str) -> bool:
+    return bool(url) and urlparse(url).netloc.lower() in GOOGLE_HOSTS
+
+def direct_hiring_item(item, fallback_date: str = ""):
+    if isinstance(item, str):
+        return {
+            "title": item,
+            "source": "Curated",
+            "url": "",
+            "publishedAt": fallback_date,
+            "linkStatus": "direct_job_link_unavailable",
+        }
+    cleaned = {
+        "title": item.get("title", "Hiring signal"),
+        "source": item.get("source", "Curated"),
+        "url": item.get("url", ""),
+        "publishedAt": item.get("publishedAt") or item.get("date") or fallback_date,
+    }
+    if is_generic_search_url(cleaned["url"]) or is_google_url(cleaned["url"]):
+        cleaned["url"] = ""
+        cleaned["linkStatus"] = "direct_job_link_unavailable"
+    elif cleaned["url"]:
+        cleaned["linkStatus"] = "direct_job_link"
+    else:
+        cleaned["linkStatus"] = item.get("linkStatus", "direct_job_link_unavailable")
+    return cleaned
 
 def google_news_items(query: str, limit: int = 3):
     url = f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en-US&gl=US&ceid=US:en"
@@ -73,15 +112,9 @@ try:
         existing_signals = company.get("signals", {}) or {}
         existing_hiring = existing_signals.get("hiring", [])
         if existing_hiring and not hiring:
-            hiring = [
-                {
-                    "title": item if isinstance(item, str) else item.get("title", "Hiring signal"),
-                    "source": "Curated",
-                    "url": company.get("search") or company.get("website") or "",
-                    "publishedAt": existing_signals.get("lastUpdated") or "",
-                }
-                for item in existing_hiring
-            ]
+            hiring = [direct_hiring_item(item, existing_signals.get("lastUpdated") or "") for item in existing_hiring]
+        else:
+            hiring = [direct_hiring_item(item, item.get("publishedAt", "") if isinstance(item, dict) else "") for item in hiring]
         updated.append(
             {
                 **company,

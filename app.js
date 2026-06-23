@@ -204,10 +204,13 @@ function signalItemHtml(item, fallbackUrl = "") {
   const url = signalUrl(item, fallbackUrl);
   const date = signalDate(item);
   const source = typeof item === "object" && item?.source ? ` · ${item.source}` : "";
+  const linkStatus = typeof item === "object" && item?.linkStatus === "direct_job_link_unavailable"
+    ? " · direct job link unavailable"
+    : "";
   const linked = url
     ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(title)}</a>`
     : esc(title);
-  return `<li>${linked}<span class="signal-meta">${esc(dateLabel(date))}${esc(source)}</span></li>`;
+  return `<li>${linked}<span class="signal-meta">${esc(dateLabel(date))}${esc(source)}${esc(linkStatus)}</span></li>`;
 }
 
 function showToast(message) {
@@ -625,7 +628,7 @@ function buildCards() {
               `<p>${esc(row.city || "Region unavailable")} | ${esc(row.category || "Category unavailable")} | ${esc(row.priority || "Priority unavailable")}</p>` +
               `<p>${esc(row.notes || "No notes published.")}</p>` +
                 (row.news.length ? `<strong>News</strong><ul>${row.news.map(item => signalItemHtml(item, row.googleNews || row.search || row.website || "")).join("")}</ul>` : "") +
-                (row.hiring.length ? `<strong>Hiring</strong><ul>${row.hiring.map(item => signalItemHtml(item, row.search || row.website || row.googleNews || "")).join("")}</ul>` : "") +
+                (row.hiring.length ? `<strong>Hiring</strong><ul>${row.hiring.map(item => signalItemHtml(item)).join("")}</ul>` : "") +
                 (row.moves.length ? `<strong>Moves</strong><ul>${row.moves.map(item => signalItemHtml(item, row.googleNews || row.search || row.website || "")).join("")}</ul>` : "") +
               `<div class="mini-links">` +
               (row.website ? `<a href="${esc(row.website)}" target="_blank" rel="noopener noreferrer">Website</a>` : "") +
