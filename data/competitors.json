@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:23-07:00",
+  "lastUpdated": "2026-06-23T16:07+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "Packaging Corporation of America Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
@@ -83,7 +83,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "Veritiv Expands Packaging Distribution Footprint Through Acquisition of Stickel Packaging Supply - citybiz",
@@ -92,16 +92,16 @@
             "publishedAt": "2026-06-02T18:46+00:00"
           },
           {
+            "title": "Food Venture Financing News \u2013 Weekly Issue No. 285 - Davis Wright Tremaine",
+            "source": "Davis Wright Tremaine",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYU9RUkVXU0g0am15ZC1jZlJZRWNYWmthR3lLVzF4a3UwamJhcTBUcUZYRjVjZmRvLUJ0VkhnOFdYaDNNS1N5WEtQY3EyMDlFZU4xdjdWa0lGbEdsVE1EWVJSaV9Jdl9UZnZzejRrbDhKN0M3TXpmZU9oZWJ6b0tVOGhwSjRzNFlTNkMyQg?oc=5",
+            "publishedAt": "2026-06-15T15:49+00:00"
+          },
+          {
             "title": "Canovation and Canpack team up on aluminium can-end system - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbi1uSlRYSlZFRWZQcnJGR2VjOXI4cDFsYkJja1BMVlhPd2wwWnhjRjNza3RXVFo4WTlNVnJjNWY2QXdCOHdRMlduc0RMVHZ6UXZxQWpIRm5qZnlmZVlXczBQRFFMVDdWQ3BrT3V2WXBYeGdGTTBfUGdkd0M3dW5DY0gwQXZyOHNZM0pISmtUT2kwUGVmekgxbktJeUlWMWtfaUxUU2Q3QzdWdw?oc=5",
             "publishedAt": "2026-06-03T07:00+00:00"
-          },
-          {
-            "title": "Pakistani IT Company Ranked Among Top 25 Most Loved Workplaces Globally - ProPakistani",
-            "source": "ProPakistani",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY05zTXUxdTVGS3Y2MG9qb2U1cHNBRzdCNlR1NWtJRVhXaTdGMlluSjIzNEdJT3NadGFMWU1BZzh5Q0Y3N0hhTE9vWUZTYXhHME9OazRRQ0FSaVdULUpuYlNwRjdZOVp3Ym1DaWI3T3NBUlBwNDF1QTMzU3I4Zk1FNkhsSlBLWmpkbWdiaFpYWEtNSmlabzVEUHVIRUFneGdKNl9acUNkdjRURmPSAbABQVVfeXFMTU9UWGxqQ1Vjc3c1MVZJWTJGQmZ2c3A5aDlvVnAyRmY0eXE2cTNLemdUMV95YndyaWtfQTIwOXpaUzQzVnRrMlBmWGYwazFwM2ROUEhrOEtNbWcyUnljaFE0dWt6bGdROHRWVms4OWREa1FGU3hfZzczVWp1MllzdmFIR0xiMWhrMnZNSHF6WkNJaHg2NGliLTB5aGtUZjJnM1U1QjBsR2JLOGxaSGhTWXU?oc=5",
-            "publishedAt": "2026-06-19T14:44+00:00"
           }
         ],
         "hiring": [
@@ -129,16 +129,16 @@
             "publishedAt": "2026-06-02T18:46+00:00"
           },
           {
+            "title": "Food Venture Financing News \u2013 Weekly Issue No. 285 - Davis Wright Tremaine",
+            "source": "Davis Wright Tremaine",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYU9RUkVXU0g0am15ZC1jZlJZRWNYWmthR3lLVzF4a3UwamJhcTBUcUZYRjVjZmRvLUJ0VkhnOFdYaDNNS1N5WEtQY3EyMDlFZU4xdjdWa0lGbEdsVE1EWVJSaV9Jdl9UZnZzejRrbDhKN0M3TXpmZU9oZWJ6b0tVOGhwSjRzNFlTNkMyQg?oc=5",
+            "publishedAt": "2026-06-15T15:49+00:00"
+          },
+          {
             "title": "Canovation and Canpack team up on aluminium can-end system - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbi1uSlRYSlZFRWZQcnJGR2VjOXI4cDFsYkJja1BMVlhPd2wwWnhjRjNza3RXVFo4WTlNVnJjNWY2QXdCOHdRMlduc0RMVHZ6UXZxQWpIRm5qZnlmZVlXczBQRFFMVDdWQ3BrT3V2WXBYeGdGTTBfUGdkd0M3dW5DY0gwQXZyOHNZM0pISmtUT2kwUGVmekgxbktJeUlWMWtfaUxUU2Q3QzdWdw?oc=5",
             "publishedAt": "2026-06-03T07:00+00:00"
-          },
-          {
-            "title": "Pakistani IT Company Ranked Among Top 25 Most Loved Workplaces Globally - ProPakistani",
-            "source": "ProPakistani",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY05zTXUxdTVGS3Y2MG9qb2U1cHNBRzdCNlR1NWtJRVhXaTdGMlluSjIzNEdJT3NadGFMWU1BZzh5Q0Y3N0hhTE9vWUZTYXhHME9OazRRQ0FSaVdULUpuYlNwRjdZOVp3Ym1DaWI3T3NBUlBwNDF1QTMzU3I4Zk1FNkhsSlBLWmpkbWdiaFpYWEtNSmlabzVEUHVIRUFneGdKNl9acUNkdjRURmPSAbABQVVfeXFMTU9UWGxqQ1Vjc3c1MVZJWTJGQmZ2c3A5aDlvVnAyRmY0eXE2cTNLemdUMV95YndyaWtfQTIwOXpaUzQzVnRrMlBmWGYwazFwM2ROUEhrOEtNbWcyUnljaFE0dWt6bGdROHRWVms4OWREa1FGU3hfZzczVWp1MllzdmFIR0xiMWhrMnZNSHF6WkNJaHg2NGliLTB5aGtUZjJnM1U1QjBsR2JLOGxaSGhTWXU?oc=5",
-            "publishedAt": "2026-06-19T14:44+00:00"
           }
         ],
         "query": "\"Veritiv\" packaging OR corrugated OR distribution when:30d",
@@ -155,7 +155,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "Imperial Dade Canada Completes Acquisition of Enterprise Paper, Expands Presence in Western Canada - Business Wire",
@@ -231,19 +231,19 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
-          {
-            "title": "Uline Invests in Braselton Facility, Announces Hiring Event - Valdosta Today",
-            "source": "Valdosta Today",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlNzd2NwRHJUa2x0WktoZ09oNV9GczczOEZfU1Y4TDNrOUZhRWdycnR0TzRWdWVQbVNXUWpoQjVXYTZxV3Y3TTUzekJ5c3h5OEtWRU5fVExRV08tNkRPT2h1Sjhzb2VtSzJEeEhVOTJfLWloX2ZTVDNsZ2w1T3Q5ZlJQOTNSSHBQbXM2c3prS3NRSWNZcVZEb05oLWFIMjNoWE1iUGpDZU1GQTA?oc=5",
-            "publishedAt": "2026-06-10T12:59+00:00"
-          },
           {
             "title": "Uline wins extension on 1.2M-square-foot warehouse as it recalibrates expansion - The Business Journals",
             "source": "The Business Journals",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FBUmdOanBoYXBZUUJXeDM1eWE5OFFacXJrT3htTzU3WWpZSTl0Ni1DYnladXFlMkVtQmRhbU1EU3U2VnlmbVRHVl95UElMc1ZsOUhBQnl0SFBvNFlLQUFqZUd2VGEyajhVd0xjQW11eHMzd09nclRDRzYydmVrVHhPY1VCQ1dCQ1NkTHRROEc4RVpaUl82b3FYaG1jQ1A4?oc=5",
             "publishedAt": "2026-06-16T19:56+00:00"
+          },
+          {
+            "title": "Uline Invests in Braselton Facility, Announces Hiring Event - Valdosta Today",
+            "source": "Valdosta Today",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlNzd2NwRHJUa2x0WktoZ09oNV9GczczOEZfU1Y4TDNrOUZhRWdycnR0TzRWdWVQbVNXUWpoQjVXYTZxV3Y3TTUzekJ5c3h5OEtWRU5fVExRV08tNkRPT2h1Sjhzb2VtSzJEeEhVOTJfLWloX2ZTVDNsZ2w1T3Q5ZlJQOTNSSHBQbXM2c3prS3NRSWNZcVZEb05oLWFIMjNoWE1iUGpDZU1GQTA?oc=5",
+            "publishedAt": "2026-06-10T12:59+00:00"
           },
           {
             "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
@@ -263,16 +263,16 @@
         ],
         "moves": [
           {
-            "title": "Uline Invests in Braselton Facility, Announces Hiring Event - Valdosta Today",
-            "source": "Valdosta Today",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlNzd2NwRHJUa2x0WktoZ09oNV9GczczOEZfU1Y4TDNrOUZhRWdycnR0TzRWdWVQbVNXUWpoQjVXYTZxV3Y3TTUzekJ5c3h5OEtWRU5fVExRV08tNkRPT2h1Sjhzb2VtSzJEeEhVOTJfLWloX2ZTVDNsZ2w1T3Q5ZlJQOTNSSHBQbXM2c3prS3NRSWNZcVZEb05oLWFIMjNoWE1iUGpDZU1GQTA?oc=5",
-            "publishedAt": "2026-06-10T12:59+00:00"
-          },
-          {
             "title": "Uline wins extension on 1.2M-square-foot warehouse as it recalibrates expansion - The Business Journals",
             "source": "The Business Journals",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FBUmdOanBoYXBZUUJXeDM1eWE5OFFacXJrT3htTzU3WWpZSTl0Ni1DYnladXFlMkVtQmRhbU1EU3U2VnlmbVRHVl95UElMc1ZsOUhBQnl0SFBvNFlLQUFqZUd2VGEyajhVd0xjQW11eHMzd09nclRDRzYydmVrVHhPY1VCQ1dCQ1NkTHRROEc4RVpaUl82b3FYaG1jQ1A4?oc=5",
             "publishedAt": "2026-06-16T19:56+00:00"
+          },
+          {
+            "title": "Uline Invests in Braselton Facility, Announces Hiring Event - Valdosta Today",
+            "source": "Valdosta Today",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlNzd2NwRHJUa2x0WktoZ09oNV9GczczOEZfU1Y4TDNrOUZhRWdycnR0TzRWdWVQbVNXUWpoQjVXYTZxV3Y3TTUzekJ5c3h5OEtWRU5fVExRV08tNkRPT2h1Sjhzb2VtSzJEeEhVOTJfLWloX2ZTVDNsZ2w1T3Q5ZlJQOTNSSHBQbXM2c3prS3NRSWNZcVZEb05oLWFIMjNoWE1iUGpDZU1GQTA?oc=5",
+            "publishedAt": "2026-06-10T12:59+00:00"
           },
           {
             "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
@@ -283,16 +283,16 @@
         ],
         "items": [
           {
-            "title": "Uline Invests in Braselton Facility, Announces Hiring Event - Valdosta Today",
-            "source": "Valdosta Today",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlNzd2NwRHJUa2x0WktoZ09oNV9GczczOEZfU1Y4TDNrOUZhRWdycnR0TzRWdWVQbVNXUWpoQjVXYTZxV3Y3TTUzekJ5c3h5OEtWRU5fVExRV08tNkRPT2h1Sjhzb2VtSzJEeEhVOTJfLWloX2ZTVDNsZ2w1T3Q5ZlJQOTNSSHBQbXM2c3prS3NRSWNZcVZEb05oLWFIMjNoWE1iUGpDZU1GQTA?oc=5",
-            "publishedAt": "2026-06-10T12:59+00:00"
-          },
-          {
             "title": "Uline wins extension on 1.2M-square-foot warehouse as it recalibrates expansion - The Business Journals",
             "source": "The Business Journals",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FBUmdOanBoYXBZUUJXeDM1eWE5OFFacXJrT3htTzU3WWpZSTl0Ni1DYnladXFlMkVtQmRhbU1EU3U2VnlmbVRHVl95UElMc1ZsOUhBQnl0SFBvNFlLQUFqZUd2VGEyajhVd0xjQW11eHMzd09nclRDRzYydmVrVHhPY1VCQ1dCQ1NkTHRROEc4RVpaUl82b3FYaG1jQ1A4?oc=5",
             "publishedAt": "2026-06-16T19:56+00:00"
+          },
+          {
+            "title": "Uline Invests in Braselton Facility, Announces Hiring Event - Valdosta Today",
+            "source": "Valdosta Today",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlNzd2NwRHJUa2x0WktoZ09oNV9GczczOEZfU1Y4TDNrOUZhRWdycnR0TzRWdWVQbVNXUWpoQjVXYTZxV3Y3TTUzekJ5c3h5OEtWRU5fVExRV08tNkRPT2h1Sjhzb2VtSzJEeEhVOTJfLWloX2ZTVDNsZ2w1T3Q5ZlJQOTNSSHBQbXM2c3prS3NRSWNZcVZEb05oLWFIMjNoWE1iUGpDZU1GQTA?oc=5",
+            "publishedAt": "2026-06-10T12:59+00:00"
           },
           {
             "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
@@ -315,7 +315,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "International Paper Breaks Ground on New Sustainable Packaging Facility in Rankin County, Mississippi - PR Newswire",
@@ -385,7 +385,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "Pratt Industries to expand in Rockwall Technology Park - Pulp and Paper News",
@@ -463,7 +463,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "Washington paper mills mum about chemical safety after Longview disaster - KUOW",
@@ -520,7 +520,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "DS Smith develops fiber-based tray for fresh produce transportation - Packaging Insights",
@@ -577,7 +577,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "Orkka Launches Patented 3D Honeycomb Paper Mat System - MEM Magazine",
@@ -592,21 +592,14 @@
             "publishedAt": "2026-06-08T07:00+00:00"
           },
           {
-            "title": "Flip-Top Cap Hinges Market Forecast Points Higher Toward 2035, Driven by Biopharma Expansion and Living Hinge Innovation - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaGFkLUdON2wyNlF0ZFJQZkh3U2JxSmdCZjlzbVczU0ZxT3ZiQXdPbUJQeXVERnJTY1ZWNHhHdXNIYWVjVkVWbGNVWDAydTNnLUoxbjNJZm5IOW4zeVJudGdsTzJjbjhhWDFFWml3cnZLQjhKTDJyNVRsMTNudFk3TVM3M0szc1NpVUh5SkoyV09INjNGNTFqODBEbnY2bEtMdjQ2UDBuOGtfSnNqUTI5MTBtM3BFUlRpWFlQaTUwVjBTTXptMzlCR281eUlHMFNsTUs3b3N4TFluMFFTeFRHdTVKTQ?oc=5",
-            "publishedAt": "2026-06-08T16:41+00:00"
+            "title": "Bombay High Court Grants Injunction Against 'Mefial-Spas' For Infringing Blue Cross's 'Meftal-Spas' Mark - LiveLawBiz",
+            "source": "LiveLawBiz",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1cyZHU3QzRoM3d4RlVFbl9lbW1QTWtxWlB5U1FTaDBlUVF3TmdGUjNuNTk5YzFiS3p6aFEyaXRzSW9VRU16S2hRNnNuQXNXRjhJNlh5ZW9OYUpSd1RoNk9nb3pfS1h4WkFqZ1dyYXNtTzFyR2FJMFZ5MUtMYldZSkRjbW1zNllMaC1KcmFFZ0hYNHR4djYyN3VLamVjVnA4T3JfX1hzMlFjVm0zU2EwTFItT0ZxSUViWG5CUXg5aTQ4TlFyQ0gwakNiV1NXcWtBaUllbGF5Z3hKTll4T0V30gHkAUFVX3lxTE05eFpYTnVHcmRKcFNiYVkxd2pFZkVVclo2dHplYzh1M2IwWjcyeDBlOHhyZTNnNGoyaXluV19LV0tqMjdmRTBwcVJVcmJJMUhJR09JMGhNZmhNZ3VZX1BNTmIwdFhGTlR6RGNMblZlRUJZMk5udWlVTW1RMGpPR05tUlhjbUxzYUJjQW9kRUxlOUtwYTJERXliQkFCRGluZ0o1c2YxNE9YWUpSQ2xOWjcwbHhBTFh0aDdDNndsaUJUWmxBemNVaFZaZF8tenlzUlJLdmZFbDBWRnJtcnYxUmpVNkVjVA?oc=5",
+            "publishedAt": "2026-06-18T13:32+00:00"
           }
         ],
         "hiring": [],
-        "moves": [
-          {
-            "title": "Flip-Top Cap Hinges Market Forecast Points Higher Toward 2035, Driven by Biopharma Expansion and Living Hinge Innovation - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaGFkLUdON2wyNlF0ZFJQZkh3U2JxSmdCZjlzbVczU0ZxT3ZiQXdPbUJQeXVERnJTY1ZWNHhHdXNIYWVjVkVWbGNVWDAydTNnLUoxbjNJZm5IOW4zeVJudGdsTzJjbjhhWDFFWml3cnZLQjhKTDJyNVRsMTNudFk3TVM3M0szc1NpVUh5SkoyV09INjNGNTFqODBEbnY2bEtMdjQ2UDBuOGtfSnNqUTI5MTBtM3BFUlRpWFlQaTUwVjBTTXptMzlCR281eUlHMFNsTUs3b3N4TFluMFFTeFRHdTVKTQ?oc=5",
-            "publishedAt": "2026-06-08T16:41+00:00"
-          }
-        ],
+        "moves": [],
         "items": [
           {
             "title": "Orkka Launches Patented 3D Honeycomb Paper Mat System - MEM Magazine",
@@ -621,10 +614,10 @@
             "publishedAt": "2026-06-08T07:00+00:00"
           },
           {
-            "title": "Flip-Top Cap Hinges Market Forecast Points Higher Toward 2035, Driven by Biopharma Expansion and Living Hinge Innovation - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaGFkLUdON2wyNlF0ZFJQZkh3U2JxSmdCZjlzbVczU0ZxT3ZiQXdPbUJQeXVERnJTY1ZWNHhHdXNIYWVjVkVWbGNVWDAydTNnLUoxbjNJZm5IOW4zeVJudGdsTzJjbjhhWDFFWml3cnZLQjhKTDJyNVRsMTNudFk3TVM3M0szc1NpVUh5SkoyV09INjNGNTFqODBEbnY2bEtMdjQ2UDBuOGtfSnNqUTI5MTBtM3BFUlRpWFlQaTUwVjBTTXptMzlCR281eUlHMFNsTUs3b3N4TFluMFFTeFRHdTVKTQ?oc=5",
-            "publishedAt": "2026-06-08T16:41+00:00"
+            "title": "Bombay High Court Grants Injunction Against 'Mefial-Spas' For Infringing Blue Cross's 'Meftal-Spas' Mark - LiveLawBiz",
+            "source": "LiveLawBiz",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1cyZHU3QzRoM3d4RlVFbl9lbW1QTWtxWlB5U1FTaDBlUVF3TmdGUjNuNTk5YzFiS3p6aFEyaXRzSW9VRU16S2hRNnNuQXNXRjhJNlh5ZW9OYUpSd1RoNk9nb3pfS1h4WkFqZ1dyYXNtTzFyR2FJMFZ5MUtMYldZSkRjbW1zNllMaC1KcmFFZ0hYNHR4djYyN3VLamVjVnA4T3JfX1hzMlFjVm0zU2EwTFItT0ZxSUViWG5CUXg5aTQ4TlFyQ0gwakNiV1NXcWtBaUllbGF5Z3hKTll4T0V30gHkAUFVX3lxTE05eFpYTnVHcmRKcFNiYVkxd2pFZkVVclo2dHplYzh1M2IwWjcyeDBlOHhyZTNnNGoyaXluV19LV0tqMjdmRTBwcVJVcmJJMUhJR09JMGhNZmhNZ3VZX1BNTmIwdFhGTlR6RGNMblZlRUJZMk5udWlVTW1RMGpPR05tUlhjbUxzYUJjQW9kRUxlOUtwYTJERXliQkFCRGluZ0o1c2YxNE9YWUpSQ2xOWjcwbHhBTFh0aDdDNndsaUJUWmxBemNVaFZaZF8tenlzUlJLdmZFbDBWRnJtcnYxUmpVNkVjVA?oc=5",
+            "publishedAt": "2026-06-18T13:32+00:00"
           }
         ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -641,7 +634,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "Berlin Packaging Continues North American Expansion with the Acquisition of O.Berk Company - PR Newswire",
@@ -656,10 +649,10 @@
             "publishedAt": "2026-06-11T07:00+00:00"
           },
           {
-            "title": "Berlin Packaging Acquires O.Berk Company To Expand North American Presence - Pulse 2.0",
-            "source": "Pulse 2.0",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcC00VjJLUUQ3eVdjWkNKYzBhbTFzVXUxY2NhWDRyUG9sYjB6a0FZcWNiZXFWSWs1UEkxVXZDaHZEN0JLd2Y0dldSWVhlVFBhNG1zT2M4ZEUyYVU2WDZRNk5sQW5MWlN2dFd5SmVpc25NRkdJWDg3VTJtZ0xURlRFUnVoU2lPNFI0U0owZTFWT1VoXzRHbDU2dXFR0gGfAUFVX3lxTE1jaERzT3d1eG9qaEFGNVhJcS1JdWZtTUhOZk5aSEg5aVFFOW9GTmJnOTV2S0VfQUJMVlZxVElmREtoLTNqNzhLWF8yOFZkbkw3and5VVVCYjBCRlVyckpaY3VuRnFhdGVwa0dCTHo2aFZnM2RFLXFCMUswOEQySGVWcDkyVzlmVUUtai1DOGVXQl9HajNWUTdXZUgwSC05SQ?oc=5",
-            "publishedAt": "2026-06-10T07:00+00:00"
+            "title": "Berlin Packaging acquires O.Berk Company - Packaging Gateway",
+            "source": "Packaging Gateway",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wVERBaFhBc1o3UzJZUlpPWHR1dGQyNllmUHRDTWF2SlVlV2s4QjkzSVVOdW5BaG5MR1dKMGVxalZsU3V6OHpoN1VfSU4xcUtadGlKN2h1MXlIbmZVLXdRM2EwdnV4TVBUb3J3RDRucTRubkYwUE5qRkhYck0?oc=5",
+            "publishedAt": "2026-06-11T07:00+00:00"
           }
         ],
         "hiring": [],
@@ -677,10 +670,10 @@
             "publishedAt": "2026-06-11T07:00+00:00"
           },
           {
-            "title": "Berlin Packaging Acquires O.Berk Company To Expand North American Presence - Pulse 2.0",
-            "source": "Pulse 2.0",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcC00VjJLUUQ3eVdjWkNKYzBhbTFzVXUxY2NhWDRyUG9sYjB6a0FZcWNiZXFWSWs1UEkxVXZDaHZEN0JLd2Y0dldSWVhlVFBhNG1zT2M4ZEUyYVU2WDZRNk5sQW5MWlN2dFd5SmVpc25NRkdJWDg3VTJtZ0xURlRFUnVoU2lPNFI0U0owZTFWT1VoXzRHbDU2dXFR0gGfAUFVX3lxTE1jaERzT3d1eG9qaEFGNVhJcS1JdWZtTUhOZk5aSEg5aVFFOW9GTmJnOTV2S0VfQUJMVlZxVElmREtoLTNqNzhLWF8yOFZkbkw3and5VVVCYjBCRlVyckpaY3VuRnFhdGVwa0dCTHo2aFZnM2RFLXFCMUswOEQySGVWcDkyVzlmVUUtai1DOGVXQl9HajNWUTdXZUgwSC05SQ?oc=5",
-            "publishedAt": "2026-06-10T07:00+00:00"
+            "title": "Berlin Packaging acquires O.Berk Company - Packaging Gateway",
+            "source": "Packaging Gateway",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wVERBaFhBc1o3UzJZUlpPWHR1dGQyNllmUHRDTWF2SlVlV2s4QjkzSVVOdW5BaG5MR1dKMGVxalZsU3V6OHpoN1VfSU4xcUtadGlKN2h1MXlIbmZVLXdRM2EwdnV4TVBUb3J3RDRucTRubkYwUE5qRkhYck0?oc=5",
+            "publishedAt": "2026-06-11T07:00+00:00"
           }
         ],
         "items": [
@@ -697,10 +690,10 @@
             "publishedAt": "2026-06-11T07:00+00:00"
           },
           {
-            "title": "Berlin Packaging Acquires O.Berk Company To Expand North American Presence - Pulse 2.0",
-            "source": "Pulse 2.0",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcC00VjJLUUQ3eVdjWkNKYzBhbTFzVXUxY2NhWDRyUG9sYjB6a0FZcWNiZXFWSWs1UEkxVXZDaHZEN0JLd2Y0dldSWVhlVFBhNG1zT2M4ZEUyYVU2WDZRNk5sQW5MWlN2dFd5SmVpc25NRkdJWDg3VTJtZ0xURlRFUnVoU2lPNFI0U0owZTFWT1VoXzRHbDU2dXFR0gGfAUFVX3lxTE1jaERzT3d1eG9qaEFGNVhJcS1JdWZtTUhOZk5aSEg5aVFFOW9GTmJnOTV2S0VfQUJMVlZxVElmREtoLTNqNzhLWF8yOFZkbkw3and5VVVCYjBCRlVyckpaY3VuRnFhdGVwa0dCTHo2aFZnM2RFLXFCMUswOEQySGVWcDkyVzlmVUUtai1DOGVXQl9HajNWUTdXZUgwSC05SQ?oc=5",
-            "publishedAt": "2026-06-10T07:00+00:00"
+            "title": "Berlin Packaging acquires O.Berk Company - Packaging Gateway",
+            "source": "Packaging Gateway",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wVERBaFhBc1o3UzJZUlpPWHR1dGQyNllmUHRDTWF2SlVlV2s4QjkzSVVOdW5BaG5MR1dKMGVxalZsU3V6OHpoN1VfSU4xcUtadGlKN2h1MXlIbmZVLXdRM2EwdnV4TVBUb3J3RDRucTRubkYwUE5qRkhYck0?oc=5",
+            "publishedAt": "2026-06-11T07:00+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -717,7 +710,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Compass Packaging Solutions to Continue New England Expansion - PR Newswire",
@@ -793,7 +786,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-06-22T17:23-07:00",
+        "lastUpdated": "2026-06-23T16:07+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -805,8 +798,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-22T17:23-07:00",
-  "lastSuccessfulAt": "2026-06-22T17:23-07:00",
+  "lastAttemptedAt": "2026-06-23T16:07+00:00",
+  "lastSuccessfulAt": "2026-06-23T16:07+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
