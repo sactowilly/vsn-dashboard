@@ -18,6 +18,7 @@ const els = {
   refreshButton: document.getElementById("refreshButton"),
   clockDisplay: document.getElementById("clockDisplay"),
   globalLastUpdated: document.getElementById("globalLastUpdated"),
+  footerLastChanged: document.getElementById("footerLastChanged"),
   statusToast: document.getElementById("statusToast"),
   overviewSummary: document.getElementById("overviewSummary"),
   overviewStats: document.getElementById("overviewStats"),
@@ -832,6 +833,13 @@ async function refreshAll() {
       hour: "numeric",
       minute: "2-digit"
     });
+    if (els.footerLastChanged) {
+      els.footerLastChanged.textContent = fmt(publishedAt(), {
+        year: "numeric",
+        month: "short",
+        day: "numeric"
+      });
+    }
     renderTiles();
     showToast(`Published data refreshed for ${APP_VERSION}`);
   } catch (error) {
