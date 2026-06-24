@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T16:07+00:00",
+  "lastUpdated": "2026-06-24T15:39+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "5 km S of P\u0101hala, Hawaii",
+      "region": "12 km ESE of Willits, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km NW of The Geysers, CA",
+      "region": "46 km W of Kotzebue, Alaska",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "8 km NNW of Redwood Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NNW of Running Springs, CA",
+      "region": "8 km NNW of Redwood Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km NW of The Geysers, CA",
+      "region": "8 km NNW of Redwood Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km SW of Tres Pinos, CA",
+      "region": "11 km N of Redwood Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "73 km NNE of Chignik, Alaska",
+      "region": "4 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km WSW of Stanton, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "265 km SSE of Dunhuang, China",
+      "region": "11 km N of Redwood Valley, CA",
       "severity": "High"
     },
     {
-      "type": "Beach Hazards Statement issued June 23 at 7:33AM PDT until June 24 at 5:00PM PDT by NWS San Francisco CA",
+      "type": "Beach Hazards Statement issued June 24 at 4:10AM PDT until June 24 at 5:00PM PDT by NWS San Francisco CA",
       "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued June 23 at 12:05AM PDT until June 25 at 9:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Los Angeles County Inland Coast including Downtown Los Angeles",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Heat Advisory issued June 23 at 12:05AM PDT until June 25 at 9:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Clarita Valley; Western San Fernando Valley; Eastern San Fernando Valley; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Extreme Heat Warning issued June 22 at 11:31PM MST until June 25 at 8:00PM MST by NWS Phoenix AZ",
-      "region": "Parker Valley; Yuma; Central La Paz; Palo Verde Valley",
+      "type": "Red Flag Warning issued June 24 at 3:41AM PDT until June 24 at 11:00AM PDT by NWS San Diego CA",
+      "region": "Victor Valley - Apple Valley - Lucerne Valley - Johnson Valley",
       "severity": "Severe"
+    },
+    {
+      "type": "Extreme Heat Warning issued June 24 at 3:37AM PDT until June 25 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Deserts",
+      "severity": "Severe"
+    },
+    {
+      "type": "Beach Hazards Statement issued June 24 at 2:39AM PDT until June 25 at 10:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-23T16:07+00:00",
-  "lastSuccessfulAt": "2026-06-23T16:07+00:00",
+  "lastAttemptedAt": "2026-06-24T15:39+00:00",
+  "lastSuccessfulAt": "2026-06-24T15:39+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
