@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T15:39+00:00",
+  "lastUpdated": "2026-06-25T15:56+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -28,6 +28,20 @@
       "impact": "Low"
     },
     {
+      "title": "Georgia joins multi-state lawsuit challenging California's plastics packaging law - CBS News",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3VxbFZBMzZmcGtFcHdqcVlFM19RV2J6Ulo1Xy1STEI4cUctSXI1RG1XMzFtLVhUQk83VThSOU83X3psOGs5RTZzSmp0RXFpa3N4d3JjMFktTG5WX3dRQjFCeVJrUU1US09kQm9tQVFNaEdqS0tGakUwN1FIQkdKQXg3RXgwRUItdFU2Ung1MDU1RGtlMk82SXF2RTlPYWVWRzdaN29teUg2dy12Z3N4eHY3WG5nMzIzWmc?oc=5",
+      "publishedAt": "2026-06-24T14:45+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Georgia and 16 other states sue California over plastics packaging law - WABE",
+      "source": "WABE",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3pQdU9vdERZb1ZrVXlfOXNKeHpGNTdaWlRTZmZ5QUFhVnAtbWl3TE9VSkVxNWdDcWVWVVRHNGUtX2wzUFZDaG54TGprNm5FWTN0bHM0MVJ4Y0pZYXU5Q3lTSmpfV25HX2FZemp4OXhVNlhmUHFuN00xRHFUWXJkc1ZpWWk3QnpQMzlmRkRNeG5wVkVDem1F?oc=5",
+      "publishedAt": "2026-06-23T21:51+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "17 Republican AGs suing over California packaging EPR law - Packaging Dive",
       "source": "Packaging Dive",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkZyYjdyb1Rnc2dtMkM5ZXNjVEVLOEJ6TEpTRkM2a3hxU05SVU5aMWdGWjhOOGpSd19xeV9HbWJfdUp0X3NJN01mekVMNzBqQW5Yal93WXFQRGtYQnN3enRpREpCMDVUcDFmVzliOTVnV0VYYVZqbGZzcHV2YW1HV0l0TGhvel9LazhtWFRpR2ViSU85UkdqcFBpeGlrVlZPZWxwM19lREtCUGxHYkhuYW1DZ2E2OHdJWHl0ZFVXZkZIUC1UelhZN3VjME8?oc=5",
@@ -35,17 +49,17 @@
       "impact": "Medium"
     },
     {
-      "title": "17 states and trade group sue California over plastics packaging law - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXdOZXc5M054WXpRZUw4dVdmbVZ0d1VYZk9jSzV1VEE3THhDQ3ZIdjUtT0x0Wkk5OXdmaWFYbmoxbkVGTlczQVBPalZ5LTk1dFRZbUJ4M3pNMUc0VFZQR3JmUmxCM0lNREpLTXN0dV9EQjNHejZ3OEtFUk9zTGxHNmpuWXROOXBSVks1cTc0aGVCSF9Pd1NmWWRLbmZxN1HSAaQBQVVfeXFMUEZYVDVRVHZ4UndmNE5uYURGWWNYUVRSZXNLNG1zMXlINHdiVU0xcDBiUlNXTXdDWEdNWEUtcENaX3p6NjNpdmh5UnFVay1keHFFWUY1akZ0Z1NmYXhYSWRpX2hLeXpyc0JnUEh2UzFpY3dQVHJON1NWbTdFZUtPbnhmNC1HWG45VEFHTXlnN0Rlcy0zemZpdkVIcm9mclItYmtDdk8?oc=5",
-      "publishedAt": "2026-06-23T17:33+00:00",
+      "title": "UConn grad develops seaweed coating to replace plastic in food packaging - WFSB",
+      "source": "WFSB",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTmJGbVJXOU9RSlNkT3VWVzI3WV9RUndleWhOa2YtcVdNZFdrZjRmd0twTHhsYkxINWxKbzRabFFqNDdSd0xMOFg0dnJVWkZVNXExTEFtQU9HOFRVSjVlWFJHd01jRndtX1J1bW9lOHdkOFZzM054czhaZ3ExUVBhMExtNnI4ZndfaDlFRFkwOW5xeDZjZUpFVFRqRTBJWTVI0gG0AUFVX3lxTE9NY08zYW1STGJ1eUtuaVlXZnJ5c2hXM3oyenpVNk1LZVFrQW9lajZDTDNyY2FqNjZWUnhlbkZLLVdJdXNKcG9xRkgxM19FUmhYSjhid0JVZkNaeHRQX2VhVi1mZVlCQmd3RFQxOWY4N1B0WUFrcHlWaDgyVWRYMGVaY2pUaUswZjJ1Nzg4WnVnendMS1ZwRVlVTGUwUE1UdmNmY1hCM2FDRndYS2JvZzhJYnRNdA?oc=5",
+      "publishedAt": "2026-06-15T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "Can you not? Plastic and metal \u2018franken-can\u2019 named Australia\u2019s worst packaging at Unpackit awards - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYy1Jc2lvMG9EU0lEVEhHbG00aFNwajZMYlNMWERtTnpVMTk5WkhWVHE0Z29HcTcxb2JBS05EU3ZBdGpNQTlpbWZBWUtGaFNTcXdpNC1aZlFVRjNNNXZNUjAwLUlhSUdObXB5QW5jcnRPNWtPTTVFQWxWZXN4cW5xX2kyQXNnLWduR1lhaFlOQk90U0s1eC1nRE82ZzhIU1h4SEc3NFhxakZReE14aVRTWlJpX0dsc0tMU0Fz?oc=5",
-      "publishedAt": "2026-06-03T07:00+00:00",
+      "title": "Multiple states sue over California\u2019s plastics packaging law - KTLA",
+      "source": "KTLA",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQem4xTFlpa0NOVFZ6X0NoSFVGZVdxbGNucEF6bTlpVXFpdV92ZlV2Zl9UN0pKS1JUcnI0TDBHS0xtUk0wV2lFQnd2SmJrZHd4Ukk4clo5NFZ4aWNVcmY5MlYtV2I1cWhyMDNmZHo2MmlGWUFQbGhLR0pldjhDUFgxYzFicFRrQVFHdjUzM05iY1HSAZYBQVVfeXFMTjNVSHpVMGw3bzRNbU9QQWQwTEh2N19VM1FkcWdGc0ZxczlSeE1NUHlFN1I0VXpGWVNZOW83TTUtMjR1OEFqUG5uNHhwRFpiYnNQdFNyT280djk3ZThuYTNVNGV2Y3pvR2x6NERTbmo4dFg5Mk1IRmEyQ2RqTFpBUU9reUhNQ05JbVlESFBNTUNnQ3JoMjZn?oc=5",
+      "publishedAt": "2026-06-24T22:03+00:00",
       "impact": "Low"
     },
     {
@@ -54,26 +68,12 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNjJQVFAtRFlodnJodEhydzNmcEtzRkxibV90ZlFQNXl0NnZqNlQ0dnFfU25fSTlhWmJaaHF1N3M4M0UyRlFXY19KTzBCRTBXUy1QT0dVMGVOalR5Z1lmazA0ZFN3d0E5V2dpR09kUEhMTi1HYkNOX3ZjV2FtMW4yVDBuRWVTZ29RRmJza2NsZlVxRTR0ZlVFdjVKYVFPTUhvZXV6a2V1cWcxemtRUkMzNTdqUl9lOHowNU5SUXlyTG5rYXlhYnd6OTJoOA?oc=5",
       "publishedAt": "2026-06-23T14:51+00:00",
       "impact": "Low"
-    },
-    {
-      "title": "Microsoft's packaging transformation: The role of individual business action - Ellen MacArthur Foundation",
-      "source": "Ellen MacArthur Foundation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTC1HT1IzLURDdkFBaGtNRzJqOGxrYUxHVUVjbnJRTnVaTG5iNnhFZjdJdngzb3BfWnd1SkdMN29XMDdpTklmYjdGOUFYMk5SYnRSNm9paXh1dm9fZ0c1c3lpN00xV3NRTl90RWtweVdFWmhYM3lHSGwwTlNjem5DZEEyR0V0VkJaSDdITDhIN1VTN00zTVp6eFJfY1RfbGp6VlVNdE1DeTVWLVgwcFBFdDJuekQtZw?oc=5",
-      "publishedAt": "2026-06-23T07:12+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Companies launch InFACT Project to explore flexible packaging circularity in EU - Recycling Today",
-      "source": "Recycling Today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN2RBc1ZpTFZzVmxRcU4wMGxqWk1HREt5WXhLQXVobHd5OTBiQW44NGtqVGRDektldDh4XzVNMzA4VDR2eF9UMmZhdWJLRmg3SUJvOU9sbXpPR1F0SGVYY0tJZmlzX3lEY0JsNjdlMW9SMWNyTFJ2dG5vZi1RQlAyWF9za2FmWWJ0RDdJSW1pWkEtUUJDZHFWcnlZUTRwX0RZbDhKXzM0VXR0Y3ZVMFVJcXdJc29Pd0w5Vi1GYw?oc=5",
-      "publishedAt": "2026-06-23T21:01+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-24T15:39+00:00",
-  "lastSuccessfulAt": "2026-06-24T15:39+00:00",
+  "lastAttemptedAt": "2026-06-25T15:56+00:00",
+  "lastSuccessfulAt": "2026-06-25T15:56+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

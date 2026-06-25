@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T15:39+00:00",
+  "lastUpdated": "2026-06-25T15:56+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "12 km ESE of Willits, CA",
+      "region": "6 km NW of Ivanof Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "46 km W of Kotzebue, Alaska",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "8 km NNW of Redwood Valley, CA",
+      "region": "11 km ESE of Willits, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NNW of Redwood Valley, CA",
+      "region": "5 km N of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NNW of Redwood Valley, CA",
+      "region": "9 km WSW of Clarks Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km N of Redwood Valley, CA",
+      "region": "5 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km W of Cobb, CA",
+      "region": "23 km N of Ridgecrest, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km N of Redwood Valley, CA",
-      "severity": "High"
+      "region": "11 km W of Rotan, Texas",
+      "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued June 24 at 4:10AM PDT until June 24 at 5:00PM PDT by NWS San Francisco CA",
-      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
+      "type": "Earthquake",
+      "region": "39 km SSW of Nanwalek, Alaska",
+      "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued June 24 at 3:41AM PDT until June 24 at 11:00AM PDT by NWS San Diego CA",
-      "region": "Victor Valley - Apple Valley - Lucerne Valley - Johnson Valley",
-      "severity": "Severe"
+      "type": "Air Quality Alert issued June 25 at 8:35AM MST by NWS Phoenix AZ",
+      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
+      "severity": "Unknown"
     },
     {
-      "type": "Extreme Heat Warning issued June 24 at 3:37AM PDT until June 25 at 8:00PM PDT by NWS San Diego CA",
+      "type": "Extreme Heat Warning issued June 25 at 5:44AM PDT until June 25 at 8:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Deserts",
       "severity": "Severe"
     },
     {
-      "type": "Beach Hazards Statement issued June 24 at 2:39AM PDT until June 25 at 10:00PM PDT by NWS San Diego CA",
+      "type": "Fire Weather Watch issued June 25 at 4:48AM PDT until June 27 at 11:00PM PDT by NWS Hanford CA",
+      "region": "Indian Wells Valley; Kern County Desert; Lake Isabella",
+      "severity": "Severe"
+    },
+    {
+      "type": "Beach Hazards Statement issued June 25 at 2:45AM PDT until June 25 at 10:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-24T15:39+00:00",
-  "lastSuccessfulAt": "2026-06-24T15:39+00:00",
+  "lastAttemptedAt": "2026-06-25T15:56+00:00",
+  "lastSuccessfulAt": "2026-06-25T15:56+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
