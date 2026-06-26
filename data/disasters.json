@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T15:56+00:00",
+  "lastUpdated": "2026-06-26T15:32+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km NW of Ivanof Bay, Alaska",
+      "region": "13 km SE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km ESE of Willits, CA",
+      "region": "25 km SSE of Ivanof Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km N of P\u0101hala, Hawaii",
+      "region": "5 km NNE of Pyote, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km WSW of Clarks Point, Alaska",
+      "region": "10 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km WNW of The Geysers, CA",
+      "region": "16 km ESE of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "23 km N of Ridgecrest, CA",
+      "region": "59 km ESE of Chignik, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km W of Rotan, Texas",
+      "region": "1 km SE of San Dimas, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "39 km SSW of Nanwalek, Alaska",
+      "region": "53 km WNW of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Air Quality Alert issued June 25 at 8:35AM MST by NWS Phoenix AZ",
-      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
-      "severity": "Unknown"
+      "type": "Wind Advisory issued June 26 at 6:47AM PDT until June 28 at 5:00AM PDT by NWS Hanford CA",
+      "region": "Indian Wells Valley; Mojave Desert",
+      "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued June 25 at 5:44AM PDT until June 25 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Deserts",
-      "severity": "Severe"
+      "type": "Wind Advisory issued June 26 at 6:47AM PDT until June 27 at 5:00AM PDT by NWS Hanford CA",
+      "region": "Yosemite NP outside of the valley; Upper San Joaquin River; Kings Canyon NP; Sequoia NP; South End of the Upper Sierra",
+      "severity": "Moderate"
     },
     {
-      "type": "Fire Weather Watch issued June 25 at 4:48AM PDT until June 27 at 11:00PM PDT by NWS Hanford CA",
-      "region": "Indian Wells Valley; Kern County Desert; Lake Isabella",
-      "severity": "Severe"
+      "type": "Lake Wind Advisory issued June 26 at 6:47AM PDT until June 26 at 1:00PM PDT by NWS Hanford CA",
+      "region": "West Side Mountains north of 198",
+      "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued June 25 at 2:45AM PDT until June 25 at 10:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "type": "Wind Advisory issued June 26 at 5:42AM PDT until June 28 at 5:00AM PDT by NWS San Diego CA",
+      "region": "Apple and Lucerne Valleys",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-25T15:56+00:00",
-  "lastSuccessfulAt": "2026-06-25T15:56+00:00",
+  "lastAttemptedAt": "2026-06-26T15:32+00:00",
+  "lastSuccessfulAt": "2026-06-26T15:32+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
