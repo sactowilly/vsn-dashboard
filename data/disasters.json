@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T15:32+00:00",
+  "lastUpdated": "2026-06-29T16:43+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,59 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "13 km SE of P\u0101hala, Hawaii",
+      "region": "21 km N of Searles Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "25 km SSE of Ivanof Bay, Alaska",
+      "region": "4 km WSW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NNE of Pyote, Texas",
+      "region": "4 km WSW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km WNW of Cobb, CA",
+      "region": "8 km SSW of Big Bear Lake, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km ESE of Anza, CA",
+      "region": "2 km SSE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "59 km ESE of Chignik, Alaska",
+      "region": "23 km NNW of Willow, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km SE of San Dimas, CA",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "53 km WNW of Anchor Point, Alaska",
+      "region": "3 km S of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued June 26 at 6:47AM PDT until June 28 at 5:00AM PDT by NWS Hanford CA",
-      "region": "Indian Wells Valley; Mojave Desert",
+      "type": "Wind Advisory issued June 28 at 11:27PM PDT until June 30 at 8:00AM PDT by NWS Phoenix AZ",
+      "region": "Imperial County Southwest",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued June 26 at 6:47AM PDT until June 27 at 5:00AM PDT by NWS Hanford CA",
-      "region": "Yosemite NP outside of the valley; Upper San Joaquin River; Kings Canyon NP; Sequoia NP; South End of the Upper Sierra",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Lake Wind Advisory issued June 26 at 6:47AM PDT until June 26 at 1:00PM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued June 26 at 5:42AM PDT until June 28 at 5:00AM PDT by NWS San Diego CA",
-      "region": "Apple and Lucerne Valleys",
+      "type": "Beach Hazards Statement issued June 28 at 9:45PM PDT until July 1 at 5:00AM PDT by NWS San Francisco CA",
+      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-26T15:32+00:00",
-  "lastSuccessfulAt": "2026-06-26T15:32+00:00",
+  "lastAttemptedAt": "2026-06-29T16:43+00:00",
+  "lastSuccessfulAt": "2026-06-29T16:43+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
