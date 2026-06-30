@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T16:43+00:00",
+  "lastUpdated": "2026-06-30T15:43+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,59 +19,64 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "21 km N of Searles Valley, CA",
+      "region": "11 km W of Forsan, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km WSW of Anza, CA",
+      "region": "17 km ESE of Little Lake, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km WSW of Anza, CA",
+      "region": "84 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km SSW of Big Bear Lake, CA",
+      "region": "12 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km SSE of P\u0101hala, Hawaii",
+      "region": "7 km E of Calimesa, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "23 km NNW of Willow, Alaska",
+      "region": "9 km ENE of Morgan Hill, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "22 km ESE of Naalehu, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km S of P\u0101hala, Hawaii",
+      "region": "14 km SE of Lindsay, Texas",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued June 28 at 11:27PM PDT until June 30 at 8:00AM PDT by NWS Phoenix AZ",
-      "region": "Imperial County Southwest",
+      "type": "Lake Wind Advisory issued June 30 at 3:17AM PDT until July 2 at 11:00PM PDT by NWS Hanford CA",
+      "region": "West Side Mountains north of 198",
       "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued June 28 at 9:45PM PDT until July 1 at 5:00AM PDT by NWS San Francisco CA",
+      "type": "Air Quality Alert issued June 29 at 1:50PM PDT by NWS San Diego CA",
+      "region": "Coachella Valley; San Gorgonio Pass Near Banning",
+      "severity": "Unknown"
+    },
+    {
+      "type": "Beach Hazards Statement issued June 29 at 10:11AM PDT until July 1 at 5:00AM PDT by NWS San Francisco CA",
       "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-29T16:43+00:00",
-  "lastSuccessfulAt": "2026-06-29T16:43+00:00",
+  "lastAttemptedAt": "2026-06-30T15:43+00:00",
+  "lastSuccessfulAt": "2026-06-30T15:43+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

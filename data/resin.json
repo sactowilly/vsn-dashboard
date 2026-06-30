@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T16:43+00:00",
+  "lastUpdated": "2026-06-30T15:43+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly proxy",
   "whatChanged": "Resin/Plastics Proxy moved +46.3 index points versus the prior published month.",
@@ -66,8 +66,8 @@
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-06-29T16:43+00:00",
-  "lastSuccessfulAt": "2026-06-29T16:43+00:00",
+  "lastAttemptedAt": "2026-06-30T15:43+00:00",
+  "lastSuccessfulAt": "2026-06-30T15:43+00:00",
   "sourceLimitations": [
     "This is a FRED/BLS PPI proxy, not paid-grade spot resin pricing.",
     "Monthly PPI data can lag current supplier quotes."
