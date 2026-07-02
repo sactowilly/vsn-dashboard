@@ -1,6 +1,6 @@
 {
-  "publishedAt": "2026-07-01T15:59+00:00",
-  "lastUpdated": "2026-07-01T15:59+00:00",
+  "publishedAt": "2026-07-02T15:35+00:00",
+  "lastUpdated": "2026-07-02T15:35+00:00",
   "summary": "GitHub Pages production build loaded. v0.5 data reliability metadata and refresh path are wired.",
   "notes": [
     "This dashboard is designed for GitHub Pages static hosting.",
@@ -8,8 +8,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-01T15:59+00:00",
-  "lastSuccessfulAt": "2026-07-01T15:59+00:00",
+  "lastAttemptedAt": "2026-07-02T15:35+00:00",
+  "lastSuccessfulAt": "2026-07-02T15:35+00:00",
   "sourceLimitations": [
     "This timestamp is the workflow run time, not proof that every source changed."
   ]

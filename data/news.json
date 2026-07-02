@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T15:59+00:00",
+  "lastUpdated": "2026-07-02T15:35+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -21,27 +21,6 @@
       "impact": "Low"
     },
     {
-      "title": "Resetting cost competitiveness in pulp and paper packaging - McKinsey & Company",
-      "source": "McKinsey & Company",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenZCNFUxcGhsV2o2UEx2MUlKejYtUk1lUjZjakRBWjhXMGlSV2xvOGNZXzctVlZMMVNyN29UMlc3eGJkYjZiczNKdEZIMk9YaWY2YmhYdUV1WEZBSXZveE85UUdabzVqanR5emlUQkRMbGZUNmtGeHp3WUxOY0d3aEVrVll1enp1V3VPRXdha2Y3MkNXdkVOZGhBVTdBN3ZSVjk0SUxjbXR5Nzh6SUN6UEdrMFl4UDgyd3FPYms0NUNRVjVxOUE?oc=5",
-      "publishedAt": "2026-06-05T07:00+00:00",
-      "impact": "Medium"
-    },
-    {
-      "title": "California Launches Sweeping Rules Aimed at Cutting Plastic Packaging Waste - KQED",
-      "source": "KQED",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmJTck1salVnNndJOU9ra0U1b3RCUnF2LUdzOHFFemF2QUZzV3pBMncyQ0w3TGl4WXVjV3pNUjFPeDJhTUVlOUJGbjBRbGswdUlvWEE4YkhJVU04dUNZb1k2MEFNU0JTZFE3SDRwS19JNVpVLVVhQTRjWkxlQXdTcjZyd1lWMWp0cWZzLUVpLUxjY3d6LUp0UEFlWUJacWxZQUJTUFpiS0M2SmlFQ2lWRTRB?oc=5",
-      "publishedAt": "2026-06-04T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Paper and paperboard production declined in 2025: AF&PA - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjFkUF9XWHptUGpXQ2h5S3BXVlpySVNGazVmQU5wY05hQjFNNGszSGdrOE10N1dFY0lBUmhHRkVxaW5uZmhCWERVZmQ2SHVpMzY3OHBncVJfb3RLczZZZWN4bkxERGgzNlBzZTFsbFhFa2R5Q0tLcjh4Vl9kUDc3MVQtQVFpZ2RvZUM5dTZqZElKN05aR2FDekJfdVR1TjVfN0E?oc=5",
-      "publishedAt": "2026-06-04T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Multiple states sue over California\u2019s plastics packaging law - KTLA",
       "source": "KTLA",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQem4xTFlpa0NOVFZ6X0NoSFVGZVdxbGNucEF6bTlpVXFpdV92ZlV2Zl9UN0pKS1JUcnI0TDBHS0xtUk0wV2lFQnd2SmJrZHd4Ukk4clo5NFZ4aWNVcmY5MlYtV2I1cWhyMDNmZHo2MmlGWUFQbGhLR0pldjhDUFgxYzFicFRrQVFHdjUzM05iY1HSAZYBQVVfeXFMTjNVSHpVMGw3bzRNbU9QQWQwTEh2N19VM1FkcWdGc0ZxczlSeE1NUHlFN1I0VXpGWVNZOW83TTUtMjR1OEFqUG5uNHhwRFpiYnNQdFNyT280djk3ZThuYTNVNGV2Y3pvR2x6NERTbmo4dFg5Mk1IRmEyQ2RqTFpBUU9reUhNQ05JbVlESFBNTUNnQ3JoMjZn?oc=5",
@@ -49,31 +28,52 @@
       "impact": "Low"
     },
     {
-      "title": "The path to better food packaging recyclability - Trellis Group (formerly GreenBiz)",
-      "source": "Trellis Group (formerly GreenBiz)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckd0ZUFncll3TmpYRzY4Sko3S01lTDVJUTNsOUZoU21uMmpGUmdiMVd4WGhaZDdOdDhQSFdhc20wRVM2djhSUkYtN2F0RzdWOGVUb0gtenNsZTdnT2dZbjVKMGdNUm4ySDIxWURKN25ZRTE5NFNYYVhUSWx5SGdVNVNOeEltNWhINldQZWZsVkNMamNIdFE?oc=5",
+      "title": "17 states and trade group sue California over plastics packaging law - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXo1UDRTR01Md1JlVFJFQURZOE5fckRZajFNTVNoV3laMXFfaXd3cmZHNUlTR1NQWmxWcjg0UThkbi03UDBZcXJTOUZVSHFKS3NYb2pZYW9VLVVrVmtCMmhzZ3NJOTZIT01UeUoyNDRlSXBIV2tqaXpjRGJYSUJWODBjemJKSXB2a05kWFdWaC0xSjZ4cVBhU2IzMjUzbjV4a1VBM3dSc1FFUlVuczBERw?oc=5",
+      "publishedAt": "2026-06-23T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Georgia joins multi-state lawsuit challenging California's plastics packaging law - CBS News",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3VxbFZBMzZmcGtFcHdqcVlFM19RV2J6Ulo1Xy1STEI4cUctSXI1RG1XMzFtLVhUQk83VThSOU83X3psOGs5RTZzSmp0RXFpa3N4d3JjMFktTG5WX3dRQjFCeVJrUU1US09kQm9tQVFNaEdqS0tGakUwN1FIQkdKQXg3RXgwRUItdFU2Ung1MDU1RGtlMk82SXF2RTlPYWVWRzdaN29teUg2dy12Z3N4eHY3WG5nMzIzWmc?oc=5",
+      "publishedAt": "2026-06-24T14:45+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "California sued for plastic packaging law, what it means for the state - Ventura County Star",
+      "source": "Ventura County Star",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMFlGYi1mRFQzWm9Yek1GSk1tZjdqNmJkdUlYc1VrSkhhUGFGRGVSWmtqME83eTUyMlMzT0x0VmNVU05EZ3lyc1hkaGtKeTVZa05udWVMUENyMEMtTXdoOTJmTE81YThwaDNSS0ZuYTlVYVBnUkNxZkpPb2hBQnpibzB5SEVyY3FGWjBDNVdITC16TVJhQmFYZlFkU3VlT1RRbkt4NzB5SnlWckJ5aGRzTkR4TEFzZmlTSG1ub1JvMXhTV2dBTUdBSGdDNl9lcDQwOTI0R2dwNVlIV2lkbWtYSXdzd2loWGJGWDJGcGQ1R2otZw?oc=5",
+      "publishedAt": "2026-06-26T17:59+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Can you not? Plastic and metal \u2018franken-can\u2019 named Australia\u2019s worst packaging at Unpackit awards - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYy1Jc2lvMG9EU0lEVEhHbG00aFNwajZMYlNMWERtTnpVMTk5WkhWVHE0Z29HcTcxb2JBS05EU3ZBdGpNQTlpbWZBWUtGaFNTcXdpNC1aZlFVRjNNNXZNUjAwLUlhSUdObXB5QW5jcnRPNWtPTTVFQWxWZXN4cW5xX2kyQXNnLWduR1lhaFlOQk90U0s1eC1nRE82ZzhIU1h4SEc3NFhxakZReE14aVRTWlJpX0dsc0tMU0Fz?oc=5",
       "publishedAt": "2026-06-03T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "17 states and trade group sue California over plastics packaging law - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXo1UDRTR01Md1JlVFJFQURZOE5fckRZajFNTVNoV3laMXFfaXd3cmZHNUlTR1NQWmxWcjg0UThkbi03UDBZcXJTOUZVSHFKS3NYb2pZYW9VLVVrVmtCMmhzZ3NJOTZIT01UeUoyNDRlSXBIV2tqaXpjRGJYSUJWODBjemJKSXB2a05kWFdWaC0xSjZ4cVBhU2IzMjUzbjV4a1VBM3dSc1FFUlVuczBERw?oc=5",
-      "publishedAt": "2026-06-23T21:11+00:00",
+      "title": "PCR: The other 3-letter packaging mandate on brands\u2019 radars - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1Y2bW5VaGVjeE0zdm5zc1B4MGh6b3JEbjhpVUFqNUs0c1NlUmg1a0Q1T3R5MUFEWWRIbWZYdGF1Z1RvN1dvSGozMEZST0NRUXpmWmNTZHRncDNKQ3FpQ2g0VVFHc3FTZlhVeE0yQzdNTFVOcWV3V2Q1WmlYNXhLaUZlREJ1LXdSRnJERGM3NF9pMUx0dDliTkRScEpqNmdnd2ZVSmdhaXZIYzNrU2hJQktVZjRnOWpuVlRQMENBYWZRbk54M0ZibWxiTG1mUFR0?oc=5",
+      "publishedAt": "2026-06-26T15:09+00:00",
       "impact": "Low"
     },
     {
-      "title": "Green Packaging Market Size, Share | Growth Forecast [2034] - Fortune Business Insights",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94RmpsRVJNc3ZZQ0luRkd5b2xnSjd0b0NMRUVuU3EyYnR4NmxzUVJRVVlnRmhJbWExN0VNMzhjdk51Vzd3bWNlNDRsYzhqWDhRdkpEXzR3R2E3Y2ttM3kxZkFvNUhHVE12NXdGaFdCR2JMdjBoZjhXbA?oc=5",
-      "publishedAt": "2026-06-08T07:00+00:00",
-      "impact": "Low"
+      "title": "Graphic Packaging Releases 2025 Impact Report, Highlighting 880 Million Plastic Packages Replaced With Paperboard Innovations in 2025 - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMVVSWms0dFpxUlh6VFZoSXNIa3F6SWVLVExtU2dPSnpvMWxKZUV1ODh4UDI0QThUNmtJeW0yS3FIUU5XQmdrajA1R3NTRFlQZGZxTWIwaEJaZ1lqOEFmV0wyWUZEZDRUbm5WWWJXM2hHd1hJckdzS0J1TnlLazEwbmg5TUF0UDJrOW1MNnkzblN5Sl9xSjBuVVljZnJFLUdLdUp1S214bkZLY3hjRHdndkRDU2JZX1BjMDZ6eFhzSUMzT2w2SkJtTWwtWndPUzFzV0lqckprVTJZb1poRHh0RURuc2tGZDVkdmg3MTk5Qk5EQ0txWkFrOW5scE55enRVZ2RiXzRwUzRoTTluWk5HTUh5Q2hzWEU?oc=5",
+      "publishedAt": "2026-06-30T11:30+00:00",
+      "impact": "High"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-01T15:59+00:00",
-  "lastSuccessfulAt": "2026-07-01T15:59+00:00",
+  "lastAttemptedAt": "2026-07-02T15:35+00:00",
+  "lastSuccessfulAt": "2026-07-02T15:35+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T15:59+00:00",
+  "lastUpdated": "2026-07-02T15:35+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,17 +19,32 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "14 km W of Searles Valley, CA",
+      "region": "5 km S of Brawley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "43 km SSE of Ugashik, Alaska",
+      "region": "2 km WNW of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km ESE of Balmorhea, Texas",
+      "region": "5 km ENE of Willits, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "58 km WNW of Karluk, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "6 km S of Volcano, Hawaii",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "14 km N of Ocotillo Wells, CA",
       "severity": "Low"
     },
     {
@@ -39,44 +54,24 @@
     },
     {
       "type": "Earthquake",
-      "region": "3 km S of P\u0101hala, Hawaii",
-      "severity": "Low"
+      "region": "49 km NW of Yonakuni, Japan",
+      "severity": "Medium"
     },
     {
-      "type": "Earthquake",
-      "region": "11 km N of Borrego Springs, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "4 km SW of Point Possession, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "4 km SSW of P\u0101hala, Hawaii",
-      "severity": "Low"
+      "type": "Lake Wind Advisory issued July 2 at 2:22AM PDT until July 2 at 11:00PM PDT by NWS Hanford CA",
+      "region": "West Side Mountains north of 198",
+      "severity": "Moderate"
     },
     {
       "type": "Air Quality Alert issued July 1 at 8:57AM MST by NWS Phoenix AZ",
       "region": "Imperial Valley",
       "severity": "Unknown"
-    },
-    {
-      "type": "Lake Wind Advisory issued July 1 at 1:34AM PDT until July 2 at 11:00PM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Air Quality Alert issued June 29 at 1:50PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley; San Gorgonio Pass Near Banning",
-      "severity": "Unknown"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-01T15:59+00:00",
-  "lastSuccessfulAt": "2026-07-01T15:59+00:00",
+  "lastAttemptedAt": "2026-07-02T15:35+00:00",
+  "lastSuccessfulAt": "2026-07-02T15:35+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
