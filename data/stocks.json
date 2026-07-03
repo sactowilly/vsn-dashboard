@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T15:35+00:00",
+  "lastUpdated": "2026-07-03T15:29+00:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "whatChanged": "Market indices refreshed from FRED daily series.",
@@ -21,8 +21,8 @@
     "Context only; not a direct pricing input."
   ],
   "latest": {
-    "sp500": 7483.23,
-    "dow": 52305.24,
+    "sp500": 7483.24,
+    "dow": 52900.07,
     "vix": 16.59
   },
   "series": [
@@ -101,8 +101,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-02T15:35+00:00",
-  "lastSuccessfulAt": "2026-07-02T15:35+00:00",
+  "lastAttemptedAt": "2026-07-03T15:29+00:00",
+  "lastSuccessfulAt": "2026-07-03T15:29+00:00",
   "sourceLimitations": [
     "FRED market series can lag live market quotes and should be treated as daily context, not intraday trading data."
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T15:35+00:00",
+  "lastUpdated": "2026-07-03T15:29+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,59 +19,64 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "5 km S of Brawley, CA",
+      "region": "3 km ENE of Running Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km WNW of Petersville, Alaska",
+      "region": "23 km W of Petrolia, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km ENE of Willits, CA",
+      "region": "16 km ENE of San Martin, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km WNW of Karluk, Alaska",
+      "region": "6 km NNW of Redwood Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km S of Volcano, Hawaii",
+      "region": "3 km SW of Redlands, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km N of Ocotillo Wells, CA",
+      "region": "20 km SE of Midland, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km WSW of Johannesburg, CA",
+      "region": "1 km WNW of Universal City, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "49 km NW of Yonakuni, Japan",
-      "severity": "Medium"
+      "region": "5 km WNW of Cobb, CA",
+      "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued July 2 at 2:22AM PDT until July 2 at 11:00PM PDT by NWS Hanford CA",
+      "type": "Lake Wind Advisory issued July 3 at 4:16AM PDT until July 4 at 11:00PM PDT by NWS Hanford CA",
       "region": "West Side Mountains north of 198",
       "severity": "Moderate"
     },
     {
-      "type": "Air Quality Alert issued July 1 at 8:57AM MST by NWS Phoenix AZ",
+      "type": "Air Quality Alert issued July 2 at 2:10PM PDT by NWS San Diego CA",
+      "region": "San Bernardino and Riverside County Valleys-The Inland Empire; Orange County Coastal; Orange County Inland",
+      "severity": "Unknown"
+    },
+    {
+      "type": "Air Quality Alert issued July 2 at 9:20AM MST by NWS Phoenix AZ",
       "region": "Imperial Valley",
       "severity": "Unknown"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-02T15:35+00:00",
-  "lastSuccessfulAt": "2026-07-02T15:35+00:00",
+  "lastAttemptedAt": "2026-07-03T15:29+00:00",
+  "lastSuccessfulAt": "2026-07-03T15:29+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

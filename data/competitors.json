@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T15:35+00:00",
+  "lastUpdated": "2026-07-03T15:29+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
           {
             "title": "PCA to defer export sales as it rebuilds inventory - Packaging Dive",
@@ -27,16 +27,16 @@
             "publishedAt": "2026-06-11T07:00+00:00"
           },
           {
-            "title": "A Look At Packaging Corporation Of America (PKG) Valuation After Recent Mixed Share Performance - Yahoo Finance",
+            "title": "Is Packaging Corporation of America Stock Underperforming the S&P 500? - Yahoo Finance",
             "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2ZESV9sUlNSVTNLT0k2NDR3c0RQQXFOTXVENUEzVUgwSk5hX0hzRmtHQUloUkJ2dXc0ZkRZOVBXclpaaDZTa2NLOEwtWi1kdmpNeUJ1VkV1V09zbENpbmhFTldySEgtV3F1bURCU1FjVmMzVjhiMy1TbEVYTGpBR3BxUDktVVR6REl4RmZjUXdrdUhLLVJTSV9zVjNZT19zYi1pSnFR?oc=5",
-            "publishedAt": "2026-06-07T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1BJWDJzZ01xbHQzWlRkeTBPRzM3d1JNMk5pMGh6Wng0SnJneVRqMFZzbjI2T2ltYWh3YkFZbS1mdERwX05MT3JrQk9aSHdjVlhhZXVhNGtrVm4wcHNpSnB4akJGNTRWRUc5ZXVMQkRnM2EwTTluMmgtVzJDWk1lS2x3ai0tZEtNd2FVMkpaWnJmRWFaSTIwUUNTblpWYnVkbmRPc1JSZGxPa25zQTVDVDdjdXZZUkU?oc=5",
+            "publishedAt": "2026-06-18T07:00+00:00"
           },
           {
-            "title": "Is Packaging Corporation of America Stock Underperforming the S&P 500? - Barchart.com",
-            "source": "Barchart.com",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUxYTTk4R2FOT2stNDMxNnQ3dnVFR3k0dUo2ZUxEbTdWM2F3NEJzVHVQa2t6Y0FRQVIwOFNOaGx6T1doZExTQjcwV3pTem14Ynh4Tl9kelhnRWpaV1lBU2NxWWxNUGdhZ0RJbVJrekFJSUIydmYxRW80X3RHR05tbGxTeGV3c1luUGNaVjE5ZXZTR1NyWHZBWUdOWndYMkVDU3BJckMtY21oQVhEQUxDOUlhbw?oc=5",
-            "publishedAt": "2026-06-18T07:00+00:00"
+            "title": "Packaging Corp's second-quarter results drop July 22, call follows - Stock Titan",
+            "source": "Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEMxRUttWlZvWTNmVHBZRVcxdUdOUjRNOWZKTGhoT01qNUI5UEl0SWVzanFUcnRhMm5nd0pnRWZkWmpwRlNTR0ZScEpxeXQyQ2ktNDlMbGVMZ2x3R2lHSFFYd253VVdlTkpoT0NvNUJqcFNHak9UM3NZdWFNeE9NRzZfMWR1aHlha2xqcFA4RWE3V1BTQm5qc0Q4a0EzOXZtbW9aaFlTcWhxUW4yWU14dW4wd0JwZw?oc=5",
+            "publishedAt": "2026-06-22T07:00+00:00"
           }
         ],
         "hiring": [
@@ -57,16 +57,16 @@
             "publishedAt": "2026-06-11T07:00+00:00"
           },
           {
-            "title": "A Look At Packaging Corporation Of America (PKG) Valuation After Recent Mixed Share Performance - Yahoo Finance",
+            "title": "Is Packaging Corporation of America Stock Underperforming the S&P 500? - Yahoo Finance",
             "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2ZESV9sUlNSVTNLT0k2NDR3c0RQQXFOTXVENUEzVUgwSk5hX0hzRmtHQUloUkJ2dXc0ZkRZOVBXclpaaDZTa2NLOEwtWi1kdmpNeUJ1VkV1V09zbENpbmhFTldySEgtV3F1bURCU1FjVmMzVjhiMy1TbEVYTGpBR3BxUDktVVR6REl4RmZjUXdrdUhLLVJTSV9zVjNZT19zYi1pSnFR?oc=5",
-            "publishedAt": "2026-06-07T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1BJWDJzZ01xbHQzWlRkeTBPRzM3d1JNMk5pMGh6Wng0SnJneVRqMFZzbjI2T2ltYWh3YkFZbS1mdERwX05MT3JrQk9aSHdjVlhhZXVhNGtrVm4wcHNpSnB4akJGNTRWRUc5ZXVMQkRnM2EwTTluMmgtVzJDWk1lS2x3ai0tZEtNd2FVMkpaWnJmRWFaSTIwUUNTblpWYnVkbmRPc1JSZGxPa25zQTVDVDdjdXZZUkU?oc=5",
+            "publishedAt": "2026-06-18T07:00+00:00"
           },
           {
-            "title": "Is Packaging Corporation of America Stock Underperforming the S&P 500? - Barchart.com",
-            "source": "Barchart.com",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUxYTTk4R2FOT2stNDMxNnQ3dnVFR3k0dUo2ZUxEbTdWM2F3NEJzVHVQa2t6Y0FRQVIwOFNOaGx6T1doZExTQjcwV3pTem14Ynh4Tl9kelhnRWpaV1lBU2NxWWxNUGdhZ0RJbVJrekFJSUIydmYxRW80X3RHR05tbGxTeGV3c1luUGNaVjE5ZXZTR1NyWHZBWUdOWndYMkVDU3BJckMtY21oQVhEQUxDOUlhbw?oc=5",
-            "publishedAt": "2026-06-18T07:00+00:00"
+            "title": "Packaging Corp's second-quarter results drop July 22, call follows - Stock Titan",
+            "source": "Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEMxRUttWlZvWTNmVHBZRVcxdUdOUjRNOWZKTGhoT01qNUI5UEl0SWVzanFUcnRhMm5nd0pnRWZkWmpwRlNTR0ZScEpxeXQyQ2ktNDlMbGVMZ2x3R2lHSFFYd253VVdlTkpoT0NvNUJqcFNHak9UM3NZdWFNeE9NRzZfMWR1aHlha2xqcFA4RWE3V1BTQm5qc0Q4a0EzOXZtbW9aaFlTcWhxUW4yWU14dW4wd0JwZw?oc=5",
+            "publishedAt": "2026-06-22T07:00+00:00"
           }
         ],
         "query": "\"Packaging Corporation of America\" packaging OR corrugated OR distribution when:30d",
@@ -83,8 +83,14 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
+          {
+            "title": "Food Venture Financing News \u2013 Weekly Issue No. 285 - Davis Wright Tremaine",
+            "source": "Davis Wright Tremaine",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYU9RUkVXU0g0am15ZC1jZlJZRWNYWmthR3lLVzF4a3UwamJhcTBUcUZYRjVjZmRvLUJ0VkhnOFdYaDNNS1N5WEtQY3EyMDlFZU4xdjdWa0lGbEdsVE1EWVJSaV9Jdl9UZnZzejRrbDhKN0M3TXpmZU9oZWJ6b0tVOGhwSjRzNFlTNkMyQg?oc=5",
+            "publishedAt": "2026-06-15T07:00+00:00"
+          },
           {
             "title": "Packsize to buy Panotec packaging business - Yahoo Finance",
             "source": "Yahoo Finance",
@@ -96,12 +102,6 @@
             "source": "Modern Distribution Management",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNG14RnpGWWVmQzVjTWc3My1SRk1tWVRSNjNGWjlSc0hkSEtTeldFdXA2Yi1pdDZsU0RHRDE1Vi11VkltaFhLczEtR2pQdUk1bjI2ZTkwbEE5WVBEOGJvLTdMaVVBU3pPVHZsZUpZcUNpLTVhajZtYlM3dlN2MF9xN0tZdWowVWoyOHR6ZGE2cjNxSXZ4aUpDVzlSenF2ZkRUZXc?oc=5",
             "publishedAt": "2026-06-12T21:00+00:00"
-          },
-          {
-            "title": "Packsize Opens Atlanta-Based Experience Center to Demonstrate and Collaborate on Real-World Packaging Automation - PR Newswire",
-            "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcGk3S1pIQ3dQcm5EdDNpVWlJZ1RBbHdoaVhsUVJhSnNWemdNeU5SOTVSaTBfeDlKZ1ZUeUprU2o1Rnlyc2otR2tfb3ZlSTkyei1HTXN5RVFiR0ZMM1FhdURPVVZzUDUwaVBzd0tZa2p1MElWUnR3R2ZMR2M0VzY5dWtQcVNReVk5b2VGSjlDb0ZLY1VSVl9JRUh1RGZsQWladlZQM012SVdiS0xiaDR5QlJkTDJLZlF0SEkxRV9ySHlBN19KMm96VXBLbzhfREpJbFBwemd1X3NKU21vdGtHV09OcVdpWUZLVmswbmFBazZpbW1nUkJtcG5ianQ?oc=5",
-            "publishedAt": "2026-06-23T12:00+00:00"
           }
         ],
         "hiring": [
@@ -119,15 +119,15 @@
             "source": "Modern Distribution Management",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNG14RnpGWWVmQzVjTWc3My1SRk1tWVRSNjNGWjlSc0hkSEtTeldFdXA2Yi1pdDZsU0RHRDE1Vi11VkltaFhLczEtR2pQdUk1bjI2ZTkwbEE5WVBEOGJvLTdMaVVBU3pPVHZsZUpZcUNpLTVhajZtYlM3dlN2MF9xN0tZdWowVWoyOHR6ZGE2cjNxSXZ4aUpDVzlSenF2ZkRUZXc?oc=5",
             "publishedAt": "2026-06-12T21:00+00:00"
-          },
-          {
-            "title": "Packsize Opens Atlanta-Based Experience Center to Demonstrate and Collaborate on Real-World Packaging Automation - PR Newswire",
-            "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcGk3S1pIQ3dQcm5EdDNpVWlJZ1RBbHdoaVhsUVJhSnNWemdNeU5SOTVSaTBfeDlKZ1ZUeUprU2o1Rnlyc2otR2tfb3ZlSTkyei1HTXN5RVFiR0ZMM1FhdURPVVZzUDUwaVBzd0tZa2p1MElWUnR3R2ZMR2M0VzY5dWtQcVNReVk5b2VGSjlDb0ZLY1VSVl9JRUh1RGZsQWladlZQM012SVdiS0xiaDR5QlJkTDJLZlF0SEkxRV9ySHlBN19KMm96VXBLbzhfREpJbFBwemd1X3NKU21vdGtHV09OcVdpWUZLVmswbmFBazZpbW1nUkJtcG5ianQ?oc=5",
-            "publishedAt": "2026-06-23T12:00+00:00"
           }
         ],
         "items": [
+          {
+            "title": "Food Venture Financing News \u2013 Weekly Issue No. 285 - Davis Wright Tremaine",
+            "source": "Davis Wright Tremaine",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYU9RUkVXU0g0am15ZC1jZlJZRWNYWmthR3lLVzF4a3UwamJhcTBUcUZYRjVjZmRvLUJ0VkhnOFdYaDNNS1N5WEtQY3EyMDlFZU4xdjdWa0lGbEdsVE1EWVJSaV9Jdl9UZnZzejRrbDhKN0M3TXpmZU9oZWJ6b0tVOGhwSjRzNFlTNkMyQg?oc=5",
+            "publishedAt": "2026-06-15T07:00+00:00"
+          },
           {
             "title": "Packsize to buy Panotec packaging business - Yahoo Finance",
             "source": "Yahoo Finance",
@@ -139,12 +139,6 @@
             "source": "Modern Distribution Management",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNG14RnpGWWVmQzVjTWc3My1SRk1tWVRSNjNGWjlSc0hkSEtTeldFdXA2Yi1pdDZsU0RHRDE1Vi11VkltaFhLczEtR2pQdUk1bjI2ZTkwbEE5WVBEOGJvLTdMaVVBU3pPVHZsZUpZcUNpLTVhajZtYlM3dlN2MF9xN0tZdWowVWoyOHR6ZGE2cjNxSXZ4aUpDVzlSenF2ZkRUZXc?oc=5",
             "publishedAt": "2026-06-12T21:00+00:00"
-          },
-          {
-            "title": "Packsize Opens Atlanta-Based Experience Center to Demonstrate and Collaborate on Real-World Packaging Automation - PR Newswire",
-            "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcGk3S1pIQ3dQcm5EdDNpVWlJZ1RBbHdoaVhsUVJhSnNWemdNeU5SOTVSaTBfeDlKZ1ZUeUprU2o1Rnlyc2otR2tfb3ZlSTkyei1HTXN5RVFiR0ZMM1FhdURPVVZzUDUwaVBzd0tZa2p1MElWUnR3R2ZMR2M0VzY5dWtQcVNReVk5b2VGSjlDb0ZLY1VSVl9JRUh1RGZsQWladlZQM012SVdiS0xiaDR5QlJkTDJLZlF0SEkxRV9ySHlBN19KMm96VXBLbzhfREpJbFBwemd1X3NKU21vdGtHV09OcVdpWUZLVmswbmFBazZpbW1nUkJtcG5ianQ?oc=5",
-            "publishedAt": "2026-06-23T12:00+00:00"
           }
         ],
         "query": "\"Veritiv\" packaging OR corrugated OR distribution when:30d",
@@ -161,68 +155,11 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
-        "news": [
-          {
-            "title": "Imperial Dade Completes Enterprise Paper Deal - Industrial Distribution",
-            "source": "Industrial Distribution",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXQzRnhUdzNaQ2xxQURHOGVWQm41N2NVNGRHaUhhSFlmaVdwSGx3N1EzU1BnaHhrSVFiakdtODhHUmpHcUR6blVIeFdUck00SFgzT19pZ25vNnJBQ3VyNktJOG1iYTBMdVhnVFUtOWdlMWs1dnZ1QXAzQmFwVmdBQ1ZvSV9MMTJJbDdPWVhsSTFjWkZRUXp0c3dENG84aE5zOXQ4V2RxVQ?oc=5",
-            "publishedAt": "2026-06-17T20:20+00:00"
-          },
-          {
-            "title": "Imperial Dade Canada Completes Acquisition of Enterprise Paper, Expands Presence in Western Canada - Yahoo Finance Singapore",
-            "source": "Yahoo Finance Singapore",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMFNiaUQzWGsxcmNBWmdRdGlwbjFfbEpJY2F6STQ2elRqbVh2N1RfbzAxdG01cGdtOWx0STR1cHMteVFFbjRXdEdOVE9Fd0pqMjhheDNWa1AxSlF2UnNqRWRLVUxHR0xpVmttN3BZYUdmbUxtY0N0b3dScUJ4aXE5Q2lTRUZhNHpRazV1eWNEdG5Zb2tLU0E?oc=5",
-            "publishedAt": "2026-06-15T07:00+00:00"
-          },
-          {
-            "title": "Imperial Dade Canada completes acquisition of Enterprise Paper - Pulp and Paper Canada",
-            "source": "Pulp and Paper Canada",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHJSMGNpMXJZSmg4ck9KVWpQQUFCai03UmhLQVRDSFRraW5VVnlMTDVKbHZsc0FPM1dYQmo4MGZWWmw4S013Vy14TFFtT216RVhqNW9SbUNBTDJoZkhiYXRvNE5KcXVVb3VUb0VQS1R0cnVnRW1YdFlWdHdyY0FGN2JWRFk5WTNYOWs0UUtpdENfaVY1S21ldWVUUERzdnM?oc=5",
-            "publishedAt": "2026-06-18T00:48+00:00"
-          }
-        ],
+        "lastUpdated": "2026-07-03T15:29+00:00",
+        "news": [],
         "hiring": [],
-        "moves": [
-          {
-            "title": "Imperial Dade Completes Enterprise Paper Deal - Industrial Distribution",
-            "source": "Industrial Distribution",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXQzRnhUdzNaQ2xxQURHOGVWQm41N2NVNGRHaUhhSFlmaVdwSGx3N1EzU1BnaHhrSVFiakdtODhHUmpHcUR6blVIeFdUck00SFgzT19pZ25vNnJBQ3VyNktJOG1iYTBMdVhnVFUtOWdlMWs1dnZ1QXAzQmFwVmdBQ1ZvSV9MMTJJbDdPWVhsSTFjWkZRUXp0c3dENG84aE5zOXQ4V2RxVQ?oc=5",
-            "publishedAt": "2026-06-17T20:20+00:00"
-          },
-          {
-            "title": "Imperial Dade Canada Completes Acquisition of Enterprise Paper, Expands Presence in Western Canada - Yahoo Finance Singapore",
-            "source": "Yahoo Finance Singapore",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMFNiaUQzWGsxcmNBWmdRdGlwbjFfbEpJY2F6STQ2elRqbVh2N1RfbzAxdG01cGdtOWx0STR1cHMteVFFbjRXdEdOVE9Fd0pqMjhheDNWa1AxSlF2UnNqRWRLVUxHR0xpVmttN3BZYUdmbUxtY0N0b3dScUJ4aXE5Q2lTRUZhNHpRazV1eWNEdG5Zb2tLU0E?oc=5",
-            "publishedAt": "2026-06-15T07:00+00:00"
-          },
-          {
-            "title": "Imperial Dade Canada completes acquisition of Enterprise Paper - Pulp and Paper Canada",
-            "source": "Pulp and Paper Canada",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHJSMGNpMXJZSmg4ck9KVWpQQUFCai03UmhLQVRDSFRraW5VVnlMTDVKbHZsc0FPM1dYQmo4MGZWWmw4S013Vy14TFFtT216RVhqNW9SbUNBTDJoZkhiYXRvNE5KcXVVb3VUb0VQS1R0cnVnRW1YdFlWdHdyY0FGN2JWRFk5WTNYOWs0UUtpdENfaVY1S21ldWVUUERzdnM?oc=5",
-            "publishedAt": "2026-06-18T00:48+00:00"
-          }
-        ],
-        "items": [
-          {
-            "title": "Imperial Dade Completes Enterprise Paper Deal - Industrial Distribution",
-            "source": "Industrial Distribution",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXQzRnhUdzNaQ2xxQURHOGVWQm41N2NVNGRHaUhhSFlmaVdwSGx3N1EzU1BnaHhrSVFiakdtODhHUmpHcUR6blVIeFdUck00SFgzT19pZ25vNnJBQ3VyNktJOG1iYTBMdVhnVFUtOWdlMWs1dnZ1QXAzQmFwVmdBQ1ZvSV9MMTJJbDdPWVhsSTFjWkZRUXp0c3dENG84aE5zOXQ4V2RxVQ?oc=5",
-            "publishedAt": "2026-06-17T20:20+00:00"
-          },
-          {
-            "title": "Imperial Dade Canada Completes Acquisition of Enterprise Paper, Expands Presence in Western Canada - Yahoo Finance Singapore",
-            "source": "Yahoo Finance Singapore",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMFNiaUQzWGsxcmNBWmdRdGlwbjFfbEpJY2F6STQ2elRqbVh2N1RfbzAxdG01cGdtOWx0STR1cHMteVFFbjRXdEdOVE9Fd0pqMjhheDNWa1AxSlF2UnNqRWRLVUxHR0xpVmttN3BZYUdmbUxtY0N0b3dScUJ4aXE5Q2lTRUZhNHpRazV1eWNEdG5Zb2tLU0E?oc=5",
-            "publishedAt": "2026-06-15T07:00+00:00"
-          },
-          {
-            "title": "Imperial Dade Canada completes acquisition of Enterprise Paper - Pulp and Paper Canada",
-            "source": "Pulp and Paper Canada",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHJSMGNpMXJZSmg4ck9KVWpQQUFCai03UmhLQVRDSFRraW5VVnlMTDVKbHZsc0FPM1dYQmo4MGZWWmw4S013Vy14TFFtT216RVhqNW9SbUNBTDJoZkhiYXRvNE5KcXVVb3VUb0VQS1R0cnVnRW1YdFlWdHdyY0FGN2JWRFk5WTNYOWs0UUtpdENfaVY1S21ldWVUUERzdnM?oc=5",
-            "publishedAt": "2026-06-18T00:48+00:00"
-          }
-        ],
+        "moves": [],
+        "items": [],
         "query": "\"Imperial Dade\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Distribution"
       }
@@ -237,7 +174,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
           {
             "title": "Uline Hosts Hiring Event as Part of Continued Growth Along I-94 Corridor - Urban Milwaukee",
@@ -322,7 +259,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
           {
             "title": "International Paper Continues Strategic Transformation with North America Packaging Network Optimization - PR Newswire",
@@ -337,21 +274,14 @@
             "publishedAt": "2026-06-30T02:22+00:00"
           },
           {
-            "title": "International Paper Expands Corrugated Reach With Delmarva Deal And New Build - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVR0M0tyTmZhcGRDVEVPdGVFSy1UTzRnQkF0VmZtRDJUZTJJS1ZVX3ktbzh6eGdHVTJYMTBjVDBab2hFaVM3bmFHTC1zLU9BcE9rUWFmQWloQ2ctcmdvbnRGR2NZM1ZiaGx0dkZPaUM2dHpwandlelIzZXRMZlJHV29UM2VrWkJtaWVUR25Pc2FERVF0R2VuTFFJSE1wLXN1aXlpSVZqTk1JQnVfQ0E?oc=5",
-            "publishedAt": "2026-06-03T07:00+00:00"
+            "title": "International Paper to close four more US packaging facilities - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNF82TkJkY1dPb0VmLVQyZWh6VmJzVTA2QWhxVm9TSER4OFNRdHk1TFpvY3NoQ3Z3RUtMZEZQMTJDbEk1WUczUTVvblEzc2g2N0YxSkwyRDR5OU9lc0s3VmUtZWhTeG5IMl9jWnpUQ0xyM29LQTVsV0JrSkJiUlBEYXBaRTZwbkdv?oc=5",
+            "publishedAt": "2026-06-30T09:16+00:00"
           }
         ],
         "hiring": [],
-        "moves": [
-          {
-            "title": "International Paper Expands Corrugated Reach With Delmarva Deal And New Build - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVR0M0tyTmZhcGRDVEVPdGVFSy1UTzRnQkF0VmZtRDJUZTJJS1ZVX3ktbzh6eGdHVTJYMTBjVDBab2hFaVM3bmFHTC1zLU9BcE9rUWFmQWloQ2ctcmdvbnRGR2NZM1ZiaGx0dkZPaUM2dHpwandlelIzZXRMZlJHV29UM2VrWkJtaWVUR25Pc2FERVF0R2VuTFFJSE1wLXN1aXlpSVZqTk1JQnVfQ0E?oc=5",
-            "publishedAt": "2026-06-03T07:00+00:00"
-          }
-        ],
+        "moves": [],
         "items": [
           {
             "title": "International Paper Continues Strategic Transformation with North America Packaging Network Optimization - PR Newswire",
@@ -366,10 +296,10 @@
             "publishedAt": "2026-06-30T02:22+00:00"
           },
           {
-            "title": "International Paper Expands Corrugated Reach With Delmarva Deal And New Build - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVR0M0tyTmZhcGRDVEVPdGVFSy1UTzRnQkF0VmZtRDJUZTJJS1ZVX3ktbzh6eGdHVTJYMTBjVDBab2hFaVM3bmFHTC1zLU9BcE9rUWFmQWloQ2ctcmdvbnRGR2NZM1ZiaGx0dkZPaUM2dHpwandlelIzZXRMZlJHV29UM2VrWkJtaWVUR25Pc2FERVF0R2VuTFFJSE1wLXN1aXlpSVZqTk1JQnVfQ0E?oc=5",
-            "publishedAt": "2026-06-03T07:00+00:00"
+            "title": "International Paper to close four more US packaging facilities - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNF82TkJkY1dPb0VmLVQyZWh6VmJzVTA2QWhxVm9TSER4OFNRdHk1TFpvY3NoQ3Z3RUtMZEZQMTJDbEk1WUczUTVvblEzc2g2N0YxSkwyRDR5OU9lc0s3VmUtZWhTeG5IMl9jWnpUQ0xyM29LQTVsV0JrSkJiUlBEYXBaRTZwbkdv?oc=5",
+            "publishedAt": "2026-06-30T09:16+00:00"
           }
         ],
         "query": "\"International Paper\" packaging OR corrugated OR distribution when:30d",
@@ -386,7 +316,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
           {
             "title": "Pratt Industries to Expand Corrugated Box Plant in Rockwall, Texas - Paper Industry News",
@@ -470,8 +400,14 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
+          {
+            "title": "IP, Ineos Styrolution, Smurfit Westrock to shutter plants - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYlY1d1Q0T3NfaXZNaVNDOXp6Q25KZEFpM3h0WlV5bE1PZWs3ZWI0NWxpSlktQlRhMDNFNGVQWnN3MmhfUW5ocFlQRU9tbnU2MXZ5dTNzcTY2VEVYU2N1Q2FsMVFROGhMZ3BaaWlpTzR0a3BFQWZnXzJMYjg2ZnRDRnlfTUFydG91UlI0amtwVUx0OHB6WFZveTRuVl82dW9raXJsX2RQNm5LVUtYMGl1NGFnR0tRbGdqLXFVRVBuQQ?oc=5",
+            "publishedAt": "2026-07-02T15:59+00:00"
+          },
           {
             "title": "Washington paper mills mum about chemical safety after Longview disaster - KUOW",
             "source": "KUOW",
@@ -479,28 +415,28 @@
             "publishedAt": "2026-06-10T07:00+00:00"
           },
           {
-            "title": "Smurfit Westrock climate goals evolving post-merger - Resource Recycling",
-            "source": "Resource Recycling",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVRYa3c3dTl6eW04alNRTUNrTE9qc1VVcEVTXy1RYURoRFZGb3JYMWIzdkgzcjhDUG9xZHFMeGkyWjE2cWp3WlZ0R21aVXV4aGUyS181Rm9OeTE2Tmo3aU81T2JtZ09MYmdLNE1PR2pRdFg5SXdGclpwVHNld3hCb1lVX2RNeXVJSWRlTGx4b3ZBZFRSclhQa2VCWW1GMEdHT2F3eUE1TQ?oc=5",
-            "publishedAt": "2026-06-26T09:00+00:00"
-          },
-          {
-            "title": "Smurfit Westrock to close Lebanon facility, lay off 52 - PULPAPERnews.com",
-            "source": "PULPAPERnews.com",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVhFVnlBX1dPd2xsWWlQSloxdC14V2lzbEJna0NQWWtCdmp3Qzk3YWxmMzZqUlVzN1p6anBuN201clZKd0loT1RBLURmNnpMY0pMQVJPR2RDN2Rzb3ZIS2JiU214NkFLZ2tEak9lNHFKeFZ4dUEyYklrUUtlNmp0dFZDT1FjNXlxcDFCQnJHS1Q5SFlN?oc=5",
-            "publishedAt": "2026-06-25T07:55+00:00"
+            "title": "Smurfit Westrock: Continuous Improvement in Sustainability - Sustainability Magazine",
+            "source": "Sustainability Magazine",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzFxZ1JUZy1La0k3ZHhBQWVUbEJCdmtydkR6eFU4aUtIWll4UEd2cC1MU3VabTJvY182Q0djUHI5N1Q2a3gzSl9lNG5RalNWaWstQnlvLU5odVJybEU4b3F5emhVempGQ3FKb0hIUjZrdjVTblJ3OUktV3lYd0ZET1RJOExjYzN2UFNmQnVvTk1kcENPT1c1QU5DOG8yMDA?oc=5",
+            "publishedAt": "2026-06-30T16:50+00:00"
           }
         ],
         "hiring": [],
         "moves": [
           {
-            "title": "Smurfit Westrock to close Lebanon facility, lay off 52 - PULPAPERnews.com",
-            "source": "PULPAPERnews.com",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVhFVnlBX1dPd2xsWWlQSloxdC14V2lzbEJna0NQWWtCdmp3Qzk3YWxmMzZqUlVzN1p6anBuN201clZKd0loT1RBLURmNnpMY0pMQVJPR2RDN2Rzb3ZIS2JiU214NkFLZ2tEak9lNHFKeFZ4dUEyYklrUUtlNmp0dFZDT1FjNXlxcDFCQnJHS1Q5SFlN?oc=5",
-            "publishedAt": "2026-06-25T07:55+00:00"
+            "title": "IP, Ineos Styrolution, Smurfit Westrock to shutter plants - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYlY1d1Q0T3NfaXZNaVNDOXp6Q25KZEFpM3h0WlV5bE1PZWs3ZWI0NWxpSlktQlRhMDNFNGVQWnN3MmhfUW5ocFlQRU9tbnU2MXZ5dTNzcTY2VEVYU2N1Q2FsMVFROGhMZ3BaaWlpTzR0a3BFQWZnXzJMYjg2ZnRDRnlfTUFydG91UlI0amtwVUx0OHB6WFZveTRuVl82dW9raXJsX2RQNm5LVUtYMGl1NGFnR0tRbGdqLXFVRVBuQQ?oc=5",
+            "publishedAt": "2026-07-02T15:59+00:00"
           }
         ],
         "items": [
+          {
+            "title": "IP, Ineos Styrolution, Smurfit Westrock to shutter plants - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYlY1d1Q0T3NfaXZNaVNDOXp6Q25KZEFpM3h0WlV5bE1PZWs3ZWI0NWxpSlktQlRhMDNFNGVQWnN3MmhfUW5ocFlQRU9tbnU2MXZ5dTNzcTY2VEVYU2N1Q2FsMVFROGhMZ3BaaWlpTzR0a3BFQWZnXzJMYjg2ZnRDRnlfTUFydG91UlI0amtwVUx0OHB6WFZveTRuVl82dW9raXJsX2RQNm5LVUtYMGl1NGFnR0tRbGdqLXFVRVBuQQ?oc=5",
+            "publishedAt": "2026-07-02T15:59+00:00"
+          },
           {
             "title": "Washington paper mills mum about chemical safety after Longview disaster - KUOW",
             "source": "KUOW",
@@ -508,16 +444,10 @@
             "publishedAt": "2026-06-10T07:00+00:00"
           },
           {
-            "title": "Smurfit Westrock climate goals evolving post-merger - Resource Recycling",
-            "source": "Resource Recycling",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVRYa3c3dTl6eW04alNRTUNrTE9qc1VVcEVTXy1RYURoRFZGb3JYMWIzdkgzcjhDUG9xZHFMeGkyWjE2cWp3WlZ0R21aVXV4aGUyS181Rm9OeTE2Tmo3aU81T2JtZ09MYmdLNE1PR2pRdFg5SXdGclpwVHNld3hCb1lVX2RNeXVJSWRlTGx4b3ZBZFRSclhQa2VCWW1GMEdHT2F3eUE1TQ?oc=5",
-            "publishedAt": "2026-06-26T09:00+00:00"
-          },
-          {
-            "title": "Smurfit Westrock to close Lebanon facility, lay off 52 - PULPAPERnews.com",
-            "source": "PULPAPERnews.com",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVhFVnlBX1dPd2xsWWlQSloxdC14V2lzbEJna0NQWWtCdmp3Qzk3YWxmMzZqUlVzN1p6anBuN201clZKd0loT1RBLURmNnpMY0pMQVJPR2RDN2Rzb3ZIS2JiU214NkFLZ2tEak9lNHFKeFZ4dUEyYklrUUtlNmp0dFZDT1FjNXlxcDFCQnJHS1Q5SFlN?oc=5",
-            "publishedAt": "2026-06-25T07:55+00:00"
+            "title": "Smurfit Westrock: Continuous Improvement in Sustainability - Sustainability Magazine",
+            "source": "Sustainability Magazine",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzFxZ1JUZy1La0k3ZHhBQWVUbEJCdmtydkR6eFU4aUtIWll4UEd2cC1MU3VabTJvY182Q0djUHI5N1Q2a3gzSl9lNG5RalNWaWstQnlvLU5odVJybEU4b3F5emhVempGQ3FKb0hIUjZrdjVTblJ3OUktV3lYd0ZET1RJOExjYzN2UFNmQnVvTk1kcENPT1c1QU5DOG8yMDA?oc=5",
+            "publishedAt": "2026-06-30T16:50+00:00"
           }
         ],
         "query": "\"WestRock\" packaging OR corrugated OR distribution when:30d",
@@ -534,13 +464,13 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
           {
-            "title": "DS Smith develops fiber-based tray for fresh produce transportation - Packaging Insights",
+            "title": "DS Smith designs gift packaging for \u201cbirth trees\u201d - Packaging Insights",
             "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VeTh6SER1ZTdNSWt5ZXE4VFZPWHRjdE1FN3pXaGRtTG9kb2ZsQWNqaWdOU3BrcUgxQ3dKcnhFbnZXU3g1SXhDc3RIWjM4dlM1UWZzak01WkFVMUxNYmx6ZXdNbDhDQ1huYm9reFdnRl9qX3RIekVyQ1hLNA?oc=5",
-            "publishedAt": "2026-06-03T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHRwQ2V5Y3RhYUV4ZHpPRGFXSGRYUWZwSFFpd0NHRmQwSUVIVEdQUnRralg5OUhOcEtaM2hTaDNsVEh1engyVWJsYlBVSi1qQTBnNTNPblhTalJCYUxicHRCMmdScGdSR3pGTWhLQ243T0V1MHZKWlh6cHZmdncxRXNLbHRURnY5MmJGWHBfTTdacnBhM3c?oc=5",
+            "publishedAt": "2026-06-17T07:00+00:00"
           },
           {
             "title": "DS Smith creates 100% recyclable pack for tree gifting company - Packaging Europe",
@@ -559,10 +489,10 @@
         "moves": [],
         "items": [
           {
-            "title": "DS Smith develops fiber-based tray for fresh produce transportation - Packaging Insights",
+            "title": "DS Smith designs gift packaging for \u201cbirth trees\u201d - Packaging Insights",
             "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VeTh6SER1ZTdNSWt5ZXE4VFZPWHRjdE1FN3pXaGRtTG9kb2ZsQWNqaWdOU3BrcUgxQ3dKcnhFbnZXU3g1SXhDc3RIWjM4dlM1UWZzak01WkFVMUxNYmx6ZXdNbDhDQ1huYm9reFdnRl9qX3RIekVyQ1hLNA?oc=5",
-            "publishedAt": "2026-06-03T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHRwQ2V5Y3RhYUV4ZHpPRGFXSGRYUWZwSFFpd0NHRmQwSUVIVEdQUnRralg5OUhOcEtaM2hTaDNsVEh1engyVWJsYlBVSi1qQTBnNTNPblhTalJCYUxicHRCMmdScGdSR3pGTWhLQ243T0V1MHZKWlh6cHZmdncxRXNLbHRURnY5MmJGWHBfTTdacnBhM3c?oc=5",
+            "publishedAt": "2026-06-17T07:00+00:00"
           },
           {
             "title": "DS Smith creates 100% recyclable pack for tree gifting company - Packaging Europe",
@@ -591,11 +521,49 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
-        "news": [],
+        "lastUpdated": "2026-07-03T15:29+00:00",
+        "news": [
+          {
+            "title": "/R E P E A T --Claigan Webinar - Data Generation for 2026 US Packaging Deadlines/ - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1WURnMmgtNVVTY19DOTBKYU9xcFVSZlM5VUdGOFpScTJ1N2JfMTYzcV9TODJjR2VBaUwtbHdqUHdzMW1ISHJQUWt1d2hkSk92eHFqYzFpclcyZGgxaW1KODBXT09XdzNBeHJQUWRkbjRCWUdDNmhQcW8teURSalE?oc=5",
+            "publishedAt": "2026-06-29T13:00+00:00"
+          },
+          {
+            "title": "India Intravenous Product Packaging - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+            "source": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGo3d3pOUFhvQUhhbGxTTWxvNWZkQzZrQjhubWVGODNlRVVRTGpwVnRTTDRrZVdpaWJNdEhoMU9qdzhUa3puOVhsdWFqQ0VINXIwWHUtWkt0TlFRZlRsX3RxeC1yMUdsY3NWM1Y3NWR4dEpuajBpRmNKeWttQUpMSnJaQ0o5WFNZRmNfX1BhN3ZjVzlaZ1k1TTdmcVdMM25MTWswejh2M1RybUw3cEdhY0RLQ21pUzQ?oc=5",
+            "publishedAt": "2026-07-03T00:20+00:00"
+          },
+          {
+            "title": "TSMC Talent and Water Constraints Raise Questions Over Future Chip Capacity - Astute Group",
+            "source": "Astute Group",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXhpZHFva21PcHIwWVZ4dEhlOEx3d25qa1p6MDBmZmtPeVAyenZpeF9WY2NLemREdWtTNldBSEtReHZGanBUOFktQWpET0RfaEFPQTl3emlSUVJ2aHk4Y19TMDR3dWhxcGI4SzZmN1Bqa2RMVzI5dEp5ZXQ5a1lQMi1UVmU4S21JOHA0b1RRSnAtcmotYWNGM0JGMWl3QVlWZENzY0FQX1NRRGV6MmJ0YjNPR3IwbW1w?oc=5",
+            "publishedAt": "2026-06-24T07:00+00:00"
+          }
+        ],
         "hiring": [],
         "moves": [],
-        "items": [],
+        "items": [
+          {
+            "title": "/R E P E A T --Claigan Webinar - Data Generation for 2026 US Packaging Deadlines/ - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1WURnMmgtNVVTY19DOTBKYU9xcFVSZlM5VUdGOFpScTJ1N2JfMTYzcV9TODJjR2VBaUwtbHdqUHdzMW1ISHJQUWt1d2hkSk92eHFqYzFpclcyZGgxaW1KODBXT09XdzNBeHJQUWRkbjRCWUdDNmhQcW8teURSalE?oc=5",
+            "publishedAt": "2026-06-29T13:00+00:00"
+          },
+          {
+            "title": "India Intravenous Product Packaging - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+            "source": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGo3d3pOUFhvQUhhbGxTTWxvNWZkQzZrQjhubWVGODNlRVVRTGpwVnRTTDRrZVdpaWJNdEhoMU9qdzhUa3puOVhsdWFqQ0VINXIwWHUtWkt0TlFRZlRsX3RxeC1yMUdsY3NWM1Y3NWR4dEpuajBpRmNKeWttQUpMSnJaQ0o5WFNZRmNfX1BhN3ZjVzlaZ1k1TTdmcVdMM25MTWswejh2M1RybUw3cEdhY0RLQ21pUzQ?oc=5",
+            "publishedAt": "2026-07-03T00:20+00:00"
+          },
+          {
+            "title": "TSMC Talent and Water Constraints Raise Questions Over Future Chip Capacity - Astute Group",
+            "source": "Astute Group",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXhpZHFva21PcHIwWVZ4dEhlOEx3d25qa1p6MDBmZmtPeVAyenZpeF9WY2NLemREdWtTNldBSEtReHZGanBUOFktQWpET0RfaEFPQTl3emlSUVJ2aHk4Y19TMDR3dWhxcGI4SzZmN1Bqa2RMVzI5dEp5ZXQ5a1lQMi1UVmU4S21JOHA0b1RRSnAtcmotYWNGM0JGMWl3QVlWZENzY0FQX1NRRGV6MmJ0YjNPR3IwbW1w?oc=5",
+            "publishedAt": "2026-06-24T07:00+00:00"
+          }
+        ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Distribution"
       }
@@ -610,7 +578,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
           {
             "title": "Berlin Packaging Continues North American Expansion with the Acquisition of O.Berk Company - PR Newswire",
@@ -686,7 +654,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Compass Packaging Solutions to Continue New England Expansion - Sustainable Packaging News",
@@ -756,7 +724,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-07-02T15:35+00:00",
+        "lastUpdated": "2026-07-03T15:29+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -768,8 +736,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-02T15:35+00:00",
-  "lastSuccessfulAt": "2026-07-02T15:35+00:00",
+  "lastAttemptedAt": "2026-07-03T15:29+00:00",
+  "lastSuccessfulAt": "2026-07-03T15:29+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
