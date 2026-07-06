@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T15:29+00:00",
+  "lastUpdated": "2026-07-06T16:32+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,13 +14,6 @@
   ],
   "stories": [
     {
-      "title": "SC among 17 states, trade group that sue California over plastics packaging law - South Carolina Public Radio",
-      "source": "South Carolina Public Radio",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVEx4Sl9ubExxUEIwalhvZmpSLVhqdmtwcDBvUXFlRFhwT2RoZ1N5ZFJsclI1SUJrTTlxRmItdDlmS2RVWWZya3Fmb1BCRXZ4b25sNEJGci05bC1wMG5wNUw1MXoyb3BqV3o5Y0lxZXlDbVhuSF84bHFmaFZmaktjd3ZEcmdIb0NyUk1FTEZFYUd4cUgzcGZGYWNkRFpWS2lWeERVYnhwb0s3MVVCRmQ1M0JKUXJKYTJzcFhLdnZrRk1hcl9XMkNrcUlfT2FFdmlyWGJjYg?oc=5",
-      "publishedAt": "2026-06-24T14:06+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Multiple states sue over California\u2019s plastics packaging law - KTLA",
       "source": "KTLA",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQem4xTFlpa0NOVFZ6X0NoSFVGZVdxbGNucEF6bTlpVXFpdV92ZlV2Zl9UN0pKS1JUcnI0TDBHS0xtUk0wV2lFQnd2SmJrZHd4Ukk4clo5NFZ4aWNVcmY5MlYtV2I1cWhyMDNmZHo2MmlGWUFQbGhLR0pldjhDUFgxYzFicFRrQVFHdjUzM05iY1HSAZYBQVVfeXFMTjNVSHpVMGw3bzRNbU9QQWQwTEh2N19VM1FkcWdGc0ZxczlSeE1NUHlFN1I0VXpGWVNZOW83TTUtMjR1OEFqUG5uNHhwRFpiYnNQdFNyT280djk3ZThuYTNVNGV2Y3pvR2x6NERTbmo4dFg5Mk1IRmEyQ2RqTFpBUU9reUhNQ05JbVlESFBNTUNnQ3JoMjZn?oc=5",
@@ -28,17 +21,17 @@
       "impact": "Low"
     },
     {
-      "title": "Georgia joins multi-state lawsuit challenging California's plastics packaging law - CBS News",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3VxbFZBMzZmcGtFcHdqcVlFM19RV2J6Ulo1Xy1STEI4cUctSXI1RG1XMzFtLVhUQk83VThSOU83X3psOGs5RTZzSmp0RXFpa3N4d3JjMFktTG5WX3dRQjFCeVJrUU1US09kQm9tQVFNaEdqS0tGakUwN1FIQkdKQXg3RXgwRUItdFU2Ung1MDU1RGtlMk82SXF2RTlPYWVWRzdaN29teUg2dy12Z3N4eHY3WG5nMzIzWmc?oc=5",
-      "publishedAt": "2026-06-24T07:00+00:00",
+      "title": "17 states and trade group sue California over plastics packaging law - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXo1UDRTR01Md1JlVFJFQURZOE5fckRZajFNTVNoV3laMXFfaXd3cmZHNUlTR1NQWmxWcjg0UThkbi03UDBZcXJTOUZVSHFKS3NYb2pZYW9VLVVrVmtCMmhzZ3NJOTZIT01UeUoyNDRlSXBIV2tqaXpjRGJYSUJWODBjemJKSXB2a05kWFdWaC0xSjZ4cVBhU2IzMjUzbjV4a1VBM3dSc1FFUlVuczBERw?oc=5",
+      "publishedAt": "2026-06-23T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "Plastic-free confectionery packaging? It\u2019s complicated - Confectionery News",
-      "source": "Confectionery News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2xRUkVBVGdsTkxXLXZCYzlpNFRSVlM3NUQ4UDlZdjJFTThQQTRsbnVjaHRXOXZiQjdCX05Ta0hlYVJrSFMxSHFPYnhDUFBiSS1iUVdzVnNVVzBGN0txcGVlTlJ0bUZpT1JwYTVFcV9LR05LN2NSNE5Lc0JDZTBHNjJ5R0VwUG81NEFpUVNRUk0wQ0tPYWtPVzBR?oc=5",
-      "publishedAt": "2026-07-02T13:08+00:00",
+      "title": "PCR: The other 3-letter packaging mandate on brands\u2019 radars - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1Y2bW5VaGVjeE0zdm5zc1B4MGh6b3JEbjhpVUFqNUs0c1NlUmg1a0Q1T3R5MUFEWWRIbWZYdGF1Z1RvN1dvSGozMEZST0NRUXpmWmNTZHRncDNKQ3FpQ2g0VVFHc3FTZlhVeE0yQzdNTFVOcWV3V2Q1WmlYNXhLaUZlREJ1LXdSRnJERGM3NF9pMUx0dDliTkRScEpqNmdnd2ZVSmdhaXZIYzNrU2hJQktVZjRnOWpuVlRQMENBYWZRbk54M0ZibWxiTG1mUFR0?oc=5",
+      "publishedAt": "2026-06-26T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -56,24 +49,31 @@
       "impact": "Low"
     },
     {
-      "title": "17-State Coalition Sues California Over Plastics Packaging Law - regulatoryoversight.com",
-      "source": "regulatoryoversight.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVZ6X1J4eDBPUjk1N05jYkRzOXM1NWNaanJwQUd0cnNDeXNFcmFaOElUMXFVUThmWHZ6T0Zpb1BUOEJXdlJoUlpTeWR4WWxDaUloUXh5M3dDQXJ5a3k3bllFdlZ5WGM2aWJsMkpOdFgwd3Rqdm5pQVJaWGVQUkx1eVVrQ1puR3ZjMW9lLUJqRl9SVkVoNWVTd3NJVUlDSjJTSEVMRHhtNU9kRnc?oc=5",
-      "publishedAt": "2026-06-29T14:06+00:00",
+      "title": "Plastic-free confectionery packaging? It\u2019s complicated - Confectionery News",
+      "source": "Confectionery News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2xRUkVBVGdsTkxXLXZCYzlpNFRSVlM3NUQ4UDlZdjJFTThQQTRsbnVjaHRXOXZiQjdCX05Ta0hlYVJrSFMxSHFPYnhDUFBiSS1iUVdzVnNVVzBGN0txcGVlTlJ0bUZpT1JwYTVFcV9LR05LN2NSNE5Lc0JDZTBHNjJ5R0VwUG81NEFpUVNRUk0wQ0tPYWtPVzBR?oc=5",
+      "publishedAt": "2026-07-02T13:08+00:00",
       "impact": "Low"
     },
     {
-      "title": "Alabama joins lawsuit challenging California plastic packaging law - Alabama Political Reporter",
-      "source": "Alabama Political Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHB6RXVWakRYanRlMHNzRWlNY00wdkdGVjFsN1pna0tfSmNucjVRaFFTWkNkTEh2TllKSWhjNEd2ZnhESzFmbTZCcWdsbkJzcDhrOTJsOVlpV3lQSkxpUms5VWJobk55Q2syVWZKQVdITGt4dXVnOU1JRy1IVy13b2R3ZHlhNnFVNENBZW5jUnNsTlFsS2h3NDdPZzdqbVU5a01ST0VXVWo?oc=5",
-      "publishedAt": "2026-06-24T12:52+00:00",
+      "title": "California's Plastic Packaging Law Forces Brands to Rethink Compliance - PlasticsToday",
+      "source": "PlasticsToday",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE5VOHpIdVNkNXhEVlh4ZzFuS1N6N3pIekN0Z1NGQXN1dUNveHctc3NBNkhDYjVjeUI0eTFTUWRfQWJFVzI3UFp0dklhU3R6bzRxQklQd2g5eGc2ZWJwQUNqNm9iczBjYmdTSUN3OFF0cFhQYzY4YWF1OXhqNElPSmd2NHFabktBV05neS1MMjFyaTdaSm5pbXg5dUhpZ1dGWU5NcTNFbHY0QnVaU2dFQ3Zid1B0WjBSVWlKWXdsMDNzUQ?oc=5",
+      "publishedAt": "2026-07-02T16:35+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "17 states take California to court over plastic packaging rules - FOX 10 Phoenix",
+      "source": "FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0JrWDQ4UWhxeXEwNWVoZi01VkUwSlZLNUdXSkJYSUdnOGRRemdsZ2Eya2xQSUlBZDBKam83VkhJR2U1a0xXR1lUZmxjR1ctMmU5UnY1Y3dQcnlxQXA0SEV4RzlOMWlITFhaWmR6Z0xueEVVU2hYVFc5VmsyZXB2TzV0Q2FzQdIBiwFBVV95cUxQSHdNVFpuYTdBT0ktbk1MOUxxT2JuVnJwdjBkbzBvNWF0ZWVwVnVvSmtxUFRqOTd1QlBUN2dHMUswbEJ3M2ZIQnY4aklsNW80amhCZjFSd1RYUm8zOXJoSVhnUG5YTF9qQU4tY21ocC1obk0wNVN1OU05Y21oWi1tX2FoUFJFU1N5WVp3?oc=5",
+      "publishedAt": "2026-06-24T07:00+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-03T15:29+00:00",
-  "lastSuccessfulAt": "2026-07-03T15:29+00:00",
+  "lastAttemptedAt": "2026-07-06T16:32+00:00",
+  "lastSuccessfulAt": "2026-07-06T16:32+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
