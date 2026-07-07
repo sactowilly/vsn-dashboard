@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T16:32+00:00",
+  "lastUpdated": "2026-07-07T15:58+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -13,13 +13,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "Multiple states sue over California\u2019s plastics packaging law - KTLA",
-      "source": "KTLA",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQem4xTFlpa0NOVFZ6X0NoSFVGZVdxbGNucEF6bTlpVXFpdV92ZlV2Zl9UN0pKS1JUcnI0TDBHS0xtUk0wV2lFQnd2SmJrZHd4Ukk4clo5NFZ4aWNVcmY5MlYtV2I1cWhyMDNmZHo2MmlGWUFQbGhLR0pldjhDUFgxYzFicFRrQVFHdjUzM05iY1HSAZYBQVVfeXFMTjNVSHpVMGw3bzRNbU9QQWQwTEh2N19VM1FkcWdGc0ZxczlSeE1NUHlFN1I0VXpGWVNZOW83TTUtMjR1OEFqUG5uNHhwRFpiYnNQdFNyT280djk3ZThuYTNVNGV2Y3pvR2x6NERTbmo4dFg5Mk1IRmEyQ2RqTFpBUU9reUhNQ05JbVlESFBNTUNnQ3JoMjZn?oc=5",
-      "publishedAt": "2026-06-24T07:00+00:00",
-      "impact": "Low"
-    },
     {
       "title": "17 states and trade group sue California over plastics packaging law - AP News",
       "source": "AP News",
@@ -63,17 +56,24 @@
       "impact": "Low"
     },
     {
-      "title": "17 states take California to court over plastic packaging rules - FOX 10 Phoenix",
-      "source": "FOX 10 Phoenix",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0JrWDQ4UWhxeXEwNWVoZi01VkUwSlZLNUdXSkJYSUdnOGRRemdsZ2Eya2xQSUlBZDBKam83VkhJR2U1a0xXR1lUZmxjR1ctMmU5UnY1Y3dQcnlxQXA0SEV4RzlOMWlITFhaWmR6Z0xueEVVU2hYVFc5VmsyZXB2TzV0Q2FzQdIBiwFBVV95cUxQSHdNVFpuYTdBT0ktbk1MOUxxT2JuVnJwdjBkbzBvNWF0ZWVwVnVvSmtxUFRqOTd1QlBUN2dHMUswbEJ3M2ZIQnY4aklsNW80amhCZjFSd1RYUm8zOXJoSVhnUG5YTF9qQU4tY21ocC1obk0wNVN1OU05Y21oWi1tX2FoUFJFU1N5WVp3?oc=5",
-      "publishedAt": "2026-06-24T07:00+00:00",
+      "title": "Packaging materials in the EU: quantities stay significant, plastic grew by 11% - joint-research-centre.ec.europa.eu",
+      "source": "joint-research-centre.ec.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVQyWXZpbUdkT3hadVBka19BeUFHbXVrSGI5RWVMbWF0dEpXbUluNV9MMHFrSmZhUWJnQk15elNXNWZxb1JjaUlaMG9QcjJyZ2hLMllnRm14bEJVdlo5ZXdaQ3RmZWNBaWRpZHFLYkI2SzRuVXBmNWc3UzAxUGdfQWlwNV8tSk01V3NfUHYyNnFIWE1XZWFBWHVpWjUtVW0zMExyVXIyMlgxUlVIYVJsVE9nVWVJY0ZGT0RublUtUlM2R3JWalA4SEdaZjljcHFhRlhfUWpWTXJrYjU1?oc=5",
+      "publishedAt": "2026-07-06T11:11+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "17-State Coalition Sues California Over Plastics Packaging Law - regulatoryoversight.com",
+      "source": "regulatoryoversight.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVZ6X1J4eDBPUjk1N05jYkRzOXM1NWNaanJwQUd0cnNDeXNFcmFaOElUMXFVUThmWHZ6T0Zpb1BUOEJXdlJoUlpTeWR4WWxDaUloUXh5M3dDQXJ5a3k3bllFdlZ5WGM2aWJsMkpOdFgwd3Rqdm5pQVJaWGVQUkx1eVVrQ1puR3ZjMW9lLUJqRl9SVkVoNWVTd3NJVUlDSjJTSEVMRHhtNU9kRnc?oc=5",
+      "publishedAt": "2026-06-29T14:06+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-06T16:32+00:00",
-  "lastSuccessfulAt": "2026-07-06T16:32+00:00",
+  "lastAttemptedAt": "2026-07-07T15:58+00:00",
+  "lastSuccessfulAt": "2026-07-07T15:58+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

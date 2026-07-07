@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T16:32+00:00",
+  "lastUpdated": "2026-07-07T15:58+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -84,8 +84,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-06T16:32+00:00",
-  "lastSuccessfulAt": "2026-07-06T16:32+00:00",
+  "lastAttemptedAt": "2026-07-07T15:58+00:00",
+  "lastSuccessfulAt": "2026-07-07T15:58+00:00",
   "sourceLimitations": [
     "Monthly BLS/FRED series can lag the current operating week."
   ]

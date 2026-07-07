@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T16:32+00:00",
+  "lastUpdated": "2026-07-07T15:58+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "10 km SSW of Salton City, CA",
+      "region": "17 km W of Ivanof Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "57 km E of Egegik, Alaska",
+      "region": "2 km ENE of Hayward, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of The Geysers, CA",
+      "region": "25 km NNW of Searles Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "47 km NE of Susitna North, Alaska",
+      "region": "9 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "35 km WNW of Akhiok, Alaska",
+      "region": "61 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "99 km WNW of Aleneva, Alaska",
+      "region": "69 km WNW of Ninilchik, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km E of Anza, CA",
+      "region": "63 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km NW of Calipatria, CA",
+      "region": "13 km ENE of Cloverdale, CA",
       "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued July 6 at 3:46AM PDT until July 6 at 11:00PM PDT by NWS Hanford CA",
+      "type": "Lake Wind Advisory issued July 7 at 6:41AM PDT until July 9 at 11:00PM PDT by NWS Hanford CA",
+      "region": "Kern River Valley",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Lake Wind Advisory issued July 7 at 6:41AM PDT until July 9 at 11:00PM PDT by NWS Hanford CA",
       "region": "West Side Mountains north of 198",
       "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued July 6 at 3:01AM PDT until July 10 at 5:00PM PDT by NWS San Francisco CA",
-      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "type": "Heat Advisory issued July 7 at 6:03AM PDT until July 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Los Angeles County Inland Coast including Downtown Los Angeles",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued July 6 at 12:15AM MST until July 9 at 8:00PM MST by NWS Phoenix AZ",
-      "region": "Parker Valley; Kofa; Yuma; Central La Paz; Gila River Valley; Imperial County Southwest; Chuckwalla Mountains; Imperial County Southeast; Imperial County West; Imperial Valley; Chiriaco Summit; Palo Verde Valley; Chuckwalla Valley",
-      "severity": "Severe"
-    },
-    {
-      "type": "Extreme Heat Warning issued July 6 at 12:09AM PDT until July 9 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Deserts",
-      "severity": "Severe"
+      "type": "Heat Advisory issued July 7 at 6:03AM PDT until July 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Cuyama Valley; Santa Clarita Valley; Southern Salinas Valley; San Luis Obispo County Interior Valleys; San Luis Obispo County Mountains; Santa Barbara County Interior Mountains; Western San Fernando Valley; Eastern San Fernando Valley; Santa Susana Mountains; Southern Ventura County Mountains; Northern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-06T16:32+00:00",
-  "lastSuccessfulAt": "2026-07-06T16:32+00:00",
+  "lastAttemptedAt": "2026-07-07T15:58+00:00",
+  "lastSuccessfulAt": "2026-07-07T15:58+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
