@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T15:37+00:00",
+  "lastUpdated": "2026-07-09T16:09+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -13,6 +13,13 @@
     }
   ],
   "stories": [
+    {
+      "title": "UConn grad develops seaweed coating to replace plastic in food packaging - WFSB",
+      "source": "WFSB",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTmJGbVJXOU9RSlNkT3VWVzI3WV9RUndleWhOa2YtcVdNZFdrZjRmd0twTHhsYkxINWxKbzRabFFqNDdSd0xMOFg0dnJVWkZVNXExTEFtQU9HOFRVSjVlWFJHd01jRndtX1J1bW9lOHdkOFZzM054czhaZ3ExUVBhMExtNnI4ZndfaDlFRFkwOW5xeDZjZUpFVFRqRTBJWTVI0gG0AUFVX3lxTE9NY08zYW1STGJ1eUtuaVlXZnJ5c2hXM3oyenpVNk1LZVFrQW9lajZDTDNyY2FqNjZWUnhlbkZLLVdJdXNKcG9xRkgxM19FUmhYSjhid0JVZkNaeHRQX2VhVi1mZVlCQmd3RFQxOWY4N1B0WUFrcHlWaDgyVWRYMGVaY2pUaUswZjJ1Nzg4WnVnendMS1ZwRVlVTGUwUE1UdmNmY1hCM2FDRndYS2JvZzhJYnRNdA?oc=5",
+      "publishedAt": "2026-06-15T07:00+00:00",
+      "impact": "Low"
+    },
     {
       "title": "Packaging materials in the EU: quantities stay significant, plastic grew by 11% - joint-research-centre.ec.europa.eu",
       "source": "joint-research-centre.ec.europa.eu",
@@ -28,13 +35,6 @@
       "impact": "Low"
     },
     {
-      "title": "New laws force companies to confront most polluting plastics - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclhpU2Jldm83THU1Q1dVbWlIeDlfNTFPZ09UWWlaUWZuZDR3N2NfTDJwdFZJVUVpQS1tbHNpVDBncnVEZ3hrbjBLQ0w5dnY0ajFDYUVnb1RoT1AtX0tldGpuNy1ISFBjNnR2YlBTZ1k2aUY3dUFYMVl6NnpMT0NtU1k1LXRUdThkZzN4Rm9XLV9UZEViRW9xTVRqZ3VCSWNrUDlLYTdxWFgyOTVuaVdrRWc1YmhmeUpXZWVqWWt3?oc=5",
-      "publishedAt": "2026-07-01T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Plastic-free confectionery packaging? It\u2019s complicated - Confectionery News",
       "source": "Confectionery News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2xRUkVBVGdsTkxXLXZCYzlpNFRSVlM3NUQ4UDlZdjJFTThQQTRsbnVjaHRXOXZiQjdCX05Ta0hlYVJrSFMxSHFPYnhDUFBiSS1iUVdzVnNVVzBGN0txcGVlTlJ0bUZpT1JwYTVFcV9LR05LN2NSNE5Lc0JDZTBHNjJ5R0VwUG81NEFpUVNRUk0wQ0tPYWtPVzBR?oc=5",
@@ -42,10 +42,24 @@
       "impact": "Low"
     },
     {
-      "title": "California's Plastic Packaging Law Forces Brands to Rethink Compliance - PlasticsToday",
+      "title": "New laws force companies to confront most polluting plastics - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclhpU2Jldm83THU1Q1dVbWlIeDlfNTFPZ09UWWlaUWZuZDR3N2NfTDJwdFZJVUVpQS1tbHNpVDBncnVEZ3hrbjBLQ0w5dnY0ajFDYUVnb1RoT1AtX0tldGpuNy1ISFBjNnR2YlBTZ1k2aUY3dUFYMVl6NnpMT0NtU1k1LXRUdThkZzN4Rm9XLV9UZEViRW9xTVRqZ3VCSWNrUDlLYTdxWFgyOTVuaVdrRWc1YmhmeUpXZWVqWWt3?oc=5",
+      "publishedAt": "2026-07-01T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Cleveland Kitchen Launches Recycled Packaging - PlasticsToday",
       "source": "PlasticsToday",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE5VOHpIdVNkNXhEVlh4ZzFuS1N6N3pIekN0Z1NGQXN1dUNveHctc3NBNkhDYjVjeUI0eTFTUWRfQWJFVzI3UFp0dklhU3R6bzRxQklQd2g5eGc2ZWJwQUNqNm9iczBjYmdTSUN3OFF0cFhQYzY4YWF1OXhqNElPSmd2NHFabktBV05neS1MMjFyaTdaSm5pbXg5dUhpZ1dGWU5NcTNFbHY0QnVaU2dFQ3Zid1B0WjBSVWlKWXdsMDNzUQ?oc=5",
-      "publishedAt": "2026-07-02T16:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUNISXRvLUEtRU84NkNGdllvT2V1VDBvUXlMOTJBUk5MVU9JM2dQYlZuc3BGSTM3OTdBaW9iWHk0SFNBTzI0YkdDV0lRcmI3dC1sMHE1RnZmaHJfc0E1eTlmb3BHWkFBdEVkMGF6YldRWmx1Mkt0VHpQUFh0bktHRDF4Vnlsa0FpNFFpZE1SRGNrNUNzakFUaGJfZFVMenQxRy1IWGNZSFpwTEk?oc=5",
+      "publishedAt": "2026-07-08T12:28+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "3 Packaging Stocks Poised to Weather Industry Challenges - TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGpZWXNTLW03amZwR3loTjVVaWlvakI1aWtFRXh3S25PQUY3YnNsSEd5ZUNSRTRHNDRUS3F6RUpMTlhUWi1GbmFnc3ZLUFdPcEJ5dERPVnZZQUxZbjFhOTZzRzU2NWJLemxEWGtDa3VaaGF2MEtKVFJ0LUpQUUpJbnhheDk1RXpyZjhMOHo2Wkl4M2x2dU5SUm10X0wwVGZWcHZ5bUxLTVprWVRSNFBWZDZR?oc=5",
+      "publishedAt": "2026-07-07T15:12+00:00",
       "impact": "Low"
     },
     {
@@ -54,26 +68,12 @@
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMVVSWms0dFpxUlh6VFZoSXNIa3F6SWVLVExtU2dPSnpvMWxKZUV1ODh4UDI0QThUNmtJeW0yS3FIUU5XQmdrajA1R3NTRFlQZGZxTWIwaEJaZ1lqOEFmV0wyWUZEZDRUbm5WWWJXM2hHd1hJckdzS0J1TnlLazEwbmg5TUF0UDJrOW1MNnkzblN5Sl9xSjBuVVljZnJFLUdLdUp1S214bkZLY3hjRHdndkRDU2JZX1BjMDZ6eFhzSUMzT2w2SkJtTWwtWndPUzFzV0lqckprVTJZb1poRHh0RURuc2tGZDVkdmg3MTk5Qk5EQ0txWkFrOW5scE55enRVZ2RiXzRwUzRoTTluWk5HTUh5Q2hzWEU?oc=5",
       "publishedAt": "2026-06-30T11:30+00:00",
       "impact": "High"
-    },
-    {
-      "title": "Film recycling hits a pivotal moment - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktJUHBNQ0pKNEh0aWtvczRsT1IxWGUxZzRRM3Z4bWgzcmQ2RVpDb2tRdmNJVVNSZVNpR2xMUnM0b1ZNSFFoZGp4aXhkbVBiY3lWbjlmWjJBZFZoV2E2RDBzNzRCTWFCeW0tdHZZNkNpazlQcld1cExiV3ZodXNjeE54VThLR2tBelFfcHlyY0J1Mk0xMElNbTM0WXZGWVRCSTcwUlMyVQ?oc=5",
-      "publishedAt": "2026-07-01T15:04+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Understanding the next decade of end markets for PCR from flexible packaging - Plastics News",
-      "source": "Plastics News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFAzRFFiWFprSlNLTmJRY05xMUxfb213UGpMX1lmNE9qU3M1NWZSYzAtRVhTQkRWdnJhQ3VBdC1sbHIxY1NEcWZvUVRWMXJIeklqY0ZhaDktUktrcGdGMUI0X1lLRldEMjhPbU1rdkREQnZWakVIOUtJN1REd3RES1pycW9HSUo1ZjZmYXlIVnBHM0NsRE81TjZobw?oc=5",
-      "publishedAt": "2026-07-07T08:00+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-08T15:37+00:00",
-  "lastSuccessfulAt": "2026-07-08T15:37+00:00",
+  "lastAttemptedAt": "2026-07-09T16:09+00:00",
+  "lastSuccessfulAt": "2026-07-09T16:09+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T15:37+00:00",
+  "lastUpdated": "2026-07-09T16:09+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "42 km SSE of Nelchina, Alaska",
+      "region": "11 km E of Barstow, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "44 km NW of Toyah, Texas",
+      "region": "21 km E of Little Lake, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "20 km NNW of Piru, CA",
+      "region": "5 km NNW of Pyote, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km NNW of The Geysers, CA",
+      "region": "20 km NE of Little Lake, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "36 km ESE of Malaga, New Mexico",
+      "region": "5 km E of Running Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "47 km NNE of Chickaloon, Alaska",
+      "region": "20 km NE of Little Lake, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km SE of Pacifica, CA",
+      "region": "11 km SSW of Blue Diamond, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km SE of Pacifica, CA",
+      "region": "23 km WSW of Little Lake, CA",
       "severity": "Low"
     },
     {
-      "type": "Heat Advisory issued July 8 at 7:57AM PDT until July 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Cuyama Valley; Santa Clarita Valley; Southern Salinas Valley; San Luis Obispo County Interior Valleys; San Luis Obispo County Mountains; Santa Barbara County Interior Mountains; Western San Fernando Valley; Eastern San Fernando Valley; Santa Susana Mountains; Southern Ventura County Mountains; Northern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
+      "type": "Extreme Heat Watch issued July 9 at 7:46AM PDT until July 16 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Los Angeles County Inland Coast including Downtown Los Angeles",
+      "severity": "Severe"
+    },
+    {
+      "type": "Heat Advisory issued July 9 at 7:46AM PDT until July 14 at 10:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Cuyama Valley; Santa Clarita Valley; Southern Salinas Valley; San Luis Obispo County Interior Valleys; San Luis Obispo County Mountains; Santa Barbara County Interior Mountains; Western San Fernando Valley; Eastern San Fernando Valley; Santa Susana Mountains; Southern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued July 8 at 7:57AM PDT until July 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "type": "Heat Advisory issued July 9 at 7:46AM PDT until July 14 at 10:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Northern Ventura County Mountains",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Heat Advisory issued July 9 at 7:46AM PDT until July 14 at 10:00AM PDT by NWS Los Angeles/Oxnard CA",
       "region": "Los Angeles County Inland Coast including Downtown Los Angeles",
       "severity": "Moderate"
-    },
-    {
-      "type": "Heat Advisory issued July 8 at 5:50AM PDT until July 9 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino County Mountains",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Extreme Heat Warning issued July 8 at 5:50AM PDT until July 9 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley",
-      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-08T15:37+00:00",
-  "lastSuccessfulAt": "2026-07-08T15:37+00:00",
+  "lastAttemptedAt": "2026-07-09T16:09+00:00",
+  "lastSuccessfulAt": "2026-07-09T16:09+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
