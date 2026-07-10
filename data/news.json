@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T16:09+00:00",
+  "lastUpdated": "2026-07-10T15:41+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -28,10 +28,10 @@
       "impact": "Low"
     },
     {
-      "title": "17 states and trade group sue California over plastics packaging law - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXo1UDRTR01Md1JlVFJFQURZOE5fckRZajFNTVNoV3laMXFfaXd3cmZHNUlTR1NQWmxWcjg0UThkbi03UDBZcXJTOUZVSHFKS3NYb2pZYW9VLVVrVmtCMmhzZ3NJOTZIT01UeUoyNDRlSXBIV2tqaXpjRGJYSUJWODBjemJKSXB2a05kWFdWaC0xSjZ4cVBhU2IzMjUzbjV4a1VBM3dSc1FFUlVuczBERw?oc=5",
-      "publishedAt": "2026-06-23T07:00+00:00",
+      "title": "Experts debate plastic food packaging\u2019s health impact, urging new scientific evidence - Nutrition Insight",
+      "source": "Nutrition Insight",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVhtYkNHbzJydWpQRllXTDhqalpvdl9ZT2pjNTJhVXJSa3FyUXNTT3dJNEVNUk1hYjlRbUM3cEk2bUF5VkNLMlNoX3Q2emhzU01jNVd5b0RpaVQ4d3htVDdIbE5May12Z2xZU201Rlp0X3R4RFhVQnR6ZHdpMmFSVDNodWwyVGFHX1B1N2ROVDY?oc=5",
+      "publishedAt": "2026-07-10T09:05+00:00",
       "impact": "Low"
     },
     {
@@ -42,17 +42,17 @@
       "impact": "Low"
     },
     {
-      "title": "New laws force companies to confront most polluting plastics - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclhpU2Jldm83THU1Q1dVbWlIeDlfNTFPZ09UWWlaUWZuZDR3N2NfTDJwdFZJVUVpQS1tbHNpVDBncnVEZ3hrbjBLQ0w5dnY0ajFDYUVnb1RoT1AtX0tldGpuNy1ISFBjNnR2YlBTZ1k2aUY3dUFYMVl6NnpMT0NtU1k1LXRUdThkZzN4Rm9XLV9UZEViRW9xTVRqZ3VCSWNrUDlLYTdxWFgyOTVuaVdrRWc1YmhmeUpXZWVqWWt3?oc=5",
-      "publishedAt": "2026-07-01T07:00+00:00",
+      "title": "California's Plastic Packaging Law Forces Brands to Rethink Compliance - PlasticsToday",
+      "source": "PlasticsToday",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE5VOHpIdVNkNXhEVlh4ZzFuS1N6N3pIekN0Z1NGQXN1dUNveHctc3NBNkhDYjVjeUI0eTFTUWRfQWJFVzI3UFp0dklhU3R6bzRxQklQd2g5eGc2ZWJwQUNqNm9iczBjYmdTSUN3OFF0cFhQYzY4YWF1OXhqNElPSmd2NHFabktBV05neS1MMjFyaTdaSm5pbXg5dUhpZ1dGWU5NcTNFbHY0QnVaU2dFQ3Zid1B0WjBSVWlKWXdsMDNzUQ?oc=5",
+      "publishedAt": "2026-07-02T16:35+00:00",
       "impact": "Low"
     },
     {
-      "title": "Cleveland Kitchen Launches Recycled Packaging - PlasticsToday",
-      "source": "PlasticsToday",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUNISXRvLUEtRU84NkNGdllvT2V1VDBvUXlMOTJBUk5MVU9JM2dQYlZuc3BGSTM3OTdBaW9iWHk0SFNBTzI0YkdDV0lRcmI3dC1sMHE1RnZmaHJfc0E1eTlmb3BHWkFBdEVkMGF6YldRWmx1Mkt0VHpQUFh0bktHRDF4Vnlsa0FpNFFpZE1SRGNrNUNzakFUaGJfZFVMenQxRy1IWGNZSFpwTEk?oc=5",
-      "publishedAt": "2026-07-08T12:28+00:00",
+      "title": "Film recycling hits a pivotal moment - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktJUHBNQ0pKNEh0aWtvczRsT1IxWGUxZzRRM3Z4bWgzcmQ2RVpDb2tRdmNJVVNSZVNpR2xMUnM0b1ZNSFFoZGp4aXhkbVBiY3lWbjlmWjJBZFZoV2E2RDBzNzRCTWFCeW0tdHZZNkNpazlQcld1cExiV3ZodXNjeE54VThLR2tBelFfcHlyY0J1Mk0xMElNbTM0WXZGWVRCSTcwUlMyVQ?oc=5",
+      "publishedAt": "2026-07-01T15:04+00:00",
       "impact": "Low"
     },
     {
@@ -72,8 +72,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-09T16:09+00:00",
-  "lastSuccessfulAt": "2026-07-09T16:09+00:00",
+  "lastAttemptedAt": "2026-07-10T15:41+00:00",
+  "lastSuccessfulAt": "2026-07-10T15:41+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
