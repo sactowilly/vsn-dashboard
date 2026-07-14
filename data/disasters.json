@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T15:40+00:00",
+  "lastUpdated": "2026-07-14T15:04+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "28 km NNE of Aleneva, Alaska",
+      "region": "7 km W of Tecate, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "28 km WSW of Coyanosa, Texas",
+      "region": "19 km WNW of Hope, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "64 km WNW of Toyah, Texas",
+      "region": "9 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SSE of Big Bear Lake, CA",
+      "region": "1 km SW of Gu\u00e1nica, Puerto Rico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km NNW of The Geysers, CA",
+      "region": "9 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "43 km NW of Tatitlek, Alaska",
+      "region": "16 km ENE of Thousand Palms, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km WSW of Chickaloon, Alaska",
-      "severity": "Low"
+      "region": "1 km NW of Little America, Wyoming",
+      "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "13 km NNW of Cantwell, Alaska",
+      "region": "20 km E of Forsan, Texas",
       "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued July 10 at 6:31AM PDT until July 10 at 11:00PM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198",
+      "type": "Heat Advisory issued July 14 at 3:47AM PDT until July 16 at 11:00PM PDT by NWS Hanford CA",
+      "region": "Los Banos - Dos Palos; Merced - Madera - Mendota; Planada - Le Grand - Snelling; West Side of Fresno and Kings Counties; Caruthers - San Joaquin - Selma; Fresno-Clovis; Buttonwillow - Lost Hills - I5; Delano-Wasco-Shafter; Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley; Buena Vista; Bakersfield; Southeast San Joaquin Valley; South End San Joaquin Valley; Mariposa Madera Foothills; Fresno-Tulare Foothills; South End Sierra Foothills",
       "severity": "Moderate"
     },
     {
-      "type": "Lake Wind Advisory issued July 10 at 6:31AM PDT until July 10 at 11:00PM PDT by NWS Hanford CA",
-      "region": "Kern River Valley",
+      "type": "Beach Hazards Statement issued July 14 at 1:57AM PDT until July 14 at 11:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Moderate"
     },
     {
-      "type": "Red Flag Warning issued July 10 at 3:29AM PDT until July 12 at 9:00PM PDT by NWS Medford OR",
-      "region": "Modoc County Except for the Surprise Valley; Klamath Basin and the Fremont-Winema National Forest",
-      "severity": "Severe"
+      "type": "Coastal Flood Advisory issued July 14 at 1:55AM PDT until July 15 at 2:00AM PDT by NWS Eureka CA",
+      "region": "Northern Coastal Humboldt",
+      "severity": "Minor"
     },
     {
-      "type": "Heat Advisory issued July 10 at 2:30AM PDT until July 10 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino County Mountains",
+      "type": "Beach Hazards Statement issued July 14 at 1:53AM PDT until July 15 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-10T15:40+00:00",
-  "lastSuccessfulAt": "2026-07-10T15:40+00:00",
+  "lastAttemptedAt": "2026-07-14T15:04+00:00",
+  "lastSuccessfulAt": "2026-07-14T15:04+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
