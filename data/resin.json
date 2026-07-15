@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-14T15:04+00:00",
+  "lastUpdated": "2026-07-15T15:02+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly proxy",
-  "whatChanged": "Resin/Plastics Proxy moved +46.3 index points versus the prior published month.",
+  "whatChanged": "Resin/Plastics Proxy moved -9.2 index points versus the prior published month.",
   "sourceLinks": [
     {
       "label": "FRED Plastics Material and Resin Manufacturing PPI",
@@ -13,12 +13,8 @@
     "Refreshed from FRED Plastics Material and Resin Manufacturing PPI.",
     "Use as directional pricing context only."
   ],
-  "currentDeltaIndex": 46.26,
+  "currentDeltaIndex": -9.22,
   "series": [
-    {
-      "date": "2025-06",
-      "value": 317.427
-    },
     {
       "date": "2025-07",
       "value": 315.615
@@ -61,13 +57,17 @@
     },
     {
       "date": "2026-05",
-      "value": 377.676
+      "value": 377.974
+    },
+    {
+      "date": "2026-06",
+      "value": 368.751
     }
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-14T15:04+00:00",
-  "lastSuccessfulAt": "2026-07-14T15:04+00:00",
+  "lastAttemptedAt": "2026-07-15T15:02+00:00",
+  "lastSuccessfulAt": "2026-07-15T15:02+00:00",
   "sourceLimitations": [
     "This is a FRED/BLS PPI proxy, not paid-grade spot resin pricing.",
     "Monthly PPI data can lag current supplier quotes."
