@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T15:02+00:00",
+  "lastUpdated": "2026-07-16T15:15+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
           {
             "title": "Is Packaging Corporation of America Stock Underperforming the S&P 500? - Yahoo Finance",
@@ -83,7 +83,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
           {
             "title": "Packsize to Acquire Panotec, Further Increasing Global Automated Packaging Solutions Reach - Yahoo Finance",
@@ -98,10 +98,10 @@
             "publishedAt": "2026-06-22T20:34+00:00"
           },
           {
-            "title": "Pakistani IT Company Ranked Among Top 25 Most Loved Workplaces Globally - ProPakistani",
-            "source": "ProPakistani",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY05zTXUxdTVGS3Y2MG9qb2U1cHNBRzdCNlR1NWtJRVhXaTdGMlluSjIzNEdJT3NadGFMWU1BZzh5Q0Y3N0hhTE9vWUZTYXhHME9OazRRQ0FSaVdULUpuYlNwRjdZOVp3Ym1DaWI3T3NBUlBwNDF1QTMzU3I4Zk1FNkhsSlBLWmpkbWdiaFpYWEtNSmlabzVEUHVIRUFneGdKNl9acUNkdjRURmPSAbABQVVfeXFMTU9UWGxqQ1Vjc3c1MVZJWTJGQmZ2c3A5aDlvVnAyRmY0eXE2cTNLemdUMV95YndyaWtfQTIwOXpaUzQzVnRrMlBmWGYwazFwM2ROUEhrOEtNbWcyUnljaFE0dWt6bGdROHRWVms4OWREa1FGU3hfZzczVWp1MllzdmFIR0xiMWhrMnZNSHF6WkNJaHg2NGliLTB5aGtUZjJnM1U1QjBsR2JLOGxaSGhTWXU?oc=5",
-            "publishedAt": "2026-06-19T07:00+00:00"
+            "title": "Acumatica Acquires Vertrax, Backing the ISV\u2019s Growth in Fuel and Energy Distribution - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmdJdFZLQ1dOMWhXbkR5aDhnOVRtM2NOUDE0U0xtVzZJeWZNdHBnU002dFBESUh4clhnYnBYTk9JSVB2WW54SGZSS1pnWmZrZVNUbmRVeF96elJYSnNpc2FxWk52Rnc2MlJJOFNGd2Z5WTlUZHhQckROWDZlYkJONmZqNUVMMjdjLUI1c3ExYXh2dllWWlNJcUZvUQ?oc=5",
+            "publishedAt": "2026-07-14T14:07+00:00"
           }
         ],
         "hiring": [
@@ -119,6 +119,12 @@
             "source": "Modern Distribution Management",
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanJTVm5BS2Y5R3R3X251S1ZYODhKdmVwVjZWNWVMVm4zeDFTck9Ccld0eU1IajJSYTZSNnRFdFc3Q2gyOVFNWU5BeW5EMktBRl9sTGM2d2hlcW9zVml6QmdRLU9rVTdNeXE1a0NqMmF0RXoxVy1sZ3dnYzk5aEMwX1JKY0Z0Ul9lQXNKSzNKOWUzS2c4ZWJZMFBQWUQ4eWctS3kxMk1ORml0QWhrWnJqclN3YTBBOTA?oc=5",
             "publishedAt": "2026-06-22T20:34+00:00"
+          },
+          {
+            "title": "Acumatica Acquires Vertrax, Backing the ISV\u2019s Growth in Fuel and Energy Distribution - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmdJdFZLQ1dOMWhXbkR5aDhnOVRtM2NOUDE0U0xtVzZJeWZNdHBnU002dFBESUh4clhnYnBYTk9JSVB2WW54SGZSS1pnWmZrZVNUbmRVeF96elJYSnNpc2FxWk52Rnc2MlJJOFNGd2Z5WTlUZHhQckROWDZlYkJONmZqNUVMMjdjLUI1c3ExYXh2dllWWlNJcUZvUQ?oc=5",
+            "publishedAt": "2026-07-14T14:07+00:00"
           }
         ],
         "items": [
@@ -135,10 +141,10 @@
             "publishedAt": "2026-06-22T20:34+00:00"
           },
           {
-            "title": "Pakistani IT Company Ranked Among Top 25 Most Loved Workplaces Globally - ProPakistani",
-            "source": "ProPakistani",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY05zTXUxdTVGS3Y2MG9qb2U1cHNBRzdCNlR1NWtJRVhXaTdGMlluSjIzNEdJT3NadGFMWU1BZzh5Q0Y3N0hhTE9vWUZTYXhHME9OazRRQ0FSaVdULUpuYlNwRjdZOVp3Ym1DaWI3T3NBUlBwNDF1QTMzU3I4Zk1FNkhsSlBLWmpkbWdiaFpYWEtNSmlabzVEUHVIRUFneGdKNl9acUNkdjRURmPSAbABQVVfeXFMTU9UWGxqQ1Vjc3c1MVZJWTJGQmZ2c3A5aDlvVnAyRmY0eXE2cTNLemdUMV95YndyaWtfQTIwOXpaUzQzVnRrMlBmWGYwazFwM2ROUEhrOEtNbWcyUnljaFE0dWt6bGdROHRWVms4OWREa1FGU3hfZzczVWp1MllzdmFIR0xiMWhrMnZNSHF6WkNJaHg2NGliLTB5aGtUZjJnM1U1QjBsR2JLOGxaSGhTWXU?oc=5",
-            "publishedAt": "2026-06-19T07:00+00:00"
+            "title": "Acumatica Acquires Vertrax, Backing the ISV\u2019s Growth in Fuel and Energy Distribution - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmdJdFZLQ1dOMWhXbkR5aDhnOVRtM2NOUDE0U0xtVzZJeWZNdHBnU002dFBESUh4clhnYnBYTk9JSVB2WW54SGZSS1pnWmZrZVNUbmRVeF96elJYSnNpc2FxWk52Rnc2MlJJOFNGd2Z5WTlUZHhQckROWDZlYkJONmZqNUVMMjdjLUI1c3ExYXh2dllWWlNJcUZvUQ?oc=5",
+            "publishedAt": "2026-07-14T14:07+00:00"
           }
         ],
         "query": "\"Veritiv\" packaging OR corrugated OR distribution when:30d",
@@ -155,13 +161,13 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
           {
             "title": "Imperial Dade Completes Enterprise Paper Deal - Industrial Distribution",
             "source": "Industrial Distribution",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXQzRnhUdzNaQ2xxQURHOGVWQm41N2NVNGRHaUhhSFlmaVdwSGx3N1EzU1BnaHhrSVFiakdtODhHUmpHcUR6blVIeFdUck00SFgzT19pZ25vNnJBQ3VyNktJOG1iYTBMdVhnVFUtOWdlMWs1dnZ1QXAzQmFwVmdBQ1ZvSV9MMTJJbDdPWVhsSTFjWkZRUXp0c3dENG84aE5zOXQ4V2RxVQ?oc=5",
-            "publishedAt": "2026-06-17T07:00+00:00"
+            "publishedAt": "2026-06-17T20:20+00:00"
           },
           {
             "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
@@ -182,7 +188,7 @@
             "title": "Imperial Dade Completes Enterprise Paper Deal - Industrial Distribution",
             "source": "Industrial Distribution",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXQzRnhUdzNaQ2xxQURHOGVWQm41N2NVNGRHaUhhSFlmaVdwSGx3N1EzU1BnaHhrSVFiakdtODhHUmpHcUR6blVIeFdUck00SFgzT19pZ25vNnJBQ3VyNktJOG1iYTBMdVhnVFUtOWdlMWs1dnZ1QXAzQmFwVmdBQ1ZvSV9MMTJJbDdPWVhsSTFjWkZRUXp0c3dENG84aE5zOXQ4V2RxVQ?oc=5",
-            "publishedAt": "2026-06-17T07:00+00:00"
+            "publishedAt": "2026-06-17T20:20+00:00"
           },
           {
             "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
@@ -202,7 +208,7 @@
             "title": "Imperial Dade Completes Enterprise Paper Deal - Industrial Distribution",
             "source": "Industrial Distribution",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXQzRnhUdzNaQ2xxQURHOGVWQm41N2NVNGRHaUhhSFlmaVdwSGx3N1EzU1BnaHhrSVFiakdtODhHUmpHcUR6blVIeFdUck00SFgzT19pZ25vNnJBQ3VyNktJOG1iYTBMdVhnVFUtOWdlMWs1dnZ1QXAzQmFwVmdBQ1ZvSV9MMTJJbDdPWVhsSTFjWkZRUXp0c3dENG84aE5zOXQ4V2RxVQ?oc=5",
-            "publishedAt": "2026-06-17T07:00+00:00"
+            "publishedAt": "2026-06-17T20:20+00:00"
           },
           {
             "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
@@ -231,7 +237,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
           {
             "title": "Uline opening soon in Plainfield, employing at least 200 people - Norwich Bulletin",
@@ -240,16 +246,16 @@
             "publishedAt": "2026-07-14T08:55+00:00"
           },
           {
-            "title": "Uline wins extension on 1.2M-square-foot warehouse as it recalibrates expansion - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FBUmdOanBoYXBZUUJXeDM1eWE5OFFacXJrT3htTzU3WWpZSTl0Ni1DYnladXFlMkVtQmRhbU1EU3U2VnlmbVRHVl95UElMc1ZsOUhBQnl0SFBvNFlLQUFqZUd2VGEyajhVd0xjQW11eHMzd09nclRDRzYydmVrVHhPY1VCQ1dCQ1NkTHRROEc4RVpaUl82b3FYaG1jQ1A4?oc=5",
-            "publishedAt": "2026-06-16T07:00+00:00"
-          },
-          {
             "title": "Who is the billionaire supporting Lisa Demuth\u2019s campaign for Minnesota governor? - Minnesota Reformer",
             "source": "Minnesota Reformer",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV05SNnQtMmplQWMyVkdwWUU2dWszNTh2RVAtcFoxZVlTN1BCd1JrVldJUUZyVm1HU1FGVTJrVEhjZGozdlBSdlExbVJ6bVhLeEpUcXJEUVVoN0hhR1NKZG5IdTBUYnFtbjJob3JOZi1LUFhmV1c4MnF4endZd3lSWDVfUURZMWd0S2dTMExYbDduS3lCV09TcG81ejRxVHIybFpHYmx6aEdGdk1ENEphLWZObzZQYlA4Tm56Xw?oc=5",
             "publishedAt": "2026-07-01T07:00+00:00"
+          },
+          {
+            "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREZqVW5YeE1uN2VtNk1YRElyY3habnVpay1TV19Ybm1LaTZNVEItc3BoMFhIa1JDdndaeE5HbjFTNEVpTDJGMl9iNFY2cEpHcUZnQ2tkeUlhQW5hZ1daV19LdWVCa0UycEdPeUprc0NveERHb3pOcFIzd2dWNkVVdi1qWEh0N0JXb2hONy1lN095eDRielZkN1pQUTVoOGk0RXBhWGtHWVNMdHJIdDcxS25VejhQM09DNG9QZGYtSDc2YkxabXc?oc=5",
+            "publishedAt": "2026-06-22T20:34+00:00"
           }
         ],
         "hiring": [
@@ -263,10 +269,10 @@
         ],
         "moves": [
           {
-            "title": "Uline wins extension on 1.2M-square-foot warehouse as it recalibrates expansion - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FBUmdOanBoYXBZUUJXeDM1eWE5OFFacXJrT3htTzU3WWpZSTl0Ni1DYnladXFlMkVtQmRhbU1EU3U2VnlmbVRHVl95UElMc1ZsOUhBQnl0SFBvNFlLQUFqZUd2VGEyajhVd0xjQW11eHMzd09nclRDRzYydmVrVHhPY1VCQ1dCQ1NkTHRROEc4RVpaUl82b3FYaG1jQ1A4?oc=5",
-            "publishedAt": "2026-06-16T07:00+00:00"
+            "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREZqVW5YeE1uN2VtNk1YRElyY3habnVpay1TV19Ybm1LaTZNVEItc3BoMFhIa1JDdndaeE5HbjFTNEVpTDJGMl9iNFY2cEpHcUZnQ2tkeUlhQW5hZ1daV19LdWVCa0UycEdPeUprc0NveERHb3pOcFIzd2dWNkVVdi1qWEh0N0JXb2hONy1lN095eDRielZkN1pQUTVoOGk0RXBhWGtHWVNMdHJIdDcxS25VejhQM09DNG9QZGYtSDc2YkxabXc?oc=5",
+            "publishedAt": "2026-06-22T20:34+00:00"
           }
         ],
         "items": [
@@ -277,16 +283,16 @@
             "publishedAt": "2026-07-14T08:55+00:00"
           },
           {
-            "title": "Uline wins extension on 1.2M-square-foot warehouse as it recalibrates expansion - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FBUmdOanBoYXBZUUJXeDM1eWE5OFFacXJrT3htTzU3WWpZSTl0Ni1DYnladXFlMkVtQmRhbU1EU3U2VnlmbVRHVl95UElMc1ZsOUhBQnl0SFBvNFlLQUFqZUd2VGEyajhVd0xjQW11eHMzd09nclRDRzYydmVrVHhPY1VCQ1dCQ1NkTHRROEc4RVpaUl82b3FYaG1jQ1A4?oc=5",
-            "publishedAt": "2026-06-16T07:00+00:00"
-          },
-          {
             "title": "Who is the billionaire supporting Lisa Demuth\u2019s campaign for Minnesota governor? - Minnesota Reformer",
             "source": "Minnesota Reformer",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV05SNnQtMmplQWMyVkdwWUU2dWszNTh2RVAtcFoxZVlTN1BCd1JrVldJUUZyVm1HU1FGVTJrVEhjZGozdlBSdlExbVJ6bVhLeEpUcXJEUVVoN0hhR1NKZG5IdTBUYnFtbjJob3JOZi1LUFhmV1c4MnF4endZd3lSWDVfUURZMWd0S2dTMExYbDduS3lCV09TcG81ejRxVHIybFpHYmx6aEdGdk1ENEphLWZObzZQYlA4Tm56Xw?oc=5",
             "publishedAt": "2026-07-01T07:00+00:00"
+          },
+          {
+            "title": "Imperial Brady Taps Former SRS Supply Chain Leader as VP of Operations - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREZqVW5YeE1uN2VtNk1YRElyY3habnVpay1TV19Ybm1LaTZNVEItc3BoMFhIa1JDdndaeE5HbjFTNEVpTDJGMl9iNFY2cEpHcUZnQ2tkeUlhQW5hZ1daV19LdWVCa0UycEdPeUprc0NveERHb3pOcFIzd2dWNkVVdi1qWEh0N0JXb2hONy1lN095eDRielZkN1pQUTVoOGk0RXBhWGtHWVNMdHJIdDcxS25VejhQM09DNG9QZGYtSDc2YkxabXc?oc=5",
+            "publishedAt": "2026-06-22T20:34+00:00"
           }
         ],
         "query": "\"Uline\" packaging OR corrugated OR distribution when:30d",
@@ -303,7 +309,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
           {
             "title": "International Paper Continues Strategic Transformation with North America Packaging Network Optimization - PR Newswire",
@@ -312,10 +318,10 @@
             "publishedAt": "2026-06-26T07:00+00:00"
           },
           {
-            "title": "International Paper to close four more US packaging facilities - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNF82TkJkY1dPb0VmLVQyZWh6VmJzVTA2QWhxVm9TSER4OFNRdHk1TFpvY3NoQ3Z3RUtMZEZQMTJDbEk1WUczUTVvblEzc2g2N0YxSkwyRDR5OU9lc0s3VmUtZWhTeG5IMl9jWnpUQ0xyM29LQTVsV0JrSkJiUlBEYXBaRTZwbkdv?oc=5",
-            "publishedAt": "2026-06-30T09:16+00:00"
+            "title": "International Paper announces shutdowns, layoffs at 4 US facilities - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmdYXzJBOHNkRlhmZjVHZG1MZm1BT2Y2eUViZU92aGpVWFU0Z09jaFdDLUNTeHB3Y0o3U2VHNWkxTU5PSF9mLTcyUWxpa1o5U04xOFlDdHNjcUVDNGptOExRa29UcnJMSzJXLUZ0NEtWNWkzNWg3U1h2UkZJVHJpV2xRQngwZ3ktcWxJbHpvRXdIUTNWUFNwenVORzFud1F3bmswd29ldExadw?oc=5",
+            "publishedAt": "2026-06-29T07:00+00:00"
           },
           {
             "title": "International Paper to shut more US facilities - Yahoo Finance",
@@ -334,10 +340,10 @@
             "publishedAt": "2026-06-26T07:00+00:00"
           },
           {
-            "title": "International Paper to close four more US packaging facilities - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNF82TkJkY1dPb0VmLVQyZWh6VmJzVTA2QWhxVm9TSER4OFNRdHk1TFpvY3NoQ3Z3RUtMZEZQMTJDbEk1WUczUTVvblEzc2g2N0YxSkwyRDR5OU9lc0s3VmUtZWhTeG5IMl9jWnpUQ0xyM29LQTVsV0JrSkJiUlBEYXBaRTZwbkdv?oc=5",
-            "publishedAt": "2026-06-30T09:16+00:00"
+            "title": "International Paper announces shutdowns, layoffs at 4 US facilities - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmdYXzJBOHNkRlhmZjVHZG1MZm1BT2Y2eUViZU92aGpVWFU0Z09jaFdDLUNTeHB3Y0o3U2VHNWkxTU5PSF9mLTcyUWxpa1o5U04xOFlDdHNjcUVDNGptOExRa29UcnJMSzJXLUZ0NEtWNWkzNWg3U1h2UkZJVHJpV2xRQngwZ3ktcWxJbHpvRXdIUTNWUFNwenVORzFud1F3bmswd29ldExadw?oc=5",
+            "publishedAt": "2026-06-29T07:00+00:00"
           },
           {
             "title": "International Paper to shut more US facilities - Yahoo Finance",
@@ -360,19 +366,19 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
+          {
+            "title": "7 packaging facility expansion announcements to start summer - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUxZU2g3TVJfdUk3cURaNHdmV3N2ZmpSSXpkOEJVTUo5dktYWVZzcE1IZGxxMU5GcUJoUFctU2wxWHI3WVg5THVhOUJibktnRlp5Qk03OUI5QVJ2UWI1ZmJxWGc0LU5FSGxHS2g1d3Q3SXJvc1lVdU1ZR2lEZ3hBbHRmcllJMVhkWDRabG5QNGlJX0dHQ0dDb3FxSk9ZcVA3OS1jVWdTZ2tYWXM4V2htSXlyYkJJRHNuNExHal9UdXV3c0t1?oc=5",
+            "publishedAt": "2026-06-25T07:00+00:00"
+          },
           {
             "title": "Pratt Industries to expand in Rockwall Technology Park - PULPAPERnews.com",
             "source": "PULPAPERnews.com",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEhhNkhmSDdob3JBSHNwN2lxVzk2WmNiVHNKNHMyTnBCWllETzJFQXFySXMzaEdjT0RXVHhMMkd4c1g1anFFN3c0RTM4bVZJTjFVNldpejJfa09IQVRZd182R1BTZWE0c1poV212WmFvQnJ1dV93aFBZZ2t0Zjhoa1dlaWpYZU4wWUxDT3ZFR2lwT1BsX1Jz?oc=5",
             "publishedAt": "2026-06-19T07:00+00:00"
-          },
-          {
-            "title": "Pratt Industries to expand corrugated box plant in Rockwall - Rockwall Herald Banner",
-            "source": "Rockwall Herald Banner",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeXVySGVsWEN6VTUwUENtcWRRckFrb0pEaTB5elVtbnNKc0NMa3VkWTJvWGpIeEhFOV95eDZpMWgyVHNCZU9YbFQ0ZU9PNVBPcTV1MUNNNlZRbTA5cFVPTl8zZlZfVHR6MlVIVXpDaVlFaE85RWVrOGlkZ0lfcjFEMGhFdXlOLU4xcW1pQUFKbXNjS1JNNEZCaEpKREZ4NElfMGtuY0J5MzNRSnU2aUl3XzRlM0ZocDVvRmVRU05GUldlcDdxZ21XVzFfMk54Ym93WFJiTmRsaVFyX0JMRHdRVVRWUlJQeUdwOGVuSkJPdWxoVXBf?oc=5",
-            "publishedAt": "2026-06-23T07:00+00:00"
           },
           {
             "title": "Pratt Industries to Expand Corrugated Box Plant in Rockwall, Texas - Paper Industry News",
@@ -392,10 +398,10 @@
         ],
         "moves": [
           {
-            "title": "Pratt Industries to expand corrugated box plant in Rockwall - Rockwall Herald Banner",
-            "source": "Rockwall Herald Banner",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeXVySGVsWEN6VTUwUENtcWRRckFrb0pEaTB5elVtbnNKc0NMa3VkWTJvWGpIeEhFOV95eDZpMWgyVHNCZU9YbFQ0ZU9PNVBPcTV1MUNNNlZRbTA5cFVPTl8zZlZfVHR6MlVIVXpDaVlFaE85RWVrOGlkZ0lfcjFEMGhFdXlOLU4xcW1pQUFKbXNjS1JNNEZCaEpKREZ4NElfMGtuY0J5MzNRSnU2aUl3XzRlM0ZocDVvRmVRU05GUldlcDdxZ21XVzFfMk54Ym93WFJiTmRsaVFyX0JMRHdRVVRWUlJQeUdwOGVuSkJPdWxoVXBf?oc=5",
-            "publishedAt": "2026-06-23T07:00+00:00"
+            "title": "7 packaging facility expansion announcements to start summer - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUxZU2g3TVJfdUk3cURaNHdmV3N2ZmpSSXpkOEJVTUo5dktYWVZzcE1IZGxxMU5GcUJoUFctU2wxWHI3WVg5THVhOUJibktnRlp5Qk03OUI5QVJ2UWI1ZmJxWGc0LU5FSGxHS2g1d3Q3SXJvc1lVdU1ZR2lEZ3hBbHRmcllJMVhkWDRabG5QNGlJX0dHQ0dDb3FxSk9ZcVA3OS1jVWdTZ2tYWXM4V2htSXlyYkJJRHNuNExHal9UdXV3c0t1?oc=5",
+            "publishedAt": "2026-06-25T07:00+00:00"
           },
           {
             "title": "Pratt Industries to Expand Corrugated Box Plant in Rockwall, Texas - Paper Industry News",
@@ -406,16 +412,16 @@
         ],
         "items": [
           {
+            "title": "7 packaging facility expansion announcements to start summer - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUxZU2g3TVJfdUk3cURaNHdmV3N2ZmpSSXpkOEJVTUo5dktYWVZzcE1IZGxxMU5GcUJoUFctU2wxWHI3WVg5THVhOUJibktnRlp5Qk03OUI5QVJ2UWI1ZmJxWGc0LU5FSGxHS2g1d3Q3SXJvc1lVdU1ZR2lEZ3hBbHRmcllJMVhkWDRabG5QNGlJX0dHQ0dDb3FxSk9ZcVA3OS1jVWdTZ2tYWXM4V2htSXlyYkJJRHNuNExHal9UdXV3c0t1?oc=5",
+            "publishedAt": "2026-06-25T07:00+00:00"
+          },
+          {
             "title": "Pratt Industries to expand in Rockwall Technology Park - PULPAPERnews.com",
             "source": "PULPAPERnews.com",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEhhNkhmSDdob3JBSHNwN2lxVzk2WmNiVHNKNHMyTnBCWllETzJFQXFySXMzaEdjT0RXVHhMMkd4c1g1anFFN3c0RTM4bVZJTjFVNldpejJfa09IQVRZd182R1BTZWE0c1poV212WmFvQnJ1dV93aFBZZ2t0Zjhoa1dlaWpYZU4wWUxDT3ZFR2lwT1BsX1Jz?oc=5",
             "publishedAt": "2026-06-19T07:00+00:00"
-          },
-          {
-            "title": "Pratt Industries to expand corrugated box plant in Rockwall - Rockwall Herald Banner",
-            "source": "Rockwall Herald Banner",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeXVySGVsWEN6VTUwUENtcWRRckFrb0pEaTB5elVtbnNKc0NMa3VkWTJvWGpIeEhFOV95eDZpMWgyVHNCZU9YbFQ0ZU9PNVBPcTV1MUNNNlZRbTA5cFVPTl8zZlZfVHR6MlVIVXpDaVlFaE85RWVrOGlkZ0lfcjFEMGhFdXlOLU4xcW1pQUFKbXNjS1JNNEZCaEpKREZ4NElfMGtuY0J5MzNRSnU2aUl3XzRlM0ZocDVvRmVRU05GUldlcDdxZ21XVzFfMk54Ym93WFJiTmRsaVFyX0JMRHdRVVRWUlJQeUdwOGVuSkJPdWxoVXBf?oc=5",
-            "publishedAt": "2026-06-23T07:00+00:00"
           },
           {
             "title": "Pratt Industries to Expand Corrugated Box Plant in Rockwall, Texas - Paper Industry News",
@@ -438,7 +444,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
           {
             "title": "IP, Ineos Styrolution, Smurfit Westrock to shutter plants - Packaging Dive",
@@ -502,13 +508,13 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
           {
-            "title": "DS Smith develops packaging for BWT\u2019s MACH water filters - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWVoT2x4cGhSQnB5LS03SFdDSnJpWWF4b2dJc2VvSUN6MjFWRm1WYnQ3RExJVTNBOHp6NGN6NkNhcXRkZER6MG03TkJtbWRzRmlrT0JnU3dwSExjeUhsVHVIYzZJYVZwRW5fc1ViM1dwdGd0RXVTeFRieU8zUGd5Qm9kTVJfbC1FRUI2U0R3UGVwQjBXbTkw?oc=5",
-            "publishedAt": "2026-07-08T10:53+00:00"
+            "title": "DS Smith supports fast track initiative for reusable e-commerce packaging in France - Packaging Europe",
+            "source": "Packaging Europe",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHRmT29iaWpmb0p1Wk0wYmp3bFk0MGpiTnB4UzRjendNa3RzYkhoOXNJeENYRDN4aUJrRlJIT25oUHR0dkxrc3lsY1ZsRWtqVENaM0FBUWQ0cmhXZ0diSkVFY1RXQXdfQjVBdXh0QkRScXdoX044Z1FRQkJVWlVubG5fRFlVY1FmYkhLRlVjaFppUnVoclRBeUlXb0FQR1hKY0M5cFVsX25lMWR3MXlUbzJZRWJWU0JZWS15bkNkRGZBdndNSGtEeFhR?oc=5",
+            "publishedAt": "2026-06-23T07:00+00:00"
           },
           {
             "title": "DS Smith designs fiber-based transport packaging for water filters - Packaging Insights",
@@ -517,20 +523,20 @@
             "publishedAt": "2026-07-13T09:59+00:00"
           },
           {
-            "title": "DS Smith supports fast track initiative for reusable e-commerce packaging in France - Packaging Europe",
-            "source": "Packaging Europe",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHRmT29iaWpmb0p1Wk0wYmp3bFk0MGpiTnB4UzRjendNa3RzYkhoOXNJeENYRDN4aUJrRlJIT25oUHR0dkxrc3lsY1ZsRWtqVENaM0FBUWQ0cmhXZ0diSkVFY1RXQXdfQjVBdXh0QkRScXdoX044Z1FRQkJVWlVubG5fRFlVY1FmYkhLRlVjaFppUnVoclRBeUlXb0FQR1hKY0M5cFVsX25lMWR3MXlUbzJZRWJWU0JZWS15bkNkRGZBdndNSGtEeFhR?oc=5",
-            "publishedAt": "2026-06-23T07:00+00:00"
+            "title": "DS Smith develops packaging for BWT\u2019s MACH water filters - Packaging Gateway",
+            "source": "Packaging Gateway",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tQjNzbGFDV1VESkVyQ25Db1FraGhxNzBsS1RQVkl5S3RNWXU1RW1qaHdRQ21ZMVk5SnVxckg0WmtYdXpoRVRITjVGaFpJSnlvUG5Vel9TOUtQS3BCclJvZTg3Y1lRaExnVUVSTEJqUjFDaWJXNUxuODhiN2w?oc=5",
+            "publishedAt": "2026-07-09T07:09+00:00"
           }
         ],
         "hiring": [],
         "moves": [],
         "items": [
           {
-            "title": "DS Smith develops packaging for BWT\u2019s MACH water filters - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWVoT2x4cGhSQnB5LS03SFdDSnJpWWF4b2dJc2VvSUN6MjFWRm1WYnQ3RExJVTNBOHp6NGN6NkNhcXRkZER6MG03TkJtbWRzRmlrT0JnU3dwSExjeUhsVHVIYzZJYVZwRW5fc1ViM1dwdGd0RXVTeFRieU8zUGd5Qm9kTVJfbC1FRUI2U0R3UGVwQjBXbTkw?oc=5",
-            "publishedAt": "2026-07-08T10:53+00:00"
+            "title": "DS Smith supports fast track initiative for reusable e-commerce packaging in France - Packaging Europe",
+            "source": "Packaging Europe",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHRmT29iaWpmb0p1Wk0wYmp3bFk0MGpiTnB4UzRjendNa3RzYkhoOXNJeENYRDN4aUJrRlJIT25oUHR0dkxrc3lsY1ZsRWtqVENaM0FBUWQ0cmhXZ0diSkVFY1RXQXdfQjVBdXh0QkRScXdoX044Z1FRQkJVWlVubG5fRFlVY1FmYkhLRlVjaFppUnVoclRBeUlXb0FQR1hKY0M5cFVsX25lMWR3MXlUbzJZRWJWU0JZWS15bkNkRGZBdndNSGtEeFhR?oc=5",
+            "publishedAt": "2026-06-23T07:00+00:00"
           },
           {
             "title": "DS Smith designs fiber-based transport packaging for water filters - Packaging Insights",
@@ -539,10 +545,10 @@
             "publishedAt": "2026-07-13T09:59+00:00"
           },
           {
-            "title": "DS Smith supports fast track initiative for reusable e-commerce packaging in France - Packaging Europe",
-            "source": "Packaging Europe",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHRmT29iaWpmb0p1Wk0wYmp3bFk0MGpiTnB4UzRjendNa3RzYkhoOXNJeENYRDN4aUJrRlJIT25oUHR0dkxrc3lsY1ZsRWtqVENaM0FBUWQ0cmhXZ0diSkVFY1RXQXdfQjVBdXh0QkRScXdoX044Z1FRQkJVWlVubG5fRFlVY1FmYkhLRlVjaFppUnVoclRBeUlXb0FQR1hKY0M5cFVsX25lMWR3MXlUbzJZRWJWU0JZWS15bkNkRGZBdndNSGtEeFhR?oc=5",
-            "publishedAt": "2026-06-23T07:00+00:00"
+            "title": "DS Smith develops packaging for BWT\u2019s MACH water filters - Packaging Gateway",
+            "source": "Packaging Gateway",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tQjNzbGFDV1VESkVyQ25Db1FraGhxNzBsS1RQVkl5S3RNWXU1RW1qaHdRQ21ZMVk5SnVxckg0WmtYdXpoRVRITjVGaFpJSnlvUG5Vel9TOUtQS3BCclJvZTg3Y1lRaExnVUVSTEJqUjFDaWJXNUxuODhiN2w?oc=5",
+            "publishedAt": "2026-07-09T07:09+00:00"
           }
         ],
         "query": "\"DS Smith\" packaging OR corrugated OR distribution when:30d",
@@ -559,8 +565,14 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
+          {
+            "title": "/R E P E A T --Claigan Webinar - Data Generation for 2026 US Packaging Deadlines/ - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQXVKeUI2b01qd0xtY09iWHdiU1lFNS12dGU4XzdtSnQ2WnBXMENKMXM4dC1meXhQMUhiVmlqVGJWYU15STFITHFwSTREVmdBRFZ3YTRCRkZkbTBXZktleDRMdXREa1BqSzV6d25DSVAxZmhMU2lXelVudEh1b2c?oc=5",
+            "publishedAt": "2026-06-29T07:00+00:00"
+          },
           {
             "title": "TSMC Talent and Water Constraints Raise Questions Over Future Chip Capacity - Astute Group",
             "source": "Astute Group",
@@ -572,18 +584,18 @@
             "source": "The Good Men Project",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ05SRmNsaFFqeUhCN0NZcUJJMmZaU01IOHU5R2ZleDc4Tk9JYlMwS2lPV25taVoxSDdCcHNWWDVrUno5emwyaC1VdjE2dDl2Wk0xUUEzOWk2endFZUplNGdzU0NjOE13SU56TkgyTkFDQm5JWmNxUmd5NXFZOThSZGR2YUNvcWtUYUY1T0tJUHJVckd3YXk1ZExSM3BUc21PODBmQy00U3F6RjYwdXE0b2Y0V2pFcjFjdWRScG1qbThlRHNJUTNrN29rSEg?oc=5",
             "publishedAt": "2026-06-19T07:00+00:00"
-          },
-          {
-            "title": "The best perennials that bloom in their first year from seed \u2013 for a garden full of colour, fast - The English Garden",
-            "source": "The English Garden",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPei1ONjVvWFlJc2FxRlA3ZjdVWTFNbUttazlxdHh4dTRnOVBfdUdpWnpxQU9QSGRxa0NmaTNIZ3NPSzVpRnB6QmpCLUNJR0V0bFlydWMxUjdZMW1qelBWTEFWU2gxcWhLY1hKQkhZOHZVR2tNQS13b3JpbERkUDFXdEdRMFFaYlFiWlBvQ2ktd1ZRU3dCeTJpajRSdngxeVBw?oc=5",
-            "publishedAt": "2026-07-11T07:00+00:00"
           }
         ],
         "hiring": [],
         "moves": [],
         "items": [
           {
+            "title": "/R E P E A T --Claigan Webinar - Data Generation for 2026 US Packaging Deadlines/ - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQXVKeUI2b01qd0xtY09iWHdiU1lFNS12dGU4XzdtSnQ2WnBXMENKMXM4dC1meXhQMUhiVmlqVGJWYU15STFITHFwSTREVmdBRFZ3YTRCRkZkbTBXZktleDRMdXREa1BqSzV6d25DSVAxZmhMU2lXelVudEh1b2c?oc=5",
+            "publishedAt": "2026-06-29T07:00+00:00"
+          },
+          {
             "title": "TSMC Talent and Water Constraints Raise Questions Over Future Chip Capacity - Astute Group",
             "source": "Astute Group",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXhpZHFva21PcHIwWVZ4dEhlOEx3d25qa1p6MDBmZmtPeVAyenZpeF9WY2NLemREdWtTNldBSEtReHZGanBUOFktQWpET0RfaEFPQTl3emlSUVJ2aHk4Y19TMDR3dWhxcGI4SzZmN1Bqa2RMVzI5dEp5ZXQ5a1lQMi1UVmU4S21JOHA0b1RRSnAtcmotYWNGM0JGMWl3QVlWZENzY0FQX1NRRGV6MmJ0YjNPR3IwbW1w?oc=5",
@@ -594,12 +606,6 @@
             "source": "The Good Men Project",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ05SRmNsaFFqeUhCN0NZcUJJMmZaU01IOHU5R2ZleDc4Tk9JYlMwS2lPV25taVoxSDdCcHNWWDVrUno5emwyaC1VdjE2dDl2Wk0xUUEzOWk2endFZUplNGdzU0NjOE13SU56TkgyTkFDQm5JWmNxUmd5NXFZOThSZGR2YUNvcWtUYUY1T0tJUHJVckd3YXk1ZExSM3BUc21PODBmQy00U3F6RjYwdXE0b2Y0V2pFcjFjdWRScG1qbThlRHNJUTNrN29rSEg?oc=5",
             "publishedAt": "2026-06-19T07:00+00:00"
-          },
-          {
-            "title": "The best perennials that bloom in their first year from seed \u2013 for a garden full of colour, fast - The English Garden",
-            "source": "The English Garden",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPei1ONjVvWFlJc2FxRlA3ZjdVWTFNbUttazlxdHh4dTRnOVBfdUdpWnpxQU9QSGRxa0NmaTNIZ3NPSzVpRnB6QmpCLUNJR0V0bFlydWMxUjdZMW1qelBWTEFWU2gxcWhLY1hKQkhZOHZVR2tNQS13b3JpbERkUDFXdEdRMFFaYlFiWlBvQ2ktd1ZRU3dCeTJpajRSdngxeVBw?oc=5",
-            "publishedAt": "2026-07-11T07:00+00:00"
           }
         ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -616,19 +622,19 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
-          {
-            "title": "Berlin Packaging Expands UK Presence Through Acquisition of BlueSky - Global Cosmetics News",
-            "source": "Global Cosmetics News",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblhIXzNMdUJmXzVwWlh1RWlLMFl6MmVzQ3pqSlg3VmV5NzJMYUF0WlNKM3RLMHFsMGMwa3FtQVRlWmU0SmV5RE40Zng4UWlYdWZBMmdvY0M4T0tRZW1qRzR2S3BKOUpoYkFjMUVoMlJoMU9BNkNGT0dKejd6WjlWaTFlcnhqMThfWWFZUHhScmVrMHFseUY1UG9hblcyZlBSTS1vYlFqYw?oc=5",
-            "publishedAt": "2026-06-16T07:00+00:00"
-          },
           {
             "title": "Rigid Packaging Market Competitive Assessment, Key Trends, and Investment Potential - EIN News",
             "source": "EIN News",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmNMOWNjamtEN0F6R1ZHRG1HRHlid29DUWVBQm5xcER3QllISXlkVnN5dGlMaWgxMEpiWlVkNWw3M3NXQmk1am15Y0hLUGEtVVVIczVwV1dFZ1B5enhMSkZabjNTQjBVQlNfSV9ER3dkS1NuWm5fT2dfM3Vxdjlsb1prTjBfcDFhWkQydVRoVDk5cHZzQVNlOWtsbDVIVE1vQTJOXzJBaFY2U2YzZ3p5MlJ1Tk9xdXEzbmZHOElQZHXSAcYBQVVfeXFMTVpuWkNJRUtTdExXZF9qMlFtbVZYWXlUdjd3YlByZmt6QnphYkktckdGYTBGTVF5RUdid2tUQVlFUGlXRENlaHUyYUI2LUhNamdmME9PYnBRTC1sWk1LTkpvUElkcFlVU2c0YXluTkY3czAwY1VjUFIzMHlpUFJWdEw1VXA4Z0tyRDN0X2Z5UU9qQlFsTVYyLWNjZDUtZm1GSFo3ZWZ4NWZ5UGhpeXdoZVlFZDVuemxFelQ2WGF5RDZCWXlVNUFB?oc=5",
             "publishedAt": "2026-07-10T18:19+00:00"
+          },
+          {
+            "title": "Leyland Packaging appoints Rebecca Dolan as business development manager - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU01xOUpIUG94Um1CS1pQMDB4UXhCX1ltamptVTdLbVVxcUFfVEtnYkpDMG50NlJWWmVqa25lX0NNWF9wOVVRamM0czJvUTFidEZxcEwtWWpfZnBDZUhkOTIzYkJHdzRrZ1FMT0ZYTEd5QTNNTHluRW9rTnkzS3dzREFGRXh1cUdYcFp6ZXc4aFdiTEFNQzNXSWRqcC10dHpMNDZoRm9sLUQ?oc=5",
+            "publishedAt": "2026-07-16T11:05+00:00"
           },
           {
             "title": "Henkel and Applied Adhesives partner to expand US flexible packaging reach - Packaging Insights",
@@ -638,26 +644,19 @@
           }
         ],
         "hiring": [],
-        "moves": [
-          {
-            "title": "Berlin Packaging Expands UK Presence Through Acquisition of BlueSky - Global Cosmetics News",
-            "source": "Global Cosmetics News",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblhIXzNMdUJmXzVwWlh1RWlLMFl6MmVzQ3pqSlg3VmV5NzJMYUF0WlNKM3RLMHFsMGMwa3FtQVRlWmU0SmV5RE40Zng4UWlYdWZBMmdvY0M4T0tRZW1qRzR2S3BKOUpoYkFjMUVoMlJoMU9BNkNGT0dKejd6WjlWaTFlcnhqMThfWWFZUHhScmVrMHFseUY1UG9hblcyZlBSTS1vYlFqYw?oc=5",
-            "publishedAt": "2026-06-16T07:00+00:00"
-          }
-        ],
+        "moves": [],
         "items": [
-          {
-            "title": "Berlin Packaging Expands UK Presence Through Acquisition of BlueSky - Global Cosmetics News",
-            "source": "Global Cosmetics News",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblhIXzNMdUJmXzVwWlh1RWlLMFl6MmVzQ3pqSlg3VmV5NzJMYUF0WlNKM3RLMHFsMGMwa3FtQVRlWmU0SmV5RE40Zng4UWlYdWZBMmdvY0M4T0tRZW1qRzR2S3BKOUpoYkFjMUVoMlJoMU9BNkNGT0dKejd6WjlWaTFlcnhqMThfWWFZUHhScmVrMHFseUY1UG9hblcyZlBSTS1vYlFqYw?oc=5",
-            "publishedAt": "2026-06-16T07:00+00:00"
-          },
           {
             "title": "Rigid Packaging Market Competitive Assessment, Key Trends, and Investment Potential - EIN News",
             "source": "EIN News",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmNMOWNjamtEN0F6R1ZHRG1HRHlid29DUWVBQm5xcER3QllISXlkVnN5dGlMaWgxMEpiWlVkNWw3M3NXQmk1am15Y0hLUGEtVVVIczVwV1dFZ1B5enhMSkZabjNTQjBVQlNfSV9ER3dkS1NuWm5fT2dfM3Vxdjlsb1prTjBfcDFhWkQydVRoVDk5cHZzQVNlOWtsbDVIVE1vQTJOXzJBaFY2U2YzZ3p5MlJ1Tk9xdXEzbmZHOElQZHXSAcYBQVVfeXFMTVpuWkNJRUtTdExXZF9qMlFtbVZYWXlUdjd3YlByZmt6QnphYkktckdGYTBGTVF5RUdid2tUQVlFUGlXRENlaHUyYUI2LUhNamdmME9PYnBRTC1sWk1LTkpvUElkcFlVU2c0YXluTkY3czAwY1VjUFIzMHlpUFJWdEw1VXA4Z0tyRDN0X2Z5UU9qQlFsTVYyLWNjZDUtZm1GSFo3ZWZ4NWZ5UGhpeXdoZVlFZDVuemxFelQ2WGF5RDZCWXlVNUFB?oc=5",
             "publishedAt": "2026-07-10T18:19+00:00"
+          },
+          {
+            "title": "Leyland Packaging appoints Rebecca Dolan as business development manager - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU01xOUpIUG94Um1CS1pQMDB4UXhCX1ltamptVTdLbVVxcUFfVEtnYkpDMG50NlJWWmVqa25lX0NNWF9wOVVRamM0czJvUTFidEZxcEwtWWpfZnBDZUhkOTIzYkJHdzRrZ1FMT0ZYTEd5QTNNTHluRW9rTnkzS3dzREFGRXh1cUdYcFp6ZXc4aFdiTEFNQzNXSWRqcC10dHpMNDZoRm9sLUQ?oc=5",
+            "publishedAt": "2026-07-16T11:05+00:00"
           },
           {
             "title": "Henkel and Applied Adhesives partner to expand US flexible packaging reach - Packaging Insights",
@@ -680,13 +679,19 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [
           {
             "title": "List of 16 Acquisitions by SupplyOne (Jul 2026) - Tracxn",
             "source": "Tracxn",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWpSVy1Dakdha1RFU21UYld0QUdWcGpwX0ZTeFZVV3o4NlRhUkc3QWF4ODlWTW43N0xONV9sb0cyOW9NaFg0Vkx1dEp0NndSb1lVY0RLZUZUSkJyTzZTcGtTc2tJLV9EQWc2RmpCV0E3b3RiSXgyQTJJRi14bTl2MzVselpvUDJtWjljeWZzRHRRRmxvbU1scGRGUFlCSERxSFFmMzloY0c?oc=5",
             "publishedAt": "2026-07-01T07:00+00:00"
+          },
+          {
+            "title": "Marco Sealing Solutions Acquires Rocket Seals - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNek1PWUplaHhvOUVFZ3hUQktqMFVmR0NxT2JBbEh1TnNnZ084XzNVcFBKXzBvWTRHb2cwQWFJbWhYV0ZLNFp5TGR4VDlxV1hldjVFUVRHTUxqdjU1bjRDMVcta2x5a1dDN1RnTE9MVFA0VWh6YUNXZEp3RUl2aEp0SjF5anJGNlZTbGtiaVZCajFOeWlJQUlleFU5cXBwcnpibzRDMF9NcFcxclE?oc=5",
+            "publishedAt": "2026-07-15T15:58+00:00"
           },
           {
             "title": "Aseptic Packaging Market Industry Landscape, Major Players, and Strategic Development Trends - EIN News",
@@ -702,6 +707,12 @@
             "source": "Tracxn",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWpSVy1Dakdha1RFU21UYld0QUdWcGpwX0ZTeFZVV3o4NlRhUkc3QWF4ODlWTW43N0xONV9sb0cyOW9NaFg0Vkx1dEp0NndSb1lVY0RLZUZUSkJyTzZTcGtTc2tJLV9EQWc2RmpCV0E3b3RiSXgyQTJJRi14bTl2MzVselpvUDJtWjljeWZzRHRRRmxvbU1scGRGUFlCSERxSFFmMzloY0c?oc=5",
             "publishedAt": "2026-07-01T07:00+00:00"
+          },
+          {
+            "title": "Marco Sealing Solutions Acquires Rocket Seals - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNek1PWUplaHhvOUVFZ3hUQktqMFVmR0NxT2JBbEh1TnNnZ084XzNVcFBKXzBvWTRHb2cwQWFJbWhYV0ZLNFp5TGR4VDlxV1hldjVFUVRHTUxqdjU1bjRDMVcta2x5a1dDN1RnTE9MVFA0VWh6YUNXZEp3RUl2aEp0SjF5anJGNlZTbGtiaVZCajFOeWlJQUlleFU5cXBwcnpibzRDMF9NcFcxclE?oc=5",
+            "publishedAt": "2026-07-15T15:58+00:00"
           }
         ],
         "items": [
@@ -710,6 +721,12 @@
             "source": "Tracxn",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWpSVy1Dakdha1RFU21UYld0QUdWcGpwX0ZTeFZVV3o4NlRhUkc3QWF4ODlWTW43N0xONV9sb0cyOW9NaFg0Vkx1dEp0NndSb1lVY0RLZUZUSkJyTzZTcGtTc2tJLV9EQWc2RmpCV0E3b3RiSXgyQTJJRi14bTl2MzVselpvUDJtWjljeWZzRHRRRmxvbU1scGRGUFlCSERxSFFmMzloY0c?oc=5",
             "publishedAt": "2026-07-01T07:00+00:00"
+          },
+          {
+            "title": "Marco Sealing Solutions Acquires Rocket Seals - Modern Distribution Management",
+            "source": "Modern Distribution Management",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNek1PWUplaHhvOUVFZ3hUQktqMFVmR0NxT2JBbEh1TnNnZ084XzNVcFBKXzBvWTRHb2cwQWFJbWhYV0ZLNFp5TGR4VDlxV1hldjVFUVRHTUxqdjU1bjRDMVcta2x5a1dDN1RnTE9MVFA0VWh6YUNXZEp3RUl2aEp0SjF5anJGNlZTbGtiaVZCajFOeWlJQUlleFU5cXBwcnpibzRDMF9NcFcxclE?oc=5",
+            "publishedAt": "2026-07-15T15:58+00:00"
           },
           {
             "title": "Aseptic Packaging Market Industry Landscape, Major Players, and Strategic Development Trends - EIN News",
@@ -732,7 +749,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-07-15T15:02+00:00",
+        "lastUpdated": "2026-07-16T15:15+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -744,8 +761,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-15T15:02+00:00",
-  "lastSuccessfulAt": "2026-07-15T15:02+00:00",
+  "lastAttemptedAt": "2026-07-16T15:15+00:00",
+  "lastSuccessfulAt": "2026-07-16T15:15+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

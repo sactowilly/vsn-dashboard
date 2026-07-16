@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T15:02+00:00",
+  "lastUpdated": "2026-07-16T15:15+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "9 km SE of Cloverdale, CA",
+      "region": "12 km N of Cabazon, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km ESE of Cloverdale, CA",
+      "region": "16 km S of Valle Vista, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km SW of Morongo Valley, CA",
+      "region": "47 km ESE of Naalehu, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of The Geysers, CA",
+      "region": "6 km E of Yucaipa, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "18 km SW of Pa\u2018auilo, Hawaii",
+      "region": "3 km SSE of Wofford Heights, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km ESE of Coso Junction, CA",
+      "region": "56 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "36 km WNW of Tatitlek, Alaska",
+      "region": "10 km NW of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km NNE of Indio, CA",
+      "region": "11 km NNW of Warner Springs, CA",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued July 15 at 3:38AM PDT until July 16 at 4:00AM PDT by NWS San Francisco CA",
-      "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline",
-      "severity": "Minor"
+      "type": "Fire Weather Watch issued July 16 at 4:46AM PDT until July 17 at 8:00PM PDT by NWS Medford OR",
+      "region": "Modoc County Except for the Surprise Valley; Klamath Basin and the Fremont-Winema National Forest",
+      "severity": "Severe"
     },
     {
-      "type": "Heat Advisory issued July 15 at 3:31AM PDT until July 16 at 11:00PM PDT by NWS Hanford CA",
-      "region": "Los Banos - Dos Palos; Merced - Madera - Mendota; Planada - Le Grand - Snelling; West Side of Fresno and Kings Counties; Caruthers - San Joaquin - Selma; Fresno-Clovis; Buttonwillow - Lost Hills - I5; Delano-Wasco-Shafter; Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley; Buena Vista; Bakersfield; Southeast San Joaquin Valley; South End San Joaquin Valley; Mariposa Madera Foothills; Fresno-Tulare Foothills; South End Sierra Foothills",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Beach Hazards Statement issued July 15 at 2:49AM PDT until July 16 at 12:00AM PDT by NWS San Diego CA",
+      "type": "Heat Advisory issued July 16 at 4:21AM PDT until July 16 at 8:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued July 15 at 1:53AM PDT until July 16 at 8:00PM PDT by NWS San Diego CA",
+      "type": "Extreme Heat Warning issued July 16 at 4:21AM PDT until July 16 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Bernardino and Riverside County Valleys-The Inland Empire; San Diego County Inland Valleys; San Bernardino County Mountains; Riverside County Mountains; Santa Ana Mountains and Foothills; San Diego County Mountains; San Gorgonio Pass Near Banning; Orange County Inland",
+      "severity": "Severe"
+    },
+    {
+      "type": "Extreme Heat Warning issued July 16 at 4:21AM PDT until July 16 at 8:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Deserts",
       "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-15T15:02+00:00",
-  "lastSuccessfulAt": "2026-07-15T15:02+00:00",
+  "lastAttemptedAt": "2026-07-16T15:15+00:00",
+  "lastSuccessfulAt": "2026-07-16T15:15+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
