@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T14:54+00:00",
+  "lastUpdated": "2026-07-17T19:36+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly market action + proxy",
   "whatChanged": "Containerboard +$50/ST is the operating market action; proxy moved +1.7 index points versus the prior published month.",
@@ -19,6 +19,21 @@
     "Use market action for pricing conversations; use proxy as directional context only."
   ],
   "currentDeltaIndex": 1.67,
+  "marketAction": {
+    "label": "Containerboard +$50/ST",
+    "market": "North American containerboard",
+    "effectiveDate": "2026-06",
+    "amount": 50,
+    "unit": "USD/ST",
+    "direction": "increase",
+    "source": "Packaging Dive / Fastmarkets RISI",
+    "sourceUrl": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/",
+    "confidence": "High",
+    "notes": [
+      "Fastmarkets RISI recognized a $50 per ton month-over-month North American containerboard price increase in June 2026.",
+      "This is the operational pricing signal mills and sheet plants use for corrugated pricing conversations."
+    ]
+  },
   "series": [
     {
       "date": "2025-07",
@@ -71,26 +86,11 @@
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-17T14:54+00:00",
-  "lastSuccessfulAt": "2026-07-17T14:54+00:00",
+  "lastAttemptedAt": "2026-07-17T19:36+00:00",
+  "lastSuccessfulAt": "2026-07-17T19:36+00:00",
   "sourceLimitations": [
     "Containerboard market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
     "This is not a supplier-specific quote and may not match every mill, sheet plant, grade, or customer contract.",
     "Monthly PPI data can lag current supplier quotes."
-  ],
-  "marketAction": {
-    "label": "Containerboard +$50/ST",
-    "market": "North American containerboard",
-    "effectiveDate": "2026-06",
-    "amount": 50,
-    "unit": "USD/ST",
-    "direction": "increase",
-    "source": "Packaging Dive / Fastmarkets RISI",
-    "sourceUrl": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/",
-    "confidence": "High",
-    "notes": [
-      "Fastmarkets RISI recognized a $50 per ton month-over-month North American containerboard price increase in June 2026.",
-      "This is the operational pricing signal mills and sheet plants use for corrugated pricing conversations."
-    ]
-  }
+  ]
 }

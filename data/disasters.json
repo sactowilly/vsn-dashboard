@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T14:54+00:00",
+  "lastUpdated": "2026-07-17T19:36+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,43 +19,48 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "3 km NW of The Geysers, CA",
+      "region": "11 km NNE of Nikiski, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km N of Moose Pass, Alaska",
+      "region": "63 km WNW of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "21 km SSE of P\u0101hala, Hawaii",
+      "region": "3 km S of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "25 km SW of Garden City, Texas",
+      "region": "12 km WSW of Salton City, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "170 km NE of Lospalos, Timor Leste",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "17 km WSW of Johannesburg, CA",
+      "region": "7 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km NW of Kirakira, Solomon Islands",
+      "region": "59 km S of Whites City, New Mexico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "67 km SW of Puerto Madero, Mexico",
       "severity": "High"
     },
     {
       "type": "Earthquake",
-      "region": "20 km SSW of Puebla, B.C., MX",
+      "region": "57 km W of Ninilchik, Alaska",
       "severity": "Low"
+    },
+    {
+      "type": "High Surf Advisory issued July 17 at 12:05PM PDT until July 21 at 11:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "severity": "Minor"
     },
     {
       "type": "Red Flag Warning issued July 17 at 1:44AM PDT until July 17 at 8:00PM PDT by NWS Medford OR",
@@ -70,8 +75,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-17T14:54+00:00",
-  "lastSuccessfulAt": "2026-07-17T14:54+00:00",
+  "lastAttemptedAt": "2026-07-17T19:36+00:00",
+  "lastSuccessfulAt": "2026-07-17T19:36+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

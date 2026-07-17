@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T14:54+00:00",
+  "lastUpdated": "2026-07-17T19:36+00:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "whatChanged": "Market indices refreshed from FRED daily series.",
@@ -101,8 +101,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-17T14:54+00:00",
-  "lastSuccessfulAt": "2026-07-17T14:54+00:00",
+  "lastAttemptedAt": "2026-07-17T19:36+00:00",
+  "lastSuccessfulAt": "2026-07-17T19:36+00:00",
   "sourceLimitations": [
     "FRED market series can lag live market quotes and should be treated as daily context, not intraday trading data."
   ]
