@@ -370,6 +370,13 @@ a:hover{text-decoration:underline}
   color:var(--muted);
   font-size:.78rem;
 }
+.signal-note{
+  display:block;
+  margin-top:4px;
+  color:var(--soft);
+  font-size:.8rem;
+  line-height:1.45;
+}
 .mini-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
 .tracked-grid{
   display:grid;
