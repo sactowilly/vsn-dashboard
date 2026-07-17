@@ -41,13 +41,20 @@ def direct_hiring_item(item, fallback_date: str = ""):
         "url": item.get("url", ""),
         "publishedAt": item.get("publishedAt") or item.get("date") or fallback_date,
     }
-    if is_generic_search_url(cleaned["url"]) or is_google_url(cleaned["url"]):
+    explicit_status = item.get("linkStatus", "")
+    if explicit_status == "listing_source_signal":
+        cleaned["linkStatus"] = explicit_status
+        if item.get("notes"):
+            cleaned["notes"] = item.get("notes", "")
+    elif is_generic_search_url(cleaned["url"]) or is_google_url(cleaned["url"]):
         cleaned["url"] = ""
         cleaned["linkStatus"] = "direct_job_link_unavailable"
     elif cleaned["url"]:
         cleaned["linkStatus"] = "direct_job_link"
     else:
-        cleaned["linkStatus"] = item.get("linkStatus", "direct_job_link_unavailable")
+        cleaned["linkStatus"] = explicit_status or "direct_job_link_unavailable"
+        if item.get("notes"):
+            cleaned["notes"] = item.get("notes", "")
     return cleaned
 
 def google_news_items(query: str, limit: int = 3):

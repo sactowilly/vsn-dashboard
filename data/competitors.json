@@ -736,6 +736,62 @@
       }
     },
     {
+      "name": "Alliance Packaging",
+      "city": "Sacramento, CA",
+      "category": "Corrugated / Packaging Distribution",
+      "priority": "High",
+      "notes": "Local Sacramento packaging-sales overlap; monitor direct sales hiring and custom corrugated account targeting.",
+      "website": "https://www.alliancepackaging.net/",
+      "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
+      "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
+      "signals": {
+        "lastUpdated": "2026-07-17T19:36+00:00",
+        "news": [],
+        "hiring": [
+          {
+            "title": "Sales Representative, Packaging - Sacramento, CA",
+            "source": "Indeed / SimplyHired listing-source signal",
+            "url": "https://www.indeed.com/q-packaging-sales-l-citrus-heights%2C-ca-jobs.html",
+            "publishedAt": "2026-07-17T00:00+00:00",
+            "linkStatus": "listing_source_signal",
+            "notes": "Public listing pages surfaced Alliance Packaging, a division of Inventory Management Inc., seeking a Sacramento packaging sales representative. A stable direct job-ad URL was not available from the public listing source."
+          }
+        ],
+        "moves": [],
+        "items": [],
+        "query": "\"Alliance Packaging\" Sacramento \"Sales Representative, Packaging\"",
+        "categoryContext": "Corrugated / Packaging Distribution"
+      }
+    },
+    {
+      "name": "Ernest",
+      "city": "Sacramento, CA",
+      "category": "Packaging Distribution",
+      "priority": "High",
+      "notes": "Direct local outside-sales overlap; hiring signals can indicate Sacramento account acquisition pressure.",
+      "website": "https://www.ernestpackaging.com/",
+      "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
+      "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
+      "signals": {
+        "lastUpdated": "2026-07-17T19:36+00:00",
+        "news": [],
+        "hiring": [
+          {
+            "title": "Territory Sales Representative (Outside B2B Sales) - Sacramento, CA",
+            "source": "LinkedIn Jobs",
+            "url": "https://www.linkedin.com/jobs/view/territory-sales-representative-outside-b2b-sales-at-ernest-4431403171",
+            "publishedAt": "2026-07-16T00:00+00:00",
+            "linkStatus": "direct_job_link",
+            "notes": "LinkedIn job page lists Ernest in Sacramento for outside B2B packaging sales."
+          }
+        ],
+        "moves": [],
+        "items": [],
+        "query": "\"Ernest\" \"Territory Sales Representative\" Sacramento packaging",
+        "categoryContext": "Packaging Distribution"
+      }
+    },
+    {
       "name": "Bennett Packaging",
       "city": "California",
       "category": "Packaging Distribution",

@@ -189,13 +189,13 @@ function dateLabel(dateLike) {
 }
 
 function stampInfo(dateLike) {
-  if (!dateLike) return { text: "👎 No data timestamp", tone: "bad" };
+  if (!dateLike) return { text: "\u{1F44E} No data timestamp", tone: "bad" };
   const ageDays = (Date.now() - new Date(dateLike).getTime()) / 86400000;
-  if (Number.isNaN(ageDays)) return { text: "👎 Invalid timestamp", tone: "bad" };
+  if (Number.isNaN(ageDays)) return { text: "\u{1F44E} Invalid timestamp", tone: "bad" };
   const label = fmt(dateLike, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
-  if (ageDays < 1) return { text: `👍 Updated today, ${label}`, tone: "good" };
-  if (ageDays <= 30) return { text: `⚠ Updated ${label}`, tone: "caution" };
-  return { text: `👎 Updated ${label}`, tone: "bad" };
+  if (ageDays < 1) return { text: `\u{1F44D} Updated today, ${label}`, tone: "good" };
+  if (ageDays <= 30) return { text: `\u26A0\uFE0F Updated ${label}`, tone: "caution" };
+  return { text: `\u{1F44E} Updated ${label}`, tone: "bad" };
 }
 
 function signalTitle(item) {
@@ -214,14 +214,19 @@ function signalItemHtml(item, fallbackUrl = "") {
   const title = signalTitle(item);
   const url = signalUrl(item, fallbackUrl);
   const date = signalDate(item);
-  const source = typeof item === "object" && item?.source ? ` · ${item.source}` : "";
-  const linkStatus = typeof item === "object" && item?.linkStatus === "direct_job_link_unavailable"
-    ? " · direct job link unavailable"
+  const source = typeof item === "object" && item?.source ? ` | ${item.source}` : "";
+  const statusText = typeof item === "object" && item?.linkStatus === "direct_job_link_unavailable"
+    ? " | direct job link unavailable"
+    : typeof item === "object" && item?.linkStatus === "listing_source_signal"
+      ? " | listing-source signal"
+      : "";
+  const note = typeof item === "object" && item?.notes
+    ? `<span class="signal-note">${esc(item.notes)}</span>`
     : "";
   const linked = url
     ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(title)}</a>`
     : esc(title);
-  return `<li>${linked}<span class="signal-meta">${esc(dateLabel(date))}${esc(source)}${esc(linkStatus)}</span></li>`;
+  return `<li>${linked}<span class="signal-meta">${esc(dateLabel(date))}${esc(source)}${esc(statusText)}</span>${note}</li>`;
 }
 
 function showToast(message) {
