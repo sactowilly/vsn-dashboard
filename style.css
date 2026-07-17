@@ -377,6 +377,20 @@ a:hover{text-decoration:underline}
   font-size:.8rem;
   line-height:1.45;
 }
+.playbook-box{
+  border-color:rgba(96,165,250,.3);
+  background:linear-gradient(135deg,rgba(30,64,175,.22),rgba(15,23,42,.7));
+}
+.playbook-list{
+  display:grid;
+  gap:8px;
+  margin:0;
+  padding-left:18px;
+}
+.playbook-list li{
+  color:var(--soft);
+  line-height:1.5;
+}
 .mini-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
 .tracked-grid{
   display:grid;
