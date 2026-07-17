@@ -88,6 +88,16 @@ function signedNum(value, digits = 1) {
   return `${sign}${Number(value).toFixed(digits)}`;
 }
 
+function marketActionLabel(action) {
+  if (!action) return "";
+  if (action.label) return action.label;
+  if (action.amount == null || !action.unit) return action.market || "Market action";
+  const abs = Math.abs(Number(action.amount));
+  const sign = Number(action.amount) > 0 ? "+" : Number(action.amount) < 0 ? "-" : "";
+  const value = action.unit === "USD/lb" ? `$${abs.toFixed(2)}/lb` : action.unit === "USD/ST" ? `$${abs.toFixed(0)}/ST` : `${abs} ${action.unit}`;
+  return `${action.market || "Market"} ${sign}${value}`;
+}
+
 function percentChange(current, previous) {
   if (current == null || previous == null || Number(previous) === 0) return null;
   return ((Number(current) - Number(previous)) / Number(previous)) * 100;
@@ -385,14 +395,18 @@ function buildCards() {
   const pulpDelta = pLast.value != null && pPrev.value != null ? Number(pLast.value) - Number(pPrev.value) : null;
   const pulpTon = pulp.currentDeltaTon != null ? Number(pulp.currentDeltaTon) : null;
   const pulpProxyDelta = pulp.currentDeltaIndex != null ? Number(pulp.currentDeltaIndex) : pulpDelta;
-  const pulpRisk = Math.abs(pulpTon || 0) >= 40 || Math.abs(pulpProxyDelta || 0) >= 1 ? "medium" : "low";
+  const pulpAction = pulp.marketAction || null;
+  const pulpActionAmount = pulpAction?.amount != null ? Number(pulpAction.amount) : null;
+  const pulpRisk = Math.abs(pulpActionAmount || 0) >= 40 || Math.abs(pulpTon || 0) >= 40 || Math.abs(pulpProxyDelta || 0) >= 1 ? "medium" : "low";
 
   const resin = state.data.resin || {};
   const rSeries = resin.series || [];
   const rLast = latest(rSeries);
   const rPrev = previous(rSeries);
   const resinDelta = rLast.value != null && rPrev.value != null ? Number(rLast.value) - Number(rPrev.value) : null;
-  const resinRisk = Math.abs(resinDelta || 0) >= 1 ? "medium" : "low";
+  const resinAction = resin.marketAction || null;
+  const resinActionAmount = resinAction?.amount != null ? Number(resinAction.amount) : null;
+  const resinRisk = Math.abs(resinActionAmount || 0) >= 0.05 || Math.abs(resinDelta || 0) >= 1 ? "medium" : "low";
 
   const gas = state.data.gasCurrent || {};
   const gasHistory = state.data.gasHistory || {};
@@ -541,19 +555,21 @@ function buildCards() {
     },
     {
       id: "pulp",
-      title: "Pulp Market",
+      title: "Pulp & Paperboard Market",
       risk: pulpRisk,
-      value: pLast.value != null ? `Index ${num(pLast.value, 1)}` : pulpTon == null ? "Unavailable" : pulpTon > 0 ? `Up ${money(Math.abs(pulpTon))}/ton` : pulpTon < 0 ? `Down ${money(Math.abs(pulpTon))}/ton` : "Flat",
-      secondary: `Proxy move ${signedNum(pulpProxyDelta, 1)} pts`,
-      subtext: `${trendWord(pulpProxyDelta, 0.05)} ${signedNum(pulpProxyDelta, 1)} index pts vs prior period`,
+      value: pulpAction ? marketActionLabel(pulpAction) : pLast.value != null ? `Index ${num(pLast.value, 1)}` : pulpTon == null ? "Unavailable" : pulpTon > 0 ? `Up ${money(Math.abs(pulpTon))}/ton` : pulpTon < 0 ? `Down ${money(Math.abs(pulpTon))}/ton` : "Flat",
+      secondary: `Proxy ${signedNum(pulpProxyDelta, 1)} pts | ${pLast.date || "latest"}`,
+      subtext: pulpAction ? `${pulpAction.market || "Market action"} effective ${pulpAction.effectiveDate || "latest period"}` : `${trendWord(pulpProxyDelta, 0.05)} ${signedNum(pulpProxyDelta, 1)} index pts vs prior period`,
       freshness: pulp.freshness || "Monthly",
-      executiveRead: `The pulp proxy index is ${num(pLast.value, 1)}. This is a directional proxy, not a paid spot pulp price.`,
+      executiveRead: pulpAction
+        ? `${marketActionLabel(pulpAction)} is the current operating signal. The FRED pulp/paper proxy is ${num(pLast.value, 1)}, up ${signedNum(pulpProxyDelta, 1)} index points.`
+        : `The pulp proxy index is ${num(pLast.value, 1)}. This is a directional proxy, not a paid spot pulp price.`,
       recommendedAction: pulpRisk === "medium"
         ? "Prepare account teams for firmer corrugated pricing conversations and protect margin on longer-running quotes."
         : "Keep pulp in the pricing watchlist, but no immediate corrugated escalation is indicated by the proxy.",
-      history: `The proxy index moved ${signedNum(pulpProxyDelta, 1)} points versus the prior published period.`,
-      why: "Pulp and fiber direction can support or weaken corrugated pricing pressure from large paper and box suppliers.",
-      use: "Use this tile when deciding whether to hold quote expirations short, recheck supplier costs, or pre-brief sales on price movement.",
+      history: pulpAction ? `${pulpAction.source || "Market reporting"}: ${pulpAction.notes?.[0] || marketActionLabel(pulpAction)} FRED proxy moved ${signedNum(pulpProxyDelta, 1)} points versus the prior month.` : `The proxy index moved ${signedNum(pulpProxyDelta, 1)} points versus the prior published period.`,
+      why: "Containerboard pricing is the number mills and sheet plants use to drive corrugated sheet and box pricing; the proxy index is only supporting context.",
+      use: "Use this tile when deciding whether to hold quote expirations short, recheck supplier costs, or pre-brief sales on containerboard-driven price movement.",
       chart: buildLineChartFromSeries(pSeries, [{ key: "value", label: "Pulp proxy" }], "Pulp proxy trend"),
       links: pulp.sourceLinks || []
     },
@@ -561,17 +577,19 @@ function buildCards() {
       id: "resin",
       title: "Resin Market",
       risk: resinRisk,
-      value: rLast.value != null ? num(rLast.value, 1) : "Unavailable",
-      secondary: `${trendWord(resinDelta, 0.05)} ${signedNum(resinDelta, 1)} pts`,
-      subtext: "Stretch film, poly, and resin-linked packaging signal",
+      value: resinAction ? marketActionLabel(resinAction) : rLast.value != null ? num(rLast.value, 1) : "Unavailable",
+      secondary: `Proxy ${signedNum(resinDelta, 1)} pts | ${rLast.date || "latest"}`,
+      subtext: resinAction ? `${resinAction.market || "Market action"} effective ${resinAction.effectiveDate || "latest period"}` : "Stretch film, poly, and resin-linked packaging signal",
       freshness: resin.freshness || "Monthly",
-      executiveRead: `The resin proxy is ${num(rLast.value, 1)} for ${rLast.date || "the latest period"}.`,
+      executiveRead: resinAction
+        ? `${marketActionLabel(resinAction)} is the current operating signal for resin-linked packaging. The FRED resin proxy is ${num(rLast.value, 1)}, ${trendWord(resinDelta, 0.05)} ${signedNum(resinDelta, 1)} index points.`
+        : `The resin proxy is ${num(rLast.value, 1)} for ${rLast.date || "the latest period"}.`,
       recommendedAction: resinRisk === "medium"
-        ? "Recheck resin-linked product margins and flag accounts with large stretch-film or poly exposure."
+        ? "Recheck resin-linked product margins and flag accounts with large stretch-film, poly, or other resin-linked exposure."
         : "Maintain normal resin-linked pricing posture while watching for a sharper monthly move.",
-      history: `The resin proxy moved ${signedNum(resinDelta, 1)} points versus the prior published period.`,
-      why: "Resin direction matters for stretch film, poly bags, and other plastic packaging conversations.",
-      use: "Use this as a monthly prompt to review resin-sensitive SKU margins and supplier replacement costs.",
+      history: resinAction ? `${resinAction.source || "Market reporting"}: ${resinAction.notes?.[0] || marketActionLabel(resinAction)} FRED proxy moved ${signedNum(resinDelta, 1)} points versus the prior month.` : `The resin proxy moved ${signedNum(resinDelta, 1)} points versus the prior published period.`,
+      why: "Resin market moves flow into stretch film, poly bags, strapping, and other plastic packaging costs faster than broad PPI proxy data.",
+      use: "Use this as a monthly prompt to review resin-sensitive SKU margins, supplier replacement costs, and customer price-change timing.",
       chart: buildLineChartFromSeries(rSeries, [{ key: "value", label: "Resin proxy" }], "Resin proxy trend"),
       links: resin.sourceLinks || []
     },

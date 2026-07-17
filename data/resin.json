@@ -1,17 +1,22 @@
 {
   "lastUpdated": "2026-07-17T14:54+00:00",
   "sourceStrength": "High",
-  "freshness": "Monthly proxy",
-  "whatChanged": "Resin/Plastics Proxy moved -9.2 index points versus the prior published month.",
+  "freshness": "Monthly market action + proxy",
+  "whatChanged": "PE resin -$0.15/lb is the operating market action; proxy moved -9.2 index points versus the prior published month.",
   "sourceLinks": [
     {
       "label": "FRED Plastics Material and Resin Manufacturing PPI",
       "url": "https://fred.stlouisfed.org/series/PCU325211325211"
+    },
+    {
+      "label": "Plastics News / PlasticsToday",
+      "url": "https://www.plasticstoday.com/resin-pricing/resin-price-report-resin-buyers-face-closing-window-on-pricing-leverage"
     }
   ],
   "notes": [
-    "Refreshed from FRED Plastics Material and Resin Manufacturing PPI.",
-    "Use as directional pricing context only."
+    "Market action curated from Plastics News / PlasticsToday.",
+    "Proxy refreshed from FRED Plastics Material and Resin Manufacturing PPI.",
+    "Use market action for pricing conversations; use proxy as directional context only."
   ],
   "currentDeltaIndex": -9.22,
   "series": [
@@ -69,7 +74,23 @@
   "lastAttemptedAt": "2026-07-17T14:54+00:00",
   "lastSuccessfulAt": "2026-07-17T14:54+00:00",
   "sourceLimitations": [
-    "This is a FRED/BLS PPI proxy, not paid-grade spot resin pricing.",
+    "Resin market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
+    "Resin pricing varies by polymer, grade, supplier, contract, and spot-versus-contract market.",
     "Monthly PPI data can lag current supplier quotes."
-  ]
+  ],
+  "marketAction": {
+    "label": "PE resin -$0.15/lb",
+    "market": "North American polyethylene resin",
+    "effectiveDate": "2026-06",
+    "amount": -0.15,
+    "unit": "USD/lb",
+    "direction": "decrease",
+    "source": "Plastics News / PlasticsToday",
+    "sourceUrl": "https://www.plasticstoday.com/resin-pricing/resin-price-report-resin-buyers-face-closing-window-on-pricing-leverage",
+    "confidence": "Medium",
+    "notes": [
+      "Public resin reporting points to June/July PE and PP relief after inventory builds and weaker demand.",
+      "Plastics News public social reporting cited North American PE resin prices down $0.15/lb in June; PlasticsToday reported PE moving down double-digit cents per pound and no July increase initiatives."
+    ]
+  }
 }
