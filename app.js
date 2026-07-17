@@ -314,6 +314,22 @@ function box(title, body, className = "") {
   return `<section class="box ${esc(className)}"><h3>${esc(title)}</h3>${body}</section>`;
 }
 
+function ownershipLensHtml(card) {
+  const lens = card.ownershipLens || {};
+  const rows = [
+    ["Decision question", lens.question],
+    ["Trigger", lens.trigger],
+    ["Owner move", lens.move]
+  ].filter(([, value]) => value);
+  if (!rows.length) return "";
+  return box("Ownership Decision Lens",
+    `<div class="quality-grid compact ownership-grid">` +
+    rows.map(([label, value]) => `<div><span>${esc(label)}</span><strong>${esc(value)}</strong></div>`).join("") +
+    `</div>`,
+    "decision-box"
+  );
+}
+
 function paragraphList(items) {
   const usable = (items || []).filter(Boolean);
   if (!usable.length) return `<p>Unavailable.</p>`;
@@ -463,6 +479,11 @@ function buildCards() {
       recommendedAction: unemploymentRisk === "medium"
         ? "Review staffing plans and customer-demand assumptions; a local labor softening signal can pressure discretionary packaging demand."
         : "Keep hiring and customer demand assumptions steady; no immediate labor-market escalation is visible in the published data.",
+      ownershipLens: {
+        question: "Is local demand softening enough to change staffing, credit, or sales focus?",
+        trigger: "Escalate if Sacramento unemployment rises more than 0.2 pts month over month or moves above California.",
+        move: "Ask sales leaders which customer segments are slowing orders before changing capacity assumptions."
+      },
       history: `The latest month moved ${signedNum(unemploymentDelta, 1)} percentage points versus the prior published Sacramento reading.`,
       why: "Regional labor conditions influence production activity, local customer health, and the pressure customers may feel on purchasing decisions.",
       use: "Use this as a demand-temperature signal when reviewing pipeline quality, credit exposure, and staffing plans for local accounts.",
@@ -485,6 +506,11 @@ function buildCards() {
       recommendedAction: Number(fLast.value) >= 5
         ? "Keep margin discipline tight on longer quotes and financing-sensitive accounts."
         : "Use rates as context, but do not over-weight this tile unless customer financing or inventory behavior changes.",
+      ownershipLens: {
+        question: "Should quote validity, credit terms, or inventory bets tighten because capital is expensive?",
+        trigger: "Escalate when fed funds are at or above 5% or when direction changes after a long pause.",
+        move: "Review long-dated quotes and payment exposure for customers carrying inventory or financing growth."
+      },
       history: fedDelta === 0 ? "The latest published point is unchanged from the prior observation." : `The latest point changed ${signedNum(fedDelta, 2)} percentage points.`,
       why: "Rates shape borrowing conditions, capital spending, inventory behavior, and confidence among packaging buyers.",
       use: "Use this tile to frame pricing patience, large-account terms, and demand risk in rate-sensitive verticals.",
@@ -503,6 +529,11 @@ function buildCards() {
       recommendedAction: vixRisk === "high"
         ? "Flag customer demand and payment-risk conversations; high VIX often coincides with cautious purchasing behavior."
         : "Treat market tone as supporting context only; no direct operational action is required from this tile alone.",
+      ownershipLens: {
+        question: "Is broader market stress likely to slow customer buying or increase payment risk?",
+        trigger: "Escalate if VIX moves above 20, and treat 30+ as a management-review signal.",
+        move: "Pressure-test pipeline, receivables, and large customer timing assumptions in the next sales review."
+      },
       history: stocks.whatChanged || "No market history is published in the current JSON, so this tile is a point-in-time sentiment read.",
       why: "Markets and volatility are not direct packaging inputs, but they help explain management confidence and buyer caution.",
       use: "Use this as an executive context tile when discussing pipeline risk, quote timing, and large customer sentiment.",
@@ -521,6 +552,11 @@ function buildCards() {
       recommendedAction: severeEvents.length
         ? "Check affected freight corridors, supplier lead times, and customers near the severe-event regions before promising tight delivery windows."
         : "Keep normal logistics assumptions, while monitoring the event list for any California corridor escalation.",
+      ownershipLens: {
+        question: "Could an event interrupt inbound material, outbound delivery, utilities, or customer receiving?",
+        trigger: "Escalate any severe/high event touching California, West Coast ports, major freight lanes, or key suppliers.",
+        move: "Have operations confirm routes, lead times, and backup suppliers before making expedited commitments."
+      },
       history: disasters.whatChanged || "This event-card tile reflects the latest mirrored alerts rather than a long historical series.",
       why: "Natural disasters matter when they interrupt ports, highways, utilities, supplier operations, or customer receiving capacity.",
       use: "Use this panel in daily ops review before committing expedited deliveries or supplier-dependent timelines.",
@@ -543,6 +579,11 @@ function buildCards() {
       recommendedAction: laborActions.length
         ? "Review whether any action touches logistics, manufacturing, ports, or key customers before locking delivery commitments."
         : "No immediate labor escalation is published; continue routine monitoring.",
+      ownershipLens: {
+        question: "Could a labor action constrain a customer, supplier, warehouse, port, or freight lane?",
+        trigger: "Escalate when two or more relevant actions are active or any action touches logistics/manufacturing.",
+        move: "Assign one owner to verify customer/supplier exposure and update delivery promises if risk is real."
+      },
       history: labor.whatChanged || "The current labor dataset is starter/manual until additional live refresh jobs are added.",
       why: "Labor actions can disrupt freight, customer production schedules, and the reliability of warehouse or manufacturing operations.",
       use: "Use this to prompt supplier/customer check-ins when logistics or manufacturing sectors appear in the action list.",
@@ -567,6 +608,11 @@ function buildCards() {
       recommendedAction: pulpRisk === "medium"
         ? "Prepare account teams for firmer corrugated pricing conversations and protect margin on longer-running quotes."
         : "Keep pulp in the pricing watchlist, but no immediate corrugated escalation is indicated by the proxy.",
+      ownershipLens: {
+        question: "Do containerboard economics require quote, margin, or supplier-cost action now?",
+        trigger: "Escalate any recognized containerboard move of $40/ST or more, especially +$50/ST mill/sheet-plant actions.",
+        move: "Shorten quote windows, review corrugated-heavy accounts, and pre-brief sales on pass-through timing."
+      },
       history: pulpAction ? `${pulpAction.source || "Market reporting"}: ${pulpAction.notes?.[0] || marketActionLabel(pulpAction)} FRED proxy moved ${signedNum(pulpProxyDelta, 1)} points versus the prior month.` : `The proxy index moved ${signedNum(pulpProxyDelta, 1)} points versus the prior published period.`,
       why: "Containerboard pricing is the number mills and sheet plants use to drive corrugated sheet and box pricing; the proxy index is only supporting context.",
       use: "Use this tile when deciding whether to hold quote expirations short, recheck supplier costs, or pre-brief sales on containerboard-driven price movement.",
@@ -587,6 +633,11 @@ function buildCards() {
       recommendedAction: resinRisk === "medium"
         ? "Recheck resin-linked product margins and flag accounts with large stretch-film, poly, or other resin-linked exposure."
         : "Maintain normal resin-linked pricing posture while watching for a sharper monthly move.",
+      ownershipLens: {
+        question: "Should resin-linked SKUs be repriced, protected, or used as a margin opportunity?",
+        trigger: "Escalate resin moves of $0.05/lb or more, up or down, because film/poly costs can reset quickly.",
+        move: "Review stretch film, poly bag, and resin-linked SKU margins against supplier replacement cost."
+      },
       history: resinAction ? `${resinAction.source || "Market reporting"}: ${resinAction.notes?.[0] || marketActionLabel(resinAction)} FRED proxy moved ${signedNum(resinDelta, 1)} points versus the prior month.` : `The resin proxy moved ${signedNum(resinDelta, 1)} points versus the prior published period.`,
       why: "Resin market moves flow into stretch film, poly bags, strapping, and other plastic packaging costs faster than broad PPI proxy data.",
       use: "Use this as a monthly prompt to review resin-sensitive SKU margins, supplier replacement costs, and customer price-change timing.",
@@ -609,6 +660,11 @@ function buildCards() {
         : gasRisk === "medium"
           ? "Watch freight-sensitive quotes and consider shorter validity windows if the move persists."
           : "Fuel is not flashing an immediate escalation signal, but keep it visible for logistics and delivery pricing.",
+      ownershipLens: {
+        question: "Do delivery, freight, or surcharge assumptions need to change this week?",
+        trigger: "Escalate if Sacramento gas or diesel moves 2%+ weekly; treat 5%+ as immediate surcharge review.",
+        move: "Review route density, expedited freight exposure, and delivery-charge assumptions before quoting."
+      },
       history: `Sacramento gas moved ${signedPct(sacGasDelta)} versus a week ago; Sacramento diesel moved ${signedPct(sacDieselDelta)}. California gas moved ${signedPct(caGasDelta)} and California diesel moved ${signedPct(caDieselDelta)}. EIA weekly California backup moved gas ${signedPct(eiaCaGasDelta)} and diesel ${signedPct(eiaCaDieselDelta)} when available.`,
       why: "Fuel is one of the clearest operating-cost indicators for local delivery, inbound supplier freight, and customer logistics sensitivity.",
       use: "Use this tile for delivery-charge review, route planning, and deciding when freight-sensitive quotes need updated assumptions.",
@@ -636,6 +692,11 @@ function buildCards() {
       recommendedAction: competitorSignalCount
         ? "Assign owner follow-up for high-priority accounts touched by competitor hiring, regional moves, or relevant news."
         : "Keep the tracked list current; no active competitive moves are published right now.",
+      ownershipLens: {
+        question: "Which accounts or territories need defensive action because competitors are hiring, expanding, or signaling focus?",
+        trigger: "Escalate any direct local hiring, expansion, acquisition, or pricing signal from a high-priority competitor.",
+        move: "Assign account owners to verify overlap, prepare talk tracks, and update competitor watchlist relevance."
+      },
       history: competitors.whatChanged || "Competitor tracking is curated in the published JSON and should be treated as manual intelligence.",
       why: "Competitor hiring and operating moves can indicate price pressure, territory focus, service investments, or account-targeting risk.",
       use: "Use this tile for sales meeting prep, account-defense planning, and deciding where to refresh competitive positioning.",
@@ -676,6 +737,11 @@ function buildCards() {
       recommendedAction: stories.length
         ? "Use the story list to brief sales on pricing narratives, sustainability themes, and customer talking points."
         : "No action until current packaging news is published.",
+      ownershipLens: {
+        question: "Is there a market narrative sales should use with customers this week?",
+        trigger: "Escalate medium/high impact stories tied to pricing, sustainability, capacity, freight, or regulation.",
+        move: "Turn the top story into a customer-ready talking point and decide whether it changes quote posture."
+      },
       history: news.whatChanged || "The news dataset is starter/manual in this phase unless the published JSON is refreshed upstream.",
       why: "Industry news helps translate material-price moves and market changes into customer-ready talking points.",
       use: "Use this panel before customer meetings to connect market context to practical packaging recommendations.",
@@ -779,6 +845,7 @@ function openDetail(id) {
     `<div class="chips detail-chip-row">${chip(card.freshness)}${chip(titleCase(freshnessInfo(card.id).sourceType))}${chip(titleCase(freshnessInfo(card.id).refreshStatus), freshnessInfo(card.id).qualityGroup === "current" ? "ok" : freshnessInfo(card.id).qualityGroup === "failed" || freshnessInfo(card.id).qualityGroup === "stale" ? "warn" : "limited")}</div>` +
     box("Executive Read", `<p>${esc(card.executiveRead)}</p>`, "hero-box") +
     box("Recommended Action", `<p>${esc(card.recommendedAction)}</p>`, "action-box") +
+    ownershipLensHtml(card) +
     chartHtml +
     box("Why This Matters", `<p>${esc(card.why)}</p>`) +
     box("How Vision Packaging Can Use This", `<p>${esc(card.use)}</p>`) +
