@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T15:15+00:00",
+  "lastUpdated": "2026-07-17T14:54+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -28,10 +28,24 @@
       "impact": "Low"
     },
     {
+      "title": "International Paper to Close Carrollton South, Texas Packaging Facility - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHYwaFlubFdTZjdNeUgza1BWdFhTX1dJbkhTSDl6bE9VQ2doR1hXekRoX21mMWN6ZzNEb2x1U1c1WG1vYXh1dDhKOVZvUGlGZVhsc1lySkg3Rm9GVkhWZUZuRDFMNFU2MDY2VUFJd1F6VFhLY0t2RnBLRFVXZHQxM2JFdDY3VXFwN1BMdWF6TjY2N01ILW0zbXNqeW42UnNfRTNuT1JCZkYycDAzNnFLX3dzWWg4R21VWmpZOW5xSmZZNk5m?oc=5",
+      "publishedAt": "2026-07-16T13:15+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "3 Packaging Stocks Poised to Weather Industry Challenges - Yahoo Finance",
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFZwSURFQ3VXWDA3dDh0bUhoYkFxX3Q3eEdSRVIzb3pTNHEyRjdYSmpqRFlsYVVsZHdjQVNzV3EwTWRPMF9iY2k4bklwOTNEMUVPWXFBRnpWRXJ4ckNrZ3dWdVdfeDN4aTRYc1RVQzB6a2Y2ZGVaVUVzT3k4X3lkWVhJcWtGNzlHLWtPaTRRQUNTSUJkVDhHckpnbkdlSEU?oc=5",
       "publishedAt": "2026-07-07T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Reuse gets another shot as regulators take aim at packaging waste - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTJiTWl4eThCWmJzRjhBTEVleGZGMGpaVTZZSlZGZ1llZnoycU5qejdCdy1RYVVhV1RGNmxQWFl6eER6YzR2VHBIdEowZlVpVjFMdEZVOER4U3QxMDEycEkwWjRJZ0szTVo2dm5FU25WbGlSTlFrdzRRU2ZMb3VWeGR1NUhJVjA5MDREdThITF92LWdMNmhOZENwR1pWNTdfVEtIc1FxaF9rS01xLTZfTVJTSXdGdDhKOHdWT1hReGFHZnlYdmhpQWhtbE9JNEdyajFZMS1FUUtqQQ?oc=5",
+      "publishedAt": "2026-07-14T13:53+00:00",
       "impact": "Low"
     },
     {
@@ -42,11 +56,11 @@
       "impact": "Low"
     },
     {
-      "title": "Cleveland Kitchen Launches Recycled Packaging - PlasticsToday",
-      "source": "PlasticsToday",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUNISXRvLUEtRU84NkNGdllvT2V1VDBvUXlMOTJBUk5MVU9JM2dQYlZuc3BGSTM3OTdBaW9iWHk0SFNBTzI0YkdDV0lRcmI3dC1sMHE1RnZmaHJfc0E1eTlmb3BHWkFBdEVkMGF6YldRWmx1Mkt0VHpQUFh0bktHRDF4Vnlsa0FpNFFpZE1SRGNrNUNzakFUaGJfZFVMenQxRy1IWGNZSFpwTEk?oc=5",
-      "publishedAt": "2026-07-08T12:28+00:00",
-      "impact": "Low"
+      "title": "A \u2018renovation to packaging\u2019 at General Mills - Plastics News",
+      "source": "Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFUwZkRkQlIyTktEQlAxNnNwckd4WDVfRm83WmJxckVEQWRwM0JOUEVwS0k3REQxYW9BMjg5cm1XR0lhOWcyMkJjdkNfR3pVdk52c3RBSFVGbzlhaHVROFFqNS1KVXp5R2luRmJvaHpjM0FZY1J0amxrQWhKM09DZnlwR1J6RHBZTm42UWNodS1yVFRXTE5VZXMtdUEyal9QS3p2WWFraW1mQ3h5a1htTmxSZw?oc=5",
+      "publishedAt": "2026-07-13T11:45+00:00",
+      "impact": "High"
     },
     {
       "title": "Packaging EPR goes on trial - Packaging Dive",
@@ -54,26 +68,12 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDY0Z2JSU09MOFdEal9sZDUxd2ZlVHBIbWJ2WDAycGlSN2VXTjRiOTUwZmNWLXZIdXo5LUtDZjlRdzRvU2xYLUZ4aElmb1RKajhhLVctdUYxT21XdGFvWGpfeWV5QkhpbHkzbFR0amZlX0VHOU9QcV9feXFyNE1nREJyMS1adERobkY1Rg?oc=5",
       "publishedAt": "2026-07-07T07:00+00:00",
       "impact": "Medium"
-    },
-    {
-      "title": "/C O R R E C T I O N -- Graphic Packaging Holding Company/ - PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGZONnhxUmpVSl9jeUhmVmxIcDZsbDlTU2JTSUwzUnVWcWZMb0xrdk54VWhrUDBjc21SaEYyaVg1T0dITklVSzQ2dTAtMFhsOWRZUGZZWS1rU2o5MTVmcTZNSVVqSEduTVkxVV93ZzdLWnB4MGM4SkFaQXRvVl82N0NkN3BzQ25VMUlpTDhGekUzY0IxNjlrdHpmR3BCNUhQY1IwRDZwT051U241Q3BGd3A2ejZobHJ6YXZPQWdWaDlxNHRrVFdXRFZXcURoYU5ERzRFYm1iRHJBS0d5NDMtMTJRX2k0LUE?oc=5",
-      "publishedAt": "2026-07-13T19:46+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Key California law on \u2018recyclable\u2019 packaging symbols is blocked by federal judge - Los Angeles Times",
-      "source": "Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUM4MkN4dllINm00a20zV1JEa2JlZExLdnhzMHNLMVdBNDhJRDFfTWEwZU1EN2o5WDdUUmhMLWpHdklQXzJKQWtzRmJFeU4wYU56ZUsyZEpZVmdwdERxdm54WUM3Yjg0cUNfWDRyUzdOS2VwcGJjcVJZckdZUU43ZnhOdFl3Q0xVdGlrNHJKNmQyclV0VlNDQVU1UFZpdGxhZDItVG9DNFNSQ2VTOWU2bTVJajRWb0JuUG1WbTZjMVo?oc=5",
-      "publishedAt": "2026-07-15T19:25+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-16T15:15+00:00",
-  "lastSuccessfulAt": "2026-07-16T15:15+00:00",
+  "lastAttemptedAt": "2026-07-17T14:54+00:00",
+  "lastSuccessfulAt": "2026-07-17T14:54+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

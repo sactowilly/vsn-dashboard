@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T15:15+00:00",
+  "lastUpdated": "2026-07-17T14:54+00:00",
   "sourceStrength": "High",
   "freshness": "Weekly backup/context",
   "sourceLinks": [
@@ -75,8 +75,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-16T15:15+00:00",
-  "lastSuccessfulAt": "2026-07-16T15:15+00:00",
+  "lastAttemptedAt": "2026-07-17T14:54+00:00",
+  "lastSuccessfulAt": "2026-07-17T14:54+00:00",
   "sourceLimitations": [
     "EIA California weekly prices are not Sacramento metro prices; they are backup/context for the Sacramento-first AAA view."
   ]

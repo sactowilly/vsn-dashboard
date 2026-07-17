@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T15:15+00:00",
+  "lastUpdated": "2026-07-17T14:54+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,59 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "12 km N of Cabazon, CA",
+      "region": "3 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km S of Valle Vista, CA",
+      "region": "19 km N of Moose Pass, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "47 km ESE of Naalehu, Hawaii",
+      "region": "21 km SSE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km E of Yucaipa, CA",
+      "region": "25 km SW of Garden City, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SSE of Wofford Heights, CA",
+      "region": "170 km NE of Lospalos, Timor Leste",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "17 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "56 km NW of Toyah, Texas",
-      "severity": "Low"
+      "region": "16 km NW of Kirakira, Solomon Islands",
+      "severity": "High"
     },
     {
       "type": "Earthquake",
-      "region": "10 km NW of Pinnacles, CA",
+      "region": "20 km SSW of Puebla, B.C., MX",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "11 km NNW of Warner Springs, CA",
-      "severity": "Low"
+      "type": "Red Flag Warning issued July 17 at 1:44AM PDT until July 17 at 8:00PM PDT by NWS Medford OR",
+      "region": "Central Siskiyou County Including Shasta Valley; Siskiyou County from the Cascade Mountains East and South to Mt Shasta",
+      "severity": "Severe"
     },
     {
-      "type": "Fire Weather Watch issued July 16 at 4:46AM PDT until July 17 at 8:00PM PDT by NWS Medford OR",
+      "type": "Red Flag Warning issued July 17 at 1:44AM PDT until July 17 at 8:00PM PDT by NWS Medford OR",
       "region": "Modoc County Except for the Surprise Valley; Klamath Basin and the Fremont-Winema National Forest",
-      "severity": "Severe"
-    },
-    {
-      "type": "Heat Advisory issued July 16 at 4:21AM PDT until July 16 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Extreme Heat Warning issued July 16 at 4:21AM PDT until July 16 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino and Riverside County Valleys-The Inland Empire; San Diego County Inland Valleys; San Bernardino County Mountains; Riverside County Mountains; Santa Ana Mountains and Foothills; San Diego County Mountains; San Gorgonio Pass Near Banning; Orange County Inland",
-      "severity": "Severe"
-    },
-    {
-      "type": "Extreme Heat Warning issued July 16 at 4:21AM PDT until July 16 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Deserts",
       "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-16T15:15+00:00",
-  "lastSuccessfulAt": "2026-07-16T15:15+00:00",
+  "lastAttemptedAt": "2026-07-17T14:54+00:00",
+  "lastSuccessfulAt": "2026-07-17T14:54+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
