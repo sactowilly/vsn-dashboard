@@ -335,6 +335,17 @@ function ownershipLensHtml(card) {
   );
 }
 
+function playbookHtml(card) {
+  const items = card.playbook || [];
+  if (!items.length) return "";
+  return box("Operating Playbook",
+    `<ul class="playbook-list">` +
+    items.map(item => `<li>${esc(item)}</li>`).join("") +
+    `</ul>`,
+    "playbook-box"
+  );
+}
+
 function paragraphList(items) {
   const usable = (items || []).filter(Boolean);
   if (!usable.length) return `<p>Unavailable.</p>`;
@@ -489,6 +500,11 @@ function buildCards() {
         trigger: "Escalate if Sacramento unemployment rises more than 0.2 pts month over month or moves above California.",
         move: "Ask sales leaders which customer segments are slowing orders before changing capacity assumptions."
       },
+      playbook: [
+        "Ask sales whether order pacing has changed in locally exposed accounts before changing staffing assumptions.",
+        "Compare Sacramento against California and U.S. readings; one local move is a warning, two moves make it a management topic.",
+        "Use monthly unless the trigger fires, then review pipeline, receivables, and staffing exposure in the next ownership meeting."
+      ],
       history: `The latest month moved ${signedNum(unemploymentDelta, 1)} percentage points versus the prior published Sacramento reading.`,
       why: "Regional labor conditions influence production activity, local customer health, and the pressure customers may feel on purchasing decisions.",
       use: "Use this as a demand-temperature signal when reviewing pipeline quality, credit exposure, and staffing plans for local accounts.",
@@ -516,6 +532,11 @@ function buildCards() {
         trigger: "Escalate when fed funds are at or above 5% or when direction changes after a long pause.",
         move: "Review long-dated quotes and payment exposure for customers carrying inventory or financing growth."
       },
+      playbook: [
+        "Review quote windows for large jobs, custom items, and accounts with slow payment patterns.",
+        "Use rate pressure as context for customer cash behavior, not as a standalone reason to change pricing.",
+        "If rates move after a long pause, ask finance whether credit limits or terms need a temporary review."
+      ],
       history: fedDelta === 0 ? "The latest published point is unchanged from the prior observation." : `The latest point changed ${signedNum(fedDelta, 2)} percentage points.`,
       why: "Rates shape borrowing conditions, capital spending, inventory behavior, and confidence among packaging buyers.",
       use: "Use this tile to frame pricing patience, large-account terms, and demand risk in rate-sensitive verticals.",
@@ -539,6 +560,11 @@ function buildCards() {
         trigger: "Escalate if VIX moves above 20, and treat 30+ as a management-review signal.",
         move: "Pressure-test pipeline, receivables, and large customer timing assumptions in the next sales review."
       },
+      playbook: [
+        "Use VIX as a buyer-confidence signal; pair it with actual order timing before changing forecasts.",
+        "If volatility rises, ask whether big customers are delaying launches, inventory buys, or capital projects.",
+        "Check receivables and large open quotes when market stress moves from medium to high."
+      ],
       history: stocks.whatChanged || "No market history is published in the current JSON, so this tile is a point-in-time sentiment read.",
       why: "Markets and volatility are not direct packaging inputs, but they help explain management confidence and buyer caution.",
       use: "Use this as an executive context tile when discussing pipeline risk, quote timing, and large customer sentiment.",
@@ -562,6 +588,11 @@ function buildCards() {
         trigger: "Escalate any severe/high event touching California, West Coast ports, major freight lanes, or key suppliers.",
         move: "Have operations confirm routes, lead times, and backup suppliers before making expedited commitments."
       },
+      playbook: [
+        "For severe events, identify affected lanes, suppliers, and customer receiving locations before promising tight delivery.",
+        "Ask operations whether alternate routing or alternate supplier coverage is already available.",
+        "Keep normal assumptions only when no event touches California, West Coast ports, key freight corridors, or critical suppliers."
+      ],
       history: disasters.whatChanged || "This event-card tile reflects the latest mirrored alerts rather than a long historical series.",
       why: "Natural disasters matter when they interrupt ports, highways, utilities, supplier operations, or customer receiving capacity.",
       use: "Use this panel in daily ops review before committing expedited deliveries or supplier-dependent timelines.",
@@ -589,6 +620,11 @@ function buildCards() {
         trigger: "Escalate when two or more relevant actions are active or any action touches logistics/manufacturing.",
         move: "Assign one owner to verify customer/supplier exposure and update delivery promises if risk is real."
       },
+      playbook: [
+        "Map each action to a practical exposure: supplier, customer plant, port, warehouse, or freight lane.",
+        "Do not change delivery promises from the headline alone; verify geography and sector first.",
+        "If two or more relevant actions are active, ask ops and sales to name the customers most likely to feel impact."
+      ],
       history: labor.whatChanged || "The current labor dataset is starter/manual until additional live refresh jobs are added.",
       why: "Labor actions can disrupt freight, customer production schedules, and the reliability of warehouse or manufacturing operations.",
       use: "Use this to prompt supplier/customer check-ins when logistics or manufacturing sectors appear in the action list.",
@@ -618,6 +654,11 @@ function buildCards() {
         trigger: "Escalate any recognized containerboard move of $40/ST or more, especially +$50/ST mill/sheet-plant actions.",
         move: "Shorten quote windows, review corrugated-heavy accounts, and pre-brief sales on pass-through timing."
       },
+      playbook: [
+        "Lead pricing conversations with the containerboard market action, not the proxy index.",
+        "Ask purchasing which sheet plants or mills have confirmed the move and whether grade/customer exceptions apply.",
+        "Review corrugated-heavy quotes, long validity windows, and margin exposure before the next sales meeting."
+      ],
       history: pulpAction ? `${pulpAction.source || "Market reporting"}: ${pulpAction.notes?.[0] || marketActionLabel(pulpAction)} FRED proxy moved ${signedNum(pulpProxyDelta, 1)} points versus the prior month.` : `The proxy index moved ${signedNum(pulpProxyDelta, 1)} points versus the prior published period.`,
       why: "Containerboard pricing is the number mills and sheet plants use to drive corrugated sheet and box pricing; the proxy index is only supporting context.",
       use: "Use this tile when deciding whether to hold quote expirations short, recheck supplier costs, or pre-brief sales on containerboard-driven price movement.",
@@ -643,6 +684,11 @@ function buildCards() {
         trigger: "Escalate resin moves of $0.05/lb or more, up or down, because film/poly costs can reset quickly.",
         move: "Review stretch film, poly bag, and resin-linked SKU margins against supplier replacement cost."
       },
+      playbook: [
+        "Start with the resin market action for film/poly decisions; use the public proxy only to confirm direction.",
+        "Ask suppliers which polymers, grades, and contract structures are affected before changing customer pricing.",
+        "Review stretch film, poly bags, strapping, and resin-linked SKUs for margin risk or buying opportunity."
+      ],
       history: resinAction ? `${resinAction.source || "Market reporting"}: ${resinAction.notes?.[0] || marketActionLabel(resinAction)} FRED proxy moved ${signedNum(resinDelta, 1)} points versus the prior month.` : `The resin proxy moved ${signedNum(resinDelta, 1)} points versus the prior published period.`,
       why: "Resin market moves flow into stretch film, poly bags, strapping, and other plastic packaging costs faster than broad PPI proxy data.",
       use: "Use this as a monthly prompt to review resin-sensitive SKU margins, supplier replacement costs, and customer price-change timing.",
@@ -670,6 +716,11 @@ function buildCards() {
         trigger: "Escalate if Sacramento gas or diesel moves 2%+ weekly; treat 5%+ as immediate surcharge review.",
         move: "Review route density, expedited freight exposure, and delivery-charge assumptions before quoting."
       },
+      playbook: [
+        "Use Sacramento prices for local delivery decisions; use California and EIA values only as backup context.",
+        "Ask ops whether route density, expedited freight, or customer delivery expectations changed with the fuel move.",
+        "If fuel moves 2%+ weekly, review surcharge language and freight-sensitive quote validity before issuing large quotes."
+      ],
       history: `Sacramento gas moved ${signedPct(sacGasDelta)} versus a week ago; Sacramento diesel moved ${signedPct(sacDieselDelta)}. California gas moved ${signedPct(caGasDelta)} and California diesel moved ${signedPct(caDieselDelta)}. EIA weekly California backup moved gas ${signedPct(eiaCaGasDelta)} and diesel ${signedPct(eiaCaDieselDelta)} when available.`,
       why: "Fuel is one of the clearest operating-cost indicators for local delivery, inbound supplier freight, and customer logistics sensitivity.",
       use: "Use this tile for delivery-charge review, route planning, and deciding when freight-sensitive quotes need updated assumptions.",
@@ -702,6 +753,11 @@ function buildCards() {
         trigger: "Escalate any direct local hiring, expansion, acquisition, or pricing signal from a high-priority competitor.",
         move: "Assign account owners to verify overlap, prepare talk tracks, and update competitor watchlist relevance."
       },
+      playbook: [
+        "Treat direct local hiring as an account-defense signal: identify overlapping accounts and active prospects.",
+        "Separate direct job ads from listing-source signals before escalating; the flyout labels the link quality.",
+        "Ask sales to assign an owner for each high-priority competitor signal and record whether it affects pricing, service, or territory focus."
+      ],
       history: competitors.whatChanged || "Competitor tracking is curated in the published JSON and should be treated as manual intelligence.",
       why: "Competitor hiring and operating moves can indicate price pressure, territory focus, service investments, or account-targeting risk.",
       use: "Use this tile for sales meeting prep, account-defense planning, and deciding where to refresh competitive positioning.",
@@ -747,6 +803,11 @@ function buildCards() {
         trigger: "Escalate medium/high impact stories tied to pricing, sustainability, capacity, freight, or regulation.",
         move: "Turn the top story into a customer-ready talking point and decide whether it changes quote posture."
       },
+      playbook: [
+        "Translate the top story into a customer-facing talking point before the next sales huddle.",
+        "Escalate stories tied to pricing, regulation, sustainability, capacity, or freight because they can change buying urgency.",
+        "Ask whether the story changes quote posture, customer education, or which products should be positioned first."
+      ],
       history: news.whatChanged || "The news dataset is starter/manual in this phase unless the published JSON is refreshed upstream.",
       why: "Industry news helps translate material-price moves and market changes into customer-ready talking points.",
       use: "Use this panel before customer meetings to connect market context to practical packaging recommendations.",
@@ -852,6 +913,7 @@ function openDetail(id) {
     box("Recommended Action", `<p>${esc(card.recommendedAction)}</p>`, "action-box") +
     ownershipLensHtml(card) +
     chartHtml +
+    playbookHtml(card) +
     box("Why This Matters", `<p>${esc(card.why)}</p>`) +
     box("How Vision Packaging Can Use This", `<p>${esc(card.use)}</p>`) +
     (card.extraHtml || "") +
