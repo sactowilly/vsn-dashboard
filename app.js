@@ -188,6 +188,10 @@ function dateLabel(dateLike) {
   return fmt(dateLike, { month: "short", day: "numeric", year: "numeric" });
 }
 
+function wordCount(value) {
+  return String(value || "").trim().split(/\s+/).filter(Boolean).length;
+}
+
 function stampInfo(dateLike) {
   if (!dateLike) return { text: "\u{1F44E} No data timestamp", tone: "bad" };
   const ageDays = (Date.now() - new Date(dateLike).getTime()) / 86400000;
@@ -565,7 +569,7 @@ function buildCards() {
         "If volatility rises, ask whether big customers are delaying launches, inventory buys, or capital projects.",
         "Check receivables and large open quotes when market stress moves from medium to high."
       ],
-      history: stocks.whatChanged || "No market history is published in the current JSON, so this tile is a point-in-time sentiment read.",
+      history: wordCount(stocks.whatChanged) >= 8 ? stocks.whatChanged : `The current VIX reading is ${num(sLast.vix, 1)}. Use the trend chart to compare the latest volatility level against the published series; higher volatility usually means customer confidence and payment timing deserve closer review.`,
       why: "Markets and volatility are not direct packaging inputs, but they help explain management confidence and buyer caution.",
       use: "Use this as an executive context tile when discussing pipeline risk, quote timing, and large customer sentiment.",
       chart: buildLineChartFromSeries(sSeries, [{ key: "vix", label: "VIX" }], "Market volatility trend"),
