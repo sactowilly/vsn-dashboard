@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T19:36+00:00",
+  "lastUpdated": "2026-07-20T15:23+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -35,10 +35,10 @@
       "impact": "Low"
     },
     {
-      "title": "International Paper to Close Carrollton South, Texas Packaging Facility - PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHYwaFlubFdTZjdNeUgza1BWdFhTX1dJbkhTSDl6bE9VQ2doR1hXekRoX21mMWN6ZzNEb2x1U1c1WG1vYXh1dDhKOVZvUGlGZVhsc1lySkg3Rm9GVkhWZUZuRDFMNFU2MDY2VUFJd1F6VFhLY0t2RnBLRFVXZHQxM2JFdDY3VXFwN1BMdWF6TjY2N01ILW0zbXNqeW42UnNfRTNuT1JCZkYycDAzNnFLX3dzWWg4R21VWmpZOW5xSmZZNk5m?oc=5",
-      "publishedAt": "2026-07-16T13:15+00:00",
+      "title": "Reuse gets another shot as regulators take aim at packaging waste - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTJiTWl4eThCWmJzRjhBTEVleGZGMGpaVTZZSlZGZ1llZnoycU5qejdCdy1RYVVhV1RGNmxQWFl6eER6YzR2VHBIdEowZlVpVjFMdEZVOER4U3QxMDEycEkwWjRJZ0szTVo2dm5FU25WbGlSTlFrdzRRU2ZMb3VWeGR1NUhJVjA5MDREdThITF92LWdMNmhOZENwR1pWNTdfVEtIc1FxaF9rS01xLTZfTVJTSXdGdDhKOHdWT1hReGFHZnlYdmhpQWhtbE9JNEdyajFZMS1FUUtqQQ?oc=5",
+      "publishedAt": "2026-07-14T13:53+00:00",
       "impact": "Low"
     },
     {
@@ -49,10 +49,17 @@
       "impact": "Low"
     },
     {
-      "title": "Reuse gets another shot as regulators take aim at packaging waste - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTJiTWl4eThCWmJzRjhBTEVleGZGMGpaVTZZSlZGZ1llZnoycU5qejdCdy1RYVVhV1RGNmxQWFl6eER6YzR2VHBIdEowZlVpVjFMdEZVOER4U3QxMDEycEkwWjRJZ0szTVo2dm5FU25WbGlSTlFrdzRRU2ZMb3VWeGR1NUhJVjA5MDREdThITF92LWdMNmhOZENwR1pWNTdfVEtIc1FxaF9rS01xLTZfTVJTSXdGdDhKOHdWT1hReGFHZnlYdmhpQWhtbE9JNEdyajFZMS1FUUtqQQ?oc=5",
-      "publishedAt": "2026-07-14T13:53+00:00",
+      "title": "International Paper to Close Carrollton South, Texas Packaging Facility - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHYwaFlubFdTZjdNeUgza1BWdFhTX1dJbkhTSDl6bE9VQ2doR1hXekRoX21mMWN6ZzNEb2x1U1c1WG1vYXh1dDhKOVZvUGlGZVhsc1lySkg3Rm9GVkhWZUZuRDFMNFU2MDY2VUFJd1F6VFhLY0t2RnBLRFVXZHQxM2JFdDY3VXFwN1BMdWF6TjY2N01ILW0zbXNqeW42UnNfRTNuT1JCZkYycDAzNnFLX3dzWWg4R21VWmpZOW5xSmZZNk5m?oc=5",
+      "publishedAt": "2026-07-16T13:15+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Island nations call for packaging redesign to curb ocean plastic - Packaging Insights",
+      "source": "Packaging Insights",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXJSX2lDcnl0Ym0tRDVqX0pPSHBmakNlU2NRdVJfczJZRnZtbDJqNG0zbnE4WkMweGRaMjRDTF8zUHpSelRCMWtmSDVvcVRWcTRSMmJQUHJ3eFZlczNOd1c0U3djY3NuRnBrdzRIeEdqT2lpRnhpMTBheDNrYVJocEUxdHVxYXpDc084bg?oc=5",
+      "publishedAt": "2026-07-17T09:15+00:00",
       "impact": "Low"
     },
     {
@@ -61,19 +68,12 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFUwZkRkQlIyTktEQlAxNnNwckd4WDVfRm83WmJxckVEQWRwM0JOUEVwS0k3REQxYW9BMjg5cm1XR0lhOWcyMkJjdkNfR3pVdk52c3RBSFVGbzlhaHVROFFqNS1KVXp5R2luRmJvaHpjM0FZY1J0amxrQWhKM09DZnlwR1J6RHBZTm42UWNodS1yVFRXTE5VZXMtdUEyal9QS3p2WWFraW1mQ3h5a1htTmxSZw?oc=5",
       "publishedAt": "2026-07-13T11:45+00:00",
       "impact": "High"
-    },
-    {
-      "title": "Packaging EPR goes on trial - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDY0Z2JSU09MOFdEal9sZDUxd2ZlVHBIbWJ2WDAycGlSN2VXTjRiOTUwZmNWLXZIdXo5LUtDZjlRdzRvU2xYLUZ4aElmb1RKajhhLVctdUYxT21XdGFvWGpfeWV5QkhpbHkzbFR0amZlX0VHOU9QcV9feXFyNE1nREJyMS1adERobkY1Rg?oc=5",
-      "publishedAt": "2026-07-07T07:00+00:00",
-      "impact": "Medium"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-17T19:36+00:00",
-  "lastSuccessfulAt": "2026-07-17T19:36+00:00",
+  "lastAttemptedAt": "2026-07-20T15:23+00:00",
+  "lastSuccessfulAt": "2026-07-20T15:23+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

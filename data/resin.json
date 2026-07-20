@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T19:36+00:00",
+  "lastUpdated": "2026-07-20T15:23+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly market action + proxy",
   "whatChanged": "PE resin -$0.15/lb is the operating market action; proxy moved -9.2 index points versus the prior published month.",
@@ -86,8 +86,8 @@
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-17T19:36+00:00",
-  "lastSuccessfulAt": "2026-07-17T19:36+00:00",
+  "lastAttemptedAt": "2026-07-20T15:23+00:00",
+  "lastSuccessfulAt": "2026-07-20T15:23+00:00",
   "sourceLimitations": [
     "Resin market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
     "Resin pricing varies by polymer, grade, supplier, contract, and spot-versus-contract market.",

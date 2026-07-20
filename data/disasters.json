@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T19:36+00:00",
+  "lastUpdated": "2026-07-20T15:23+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,64 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "11 km NNE of Nikiski, Alaska",
+      "region": "28 km ESE of Kernville, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "63 km WNW of Anchor Point, Alaska",
+      "region": "17 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km S of P\u0101hala, Hawaii",
+      "region": "5 km SE of Ontario, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km WSW of Salton City, CA",
+      "region": "7 km NNE of Susitna, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km WNW of Cobb, CA",
+      "region": "55 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "59 km S of Whites City, New Mexico",
+      "region": "27 km ENE of Pine Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "67 km SW of Puerto Madero, Mexico",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "57 km W of Ninilchik, Alaska",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "High Surf Advisory issued July 17 at 12:05PM PDT until July 21 at 11:00PM PDT by NWS San Diego CA",
+      "type": "Earthquake",
+      "region": "1 km SW of Gu\u00e1nica, Puerto Rico",
+      "severity": "Low"
+    },
+    {
+      "type": "Flood Watch issued July 20 at 3:27AM PDT until July 20 at 11:00PM PDT by NWS Reno NV",
+      "region": "Mono; Mineral and Southern Lyon Counties",
+      "severity": "Severe"
+    },
+    {
+      "type": "High Surf Advisory issued July 20 at 2:34AM PDT until July 21 at 11:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Minor"
     },
     {
-      "type": "Red Flag Warning issued July 17 at 1:44AM PDT until July 17 at 8:00PM PDT by NWS Medford OR",
-      "region": "Central Siskiyou County Including Shasta Valley; Siskiyou County from the Cascade Mountains East and South to Mt Shasta",
-      "severity": "Severe"
+      "type": "Beach Hazards Statement issued July 19 at 6:43PM PDT until July 21 at 5:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
+      "severity": "Moderate"
     },
     {
-      "type": "Red Flag Warning issued July 17 at 1:44AM PDT until July 17 at 8:00PM PDT by NWS Medford OR",
-      "region": "Modoc County Except for the Surprise Valley; Klamath Basin and the Fremont-Winema National Forest",
-      "severity": "Severe"
+      "type": "High Surf Advisory issued July 19 at 6:43PM PDT until July 21 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
+      "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-17T19:36+00:00",
-  "lastSuccessfulAt": "2026-07-17T19:36+00:00",
+  "lastAttemptedAt": "2026-07-20T15:23+00:00",
+  "lastSuccessfulAt": "2026-07-20T15:23+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
