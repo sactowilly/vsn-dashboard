@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T15:23+00:00",
+  "lastUpdated": "2026-07-21T15:19+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "28 km ESE of Kernville, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "17 km WSW of Johannesburg, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "5 km SE of Ontario, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "7 km NNE of Susitna, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "55 km S of Whites City, New Mexico",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "27 km ENE of Pine Valley, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
       "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km SW of Gu\u00e1nica, Puerto Rico",
+      "region": "7 km SSE of Idyllwild, CA",
       "severity": "Low"
     },
     {
-      "type": "Flood Watch issued July 20 at 3:27AM PDT until July 20 at 11:00PM PDT by NWS Reno NV",
-      "region": "Mono; Mineral and Southern Lyon Counties",
+      "type": "Earthquake",
+      "region": "14 km WSW of Stanton, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "1 km ENE of The Geysers, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "13 km E of Willow Creek, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "5 km WSW of Westbrook, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "33 km SSE of Malaga, New Mexico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "13 km WSW of Stanton, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Extreme Heat Watch issued July 21 at 3:02AM PDT until July 27 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Apple and Lucerne Valleys",
       "severity": "Severe"
     },
     {
-      "type": "High Surf Advisory issued July 20 at 2:34AM PDT until July 21 at 11:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Minor"
-    },
-    {
-      "type": "Beach Hazards Statement issued July 19 at 6:43PM PDT until July 21 at 5:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
+      "type": "Heat Advisory issued July 21 at 3:02AM PDT until July 27 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
       "severity": "Moderate"
     },
     {
-      "type": "High Surf Advisory issued July 19 at 6:43PM PDT until July 21 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
-      "severity": "Minor"
+      "type": "Extreme Heat Watch issued July 21 at 3:02AM PDT until July 27 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
+      "severity": "Severe"
+    },
+    {
+      "type": "Heat Advisory issued July 21 at 3:02AM PDT until July 27 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Bernardino County Mountains; Riverside County Mountains; San Diego County Mountains",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-20T15:23+00:00",
-  "lastSuccessfulAt": "2026-07-20T15:23+00:00",
+  "lastAttemptedAt": "2026-07-21T15:19+00:00",
+  "lastSuccessfulAt": "2026-07-21T15:19+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

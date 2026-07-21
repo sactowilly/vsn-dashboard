@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T15:23+00:00",
+  "lastUpdated": "2026-07-21T15:19+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly market action + proxy",
   "whatChanged": "Containerboard +$50/ST is the operating market action; proxy moved +1.7 index points versus the prior published month.",
@@ -86,8 +86,8 @@
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-20T15:23+00:00",
-  "lastSuccessfulAt": "2026-07-20T15:23+00:00",
+  "lastAttemptedAt": "2026-07-21T15:19+00:00",
+  "lastSuccessfulAt": "2026-07-21T15:19+00:00",
   "sourceLimitations": [
     "Containerboard market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
     "This is not a supplier-specific quote and may not match every mill, sheet plant, grade, or customer contract.",
