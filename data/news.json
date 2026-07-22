@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T15:19+00:00",
+  "lastUpdated": "2026-07-22T15:18+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -18,13 +18,6 @@
       "source": "joint-research-centre.ec.europa.eu",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVQyWXZpbUdkT3hadVBka19BeUFHbXVrSGI5RWVMbWF0dEpXbUluNV9MMHFrSmZhUWJnQk15elNXNWZxb1JjaUlaMG9QcjJyZ2hLMllnRm14bEJVdlo5ZXdaQ3RmZWNBaWRpZHFLYkI2SzRuVXBmNWc3UzAxUGdfQWlwNV8tSk01V3NfUHYyNnFIWE1XZWFBWHVpWjUtVW0zMExyVXIyMlgxUlVIYVJsVE9nVWVJY0ZGT0RublUtUlM2R3JWalA4SEdaZjljcHFhRlhfUWpWTXJrYjU1?oc=5",
       "publishedAt": "2026-07-06T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "17 states and trade group sue California over plastics packaging law - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXo1UDRTR01Md1JlVFJFQURZOE5fckRZajFNTVNoV3laMXFfaXd3cmZHNUlTR1NQWmxWcjg0UThkbi03UDBZcXJTOUZVSHFKS3NYb2pZYW9VLVVrVmtCMmhzZ3NJOTZIT01UeUoyNDRlSXBIV2tqaXpjRGJYSUJWODBjemJKSXB2a05kWFdWaC0xSjZ4cVBhU2IzMjUzbjV4a1VBM3dSc1FFUlVuczBERw?oc=5",
-      "publishedAt": "2026-06-23T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -56,6 +49,13 @@
       "impact": "Low"
     },
     {
+      "title": "3 ways Amazon is evolving packaging materials, formats and systems - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0kwRkFveGk2eTVBWlpWdDg4OG1IQks3OW8wbHNYaDVtOV9ON3liZmJzTlk2dWtfampDdEl1dFd3c3hvaTNkMmc3YnZfc1FRNXZMdExSZXRRd3l1T3lXbXdza2RQT18tekhxRHI3ZkNMVEFhNXNsaGRfVThkazN1TW54RWotUWdVc3A4NE1rUQ?oc=5",
+      "publishedAt": "2026-07-17T16:10+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "Island nations call for packaging redesign to curb ocean plastic - Packaging Insights",
       "source": "Packaging Insights",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXJSX2lDcnl0Ym0tRDVqX0pPSHBmakNlU2NRdVJfczJZRnZtbDJqNG0zbnE4WkMweGRaMjRDTF8zUHpSelRCMWtmSDVvcVRWcTRSMmJQUHJ3eFZlczNOd1c0U3djY3NuRnBrdzRIeEdqT2lpRnhpMTBheDNrYVJocEUxdHVxYXpDc084bg?oc=5",
@@ -63,17 +63,17 @@
       "impact": "Low"
     },
     {
-      "title": "3 ways Amazon is evolving packaging materials, formats and systems - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0kwRkFveGk2eTVBWlpWdDg4OG1IQks3OW8wbHNYaDVtOV9ON3liZmJzTlk2dWtfampDdEl1dFd3c3hvaTNkMmc3YnZfc1FRNXZMdExSZXRRd3l1T3lXbXdza2RQT18tekhxRHI3ZkNMVEFhNXNsaGRfVThkazN1TW54RWotUWdVc3A4NE1rUQ?oc=5",
-      "publishedAt": "2026-07-17T16:10+00:00",
-      "impact": "Low"
+      "title": "A \u2018renovation to packaging\u2019 at General Mills - Plastics News",
+      "source": "Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFUwZkRkQlIyTktEQlAxNnNwckd4WDVfRm83WmJxckVEQWRwM0JOUEVwS0k3REQxYW9BMjg5cm1XR0lhOWcyMkJjdkNfR3pVdk52c3RBSFVGbzlhaHVROFFqNS1KVXp5R2luRmJvaHpjM0FZY1J0amxrQWhKM09DZnlwR1J6RHBZTm42UWNodS1yVFRXTE5VZXMtdUEyal9QS3p2WWFraW1mQ3h5a1htTmxSZw?oc=5",
+      "publishedAt": "2026-07-13T11:45+00:00",
+      "impact": "High"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-21T15:19+00:00",
-  "lastSuccessfulAt": "2026-07-21T15:19+00:00",
+  "lastAttemptedAt": "2026-07-22T15:18+00:00",
+  "lastSuccessfulAt": "2026-07-22T15:18+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

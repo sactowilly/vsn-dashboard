@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T15:19+00:00",
+  "lastUpdated": "2026-07-22T15:18+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
+      "region": "21 km NW of Beluga, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "0 km W of Gu\u00e1nica, Puerto Rico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "27 km SSW of Mammoth, Wyoming",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "15 km W of Round Valley, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "10 km SSE of P\u0101hala, Hawaii",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
       "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km SSE of Idyllwild, CA",
+      "region": "7 km E of Calimesa, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km WSW of Stanton, Texas",
+      "region": "12 km E of Aguanga, CA",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "1 km ENE of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "13 km E of Willow Creek, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "5 km WSW of Westbrook, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "33 km SSE of Malaga, New Mexico",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "13 km WSW of Stanton, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Extreme Heat Watch issued July 21 at 3:02AM PDT until July 27 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Apple and Lucerne Valleys",
+      "type": "Extreme Heat Warning issued July 22 at 4:35AM PDT until July 27 at 8:00PM PDT by NWS Las Vegas NV",
+      "region": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Northwest Deserts; Death Valley National Park; Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
       "severity": "Severe"
     },
     {
-      "type": "Heat Advisory issued July 21 at 3:02AM PDT until July 27 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
+      "type": "Heat Advisory issued July 22 at 2:58AM PDT until July 23 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southeastern Coast",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Watch issued July 21 at 3:02AM PDT until July 27 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
-      "severity": "Severe"
+      "type": "Heat Advisory issued July 22 at 2:58AM PDT until July 23 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southwestern Coast",
+      "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued July 21 at 3:02AM PDT until July 27 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino County Mountains; Riverside County Mountains; San Diego County Mountains",
+      "type": "Heat Advisory issued July 22 at 2:58AM PDT until July 27 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Ventura County Inland Coast; Los Angeles County Inland Coast including Downtown Los Angeles",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-21T15:19+00:00",
-  "lastSuccessfulAt": "2026-07-21T15:19+00:00",
+  "lastAttemptedAt": "2026-07-22T15:18+00:00",
+  "lastSuccessfulAt": "2026-07-22T15:18+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
