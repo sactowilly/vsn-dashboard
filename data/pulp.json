@@ -11,6 +11,26 @@
     {
       "label": "Packaging Dive / Fastmarkets RISI",
       "url": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/"
+    },
+    {
+      "label": "Fastmarkets",
+      "url": "https://www.fastmarkets.com/insights/ip-is-second-out-with-70-per-ton-north-american-linerboard-price-increase-effective-march-1/"
+    },
+    {
+      "label": "Packaging Dive",
+      "url": "https://www.packagingdive.com/news/containerboard-price-increases-june-2026-supply-demand/819166/"
+    },
+    {
+      "label": "International Paper",
+      "url": "https://www.internationalpaper.com/recycling/locations/west-sacramento-recycling"
+    },
+    {
+      "label": "Pratt Industries",
+      "url": "https://www.prattindustries.com/locations-packaging-manufacturing/"
+    },
+    {
+      "label": "Pratt Industries",
+      "url": "https://www.prattindustries.com/custom-packaging-solutions-agriculture/"
     }
   ],
   "notes": [
@@ -34,6 +54,85 @@
       "This is the operational pricing signal mills and sheet plants use for corrugated pricing conversations."
     ]
   },
+  "plainRead": "Paper costs are up. The number to watch is containerboard +$50 per short ton in June 2026. That is the number mills and sheet plants use in corrugated pricing conversations.",
+  "analysis": "The public record shows a choppy 2026: down $20/ST in February, then up $40/ST in March, up $30/ST in April, flat in May, and up $50/ST in June. Packaging Dive reported the net recognized increase for 2026 at $100/ST. International Paper and Pratt both joined the 2026 increase cycle, so California buyers should verify which suppliers are passing the move through, when it starts, and whether any customer-specific exceptions apply.",
+  "marketHistory": [
+    {
+      "period": "2026-02",
+      "label": "Containerboard index decrease",
+      "amount": -20,
+      "unit": "USD/ST",
+      "source": "Packaging Dive / Fastmarkets RISI",
+      "sourceUrl": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/",
+      "notes": "Fastmarkets RISI recognized a February decrease before later 2026 increases."
+    },
+    {
+      "period": "2026-03",
+      "label": "Containerboard index increase",
+      "amount": 40,
+      "unit": "USD/ST",
+      "source": "Packaging Dive / Fastmarkets RISI",
+      "sourceUrl": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/",
+      "notes": "March moved higher as producers pushed a new increase cycle."
+    },
+    {
+      "period": "2026-04",
+      "label": "Containerboard index increase",
+      "amount": 30,
+      "unit": "USD/ST",
+      "source": "Packaging Dive / Fastmarkets RISI",
+      "sourceUrl": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/",
+      "notes": "April added to the recovery after the February decline."
+    },
+    {
+      "period": "2026-05",
+      "label": "Containerboard index flat",
+      "amount": 0,
+      "unit": "USD/ST",
+      "source": "Packaging Dive / Fastmarkets RISI",
+      "sourceUrl": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/",
+      "notes": "May was reported flat before the June increase."
+    },
+    {
+      "period": "2026-06",
+      "label": "Containerboard index increase",
+      "amount": 50,
+      "unit": "USD/ST",
+      "source": "Packaging Dive / Fastmarkets RISI",
+      "sourceUrl": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/",
+      "notes": "June recognized a $50/ST month-over-month containerboard increase."
+    }
+  ],
+  "companyActions": [
+    {
+      "company": "International Paper",
+      "californiaRelevance": "West Sacramento recycling facility handles cardboard/OCC and other recovered materials; pricing action is North American, not a California-only public price letter.",
+      "action": "Announced a $70/ST North American linerboard and corrugating medium increase effective March 1, 2026; public reporting also lists IP among producers announcing June 2026 increases.",
+      "source": "Fastmarkets; Packaging Dive; International Paper",
+      "sourceUrls": [
+        "https://www.fastmarkets.com/insights/ip-is-second-out-with-70-per-ton-north-american-linerboard-price-increase-effective-march-1/",
+        "https://www.packagingdive.com/news/containerboard-price-increases-june-2026-supply-demand/819166/",
+        "https://www.internationalpaper.com/recycling/locations/west-sacramento-recycling"
+      ]
+    },
+    {
+      "company": "Pratt Industries",
+      "californiaRelevance": "Pratt lists California operations including Lathrop corrugating, Salinas converting, and Stockton retail specialties.",
+      "action": "Packaging Dive reported Pratt announced a $50/ST June 2026 containerboard increase. Pratt also describes itself as vertically integrated, which can affect how it manages board supply and customer timing.",
+      "source": "Packaging Dive; Pratt Industries",
+      "sourceUrls": [
+        "https://www.packagingdive.com/news/containerboard-price-increases-june-2026-supply-demand/819166/",
+        "https://www.prattindustries.com/locations-packaging-manufacturing/",
+        "https://www.prattindustries.com/custom-packaging-solutions-agriculture/"
+      ]
+    }
+  ],
+  "researchFindings": [
+    "BLS PPI measures average selling prices received by domestic producers. It is useful for direction, but it is not a supplier quote.",
+    "FRED WPU0911 is a monthly national pulp/paper PPI proxy. It supports trend context; containerboard market action remains the operating number for corrugated decisions.",
+    "Public reporting says only a small open-market share is captured by index moves; contracts, geography, freight, grade, and customer mix can change the actual price paid.",
+    "No public California-only International Paper or Pratt customer price letter was found in free sources. Treat company actions as North American signals and verify California pass-through with supplier quotes."
+  ],
   "series": [
     {
       "date": "2025-07",

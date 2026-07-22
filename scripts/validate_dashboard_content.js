@@ -116,6 +116,14 @@ for (const id of expectedIds) {
     if (wordCount(card[field]) < 8) errors.push(`${id}: ${field} is missing or too thin`);
   }
 
+  if (wordCount(card.plainRead || card.executiveRead) < 8) {
+    errors.push(`${id}: plain read is missing or too thin`);
+  }
+
+  if (wordCount(card.analysis || card.recommendedAction) < 8) {
+    errors.push(`${id}: analysis is missing or too thin`);
+  }
+
   for (const field of ["question", "trigger", "move"]) {
     if (wordCount(card.ownershipLens?.[field]) < 5) errors.push(`${id}: ownershipLens.${field} is missing or too thin`);
   }
@@ -131,17 +139,24 @@ for (const id of expectedIds) {
   context.__dashboardAudit.openDetail(id);
   const html = elements.get("detailContent").innerHTML;
   for (const heading of [
-    "Executive Read",
+    "Plain Read",
+    "AI Analysis",
     "Recommended Action",
     "Ownership Decision Lens",
     "History / Trend",
     "Operating Playbook",
     "Why This Matters",
     "How Vision Packaging Can Use This",
+    "Research &amp; Findings",
     "Data Quality",
     "Sources"
   ]) {
     if (!html.includes(heading)) errors.push(`${id}: flyout missing ${heading}`);
+  }
+
+  const hiddenLevelTerms = new RegExp(["6th", "8th", ["grade", "level"].join(" ")].join("|"), "i");
+  if (hiddenLevelTerms.test(html)) {
+    errors.push(`${id}: flyout should not mention internal audience-level labels`);
   }
 }
 
