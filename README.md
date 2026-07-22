@@ -31,13 +31,16 @@ Read each tile in this order:
 
 Each flyout is built to support a management conversation, not just display a number.
 
-- **Executive Read**: plain-English readout of the current signal.
+- **Plain Read**: direct explanation of the current signal in everyday language.
+- **AI Analysis**: dashboard interpretation of the findings and figures, written as practical business guidance.
 - **Recommended Action**: the immediate management move, if any.
 - **Ownership Decision Lens**: decision question, escalation trigger, and owner move.
 - **History / Trend**: published history or chart-backed trend where available.
+- **Historical Price Moves**: material panels show sourced increases/decreases and the numbers behind them when available.
 - **Operating Playbook**: concrete questions and follow-up actions for sales, operations, purchasing, or ownership.
 - **Why This Matters**: business relevance for packaging operations.
 - **How Vision Packaging Can Use This**: practical use in quoting, account planning, supplier review, delivery planning, or sales messaging.
+- **Research & Findings**: source-backed findings and limitations, including proxy context when exact commercial pricing is not freely available.
 - **Data Quality**: source type, refresh status, limitations, and proxy/manual context.
 - **Sources**: published source links used by the tile.
 

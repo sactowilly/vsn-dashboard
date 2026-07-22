@@ -11,6 +11,22 @@
     {
       "label": "Plastics News / PlasticsToday",
       "url": "https://www.plasticstoday.com/resin-pricing/resin-price-report-resin-buyers-face-closing-window-on-pricing-leverage"
+    },
+    {
+      "label": "FRED Plastics Packaging Materials PPI",
+      "url": "https://fred.stlouisfed.org/series/WPU072A01"
+    },
+    {
+      "label": "BLS PPI Overview",
+      "url": "https://www.bls.gov/ppi/overview.htm"
+    },
+    {
+      "label": "PlasticsToday",
+      "url": "https://www.plasticstoday.com/resin-pricing/resin-market-shifts-favor-buyers-amid-inventory-surge"
+    },
+    {
+      "label": "PlasticsToday",
+      "url": "https://www.plasticstoday.com/resin-pricing/resin-price-report-summer-2026-thermoplastics-market-favors-strategic-buyers"
     }
   ],
   "notes": [
@@ -34,6 +50,80 @@
       "Plastics News public social reporting cited North American PE resin prices down $0.15/lb in June; PlasticsToday reported PE moving down double-digit cents per pound and no July increase initiatives."
     ]
   },
+  "plainRead": "Resin is giving buyers more room right now. The public operating signal is polyethylene down about $0.15 per pound in June 2026, but California pricing still needs supplier quote confirmation.",
+  "analysis": "The resin proxy rose sharply into May, then fell in June. Public resin reporting points to inventory builds, weaker demand, lower feedstock pressure, and no broad July increase initiatives. That means resin-linked products may create margin opportunity, but the dashboard should not claim a California-only resin price because no free public California-specific resin index was found.",
+  "marketHistory": [
+    {
+      "period": "2026-02",
+      "label": "Resin PPI proxy",
+      "amount": 308.307,
+      "change": 4.8,
+      "unit": "PPI index",
+      "source": "FRED / BLS",
+      "sourceUrl": "https://fred.stlouisfed.org/series/PCU325211325211",
+      "notes": "National plastics material and resin manufacturing PPI."
+    },
+    {
+      "period": "2026-03",
+      "label": "Resin PPI proxy",
+      "amount": 312.707,
+      "change": 4.4,
+      "unit": "PPI index",
+      "source": "FRED / BLS",
+      "sourceUrl": "https://fred.stlouisfed.org/series/PCU325211325211",
+      "notes": "Proxy increased month over month."
+    },
+    {
+      "period": "2026-04",
+      "label": "Resin PPI proxy",
+      "amount": 331.419,
+      "change": 18.7,
+      "unit": "PPI index",
+      "source": "FRED / BLS",
+      "sourceUrl": "https://fred.stlouisfed.org/series/PCU325211325211",
+      "notes": "Proxy increased sharply month over month."
+    },
+    {
+      "period": "2026-05",
+      "label": "Resin PPI proxy",
+      "amount": 377.974,
+      "change": 46.6,
+      "unit": "PPI index",
+      "source": "FRED / BLS",
+      "sourceUrl": "https://fred.stlouisfed.org/series/PCU325211325211",
+      "notes": "Proxy reached the highest point in the published series window."
+    },
+    {
+      "period": "2026-06",
+      "label": "Resin PPI proxy",
+      "amount": 368.751,
+      "change": -9.2,
+      "unit": "PPI index",
+      "source": "FRED / BLS",
+      "sourceUrl": "https://fred.stlouisfed.org/series/PCU325211325211",
+      "notes": "Proxy declined while public PE resin reporting pointed to lower June pricing."
+    },
+    {
+      "period": "2026-06",
+      "label": "PE resin market action",
+      "amount": -0.15,
+      "unit": "USD/lb",
+      "source": "Plastics News / PlasticsToday",
+      "sourceUrl": "https://www.plasticstoday.com/resin-pricing/resin-price-report-resin-buyers-face-closing-window-on-pricing-leverage",
+      "notes": "Public resin reporting cited June PE price relief; use as North American market signal, not a California-only price."
+    }
+  ],
+  "californiaContext": [
+    "No credible free California-only resin spot or contract index was found during implementation.",
+    "Use North American PE/PP market action, the national resin PPI, and supplier quotes for California customer decisions.",
+    "California delivered cost can differ because of supplier location, freight, grade, contract terms, and product conversion timing."
+  ],
+  "researchFindings": [
+    "BLS PPI measures average selling prices received by domestic producers. It is useful for trend direction, not delivered California quotes.",
+    "FRED PCU325211325211 is a national plastics material and resin manufacturing PPI; FRED WPU072A01 can help compare whether resin relief is showing up in plastics packaging products.",
+    "PlasticsToday reported buyer leverage, weaker demand, inventory pressure, and no July increase initiatives in mid-2026 resin markets.",
+    "Because public California-only resin pricing was not found, the dashboard must call this a proxy/signal and require supplier quote verification before customer repricing."
+  ],
   "series": [
     {
       "date": "2025-07",

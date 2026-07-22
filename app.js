@@ -350,6 +350,73 @@ function playbookHtml(card) {
   );
 }
 
+function analysisHtml(card) {
+  return box("AI Analysis", `<p>${esc(card.analysis || card.recommendedAction || "No analysis is published for this tile.")}</p>`, "analysis-box");
+}
+
+function researchHtml(card) {
+  const findings = card.researchFindings || [];
+  const fallback = [
+    `This tile uses ${titleCase(freshnessInfo(card.id).sourceType)} source metadata and published source links.`,
+    sourceQuality(card.id)
+  ];
+  return box("Research & Findings", paragraphList(findings.length ? findings : fallback), "research-box");
+}
+
+function formatMarketAmount(row) {
+  const amount = Number(row?.amount);
+  if (row?.unit === "USD/ST") {
+    const sign = amount > 0 ? "+" : amount < 0 ? "-" : "";
+    return `${sign}${money(Math.abs(amount))}/ST`;
+  }
+  if (row?.unit === "USD/lb") {
+    const sign = amount > 0 ? "+" : amount < 0 ? "-" : "";
+    return `${sign}$${Math.abs(amount).toFixed(2)}/lb`;
+  }
+  if (row?.unit === "PPI index") return num(amount, 3);
+  return row?.amount == null ? "Unavailable" : String(row.amount);
+}
+
+function marketHistoryHtml(rows) {
+  if (!rows?.length) return "";
+  return box("Historical Price Moves",
+    `<div class="table-scroll"><table class="detail-table">` +
+    `<thead><tr><th>Period</th><th>Signal</th><th>Number</th><th>Change</th><th>Notes</th></tr></thead>` +
+    `<tbody>${rows.map(row =>
+      `<tr>` +
+      `<td>${esc(row.period || "Unavailable")}</td>` +
+      `<td>${esc(row.label || row.source || "Market signal")}</td>` +
+      `<td>${esc(formatMarketAmount(row))}</td>` +
+      `<td>${esc(row.change == null ? "" : signedNum(row.change, 1))}</td>` +
+      `<td>${esc(row.notes || "")}</td>` +
+      `</tr>`
+    ).join("")}</tbody></table></div>`,
+    "data-box"
+  );
+}
+
+function companyActionsHtml(rows, fallbackItems = []) {
+  if (rows?.length) {
+    return box("Company / California Actions",
+      `<div class="signal-list">${rows.map(row =>
+        `<article class="signal-card">` +
+        `<h4>${esc(row.company || "Company")}</h4>` +
+        `<p>${esc(row.action || "No public action summary published.")}</p>` +
+        `<p><strong>California relevance:</strong> ${esc(row.californiaRelevance || "No California-specific detail published.")}</p>` +
+        (row.sourceUrls?.length
+          ? `<div class="mini-links">${row.sourceUrls.map((url, index) =>
+              `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(index === 0 ? row.source || "Source" : `Source ${index + 1}`)}</a>`
+            ).join("")}</div>`
+          : "") +
+        `</article>`
+      ).join("")}</div>`,
+      "data-box"
+    );
+  }
+  if (fallbackItems?.length) return box("California Context", paragraphList(fallbackItems), "data-box");
+  return "";
+}
+
 function paragraphList(items) {
   const usable = (items || []).filter(Boolean);
   if (!usable.length) return `<p>Unavailable.</p>`;
@@ -647,6 +714,8 @@ function buildCards() {
       secondary: `Proxy ${signedNum(pulpProxyDelta, 1)} pts | ${pLast.date || "latest"}`,
       subtext: pulpAction ? `${pulpAction.market || "Market action"} effective ${pulpAction.effectiveDate || "latest period"}` : `${trendWord(pulpProxyDelta, 0.05)} ${signedNum(pulpProxyDelta, 1)} index pts vs prior period`,
       freshness: pulp.freshness || "Monthly",
+      plainRead: pulp.plainRead,
+      analysis: pulp.analysis,
       executiveRead: pulpAction
         ? `${marketActionLabel(pulpAction)} is the current operating signal. The FRED pulp/paper proxy is ${num(pLast.value, 1)}, up ${signedNum(pulpProxyDelta, 1)} index points.`
         : `The pulp proxy index is ${num(pLast.value, 1)}. This is a directional proxy, not a paid spot pulp price.`,
@@ -667,6 +736,8 @@ function buildCards() {
       why: "Containerboard pricing is the number mills and sheet plants use to drive corrugated sheet and box pricing; the proxy index is only supporting context.",
       use: "Use this tile when deciding whether to hold quote expirations short, recheck supplier costs, or pre-brief sales on containerboard-driven price movement.",
       chart: buildLineChartFromSeries(pSeries, [{ key: "value", label: "Pulp proxy" }], "Pulp proxy trend"),
+      middleHtml: marketHistoryHtml(pulp.marketHistory) + companyActionsHtml(pulp.companyActions, pulp.californiaContext),
+      researchFindings: pulp.researchFindings,
       links: pulp.sourceLinks || []
     },
     {
@@ -677,6 +748,8 @@ function buildCards() {
       secondary: `Proxy ${signedNum(resinDelta, 1)} pts | ${rLast.date || "latest"}`,
       subtext: resinAction ? `${resinAction.market || "Market action"} effective ${resinAction.effectiveDate || "latest period"}` : "Stretch film, poly, and resin-linked packaging signal",
       freshness: resin.freshness || "Monthly",
+      plainRead: resin.plainRead,
+      analysis: resin.analysis,
       executiveRead: resinAction
         ? `${marketActionLabel(resinAction)} is the current operating signal for resin-linked packaging. The FRED resin proxy is ${num(rLast.value, 1)}, ${trendWord(resinDelta, 0.05)} ${signedNum(resinDelta, 1)} index points.`
         : `The resin proxy is ${num(rLast.value, 1)} for ${rLast.date || "the latest period"}.`,
@@ -697,6 +770,8 @@ function buildCards() {
       why: "Resin market moves flow into stretch film, poly bags, strapping, and other plastic packaging costs faster than broad PPI proxy data.",
       use: "Use this as a monthly prompt to review resin-sensitive SKU margins, supplier replacement costs, and customer price-change timing.",
       chart: buildLineChartFromSeries(rSeries, [{ key: "value", label: "Resin proxy" }], "Resin proxy trend"),
+      middleHtml: marketHistoryHtml(resin.marketHistory) + companyActionsHtml(resin.companyActions, resin.californiaContext),
+      researchFindings: resin.researchFindings,
       links: resin.sourceLinks || []
     },
     {
@@ -913,14 +988,17 @@ function openDetail(id) {
     `<div class="risk-pill ${esc(card.risk)}">${esc(riskLabel(card.risk))} risk</div>` +
     `</div>` +
     `<div class="chips detail-chip-row">${chip(card.freshness)}${chip(titleCase(freshnessInfo(card.id).sourceType))}${chip(titleCase(freshnessInfo(card.id).refreshStatus), freshnessInfo(card.id).qualityGroup === "current" ? "ok" : freshnessInfo(card.id).qualityGroup === "failed" || freshnessInfo(card.id).qualityGroup === "stale" ? "warn" : "limited")}</div>` +
-    box("Executive Read", `<p>${esc(card.executiveRead)}</p>`, "hero-box") +
+    box("Plain Read", `<p>${esc(card.plainRead || card.executiveRead)}</p>`, "hero-box") +
+    analysisHtml(card) +
     box("Recommended Action", `<p>${esc(card.recommendedAction)}</p>`, "action-box") +
     ownershipLensHtml(card) +
     chartHtml +
+    (card.middleHtml || "") +
     playbookHtml(card) +
     box("Why This Matters", `<p>${esc(card.why)}</p>`) +
     box("How Vision Packaging Can Use This", `<p>${esc(card.use)}</p>`) +
     (card.extraHtml || "") +
+    researchHtml(card) +
     box("Data Quality", sourceHtml(card)) +
     box("Sources", linkList(card.links));
 
