@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T15:18+00:00",
+  "lastUpdated": "2026-07-23T15:28+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly market action + proxy",
   "whatChanged": "Containerboard +$50/ST is the operating market action; proxy moved +1.7 index points versus the prior published month.",
@@ -13,23 +13,23 @@
       "url": "https://www.packagingdive.com/news/containerboard-pricing-june-2026-fastmarkets-risi-increase-demand-supply/823172/"
     },
     {
-      "label": "Fastmarkets",
+      "label": "Fastmarkets; Packaging Dive; International Paper",
       "url": "https://www.fastmarkets.com/insights/ip-is-second-out-with-70-per-ton-north-american-linerboard-price-increase-effective-march-1/"
     },
     {
-      "label": "Packaging Dive",
+      "label": "Fastmarkets; Packaging Dive; International Paper",
       "url": "https://www.packagingdive.com/news/containerboard-price-increases-june-2026-supply-demand/819166/"
     },
     {
-      "label": "International Paper",
+      "label": "Fastmarkets; Packaging Dive; International Paper",
       "url": "https://www.internationalpaper.com/recycling/locations/west-sacramento-recycling"
     },
     {
-      "label": "Pratt Industries",
+      "label": "Packaging Dive; Pratt Industries",
       "url": "https://www.prattindustries.com/locations-packaging-manufacturing/"
     },
     {
-      "label": "Pratt Industries",
+      "label": "Packaging Dive; Pratt Industries",
       "url": "https://www.prattindustries.com/custom-packaging-solutions-agriculture/"
     }
   ],
@@ -127,6 +127,7 @@
       ]
     }
   ],
+  "californiaContext": [],
   "researchFindings": [
     "BLS PPI measures average selling prices received by domestic producers. It is useful for direction, but it is not a supplier quote.",
     "FRED WPU0911 is a monthly national pulp/paper PPI proxy. It supports trend context; containerboard market action remains the operating number for corrugated decisions.",
@@ -185,8 +186,8 @@
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-22T15:18+00:00",
-  "lastSuccessfulAt": "2026-07-22T15:18+00:00",
+  "lastAttemptedAt": "2026-07-23T15:28+00:00",
+  "lastSuccessfulAt": "2026-07-23T15:28+00:00",
   "sourceLimitations": [
     "Containerboard market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
     "This is not a supplier-specific quote and may not match every mill, sheet plant, grade, or customer contract.",

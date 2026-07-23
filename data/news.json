@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T15:18+00:00",
+  "lastUpdated": "2026-07-23T15:28+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -21,25 +21,18 @@
       "impact": "Low"
     },
     {
+      "title": "Reuse gets another shot as regulators take aim at packaging waste - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTJiTWl4eThCWmJzRjhBTEVleGZGMGpaVTZZSlZGZ1llZnoycU5qejdCdy1RYVVhV1RGNmxQWFl6eER6YzR2VHBIdEowZlVpVjFMdEZVOER4U3QxMDEycEkwWjRJZ0szTVo2dm5FU25WbGlSTlFrdzRRU2ZMb3VWeGR1NUhJVjA5MDREdThITF92LWdMNmhOZENwR1pWNTdfVEtIc1FxaF9rS01xLTZfTVJTSXdGdDhKOHdWT1hReGFHZnlYdmhpQWhtbE9JNEdyajFZMS1FUUtqQQ?oc=5",
+      "publishedAt": "2026-07-14T07:00+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "California grocery prices could rise as plastic packaging law takes effect - Fox Business",
       "source": "Fox Business",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGpIR056U1RybG1VREdSOXZxTmY1bHk4WndIVHJPaU02dHB6ZVVxRmw1T2RQWkhKVXlOMENwWWQ0aDlqQUlQRkdYSnl0S0JIWTBoeW1fRm13UWFUX1J1c0trenpUX043eFVzTUxSRDJmeFBIY1pOcDNrSXBESDBvdzJlVjRySU9RZ09jQtIBkgFBVV95cUxOak1qOW5aZ0pjaFNoMVNjN0VnRWsxc3lIX0g5bFJubzNEMUtTNDNHLXJYWHVUbE5XLWR4SF96d3JsUDJGbGpYaUF6eTNNeVBRR243SWtXYm1MLUtUZVd4U2FFZzRRdFNTZ2RSNGFvcy0tcFdRVHlramNTNjFsUE9jWWNoWFFBQ3JwcW5hWUVlaFhKQQ?oc=5",
       "publishedAt": "2026-07-15T18:35+00:00",
       "impact": "Low"
-    },
-    {
-      "title": "Reuse gets another shot as regulators take aim at packaging waste - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTJiTWl4eThCWmJzRjhBTEVleGZGMGpaVTZZSlZGZ1llZnoycU5qejdCdy1RYVVhV1RGNmxQWFl6eER6YzR2VHBIdEowZlVpVjFMdEZVOER4U3QxMDEycEkwWjRJZ0szTVo2dm5FU25WbGlSTlFrdzRRU2ZMb3VWeGR1NUhJVjA5MDREdThITF92LWdMNmhOZENwR1pWNTdfVEtIc1FxaF9rS01xLTZfTVJTSXdGdDhKOHdWT1hReGFHZnlYdmhpQWhtbE9JNEdyajFZMS1FUUtqQQ?oc=5",
-      "publishedAt": "2026-07-14T13:53+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "The Latest in Consumer-Facing Corrugated Packaging - Produce Business",
-      "source": "Produce Business",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2RzVDE0WkQ2SjhyTkJ3TnQ5aHkxRHU3YVBsR19GVXBydUFodnoyUlN4dU9rcURsNUN0dGhNaFozbUZ2akh6cEd1MHJ0UzNUcXN0LXVZM0VtUm5mV1FsNnBBZ2NNLUNrZGFIRHV0M1FYeXFLRUNYaUI2R3JBMTJkOXRrYnlyQQ?oc=5",
-      "publishedAt": "2026-07-20T20:36+00:00",
-      "impact": "Medium"
     },
     {
       "title": "International Paper to Close Carrollton South, Texas Packaging Facility - PR Newswire",
@@ -56,24 +49,31 @@
       "impact": "Low"
     },
     {
-      "title": "Island nations call for packaging redesign to curb ocean plastic - Packaging Insights",
-      "source": "Packaging Insights",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXJSX2lDcnl0Ym0tRDVqX0pPSHBmakNlU2NRdVJfczJZRnZtbDJqNG0zbnE4WkMweGRaMjRDTF8zUHpSelRCMWtmSDVvcVRWcTRSMmJQUHJ3eFZlczNOd1c0U3djY3NuRnBrdzRIeEdqT2lpRnhpMTBheDNrYVJocEUxdHVxYXpDc084bg?oc=5",
-      "publishedAt": "2026-07-17T09:15+00:00",
+      "title": "From plastic waste to chocolate wrappers: LYB and Mondelez collaborate on Marabou flexible packaging sourced from recycled plastic - LyondellBasell",
+      "source": "LyondellBasell",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNSnZ4RkNPSEY4d3VqY2o0cURpZGhwdlEzbUdYbEluU1pGakFNdnV6Y1hPNzJKcnkyT3hLanlEcGZ5cmY5TVFzR3VGeHZHekRvRG04Q2R0TXJxUkxNbTJjLXlwdlpyU09MQThGSEhGRlUwbkxzUkF1bDVQNFJ5dEk2cWNOZEJJX1AwSm5YcFZKZW1ZU1V0NTFnNVRWRXNMSXRYSEd6dWtEU3Y4dG9manJMSEVVLU05Z3lER1ItUU42Ulp4dDZtUHA3eFZLdDZXMW9QSmJuVTNxZm92dGdndktKRHNORW83ZXJnRjVxMWNJZ2JBUzlHYUlXNG4xM3BzZWVpSExXcUY1MzdMQ1Iwa1BxS1lnWXg1TGtnSlNlcTJBZmZMdUJLQ0hlTVhTYUdNOXFkeC14ZGZ2MUdzMWJh?oc=5",
+      "publishedAt": "2026-07-07T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "A \u2018renovation to packaging\u2019 at General Mills - Plastics News",
-      "source": "Plastics News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFUwZkRkQlIyTktEQlAxNnNwckd4WDVfRm83WmJxckVEQWRwM0JOUEVwS0k3REQxYW9BMjg5cm1XR0lhOWcyMkJjdkNfR3pVdk52c3RBSFVGbzlhaHVROFFqNS1KVXp5R2luRmJvaHpjM0FZY1J0amxrQWhKM09DZnlwR1J6RHBZTm42UWNodS1yVFRXTE5VZXMtdUEyal9QS3p2WWFraW1mQ3h5a1htTmxSZw?oc=5",
-      "publishedAt": "2026-07-13T11:45+00:00",
-      "impact": "High"
+      "title": "Seventeen states sue California over plastic packaging law - ABC10",
+      "source": "ABC10",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUHJnX1Z5UXF0U0pSbUxCeGhuSUg1RW9GMlBVNzBSSmRFM0x6eDh0anRMNUEta0IwZUVGYV9SY0pRNHNsWXlRWU9PZV81TFVTcElEWmo0U0Z1T3NsTmdwaHYwWE5tRXBlcXdmREdJbE5Hcjd4Mmptd0h3aU8xekNmaFhYa2RlNlVWV2JBUS1qS29zc3I2Z2VsdndmVlNBN3VZOGR2eGQ1NXhrbDhuTmluUG1HY1dqVzZ6Y3o1cldIYk1RTWtTSGkwSTRNQ1I2TG1GeU9tNm1VTy12S0c0b3RsUDgzYw?oc=5",
+      "publishedAt": "2026-06-25T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Smithers survey points to fiber-based packaging growth - Recycling Today",
+      "source": "Recycling Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkpQYW0xb2NQTnkwU196SFo4ZTlvVFpaSlE0bGgzZnQ2TlBGenZ1bXcyY0tDeHRuTlJtOWxJRmtpMldQOXdYLUxaUEY1NFhHZ2pDM0o0V1hhNF9iQUtjNkhVNDJudXJkMFZweDcyVWNsVUFnb2dBRXJaT1FqY1Fta285WVdGN2xIeGJmaHB0MTFCdkNwMXJwOGN5QU16QnRLbVBHSjVZWng5RTFXX050eVUxeWZMN0ltU1hhQQ?oc=5",
+      "publishedAt": "2026-07-22T04:49+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-22T15:18+00:00",
-  "lastSuccessfulAt": "2026-07-22T15:18+00:00",
+  "lastAttemptedAt": "2026-07-23T15:28+00:00",
+  "lastSuccessfulAt": "2026-07-23T15:28+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

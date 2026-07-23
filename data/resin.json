@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T15:18+00:00",
+  "lastUpdated": "2026-07-23T15:28+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly market action + proxy",
   "whatChanged": "PE resin -$0.15/lb is the operating market action; proxy moved -9.2 index points versus the prior published month.",
@@ -11,22 +11,6 @@
     {
       "label": "Plastics News / PlasticsToday",
       "url": "https://www.plasticstoday.com/resin-pricing/resin-price-report-resin-buyers-face-closing-window-on-pricing-leverage"
-    },
-    {
-      "label": "FRED Plastics Packaging Materials PPI",
-      "url": "https://fred.stlouisfed.org/series/WPU072A01"
-    },
-    {
-      "label": "BLS PPI Overview",
-      "url": "https://www.bls.gov/ppi/overview.htm"
-    },
-    {
-      "label": "PlasticsToday",
-      "url": "https://www.plasticstoday.com/resin-pricing/resin-market-shifts-favor-buyers-amid-inventory-surge"
-    },
-    {
-      "label": "PlasticsToday",
-      "url": "https://www.plasticstoday.com/resin-pricing/resin-price-report-summer-2026-thermoplastics-market-favors-strategic-buyers"
     }
   ],
   "notes": [
@@ -113,6 +97,7 @@
       "notes": "Public resin reporting cited June PE price relief; use as North American market signal, not a California-only price."
     }
   ],
+  "companyActions": [],
   "californiaContext": [
     "No credible free California-only resin spot or contract index was found during implementation.",
     "Use North American PE/PP market action, the national resin PPI, and supplier quotes for California customer decisions.",
@@ -176,8 +161,8 @@
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-22T15:18+00:00",
-  "lastSuccessfulAt": "2026-07-22T15:18+00:00",
+  "lastAttemptedAt": "2026-07-23T15:28+00:00",
+  "lastSuccessfulAt": "2026-07-23T15:28+00:00",
   "sourceLimitations": [
     "Resin market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
     "Resin pricing varies by polymer, grade, supplier, contract, and spot-versus-contract market.",

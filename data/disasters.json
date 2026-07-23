@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T15:18+00:00",
+  "lastUpdated": "2026-07-23T15:28+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "21 km NW of Beluga, Alaska",
+      "region": "53 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "0 km W of Gu\u00e1nica, Puerto Rico",
+      "region": "29 km WSW of Olancha, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "27 km SSW of Mammoth, Wyoming",
+      "region": "11 km SW of Corona, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km W of Round Valley, CA",
+      "region": "48 km N of Valdez, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km SSE of P\u0101hala, Hawaii",
+      "region": "12 km NNE of Ocotillo Wells, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "3 km NW of Fontana, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km E of Calimesa, CA",
+      "region": "10 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km E of Aguanga, CA",
+      "region": "10 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
-      "type": "Extreme Heat Warning issued July 22 at 4:35AM PDT until July 27 at 8:00PM PDT by NWS Las Vegas NV",
-      "region": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Northwest Deserts; Death Valley National Park; Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
-      "severity": "Severe"
-    },
-    {
-      "type": "Heat Advisory issued July 22 at 2:58AM PDT until July 23 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Barbara County Southeastern Coast",
+      "type": "Heat Advisory issued July 23 at 6:11AM PDT until July 27 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Ventura County Inland Coast; Los Angeles County Inland Coast including Downtown Los Angeles",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued July 22 at 2:58AM PDT until July 23 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "type": "Heat Advisory issued July 23 at 6:11AM PDT until July 27 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
       "region": "Santa Barbara County Southwestern Coast",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued July 22 at 2:58AM PDT until July 27 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Inland Coast; Los Angeles County Inland Coast including Downtown Los Angeles",
+      "type": "Heat Advisory issued July 23 at 6:11AM PDT until July 27 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Ventura County Beaches; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Heat Advisory issued July 23 at 6:11AM PDT until July 27 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Cuyama Valley; Santa Clarita Valley; Santa Lucia Mountains; Southern Salinas Valley; San Luis Obispo County Interior Valleys; San Luis Obispo County Mountains; Santa Ynez Valley; Santa Barbara County Interior Mountains; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains; Southern Ventura County Mountains; Northern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Western Antelope Valley Foothills; Eastern Antelope Valley Foothills; Los Angeles County San Gabriel Valley",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-07-22T15:18+00:00",
-  "lastSuccessfulAt": "2026-07-22T15:18+00:00",
+  "lastAttemptedAt": "2026-07-23T15:28+00:00",
+  "lastSuccessfulAt": "2026-07-23T15:28+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
