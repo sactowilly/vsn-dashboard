@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T14:32+00:00",
+  "lastUpdated": "2026-08-12T14:32+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "Packaging Corporation of America (PKG) Is Up 9.1% After Record Shipments And Containerboard Price Hike - Yahoo Finance",
@@ -27,10 +27,10 @@
             "publishedAt": "2026-07-25T07:00+00:00"
           },
           {
-            "title": "PCA reiterates \u2018tight\u2019 containerboard market, higher demand - Packaging Dive",
+            "title": "PCA\u2019s $140/ton containerboard price increase considered unprecedented - Packaging Dive",
             "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGUxRmtyOXhaVHgyU1BmYnNrcTJGYXlvc3h3aHJiYnRoSkI4ZmhFQnFkRjNKXzRUaW1fZm1uMVNXQXlBMWZ0TUFsV2hpSXdmZ2VyU2ZvY0R6TG1MOGZkMjhMd0Z1UWwwOXg0d2lyNzgxOF9MRUM5WFo4VHZYVmtNQ2lPVVprRGgxUWY5YjJhMEl3Uk1mY2h0c2xQUWJodEZC?oc=5",
-            "publishedAt": "2026-07-24T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPam5lQVl1ZEkzX2JhaDNfYXg4TTVKQXF6UjF6YUY5dUFEZE16Z0xXTG1RWC1wWWc0RW5FcFVpVGUxZGRidUdNRVI2RXk5WWhMaldFemtyRjRWc01Ob1dIRWh3ZE1vUm11NGVwaTdfRzJlQUVGUE5mOUxVajRsU3ZobmRWTURVcVVLdnVBQkFfaEgxYk1EQzktRG5aLUw2R19aSFZrRWVGS1JUY05jQllSOXVkNTBRVHB2ZUpTMGNWb0w?oc=5",
+            "publishedAt": "2026-07-27T07:00+00:00"
           },
           {
             "title": "Packaging Corporation of America Reports Second Quarter 2026 Results - paperage.com",
@@ -57,10 +57,10 @@
             "publishedAt": "2026-07-25T07:00+00:00"
           },
           {
-            "title": "PCA reiterates \u2018tight\u2019 containerboard market, higher demand - Packaging Dive",
+            "title": "PCA\u2019s $140/ton containerboard price increase considered unprecedented - Packaging Dive",
             "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGUxRmtyOXhaVHgyU1BmYnNrcTJGYXlvc3h3aHJiYnRoSkI4ZmhFQnFkRjNKXzRUaW1fZm1uMVNXQXlBMWZ0TUFsV2hpSXdmZ2VyU2ZvY0R6TG1MOGZkMjhMd0Z1UWwwOXg0d2lyNzgxOF9MRUM5WFo4VHZYVmtNQ2lPVVprRGgxUWY5YjJhMEl3Uk1mY2h0c2xQUWJodEZC?oc=5",
-            "publishedAt": "2026-07-24T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPam5lQVl1ZEkzX2JhaDNfYXg4TTVKQXF6UjF6YUY5dUFEZE16Z0xXTG1RWC1wWWc0RW5FcFVpVGUxZGRidUdNRVI2RXk5WWhMaldFemtyRjRWc01Ob1dIRWh3ZE1vUm11NGVwaTdfRzJlQUVGUE5mOUxVajRsU3ZobmRWTURVcVVLdnVBQkFfaEgxYk1EQzktRG5aLUw2R19aSFZrRWVGS1JUY05jQllSOXVkNTBRVHB2ZUpTMGNWb0w?oc=5",
+            "publishedAt": "2026-07-27T07:00+00:00"
           },
           {
             "title": "Packaging Corporation of America Reports Second Quarter 2026 Results - paperage.com",
@@ -83,13 +83,13 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
-            "title": "Bio-Based Cold-Chain Insulation Packaging Market - Future Market Insights",
-            "source": "Future Market Insights",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkxrSFNtcEd0OEprVlN2NXVCeHdRRm83UVhkQTNaS0hWdXp2YXNLZVFIWUZ1OFZUMGh3QjNFQnRvaTNRUTR3ZFNJQ0p2SlJXT1dVUTg4WE9lVHVMTl82d3lTYzJkWDczcng0Q2NVNzd2R2JVeTFCdTJjZGZ6NjFEd1RseEQwRmtzNzJySlh5bTdFX0FRaUZuLQ?oc=5",
-            "publishedAt": "2026-08-04T11:20+00:00"
+            "title": "Top 20 Supply Chain AI Tools with Examples - AIMultiple",
+            "source": "AIMultiple",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XSmRDbHJueGVWcnllMzlzbVBYYW42YUZ4Q2o5b094a0tpYWpEVnFtZURwdFNzeVEtNFlRVHBLRklLMHQwd01HWlpIbzBydy0ybnN2UFhPSQ?oc=5",
+            "publishedAt": "2026-07-20T07:00+00:00"
           }
         ],
         "hiring": [
@@ -104,10 +104,10 @@
         "moves": [],
         "items": [
           {
-            "title": "Bio-Based Cold-Chain Insulation Packaging Market - Future Market Insights",
-            "source": "Future Market Insights",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkxrSFNtcEd0OEprVlN2NXVCeHdRRm83UVhkQTNaS0hWdXp2YXNLZVFIWUZ1OFZUMGh3QjNFQnRvaTNRUTR3ZFNJQ0p2SlJXT1dVUTg4WE9lVHVMTl82d3lTYzJkWDczcng0Q2NVNzd2R2JVeTFCdTJjZGZ6NjFEd1RseEQwRmtzNzJySlh5bTdFX0FRaUZuLQ?oc=5",
-            "publishedAt": "2026-08-04T11:20+00:00"
+            "title": "Top 20 Supply Chain AI Tools with Examples - AIMultiple",
+            "source": "AIMultiple",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XSmRDbHJueGVWcnllMzlzbVBYYW42YUZ4Q2o5b094a0tpYWpEVnFtZURwdFNzeVEtNFlRVHBLRklLMHQwd01HWlpIbzBydy0ybnN2UFhPSQ?oc=5",
+            "publishedAt": "2026-07-20T07:00+00:00"
           }
         ],
         "query": "\"Veritiv\" packaging OR corrugated OR distribution when:30d",
@@ -124,7 +124,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "UBC Seaweed-derived Coating Keeps Strawberries Fresher Than a Fridge - Food Manufacturing",
@@ -157,7 +157,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "Uline opening soon in Plainfield, employing at least 200 people - Norwich Bulletin",
@@ -222,7 +222,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "International Paper to Close Carrollton South, Texas Packaging Facility - PR Newswire",
@@ -292,8 +292,14 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
+          {
+            "title": "Pratt Industries Turned B2B Prospecting into Million-Dollar Wins with ZoomInfo - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkN6YnJaeUpfVVNmbDk3aUlDZkpCeVl1T0hKbVllUXIydlZHenp5T0F1VVdrYWEwQzVMeml1YkV4VXJPbXBMVU9PNXdyNmxNRndNNWhZNXdXX0N6ZV9SZ3p6ZVFiRUdmYjZLdlFUa0R5N2EweXJoU09KMDc1ODRXeS05V3NEM3E3am5rWUh4YThKUkl2UmVsMHE4TFNPd3V2U3BzMEQ1Zw?oc=5",
+            "publishedAt": "2026-07-20T07:00+00:00"
+          },
           {
             "title": "Corrugated Packaging Market to Reach US$ 444.3 Billion by 2032 at 4.6% CAGR | Persistence Market Research - EIN News",
             "source": "EIN News",
@@ -301,10 +307,10 @@
             "publishedAt": "2026-08-11T11:56+00:00"
           },
           {
-            "title": "Protective Corner Guard Boards Market E-Commerce Logistics Expansion to Drive 4-6% CAGR Through 2035 - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUJNQURSNjZsN3VzamljTHM0V21NTzc0R2J6Tzlmb2tpN3JlMF9JVTFiNGN6REVERGMxckdCdkZWaERKSzlFZGdIRUE3dE5hcHNtcDFZNzVHYXl2TWNFaUZhSm9yTWROMS1sWWhFek04T1BMOGpmMF9rYktFaDNQSmYyYXlOWEFUbTltZ2RRZmVibHpncHJLS1VUNnFkOXVOeE94VFhMQVJpOFNtSlAtSkJNLVBPTE05SGlFRmYwcmpnNGt0c2dlWg?oc=5",
-            "publishedAt": "2026-08-10T08:51+00:00"
+            "title": "America First Means Ohio First: President Trump, Republicans Deliver for Ohio \u2014 White House Press Pool - BNO News",
+            "source": "BNO News",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90UWJ4aDV0ZmtYXzdZOFJOS0liWEV6VFhkZU52ckU5Y043eEpsbXdFbkJ6OXBmbU94X1Z2SVlPRUdQajVhY3hrRHBzSQ?oc=5",
+            "publishedAt": "2026-08-11T21:13+00:00"
           }
         ],
         "hiring": [
@@ -316,15 +322,14 @@
             "linkStatus": "direct_job_link_unavailable"
           }
         ],
-        "moves": [
-          {
-            "title": "Protective Corner Guard Boards Market E-Commerce Logistics Expansion to Drive 4-6% CAGR Through 2035 - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUJNQURSNjZsN3VzamljTHM0V21NTzc0R2J6Tzlmb2tpN3JlMF9JVTFiNGN6REVERGMxckdCdkZWaERKSzlFZGdIRUE3dE5hcHNtcDFZNzVHYXl2TWNFaUZhSm9yTWROMS1sWWhFek04T1BMOGpmMF9rYktFaDNQSmYyYXlOWEFUbTltZ2RRZmVibHpncHJLS1VUNnFkOXVOeE94VFhMQVJpOFNtSlAtSkJNLVBPTE05SGlFRmYwcmpnNGt0c2dlWg?oc=5",
-            "publishedAt": "2026-08-10T08:51+00:00"
-          }
-        ],
+        "moves": [],
         "items": [
+          {
+            "title": "Pratt Industries Turned B2B Prospecting into Million-Dollar Wins with ZoomInfo - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkN6YnJaeUpfVVNmbDk3aUlDZkpCeVl1T0hKbVllUXIydlZHenp5T0F1VVdrYWEwQzVMeml1YkV4VXJPbXBMVU9PNXdyNmxNRndNNWhZNXdXX0N6ZV9SZ3p6ZVFiRUdmYjZLdlFUa0R5N2EweXJoU09KMDc1ODRXeS05V3NEM3E3am5rWUh4YThKUkl2UmVsMHE4TFNPd3V2U3BzMEQ1Zw?oc=5",
+            "publishedAt": "2026-07-20T07:00+00:00"
+          },
           {
             "title": "Corrugated Packaging Market to Reach US$ 444.3 Billion by 2032 at 4.6% CAGR | Persistence Market Research - EIN News",
             "source": "EIN News",
@@ -332,10 +337,10 @@
             "publishedAt": "2026-08-11T11:56+00:00"
           },
           {
-            "title": "Protective Corner Guard Boards Market E-Commerce Logistics Expansion to Drive 4-6% CAGR Through 2035 - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUJNQURSNjZsN3VzamljTHM0V21NTzc0R2J6Tzlmb2tpN3JlMF9JVTFiNGN6REVERGMxckdCdkZWaERKSzlFZGdIRUE3dE5hcHNtcDFZNzVHYXl2TWNFaUZhSm9yTWROMS1sWWhFek04T1BMOGpmMF9rYktFaDNQSmYyYXlOWEFUbTltZ2RRZmVibHpncHJLS1VUNnFkOXVOeE94VFhMQVJpOFNtSlAtSkJNLVBPTE05SGlFRmYwcmpnNGt0c2dlWg?oc=5",
-            "publishedAt": "2026-08-10T08:51+00:00"
+            "title": "America First Means Ohio First: President Trump, Republicans Deliver for Ohio \u2014 White House Press Pool - BNO News",
+            "source": "BNO News",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90UWJ4aDV0ZmtYXzdZOFJOS0liWEV6VFhkZU52ckU5Y043eEpsbXdFbkJ6OXBmbU94X1Z2SVlPRUdQajVhY3hrRHBzSQ?oc=5",
+            "publishedAt": "2026-08-11T21:13+00:00"
           }
         ],
         "query": "\"Pratt Industries\" packaging OR corrugated OR distribution when:30d",
@@ -352,7 +357,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "Smurfit Westrock nearly sold out of most grades in \u2018tight\u2019 paper market - Packaging Dive",
@@ -416,18 +421,12 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
-            "title": "DS Smith designs fiber-based transport packaging for water filters - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mNVNJZmJadW5qaHVaQVJ3UFQyUW5RWmt6Z1JZcTJyZ3I2TmdJM0ZEd1A2ZnMyMldEdGdSVkFveTVZNFNIMkZOTUZiSmQ5ZUxxLU8xalVrdTJTaHA4d3RfNW8wNV9EeDc0OXB1c29kVm1Sd1ZtUm83UXhaeEdLQQ?oc=5",
-            "publishedAt": "2026-07-13T07:00+00:00"
-          },
-          {
-            "title": "DS Smith develops packaging for Schneider Electric switchgear - Packaging Gateway",
-            "source": "Packaging Gateway",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcU9OVUJ2U0Q0Zjd3ajNLeHVhT3ROTGxlcW12eTR5MkFNMENRdWRmV3lqUV8tZDdxY29mTVB2YXNwOC1QZjU4OGdieWc5RDhRdHVlLWhuZFROYkVWcFFTaHlrRkh0bEQ3blNjM2JSQ1lfQ2o1UTBGaVNESWV1Ujg0a3NZWQ?oc=5",
+            "title": "DS Smith develops packaging for Schneider Electric switchgear - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXNLM1cyaWdwM0NkaHl2cVV1Unp3dnh6RmY4S1J2Uk44bnJhRDFDZmVPVDB5SkJNUWszN0gzNC1Bb1pKX2t0a1pVbUxYNTVxYy1KM0UwZnI1S25oTjNBVHA4S3J2ejBmYkVmVHdBQTNzNzZWemRlMjNyd0JNMGpWM3Ayal9vN0dfUWZxSlZUUHdubi0zRlFIUk1JSU1CQkU?oc=5",
             "publishedAt": "2026-07-29T07:00+00:00"
           },
           {
@@ -435,21 +434,21 @@
             "source": "Revelio Labs",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJemhoV3JqS01ZaV9FRjVIWldRenZETTRtd284clVGeWgxMFVmbFEtUHhQS1NxUGRwZkwwV2gtOS16UUlEd01oMlVfcWpGeElEak95dU9RMldzbE02Tm1yZEpLMkM3d00?oc=5",
             "publishedAt": "2026-07-28T18:04+00:00"
+          },
+          {
+            "title": "DS Smith starts up ANDRITZ stock preparation line in Italy - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazZiMXBGWUo1MDZLaEZWcElCSFo3TEgxTTBkdUR3cXBhTjdGSUZoZGhZWk1neks0SWlqNGliSHVIR0dkcEUxVFFROUstaWIzTVhZS1B4NHBHVVFqenZvbGdDbFBBSlU4X290ejV1SmdJaEdQX3ZkeXZzZjFzdGhKQTk0WGlOZHVLcHAtTDZ1c2w1akJn?oc=5",
+            "publishedAt": "2026-07-15T07:00+00:00"
           }
         ],
         "hiring": [],
         "moves": [],
         "items": [
           {
-            "title": "DS Smith designs fiber-based transport packaging for water filters - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mNVNJZmJadW5qaHVaQVJ3UFQyUW5RWmt6Z1JZcTJyZ3I2TmdJM0ZEd1A2ZnMyMldEdGdSVkFveTVZNFNIMkZOTUZiSmQ5ZUxxLU8xalVrdTJTaHA4d3RfNW8wNV9EeDc0OXB1c29kVm1Sd1ZtUm83UXhaeEdLQQ?oc=5",
-            "publishedAt": "2026-07-13T07:00+00:00"
-          },
-          {
-            "title": "DS Smith develops packaging for Schneider Electric switchgear - Packaging Gateway",
-            "source": "Packaging Gateway",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcU9OVUJ2U0Q0Zjd3ajNLeHVhT3ROTGxlcW12eTR5MkFNMENRdWRmV3lqUV8tZDdxY29mTVB2YXNwOC1QZjU4OGdieWc5RDhRdHVlLWhuZFROYkVWcFFTaHlrRkh0bEQ3blNjM2JSQ1lfQ2o1UTBGaVNESWV1Ujg0a3NZWQ?oc=5",
+            "title": "DS Smith develops packaging for Schneider Electric switchgear - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXNLM1cyaWdwM0NkaHl2cVV1Unp3dnh6RmY4S1J2Uk44bnJhRDFDZmVPVDB5SkJNUWszN0gzNC1Bb1pKX2t0a1pVbUxYNTVxYy1KM0UwZnI1S25oTjNBVHA4S3J2ejBmYkVmVHdBQTNzNzZWemRlMjNyd0JNMGpWM3Ayal9vN0dfUWZxSlZUUHdubi0zRlFIUk1JSU1CQkU?oc=5",
             "publishedAt": "2026-07-29T07:00+00:00"
           },
           {
@@ -457,6 +456,12 @@
             "source": "Revelio Labs",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJemhoV3JqS01ZaV9FRjVIWldRenZETTRtd284clVGeWgxMFVmbFEtUHhQS1NxUGRwZkwwV2gtOS16UUlEd01oMlVfcWpGeElEak95dU9RMldzbE02Tm1yZEpLMkM3d00?oc=5",
             "publishedAt": "2026-07-28T18:04+00:00"
+          },
+          {
+            "title": "DS Smith starts up ANDRITZ stock preparation line in Italy - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazZiMXBGWUo1MDZLaEZWcElCSFo3TEgxTTBkdUR3cXBhTjdGSUZoZGhZWk1neks0SWlqNGliSHVIR0dkcEUxVFFROUstaWIzTVhZS1B4NHBHVVFqenZvbGdDbFBBSlU4X290ejV1SmdJaEdQX3ZkeXZzZjFzdGhKQTk0WGlOZHVLcHAtTDZ1c2w1akJn?oc=5",
+            "publishedAt": "2026-07-15T07:00+00:00"
           }
         ],
         "query": "\"DS Smith\" packaging OR corrugated OR distribution when:30d",
@@ -473,14 +478,8 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
-          {
-            "title": "Nigeria Pharmaceutical Packaging - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVVZdlppOXAzY2tVM2JlR2UzWnQ4RmNLVlJVcWxOZHdLejdtM1RSR1huR2FsMmJ6cTJPSi0tTWo5MC1ncktWblMzZGZVTWZadzAxRlRoblo5WWhjNXZsZ1ZpSXRqRE5FYVYxZmkzV1Z3b3Z2MUloTUZFV1VDMUpFYW5XRzhHem80UWE1SnhYSjhsM3BfOVFqNHg5dEt4cnBZY1R5eHFRLURXQUkwcDBUWFoyZw?oc=5",
-            "publishedAt": "2026-08-10T16:04+00:00"
-          },
           {
             "title": "Optegra achieves 2025 emissions & wastage cuts - TruckNet UK",
             "source": "TruckNet UK",
@@ -497,12 +496,6 @@
         "hiring": [],
         "moves": [],
         "items": [
-          {
-            "title": "Nigeria Pharmaceutical Packaging - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVVZdlppOXAzY2tVM2JlR2UzWnQ4RmNLVlJVcWxOZHdLejdtM1RSR1huR2FsMmJ6cTJPSi0tTWo5MC1ncktWblMzZGZVTWZadzAxRlRoblo5WWhjNXZsZ1ZpSXRqRE5FYVYxZmkzV1Z3b3Z2MUloTUZFV1VDMUpFYW5XRzhHem80UWE1SnhYSjhsM3BfOVFqNHg5dEt4cnBZY1R5eHFRLURXQUkwcDBUWFoyZw?oc=5",
-            "publishedAt": "2026-08-10T16:04+00:00"
-          },
           {
             "title": "Optegra achieves 2025 emissions & wastage cuts - TruckNet UK",
             "source": "TruckNet UK",
@@ -530,7 +523,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "Berlin Packaging Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
@@ -545,10 +538,10 @@
             "publishedAt": "2026-08-06T09:52+00:00"
           },
           {
-            "title": "Trigger-Lock Child-Resistant Caps Market to Reach 170 Index by 2035 on Biopharma Traceability Demands - IndexBox",
+            "title": "Plastic Carboys for Liquid Storage Market Single-Use Biopharma and Energy Storage Drive 6.8% CAGR to 2035 - News and Statistics - IndexBox",
             "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGE1VkdiWjJIYXk3QUpuU3d6QWZkR3cxY05yR1N0MUoxdUJBS0ZmcmpPUm0zNGFXRzVlQ1dDMlJOajdNeWJDb1Z6S3R0OHdfcWhtS1Rid0ZmbFlHS2NySDQzMG5TeHNIa2ZxdEcyZXVObGtNZlJpOHpVc19qMkFrNEY5RWI2NWo4dG8ydTQ4T0daRHdVOTVHYTlnMnplZFFLVFE1ZHp3cHFQb1JEUjZfWGxVbEtEeTFjeW05LXo4OUV3a09QS3Zla3RuWQ?oc=5",
-            "publishedAt": "2026-08-10T09:06+00:00"
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOE80SXJ2ejFHY2RtaEFXaXc1OTdzbWRpeTdWaVdaZmlRbVhfRVd5X0hPYWZxeXNVbnZfTW1IUEZzQjhJVHh5V24wRl9DNEdNZnQ3RkZaWTNWTjVUWER1Ym1lUTlOaGw1M0ctb092UFJDMnk0NDV3OEZFemRKcHo3dGVlbVdQQlhTLUVFc2xfT2pJLXRBSlRreUhsR21GRWU2TlVERThQUGk1R0dYcF9FRVdfSTFwdHd3d1BnbWhwSlhwS09GakJpNkZNdW9iNE1GUkNZeXRUNFdFeUpucF9jOUUzRQ?oc=5",
+            "publishedAt": "2026-08-09T16:31+00:00"
           }
         ],
         "hiring": [],
@@ -567,10 +560,10 @@
             "publishedAt": "2026-08-06T09:52+00:00"
           },
           {
-            "title": "Trigger-Lock Child-Resistant Caps Market to Reach 170 Index by 2035 on Biopharma Traceability Demands - IndexBox",
+            "title": "Plastic Carboys for Liquid Storage Market Single-Use Biopharma and Energy Storage Drive 6.8% CAGR to 2035 - News and Statistics - IndexBox",
             "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGE1VkdiWjJIYXk3QUpuU3d6QWZkR3cxY05yR1N0MUoxdUJBS0ZmcmpPUm0zNGFXRzVlQ1dDMlJOajdNeWJDb1Z6S3R0OHdfcWhtS1Rid0ZmbFlHS2NySDQzMG5TeHNIa2ZxdEcyZXVObGtNZlJpOHpVc19qMkFrNEY5RWI2NWo4dG8ydTQ4T0daRHdVOTVHYTlnMnplZFFLVFE1ZHp3cHFQb1JEUjZfWGxVbEtEeTFjeW05LXo4OUV3a09QS3Zla3RuWQ?oc=5",
-            "publishedAt": "2026-08-10T09:06+00:00"
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOE80SXJ2ejFHY2RtaEFXaXc1OTdzbWRpeTdWaVdaZmlRbVhfRVd5X0hPYWZxeXNVbnZfTW1IUEZzQjhJVHh5V24wRl9DNEdNZnQ3RkZaWTNWTjVUWER1Ym1lUTlOaGw1M0ctb092UFJDMnk0NDV3OEZFemRKcHo3dGVlbVdQQlhTLUVFc2xfT2pJLXRBSlRreUhsR21GRWU2TlVERThQUGk1R0dYcF9FRVdfSTFwdHd3d1BnbWhwSlhwS09GakJpNkZNdW9iNE1GUkNZeXRUNFdFeUpucF9jOUUzRQ?oc=5",
+            "publishedAt": "2026-08-09T16:31+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -587,7 +580,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "SupplyOne Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
@@ -644,7 +637,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "Hannah Bell, Performance Vehicle Works Racing Hope Third Time\u2019s the Charm at Tri-County Speedway - Catchfence",
@@ -686,7 +679,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [
           {
             "title": "Sonoco names global consumer packaging leader amid restructuring - Packaging Dive",
@@ -751,7 +744,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-08-11T14:32+00:00",
+        "lastUpdated": "2026-08-12T14:32+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -763,8 +756,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-11T14:32+00:00",
-  "lastSuccessfulAt": "2026-08-11T14:32+00:00",
+  "lastAttemptedAt": "2026-08-12T14:32+00:00",
+  "lastSuccessfulAt": "2026-08-12T14:32+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

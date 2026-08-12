@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T14:32+00:00",
+  "lastUpdated": "2026-08-12T14:32+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "5 km NNW of Pinnacles, CA",
+      "region": "10 km SE of Winchester, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "41 km SSW of Karluk, Alaska",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "5 km NW of San Jacinto, CA",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km N of Volcano, Hawaii",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "63 km WNW of Happy Valley, Alaska",
+      "region": "62 km ENE of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "47 km ESE of Naalehu, Hawaii",
+      "region": "8 km NNW of Mojave, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SSE of P\u0101hala, Hawaii",
+      "region": "4 km NW of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "59 km E of Egegik, Alaska",
+      "region": "2 km ENE of Colton, CA",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued August 11 at 2:17AM PDT until August 12 at 1:00AM PDT by NWS Eureka CA",
-      "region": "Northern Coastal Humboldt",
-      "severity": "Minor"
+      "type": "Earthquake",
+      "region": "3 km SW of P\u0101hala, Hawaii",
+      "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued August 11 at 1:37AM PDT until August 12 at 11:00PM PDT by NWS San Diego CA",
+      "type": "Special Weather Statement issued August 12 at 7:13AM PDT by NWS Hanford CA",
+      "region": "Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Special Weather Statement issued August 12 at 7:11AM PDT by NWS Hanford CA",
+      "region": "Visalia - Porterville - Reedley; Fresno-Tulare Foothills",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Special Weather Statement issued August 12 at 7:10AM PDT by NWS Hanford CA",
+      "region": "Mariposa-Madera Lower Sierra; Yosemite NP outside of the valley; Upper San Joaquin River",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Coastal Flood Advisory issued August 12 at 2:16AM PDT until August 12 at 11:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Minor"
-    },
-    {
-      "type": "Coastal Flood Advisory issued August 10 at 10:18PM PDT until August 13 at 2:00AM PDT by NWS San Francisco CA",
-      "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Minor"
-    },
-    {
-      "type": "Coastal Flood Advisory issued August 10 at 8:58PM PDT until August 13 at 12:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
       "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-11T14:32+00:00",
-  "lastSuccessfulAt": "2026-08-11T14:32+00:00",
+  "lastAttemptedAt": "2026-08-12T14:32+00:00",
+  "lastSuccessfulAt": "2026-08-12T14:32+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

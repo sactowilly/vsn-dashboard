@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T14:32+00:00",
+  "lastUpdated": "2026-08-12T14:32+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,10 +14,24 @@
   ],
   "stories": [
     {
-      "title": "Tracking Plastic Act proposes advancing recycled content standards - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3U1Nlh0aTNsNG5GaUNFdzA5QWdyX1N2LVB3aHpESjVKYlhSQmtTanhJdzctMW5FQmpzV1I1ZFRKYmxXdk12bDZweWl0WThVVEV6UC1LNC12d0FlM2pwNFhEcFk5VlNiX0JoOUZxZEMzLUJjUEtrZHZPTU1yRmxEdEhGc0pLZGdaaTR5R3RQcEFzdE9wV0F3dUpKQzlidXBiTllxSkc0NE82Q19ZdWVOZmU5MFA?oc=5",
-      "publishedAt": "2026-08-03T16:21+00:00",
+      "title": "California grocery prices could rise as plastic packaging law takes effect - foxbusiness.com",
+      "source": "foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGpIR056U1RybG1VREdSOXZxTmY1bHk4WndIVHJPaU02dHB6ZVVxRmw1T2RQWkhKVXlOMENwWWQ0aDlqQUlQRkdYSnl0S0JIWTBoeW1fRm13UWFUX1J1c0trenpUX043eFVzTUxSRDJmeFBIY1pOcDNrSXBESDBvdzJlVjRySU9RZ09jQtIBkgFBVV95cUxOak1qOW5aZ0pjaFNoMVNjN0VnRWsxc3lIX0g5bFJubzNEMUtTNDNHLXJYWHVUbE5XLWR4SF96d3JsUDJGbGpYaUF6eTNNeVBRR243SWtXYm1MLUtUZVd4U2FFZzRRdFNTZ2RSNGFvcy0tcFdRVHlramNTNjFsUE9jWWNoWFFBQ3JwcW5hWUVlaFhKQQ?oc=5",
+      "publishedAt": "2026-07-15T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "New EU rules on packaging enter into application - environment.ec.europa.eu",
+      "source": "environment.ec.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdS1FRmRVZEtIZFA2Yng4czVjUkZqVjkzblhXRHIxcXFOSF9IMzVSQ0FiY2kxaUhZOEV3VVZJNDV5ZkRxM0JMcllnVlJvLXM5elpWVXpQUktocTdtRWxMa3lMLTg0UkN1aDd2ZHhHaWN5UzgtRVJTSUFzVjhXdmE0d0NzcnpHZXVFMDVzdnROYkVhMzFwMGlB?oc=5",
+      "publishedAt": "2026-08-12T09:37+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "EU packaging rules take effect with limits on 'forever chemicals', plastics curbs - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGYyZ2lqVDNPcU55TXU5dlozM21zb1l6aHR3YlE5a3REX2gyNkRZVEg2NmgxU0oyLW5qMWJscElRd2lxaWVpaG1mZjRqa0EtZ2NVaUFLbUQ0ZTA3amtrZWlYR2lvLUs4WGNyY0s5UnlBMlNxZEdBc281ZVRweUR5Tl9VQkM5S2NYcWhhTy1JU1lSVTI5M3lMQS1sQ0pxR3IyVllsV013OHZQR3hJQ1NTUjVZQjZld0loZnpsZ0poamszUDQxUEdxTWtLLWk?oc=5",
+      "publishedAt": "2026-08-11T15:28+00:00",
       "impact": "Low"
     },
     {
@@ -28,6 +42,13 @@
       "impact": "Low"
     },
     {
+      "title": "More producers announce price hikes for containerboard, boxboard - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHRHUFJnRHkyNEg0ODRNamhwYmMwWjlJcjlUOGZMRWdEZmpRNGd0aHR2SVNHYUh5bDV3X1BTSm9CRWIxb0VUU0FEUnRxbmJEck8zcVBrejFQQ1hMNExxZjBWS3FZcDUyYXFMYjY0S1U1SkR6NkUtZ2doZTMwOVk5RU9xLUxMR0U1di10UFh0aXcwamJnaUh1T3AzSGtSS001b0VBVkZyelVmdk8yRXl5c0EtM05tNkZrdnc?oc=5",
+      "publishedAt": "2026-07-28T07:00+00:00",
+      "impact": "Medium"
+    },
+    {
       "title": "IFC Invests US$20 Million in Pakistan's Plastic Packaging Sector to Strengthen Export Competitiveness and Sustain Jobs - International Finance Corporation (IFC)",
       "source": "International Finance Corporation (IFC)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1kyYk1BcDdpamVEZ0tTTk5fcE5QeUd2WnhrbzRMUnhUQTEyd2Zvbm9oaU41ZDdMbWIxR1RxRkFoaDBXVWtqN0tqa2k2eUN5UFpSY2RWZFJ2RE1JeXJKQmh0R2JycjZpMUFodjBfb2VJMnNiUVgxNzlFcXpRM1BzZjd5N3RnaEJtWFdnemgzNkRLVEZtYVZkTUIwbUhDSFFSX3JIeXFMU24zb0xXTDJFamVUd05EMTFBaWhSRw?oc=5",
@@ -35,45 +56,24 @@
       "impact": "High"
     },
     {
-      "title": "A celebration of packaging - Plastics News",
-      "source": "Plastics News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckVHUkxoeW1YRGlQbFlfUUEtbDJWeHlDQmtoalFZdUI4TV9vYjVKczZLWHdRaDVJUGc4N1JndmN6ZE92bVFSaS1fNDcwUW5TempkZUd2Sm5uWHhaNkdoTVQ5SjVWUzlJMGtTTVc3QzFqRjFDMWQ5eWFXRDN1TFpXb3N1UE5QZTUtRl85VDRKRUtOZFU?oc=5",
-      "publishedAt": "2026-08-04T11:46+00:00",
-      "impact": "Low"
+      "title": "Key Container Forms Advisory Board to Support Corrugated Packaging Growth - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGQwTzFEVXNkUGxGRkZYOENOa09DQy1PTFlYSHBleHVoZmpfTTEwZW5jaGljYlM4ZlotUEJmalBTTjU5UG40MGl5Sk1ZVFI3Vk9fQXNWLTQ0ZFFSNlFRTTM3R2pLQzdwMFVHSHk1V2hCem1kSE1NZnJoRnkzbEpZQ0RTaFNZaksxR19nbVo3WWtmNFdIZUhZRy1JZFBmUTU4QTNIbG1DVWVEVlNidGtvNnN3?oc=5",
+      "publishedAt": "2026-08-05T18:18+00:00",
+      "impact": "Medium"
     },
     {
-      "title": "Graphic Packaging Holding Company Reports Second Quarter 2026 Financial Results - PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR09NWl9BRkVoWVNzaWljU0JkRmJHNkpHcVBUQ25scm0zNW5qQkJRUFlXdi1oTndJS2FzaU91d3JRd0Y2Wm1pdzdHbWxObVY5RlB2NXRaYTZ0VFhPVEFRd2JOYjNZSVFCdEpUampEWFBJSUxjVVVPc2Y4OE1NbkljdklBQl9rQlBtNlZwSTIzckJYQmxZalJodlBBTnNBbUhyUkd2TjZDSXVXeWRDTTdZRTNIa1Z1TGxuVGhCa3ZPTklaNDVxaFhZXzRTTGRnSEZT?oc=5",
-      "publishedAt": "2026-08-04T10:30+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "New packaging rules set to enter into application furthering protect consumers - environment.ec.europa.eu",
-      "source": "environment.ec.europa.eu",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcENkeUF3X2VEOW55ZVJWM2ZxYUhrQmxIYWkyZlFycXQ3UnE1Ukd6c3FBV2U5Uk1LNVBNVmd1VVROYmtaT25RSi1YRTBvWGRpX3dBNG1vUnN2dXk3MmRtYlVmSjJwNXVWMVF2WmVMMGwwOXJtSlFQWXJIZFhUUGRJSFgyNm1uT3E4dHp3RldKQ0ZHSXIxTGZzYkh0UU4?oc=5",
-      "publishedAt": "2026-08-11T10:04+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Paper-based flexibles: from vision to action - Ellen MacArthur Foundation",
-      "source": "Ellen MacArthur Foundation",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcG9ORV9mWmVrc2E1MlpPQ0Z5a2thUThaUUZNdWFKYUwyb3Z0OHNfRi1ZN01qWEVDeHFHeTV2ZmNfeU9BMExPcklXcEVRdnFDbzFIcFJPZkxIc2VudVgxQ0JBVWw3SEdzckxOYlZ0RDB6UElvU3FndkFBZHFjSTdlVzk5akFFSTF5Y1kwNkNXd3U4aFpwU1hfcA?oc=5",
-      "publishedAt": "2026-08-04T09:31+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "APR Launches Digital Platform to Help Assess Recyclability of Plastic Packaging - Packaging Strategies",
-      "source": "Packaging Strategies",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTFVHUkIwZThoZFU3MVgtUmdleTlsMnlJOHJCYXNLVnBuMFFiSFZWSTRsSDBNR0NIWGZJaks1SE5qMktFRmptajZudk05NWZhM1N2TEtpaEhkNlVwLVdWTDRlLWZvZGdUY0lLcWpoTHdteDhpR2RZVlByaHU0V0lzbUdhQzdtQy1ESzJINFc4RFhIZ3hGYXhWWi1MRUxTNko4N0lCWlVOdGs5Y01aTDg4UzZuRDZmSU0tS0ZDYkFKVEIwaWplNDJreHROQQ?oc=5",
-      "publishedAt": "2026-08-07T04:00+00:00",
+      "title": "APR simplifies design assessment with new tool - Recycling Product News",
+      "source": "Recycling Product News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMk4xaXFrX3FUazlDdU9mRk1BRm9Fek0teERpWXBCMS03Vnl6UDJ0amlkeU11MEp5OVhKU05QYlJnMER3ZDJMbkdFQnRlNFc4UVBiWXlwNlpFZGwzb2w0cTNrUXR4SWtmNU1TOUJkeGhKUDh3emt2eE92M0NEd19zaTFRSGU3VUdGNTlCVHp5VVVDa1l0cnprWkV5TDJIY19mTWg3X3oxenE4UnB2QmdfbkJwaEp4cUppZy0zR3NOQmoxVzF6?oc=5",
+      "publishedAt": "2026-08-07T17:06+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-11T14:32+00:00",
-  "lastSuccessfulAt": "2026-08-11T14:32+00:00",
+  "lastAttemptedAt": "2026-08-12T14:32+00:00",
+  "lastSuccessfulAt": "2026-08-12T14:32+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
