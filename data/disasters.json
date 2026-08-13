@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T14:32+00:00",
+  "lastUpdated": "2026-08-13T14:34+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,59 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "10 km SE of Winchester, CA",
+      "region": "3 km SE of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NW of The Geysers, CA",
+      "region": "2 km E of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NW of The Geysers, CA",
+      "region": "3 km ENE of Borrego Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "62 km ENE of Pedro Bay, Alaska",
+      "region": "55 km NW of Kalaoa, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NNW of Mojave, CA",
+      "region": "25 km SW of Bodfish, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km NW of Pinnacles, CA",
+      "region": "29 km SE of Minto, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km ENE of Colton, CA",
+      "region": "60 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SW of P\u0101hala, Hawaii",
-      "severity": "Low"
+      "region": "45 km SSW of Angoram, Papua New Guinea",
+      "severity": "High"
     },
     {
-      "type": "Special Weather Statement issued August 12 at 7:13AM PDT by NWS Hanford CA",
-      "region": "Hanford - Corcoran - Lemoore; Visalia - Porterville - Reedley",
-      "severity": "Moderate"
+      "type": "Flood Watch issued August 13 at 4:06AM PDT until August 13 at 9:00PM PDT by NWS Reno NV",
+      "region": "Mono; Mineral and Southern Lyon Counties",
+      "severity": "Severe"
     },
     {
-      "type": "Special Weather Statement issued August 12 at 7:11AM PDT by NWS Hanford CA",
-      "region": "Visalia - Porterville - Reedley; Fresno-Tulare Foothills",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Special Weather Statement issued August 12 at 7:10AM PDT by NWS Hanford CA",
-      "region": "Mariposa-Madera Lower Sierra; Yosemite NP outside of the valley; Upper San Joaquin River",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Coastal Flood Advisory issued August 12 at 2:16AM PDT until August 12 at 11:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Minor"
+      "type": "Red Flag Warning issued August 12 at 11:04AM PDT until August 13 at 9:00PM PDT by NWS Sacramento CA",
+      "region": "Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
+      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-12T14:32+00:00",
-  "lastSuccessfulAt": "2026-08-12T14:32+00:00",
+  "lastAttemptedAt": "2026-08-13T14:34+00:00",
+  "lastSuccessfulAt": "2026-08-13T14:34+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

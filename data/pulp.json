@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-12T14:32+00:00",
+  "lastUpdated": "2026-08-13T14:34+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly market action + proxy",
-  "whatChanged": "Containerboard +$50/ST is the operating market action; proxy moved +1.7 index points versus the prior published month.",
+  "whatChanged": "Containerboard +$50/ST is the operating market action; proxy moved +5.5 index points versus the prior published month.",
   "sourceLinks": [
     {
       "label": "FRED Pulp, Paper, and Allied Products PPI",
@@ -38,7 +38,7 @@
     "Proxy refreshed from FRED Pulp, Paper, and Allied Products PPI.",
     "Use market action for pricing conversations; use proxy as directional context only."
   ],
-  "currentDeltaIndex": 1.67,
+  "currentDeltaIndex": 5.47,
   "marketAction": {
     "label": "Containerboard +$50/ST",
     "market": "North American containerboard",
@@ -136,10 +136,6 @@
   ],
   "series": [
     {
-      "date": "2025-07",
-      "value": 224.831
-    },
-    {
       "date": "2025-08",
       "value": 226.231
     },
@@ -169,25 +165,29 @@
     },
     {
       "date": "2026-03",
-      "value": 200.434
+      "value": 200.495
     },
     {
       "date": "2026-04",
-      "value": 201.714
+      "value": 202.147
     },
     {
       "date": "2026-05",
-      "value": 202.414
+      "value": 204.061
     },
     {
       "date": "2026-06",
-      "value": 204.086
+      "value": 207.689
+    },
+    {
+      "date": "2026-07",
+      "value": 213.155
     }
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-12T14:32+00:00",
-  "lastSuccessfulAt": "2026-08-12T14:32+00:00",
+  "lastAttemptedAt": "2026-08-13T14:34+00:00",
+  "lastSuccessfulAt": "2026-08-13T14:34+00:00",
   "sourceLimitations": [
     "Containerboard market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
     "This is not a supplier-specific quote and may not match every mill, sheet plant, grade, or customer contract.",
