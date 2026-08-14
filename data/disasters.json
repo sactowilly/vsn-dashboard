@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T14:34+00:00",
+  "lastUpdated": "2026-08-14T14:27+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,59 +19,54 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "3 km SE of The Geysers, CA",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km E of The Geysers, CA",
+      "region": "9 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km ENE of Borrego Springs, CA",
+      "region": "10 km NW of Parkfield, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "55 km NW of Kalaoa, Hawaii",
+      "region": "4 km S of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "25 km SW of Bodfish, CA",
+      "region": "4 km WSW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "29 km SE of Minto, Alaska",
+      "region": "3 km NNE of City of Sammamish, Washington",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "60 km S of Whites City, New Mexico",
+      "region": "26 km NNW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "45 km SSW of Angoram, Papua New Guinea",
-      "severity": "High"
+      "region": "12 km S of Lompoc, CA",
+      "severity": "Low"
     },
     {
-      "type": "Flood Watch issued August 13 at 4:06AM PDT until August 13 at 9:00PM PDT by NWS Reno NV",
-      "region": "Mono; Mineral and Southern Lyon Counties",
-      "severity": "Severe"
-    },
-    {
-      "type": "Red Flag Warning issued August 12 at 11:04AM PDT until August 13 at 9:00PM PDT by NWS Sacramento CA",
-      "region": "Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
-      "severity": "Severe"
+      "type": "Air Quality Alert issued August 13 at 4:01PM PDT by NWS San Diego CA",
+      "region": "Coachella Valley; San Gorgonio Pass Near Banning",
+      "severity": "Unknown"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-13T14:34+00:00",
-  "lastSuccessfulAt": "2026-08-13T14:34+00:00",
+  "lastAttemptedAt": "2026-08-14T14:27+00:00",
+  "lastSuccessfulAt": "2026-08-14T14:27+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T14:34+00:00",
+  "lastUpdated": "2026-08-14T14:27+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,18 +14,18 @@
   ],
   "stories": [
     {
-      "title": "California grocery prices could rise as plastic packaging law takes effect - Fox Business",
-      "source": "Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGpIR056U1RybG1VREdSOXZxTmY1bHk4WndIVHJPaU02dHB6ZVVxRmw1T2RQWkhKVXlOMENwWWQ0aDlqQUlQRkdYSnl0S0JIWTBoeW1fRm13UWFUX1J1c0trenpUX043eFVzTUxSRDJmeFBIY1pOcDNrSXBESDBvdzJlVjRySU9RZ09jQtIBkgFBVV95cUxOak1qOW5aZ0pjaFNoMVNjN0VnRWsxc3lIX0g5bFJubzNEMUtTNDNHLXJYWHVUbE5XLWR4SF96d3JsUDJGbGpYaUF6eTNNeVBRR243SWtXYm1MLUtUZVd4U2FFZzRRdFNTZ2RSNGFvcy0tcFdRVHlramNTNjFsUE9jWWNoWFFBQ3JwcW5hWUVlaFhKQQ?oc=5",
-      "publishedAt": "2026-07-15T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "EU packaging rules take effect with limits on 'forever chemicals', plastics curbs - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGYyZ2lqVDNPcU55TXU5dlozM21zb1l6aHR3YlE5a3REX2gyNkRZVEg2NmgxU0oyLW5qMWJscElRd2lxaWVpaG1mZjRqa0EtZ2NVaUFLbUQ0ZTA3amtrZWlYR2lvLUs4WGNyY0s5UnlBMlNxZEdBc281ZVRweUR5Tl9VQkM5S2NYcWhhTy1JU1lSVTI5M3lMQS1sQ0pxR3IyVllsV013OHZQR3hJQ1NTUjVZQjZld0loZnpsZ0poamszUDQxUEdxTWtLLWk?oc=5",
       "publishedAt": "2026-08-11T15:28+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "IFC Invests US$20 Million in Pakistan's Plastic Packaging Sector to Strengthen Export Competitiveness and Sustain Jobs - International Finance Corporation (IFC)",
+      "source": "International Finance Corporation (IFC)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1kyYk1BcDdpamVEZ0tTTk5fcE5QeUd2WnhrbzRMUnhUQTEyd2Zvbm9oaU41ZDdMbWIxR1RxRkFoaDBXVWtqN0tqa2k2eUN5UFpSY2RWZFJ2RE1JeXJKQmh0R2JycjZpMUFodjBfb2VJMnNiUVgxNzlFcXpRM1BzZjd5N3RnaEJtWFdnemgzNkRLVEZtYVZkTUIwbUhDSFFSX3JIeXFMU24zb0xXTDJFamVUd05EMTFBaWhSRw?oc=5",
+      "publishedAt": "2026-08-07T15:55+00:00",
+      "impact": "High"
     },
     {
       "title": "Everyday packaging plastic may compound fatty liver risk from burgers and sodas - Medical Xpress",
@@ -35,13 +35,6 @@
       "impact": "Low"
     },
     {
-      "title": "IFC Invests US$20 Million in Pakistan's Plastic Packaging Sector to Strengthen Export Competitiveness and Sustain Jobs - ifc.org",
-      "source": "ifc.org",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1kyYk1BcDdpamVEZ0tTTk5fcE5QeUd2WnhrbzRMUnhUQTEyd2Zvbm9oaU41ZDdMbWIxR1RxRkFoaDBXVWtqN0tqa2k2eUN5UFpSY2RWZFJ2RE1JeXJKQmh0R2JycjZpMUFodjBfb2VJMnNiUVgxNzlFcXpRM1BzZjd5N3RnaEJtWFdnemgzNkRLVEZtYVZkTUIwbUhDSFFSX3JIeXFMU24zb0xXTDJFamVUd05EMTFBaWhSRw?oc=5",
-      "publishedAt": "2026-08-07T15:55+00:00",
-      "impact": "High"
-    },
-    {
       "title": "Independent box making group decries containerboard price increases - Packaging Dive",
       "source": "Packaging Dive",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGRURzlCcnZEOTNURm9GV0w2TWxpX2lELWktZHlvM3hYaDR6RDd5TlJRXzhKb2l4ejF5YlZvSmhrMFF2aGFQOUJ3Z2JyUzRrNUVyYmNPSmNOOWY2cFRHaGE3Umtqbk5MaGU1RGpMbWx6X0VwdV9iRnNzeF9VczRFTTZuWEpWMzREXzRITXotc0hhdWZFMnpZbTBKOHUwT2ZHWnplbW9qUDhhN3hfbXY0bXRXZ1VZNThJM3JscmtRY3N4NnMzdm5zVWR3?oc=5",
@@ -49,31 +42,38 @@
       "impact": "Medium"
     },
     {
-      "title": "New EU rules on packaging enter into application - environment.ec.europa.eu",
-      "source": "environment.ec.europa.eu",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdS1FRmRVZEtIZFA2Yng4czVjUkZqVjkzblhXRHIxcXFOSF9IMzVSQ0FiY2kxaUhZOEV3VVZJNDV5ZkRxM0JMcllnVlJvLXM5elpWVXpQUktocTdtRWxMa3lMLTg0UkN1aDd2ZHhHaWN5UzgtRVJTSUFzVjhXdmE0d0NzcnpHZXVFMDVzdnROYkVhMzFwMGlB?oc=5",
-      "publishedAt": "2026-08-12T09:37+00:00",
+      "title": "New packaging rules for less waste and easier recycling - European Commission",
+      "source": "European Commission",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHd1ZDg2cTA1Ukt1VjR1SFZTQlk5Z21IVEYyMVVNSUdpcDdNRWVxSnU5RmtUSi1sc2RnV1puU3JqVXdXTFBmcDd0LUJHLW5HaUNULWw4bEdwUUFGZG9JT1N0bFZOY3E1WmZaeGVoMDNtbEd1Y3ZCRFAwUlFsQWhsNEhZM1BNZDRhRHdQLWY5Y0xoZElHeXQxaUFuMDJfaUhvLVVYWVRTd21OTTduTDVvQ2pONUo?oc=5",
+      "publishedAt": "2026-08-12T08:11+00:00",
       "impact": "Low"
     },
     {
-      "title": "EU waste packaging rules: Why small businesses are worried - dw.com",
-      "source": "dw.com",
+      "title": "UFP Packaging Grows South Carolina Footprint with New Cherokee County Operation - Greenville Business Magazine",
+      "source": "Greenville Business Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHRsbzFPN2dLZWpBMzNrczFfeDFfM2lEN2FjYXR5Y0plTE5yR0dIWmNuTDM1ZV8zQUhMdDhncEV2SXQ0YktfN0NLeG85SEt2clJsMUhycHYxZlI5ek1tU25sV2VHTUNUMWVEa0N0RjBYMTBKYjBHOFUtZ0FpUGpLSWlBVDQ2TFdhS2pYcDIyUmFtWkxvem9JODk5UUtCdlpqM2pWT1ZPUEctMF9kY20zcFBIN3JadnlOZGtuQkxqZXRYS1Ezc0M1LWhfcw?oc=5",
+      "publishedAt": "2026-08-13T20:34+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "New EU Sustainable Packaging Rules Enter into Force - ESG Today",
+      "source": "ESG Today",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNE5IUlNOcmVvZzhtTU0ycVdhU3B6Zzg2RGwyd0ZnekNoQmpRT21QQnZhenYtYmdweDRsNXlqOHNUbWZ4MDdLdGpGMGswX0VGcURZb2FISHB2R2NFemF0WUEtVmtrNE5xal9tdjZqZFgzTlRCczFnMGxYeFdmY0oxejZUSQ?oc=5",
+      "publishedAt": "2026-08-12T16:41+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "EU waste packaging rules: Why small businesses are worried - DW.com",
+      "source": "DW.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVhwUjh5LWI2NDc0UjFuSnAyajhJTEFpVVJUbm5Ocm9VVVJyTmxkZVBxT1o4NzNwNTltS0Z0OHZ3czJURE1oMlpVb2VWS0dpODVRTE5CdUFhQTk1WHdBY0RhRlNMbHdvbE5BeHh5UDFtdEt3MDJock5IR21YcklXU01KaGFKQTZEdmNBTDhFQlVtRFlwN2pzNGJqZWxxaFNWZUNfeWNjVGR3S1lsa1BndGpfZldoYjMtOFHSAboBQVVfeXFMUF90YVF4SzZDZ1hyanJETmZIa2syZm5LME1tbElRLUN2N0lLS0poZmJDMmZMTVVVRkx1NHE5Wm9QWjhQZ2Q1aFhlc3VST1pzMlpNYzF0RW9wTml1QmFwOEtMTEFHc2Zub3NRRFk2T2U3ek55c21jNkFmNmEwLVJLOGxGOVRBSDk4RUhQLW9BZkh2T2dQQlEzTHYxZzNxTUJ0RG1LWVBSUjBHRV94R0kydkdCT3FHeC1TUUxn?oc=5",
-      "publishedAt": "2026-08-12T21:27+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "GreenDot and Duo Plast AG receive German Packaging Award 2026 - Recycling Today",
-      "source": "Recycling Today",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNm5RSGFyYnRHQTgyZ093eWJVUkRUbUJyVmxmU0ktbG5oc3RibmdtQWI3cGQ3b1NJSVd4XzlJTFdOaXRobUt2M21KVU9yaHlGTGZuc0dpM1JneVpueXFUc19qWnpTSk8wM250WFQ4QUtpazMtR3owSWV3WTBVVXBZVlpHNEZmcExPc3RPSFV3TnpmMWpwb3VUc01HY1l2ZlU?oc=5",
-      "publishedAt": "2026-08-12T21:00+00:00",
+      "publishedAt": "2026-08-12T14:29+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-13T14:34+00:00",
-  "lastSuccessfulAt": "2026-08-13T14:34+00:00",
+  "lastAttemptedAt": "2026-08-14T14:27+00:00",
+  "lastSuccessfulAt": "2026-08-14T14:27+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

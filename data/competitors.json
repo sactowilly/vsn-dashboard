@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T14:34+00:00",
+  "lastUpdated": "2026-08-14T14:27+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
             "title": "PCA\u2019s $140/ton containerboard price increase considered unprecedented - Packaging Dive",
@@ -83,8 +83,14 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
+          {
+            "title": "Veritiv Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+            "source": "Revelio Labs",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TcktsVlMyUmtCc3NVeHFWczdiUFNVZEtuRTNMV3BwaHhUeFd1a1NIN3Y4YnFaNXBNMnhCVkFkMTBiaHpVMHZySThSX3RyWFVkUWc0anR4VnFJRUNrUTlNc2ZiaWdTdw?oc=5",
+            "publishedAt": "2026-07-28T17:13+00:00"
+          },
           {
             "title": "Top 20 Supply Chain AI Tools with Examples - AIMultiple",
             "source": "AIMultiple",
@@ -103,6 +109,12 @@
         ],
         "moves": [],
         "items": [
+          {
+            "title": "Veritiv Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+            "source": "Revelio Labs",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TcktsVlMyUmtCc3NVeHFWczdiUFNVZEtuRTNMV3BwaHhUeFd1a1NIN3Y4YnFaNXBNMnhCVkFkMTBiaHpVMHZySThSX3RyWFVkUWc0anR4VnFJRUNrUTlNc2ZiaWdTdw?oc=5",
+            "publishedAt": "2026-07-28T17:13+00:00"
+          },
           {
             "title": "Top 20 Supply Chain AI Tools with Examples - AIMultiple",
             "source": "AIMultiple",
@@ -124,8 +136,14 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
+          {
+            "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
+            "source": "Cleaning & Maintenance Management",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
+            "publishedAt": "2026-08-12T08:22+00:00"
+          },
           {
             "title": "UBC Seaweed-derived Coating Keeps Strawberries Fresher Than a Fridge - foodmanufacturing.com",
             "source": "foodmanufacturing.com",
@@ -142,6 +160,12 @@
         "hiring": [],
         "moves": [],
         "items": [
+          {
+            "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
+            "source": "Cleaning & Maintenance Management",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
+            "publishedAt": "2026-08-12T08:22+00:00"
+          },
           {
             "title": "UBC Seaweed-derived Coating Keeps Strawberries Fresher Than a Fridge - foodmanufacturing.com",
             "source": "foodmanufacturing.com",
@@ -169,7 +193,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
             "title": "Uline Net 30: Terms, Application, and Credit Bureau Reporting - nav.com",
@@ -184,10 +208,10 @@
             "publishedAt": "2026-08-05T08:47+00:00"
           },
           {
-            "title": "Uline Hiring Event Offers Stable Career Growth in Irving - North Dallas Gazette",
-            "source": "North Dallas Gazette",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1pzTGN4eUFuMmhtcTlwUXI0WmFETmpXZmNRZ1d4bm5VNkU4bEhPYmZTMlg2UExvSnY3d0VnV3I2b3J3UkxmR2IzcElqOTgzSHpIRllxNHZ5S29HeWlna1h3ZENFNV9GTjh1MEZxRDFadDYzbms5LXdPcVZxTFM3cFlaR25VQ2V3eFI2Rjg1T2JTY1BkeFM3aHZLcXAyVTUt?oc=5",
-            "publishedAt": "2026-07-30T00:08+00:00"
+            "title": "Uline Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+            "source": "Revelio Labs",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzd2ktV1AwZEhUSGNqTDM5Y3VqdE80ZExmUDRvSUNLUlZwUG0yLUtMMnBQT21KMHUxNEFlSXhybE9uQmhRZy03ZGNQdE1QSWc0MXdxWmNjb1lBXzJ2YXpCUk4xdw?oc=5",
+            "publishedAt": "2026-07-29T05:28+00:00"
           }
         ],
         "hiring": [
@@ -196,13 +220,6 @@
             "source": "Norwich Bulletin",
             "url": "",
             "publishedAt": "2026-08-05T08:47+00:00",
-            "linkStatus": "direct_job_link_unavailable"
-          },
-          {
-            "title": "Uline Hiring Event Offers Stable Career Growth in Irving - North Dallas Gazette",
-            "source": "North Dallas Gazette",
-            "url": "",
-            "publishedAt": "2026-07-30T00:08+00:00",
             "linkStatus": "direct_job_link_unavailable"
           }
         ],
@@ -221,10 +238,10 @@
             "publishedAt": "2026-08-05T08:47+00:00"
           },
           {
-            "title": "Uline Hiring Event Offers Stable Career Growth in Irving - North Dallas Gazette",
-            "source": "North Dallas Gazette",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1pzTGN4eUFuMmhtcTlwUXI0WmFETmpXZmNRZ1d4bm5VNkU4bEhPYmZTMlg2UExvSnY3d0VnV3I2b3J3UkxmR2IzcElqOTgzSHpIRllxNHZ5S29HeWlna1h3ZENFNV9GTjh1MEZxRDFadDYzbms5LXdPcVZxTFM3cFlaR25VQ2V3eFI2Rjg1T2JTY1BkeFM3aHZLcXAyVTUt?oc=5",
-            "publishedAt": "2026-07-30T00:08+00:00"
+            "title": "Uline Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+            "source": "Revelio Labs",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzd2ktV1AwZEhUSGNqTDM5Y3VqdE80ZExmUDRvSUNLUlZwUG0yLUtMMnBQT21KMHUxNEFlSXhybE9uQmhRZy03ZGNQdE1QSWc0MXdxWmNjb1lBXzJ2YXpCUk4xdw?oc=5",
+            "publishedAt": "2026-07-29T05:28+00:00"
           }
         ],
         "query": "\"Uline\" packaging OR corrugated OR distribution when:30d",
@@ -241,13 +258,13 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
-            "title": "International Paper to Close Carrollton South, Texas Packaging Facility - PR Newswire",
+            "title": "International Paper Reports Second Quarter 2026 Results - PR Newswire",
             "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHYwaFlubFdTZjdNeUgza1BWdFhTX1dJbkhTSDl6bE9VQ2doR1hXekRoX21mMWN6ZzNEb2x1U1c1WG1vYXh1dDhKOVZvUGlGZVhsc1lySkg3Rm9GVkhWZUZuRDFMNFU2MDY2VUFJd1F6VFhLY0t2RnBLRFVXZHQxM2JFdDY3VXFwN1BMdWF6TjY2N01ILW0zbXNqeW42UnNfRTNuT1JCZkYycDAzNnFLX3dzWWg4R21VWmpZOW5xSmZZNk5m?oc=5",
-            "publishedAt": "2026-07-16T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWE4WEFOSG9rbkhZdG1JUEZfazlhZXJsU2hHSTM4NkFiMTU0RE5fTmhhRHV6NW9SNEhDVHlpMk5fcUVlb0FMVllzdW43VFMyUWNOTTZiLWV0OHk5U3VwUVc4ZURWQklYOUtqLWxOQ2Q0VWFEeG5Dem0xbEc2SncxeURsV0NqakJ0LVgwSFlIUDFaNFd2ZjRkMXFKdTdoMWVudWF3QUtBeVJxeloxMHZHTQ?oc=5",
+            "publishedAt": "2026-07-30T07:00+00:00"
           },
           {
             "title": "International Paper to close Texas box plant - Packaging Dive",
@@ -265,12 +282,6 @@
         "hiring": [],
         "moves": [
           {
-            "title": "International Paper to Close Carrollton South, Texas Packaging Facility - PR Newswire",
-            "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHYwaFlubFdTZjdNeUgza1BWdFhTX1dJbkhTSDl6bE9VQ2doR1hXekRoX21mMWN6ZzNEb2x1U1c1WG1vYXh1dDhKOVZvUGlGZVhsc1lySkg3Rm9GVkhWZUZuRDFMNFU2MDY2VUFJd1F6VFhLY0t2RnBLRFVXZHQxM2JFdDY3VXFwN1BMdWF6TjY2N01ILW0zbXNqeW42UnNfRTNuT1JCZkYycDAzNnFLX3dzWWg4R21VWmpZOW5xSmZZNk5m?oc=5",
-            "publishedAt": "2026-07-16T07:00+00:00"
-          },
-          {
             "title": "International Paper to close Texas box plant - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVNmVFFjQTBnMTdManc4YkZYYnByUGVhTU9uNGRpY1p1dUxuMHBaTC1IbEE0MjF4ZV82aHF0VS1vTWViZzRXZENyZGhrRm9YMFNBOTFzTG9qdWRMMXE5b0htQ2JPWDFLbHZGQkYxUXBZUkhuVUdLMC1hOEV0V2FqZUNNUWVpRU5FTUFyODNsaVJqN2dqeFkydlU2MnFTNUMtejZvT2dTLS0?oc=5",
@@ -285,10 +296,10 @@
         ],
         "items": [
           {
-            "title": "International Paper to Close Carrollton South, Texas Packaging Facility - PR Newswire",
+            "title": "International Paper Reports Second Quarter 2026 Results - PR Newswire",
             "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHYwaFlubFdTZjdNeUgza1BWdFhTX1dJbkhTSDl6bE9VQ2doR1hXekRoX21mMWN6ZzNEb2x1U1c1WG1vYXh1dDhKOVZvUGlGZVhsc1lySkg3Rm9GVkhWZUZuRDFMNFU2MDY2VUFJd1F6VFhLY0t2RnBLRFVXZHQxM2JFdDY3VXFwN1BMdWF6TjY2N01ILW0zbXNqeW42UnNfRTNuT1JCZkYycDAzNnFLX3dzWWg4R21VWmpZOW5xSmZZNk5m?oc=5",
-            "publishedAt": "2026-07-16T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWE4WEFOSG9rbkhZdG1JUEZfazlhZXJsU2hHSTM4NkFiMTU0RE5fTmhhRHV6NW9SNEhDVHlpMk5fcUVlb0FMVllzdW43VFMyUWNOTTZiLWV0OHk5U3VwUVc4ZURWQklYOUtqLWxOQ2Q0VWFEeG5Dem0xbEc2SncxeURsV0NqakJ0LVgwSFlIUDFaNFd2ZjRkMXFKdTdoMWVudWF3QUtBeVJxeloxMHZHTQ?oc=5",
+            "publishedAt": "2026-07-30T07:00+00:00"
           },
           {
             "title": "International Paper to close Texas box plant - Packaging Dive",
@@ -317,7 +328,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
             "title": "Pratt Industries Turned B2B Prospecting into Million-Dollar Wins with ZoomInfo - Yahoo Finance",
@@ -382,7 +393,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
             "title": "Smurfit Westrock nearly sold out of most grades in \u2018tight\u2019 paper market - Packaging Dive",
@@ -391,10 +402,10 @@
             "publishedAt": "2026-07-29T07:00+00:00"
           },
           {
-            "title": "Smurfit WestRock Corrugated Box Facility, Washington, US - Packaging Gateway",
+            "title": "WestRock Corrugated Box Plant, Wisconsin, US - Packaging Gateway",
             "source": "Packaging Gateway",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkxQWkZHU1ZwRzhZNzRIcEpIVTQ5T3NNOF8wa2ZwWW9lcndFenlCdUNOaHNveFZSeFMyeHJPMUVpMVdiQUZSZXJ4ak9WdVpZLWFTdmRweWxBUVR1TjhXZEV6MlZiZUpTTmpUSkk5bGtNQk13Mm05X0tjbVZ1OHlJR3pUUzRLU2RrSGlnM1FkSTRONjRn?oc=5",
-            "publishedAt": "2026-07-17T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOak0xWGoyc0tVU2FubVc2V2JOT2NFS2cyMGlTVU5YT19ENkZIdVZwTURpUEVjdGhucUdDaGdMYjdRN0NocEZIbDFrMWloMHhYOThfc0RCazdOUWhVY19rdkJtZTRGU0lZcVlQX2pzNzloZG5kTTFIdlZuWU5tYXFkRXdYRWFaZkNfbVpsVXZMQkQ?oc=5",
+            "publishedAt": "2026-08-13T07:00+00:00"
           },
           {
             "title": "Smurfit Westrock develops paper-based World Cup packaging solutions for Coca-Cola China - Tissue Online North America",
@@ -406,10 +417,10 @@
         "hiring": [],
         "moves": [
           {
-            "title": "Smurfit WestRock Corrugated Box Facility, Washington, US - Packaging Gateway",
+            "title": "WestRock Corrugated Box Plant, Wisconsin, US - Packaging Gateway",
             "source": "Packaging Gateway",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkxQWkZHU1ZwRzhZNzRIcEpIVTQ5T3NNOF8wa2ZwWW9lcndFenlCdUNOaHNveFZSeFMyeHJPMUVpMVdiQUZSZXJ4ak9WdVpZLWFTdmRweWxBUVR1TjhXZEV6MlZiZUpTTmpUSkk5bGtNQk13Mm05X0tjbVZ1OHlJR3pUUzRLU2RrSGlnM1FkSTRONjRn?oc=5",
-            "publishedAt": "2026-07-17T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOak0xWGoyc0tVU2FubVc2V2JOT2NFS2cyMGlTVU5YT19ENkZIdVZwTURpUEVjdGhucUdDaGdMYjdRN0NocEZIbDFrMWloMHhYOThfc0RCazdOUWhVY19rdkJtZTRGU0lZcVlQX2pzNzloZG5kTTFIdlZuWU5tYXFkRXdYRWFaZkNfbVpsVXZMQkQ?oc=5",
+            "publishedAt": "2026-08-13T07:00+00:00"
           }
         ],
         "items": [
@@ -420,10 +431,10 @@
             "publishedAt": "2026-07-29T07:00+00:00"
           },
           {
-            "title": "Smurfit WestRock Corrugated Box Facility, Washington, US - Packaging Gateway",
+            "title": "WestRock Corrugated Box Plant, Wisconsin, US - Packaging Gateway",
             "source": "Packaging Gateway",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkxQWkZHU1ZwRzhZNzRIcEpIVTQ5T3NNOF8wa2ZwWW9lcndFenlCdUNOaHNveFZSeFMyeHJPMUVpMVdiQUZSZXJ4ak9WdVpZLWFTdmRweWxBUVR1TjhXZEV6MlZiZUpTTmpUSkk5bGtNQk13Mm05X0tjbVZ1OHlJR3pUUzRLU2RrSGlnM1FkSTRONjRn?oc=5",
-            "publishedAt": "2026-07-17T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOak0xWGoyc0tVU2FubVc2V2JOT2NFS2cyMGlTVU5YT19ENkZIdVZwTURpUEVjdGhucUdDaGdMYjdRN0NocEZIbDFrMWloMHhYOThfc0RCazdOUWhVY19rdkJtZTRGU0lZcVlQX2pzNzloZG5kTTFIdlZuWU5tYXFkRXdYRWFaZkNfbVpsVXZMQkQ?oc=5",
+            "publishedAt": "2026-08-13T07:00+00:00"
           },
           {
             "title": "Smurfit Westrock develops paper-based World Cup packaging solutions for Coca-Cola China - Tissue Online North America",
@@ -446,7 +457,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
             "title": "DS Smith develops packaging for Schneider Electric switchgear - Yahoo Finance",
@@ -455,10 +466,10 @@
             "publishedAt": "2026-07-29T07:00+00:00"
           },
           {
-            "title": "International Paper Expects to Separate Its EMEA Packaging Business - Morningstar",
-            "source": "Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZkQzkxWGVWV3hKUUg0R2ZTelZoaWN4dWJPOUVabDEyS3kzSXdGOWFRVDV5YkZqRTVZT01RbFFrTG9oQVZqRGpieDNOZzBWUkFTbmxQZHh1S0YwcEc1bU5nLTF3NmpVMTFpSXFZRFJQQ19VNnVIS0hwNTFHSFhEN0U2UVVSMWFZLVQwdk1MOFpwSHg3bTAxY3NGeGkxcm56Y2hFV25iZF9ydHRzY2tiV0VHRHV1akgzNWJR?oc=5",
-            "publishedAt": "2026-07-31T14:27+00:00"
+            "title": "New VPK Packaging StackIT single-piece corrugated pack recognised with UK Packaging Award shortlisting - Sustainable Packaging News",
+            "source": "Sustainable Packaging News",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrX250RGRTbUN6M1JHN2JYRXFnSjlyc2dWbHJSZ3pRcFpNTmtjTk9fckdqVExHYjEyQ29MOVdiMWk1RlFlN1haWWE5OWF4X0luVkHSAVxBVV95cUxPeHNhMEo0cnlfdVRlQkpxbkVkbkdSeGdhbFpzWndGdjlwUk8xZEN0NDRJMENzOG1yZURDZXNhUkFnUk1nZ1RURlhPb3NhWFM2Sm5MQjZNbG9EU0FMQQ?oc=5",
+            "publishedAt": "2026-08-14T02:41+00:00"
           },
           {
             "title": "Cardboard Recycling Market Growth Forecast 2026-2030 | $80.41B by 2030 - News and Statistics - IndexBox",
@@ -477,10 +488,10 @@
             "publishedAt": "2026-07-29T07:00+00:00"
           },
           {
-            "title": "International Paper Expects to Separate Its EMEA Packaging Business - Morningstar",
-            "source": "Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZkQzkxWGVWV3hKUUg0R2ZTelZoaWN4dWJPOUVabDEyS3kzSXdGOWFRVDV5YkZqRTVZT01RbFFrTG9oQVZqRGpieDNOZzBWUkFTbmxQZHh1S0YwcEc1bU5nLTF3NmpVMTFpSXFZRFJQQ19VNnVIS0hwNTFHSFhEN0U2UVVSMWFZLVQwdk1MOFpwSHg3bTAxY3NGeGkxcm56Y2hFV25iZF9ydHRzY2tiV0VHRHV1akgzNWJR?oc=5",
-            "publishedAt": "2026-07-31T14:27+00:00"
+            "title": "New VPK Packaging StackIT single-piece corrugated pack recognised with UK Packaging Award shortlisting - Sustainable Packaging News",
+            "source": "Sustainable Packaging News",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrX250RGRTbUN6M1JHN2JYRXFnSjlyc2dWbHJSZ3pRcFpNTmtjTk9fckdqVExHYjEyQ29MOVdiMWk1RlFlN1haWWE5OWF4X0luVkHSAVxBVV95cUxPeHNhMEo0cnlfdVRlQkpxbkVkbkdSeGdhbFpzWndGdjlwUk8xZEN0NDRJMENzOG1yZURDZXNhUkFnUk1nZ1RURlhPb3NhWFM2Sm5MQjZNbG9EU0FMQQ?oc=5",
+            "publishedAt": "2026-08-14T02:41+00:00"
           },
           {
             "title": "Cardboard Recycling Market Growth Forecast 2026-2030 | $80.41B by 2030 - News and Statistics - IndexBox",
@@ -503,7 +514,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
             "title": "Laminated Foam Cushioning Composite Market To Hit USD 13.6B by 2035, Driven by E-Commerce Packaging Demand - News and Statistics - IndexBox",
@@ -516,12 +527,6 @@
             "source": "TruckNet UK",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWRaX09uaTdQdENnSk1xXzRxVEp3RnFrM0J0TGJvUm83VnpwZ1N4T3Rxa3NneWtoS2IwRG5XREhMa3pMS3pLZmJwUUZNaTFEeXM4WEZweE83dEktQk5vSGpVQjhxd05zM2lMUk9nbWRaenRtZHplamRERUtJMzI0SlRsZHRDa2liZlctVnp5NnJNZw?oc=5",
             "publishedAt": "2026-08-07T07:00+00:00"
-          },
-          {
-            "title": "Medical Device Packaging Materials Market Set to Grow at a 6.1% - openPR.com",
-            "source": "openPR.com",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmhRamVLYl9EaXNVNkFua2dMeXR0cG5rNGJla1d4dDJIMEtSdWxBNXpINS1LaXUwa2NjOE5ZQTZRMVo5NzVGYmhNRVJXYXNXWG41d2VUZW5FWWtraDJiQU5OWnNCSFJXMTRRcUxmWDRiNm8zNkFpNkdSaWozc1JSYUZYNUVZT1FicWllcTF5X09LdlZzYURQT3hyNWlGWDA?oc=5",
-            "publishedAt": "2026-08-11T05:27+00:00"
           }
         ],
         "hiring": [],
@@ -538,12 +543,6 @@
             "source": "TruckNet UK",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWRaX09uaTdQdENnSk1xXzRxVEp3RnFrM0J0TGJvUm83VnpwZ1N4T3Rxa3NneWtoS2IwRG5XREhMa3pMS3pLZmJwUUZNaTFEeXM4WEZweE83dEktQk5vSGpVQjhxd05zM2lMUk9nbWRaenRtZHplamRERUtJMzI0SlRsZHRDa2liZlctVnp5NnJNZw?oc=5",
             "publishedAt": "2026-08-07T07:00+00:00"
-          },
-          {
-            "title": "Medical Device Packaging Materials Market Set to Grow at a 6.1% - openPR.com",
-            "source": "openPR.com",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmhRamVLYl9EaXNVNkFua2dMeXR0cG5rNGJla1d4dDJIMEtSdWxBNXpINS1LaXUwa2NjOE5ZQTZRMVo5NzVGYmhNRVJXYXNXWG41d2VUZW5FWWtraDJiQU5OWnNCSFJXMTRRcUxmWDRiNm8zNkFpNkdSaWozc1JSYUZYNUVZT1FicWllcTF5X09LdlZzYURQT3hyNWlGWDA?oc=5",
-            "publishedAt": "2026-08-11T05:27+00:00"
           }
         ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -560,19 +559,19 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
-            "title": "Berlin Packaging Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+            "title": "Footprint Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
             "source": "Revelio Labs",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBENFVSNllTTk9Ram5Lc3lIaUN6Y2p1WWY2TkR5aG1ELWFOcHB4elZtNmRzNWJjclVVWktFSEtuQXI2em9xS0JNN2RTck9sQ2t1UWtqSlN5Rm9FN01seFBwVjAyV1ZveDZ2OUZQZ0JpOTdYZw?oc=5",
-            "publishedAt": "2026-07-28T14:34+00:00"
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOTBOTU1GbFdoV21pTDFLZ3RCSmlZQWFaVlZxOFpXa2JieXROSFlXT193NGNhRzM5ZlI0UTVRS05hLVB5OUo0R1drTWZqTGJORnZkaGR6ck94T0FrdHV0SWpkaUw5c2dx?oc=5",
+            "publishedAt": "2026-07-31T08:30+00:00"
           },
           {
-            "title": "Sliding Child-Resistant Dispensers Market to Reach $171 Index by 2035 on E-Commerce and Nutraceutical Demand - IndexBox",
+            "title": "Tear-Away Aluminum Caps Market to Reach 160 Index by 2035 on Premium Wine Demand - IndexBox",
             "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGdkS0NoQjMwdm0wUHdQeGtYQ1daek9Dc2JHWFEwYVNtN09wRHNxa0J5SmF5TVFrcDJzOW5LNHZBNHNOWFhlR3BzdnJBVVNLNGdxdzZ4RGtNMFk1UXBLNk84N2p1aU1OYkxHUng1Rldnc2l4M3NxNXA0MWhILUloSEVYTTdnVFZPWTduX05fb2FRdGQtMmxNTzd5RlYzXzJiV1B3M0Z5QkVwcjN5NlBYM0NRNmdIOUtOTkJlcnl6clZEUVFyY25tMFFlYm1ZbkRPM3ZR?oc=5",
-            "publishedAt": "2026-08-11T13:46+00:00"
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTl96UXhDT1ZHbmcwZEFTOTN5S3FqOVRDVWN5WWYyRnpsaGZWdk9BNVBtc0pSeGp0LXZWRWxjZ2RJTVZvSUtvbmlZUEk0bmVkQ1gybjNsY2d1azltWG9mX2FpWnNMNkd3UXQ2a3BTOG1YOG5IczVyQ2JXSGYwOXI5VW9zWnQ2ZVpMLWdOalZXV1pwX2thYkgxSzNVRzZ6eHVHdlhlUmV5d1J2a291a3Qw?oc=5",
+            "publishedAt": "2026-08-08T01:01+00:00"
           },
           {
             "title": "Australia's Largest Processing & Packaging Event Returns to Melbourne in 2027 - FoodProcessing.com.au",
@@ -585,16 +584,16 @@
         "moves": [],
         "items": [
           {
-            "title": "Berlin Packaging Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+            "title": "Footprint Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
             "source": "Revelio Labs",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBENFVSNllTTk9Ram5Lc3lIaUN6Y2p1WWY2TkR5aG1ELWFOcHB4elZtNmRzNWJjclVVWktFSEtuQXI2em9xS0JNN2RTck9sQ2t1UWtqSlN5Rm9FN01seFBwVjAyV1ZveDZ2OUZQZ0JpOTdYZw?oc=5",
-            "publishedAt": "2026-07-28T14:34+00:00"
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOTBOTU1GbFdoV21pTDFLZ3RCSmlZQWFaVlZxOFpXa2JieXROSFlXT193NGNhRzM5ZlI0UTVRS05hLVB5OUo0R1drTWZqTGJORnZkaGR6ck94T0FrdHV0SWpkaUw5c2dx?oc=5",
+            "publishedAt": "2026-07-31T08:30+00:00"
           },
           {
-            "title": "Sliding Child-Resistant Dispensers Market to Reach $171 Index by 2035 on E-Commerce and Nutraceutical Demand - IndexBox",
+            "title": "Tear-Away Aluminum Caps Market to Reach 160 Index by 2035 on Premium Wine Demand - IndexBox",
             "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGdkS0NoQjMwdm0wUHdQeGtYQ1daek9Dc2JHWFEwYVNtN09wRHNxa0J5SmF5TVFrcDJzOW5LNHZBNHNOWFhlR3BzdnJBVVNLNGdxdzZ4RGtNMFk1UXBLNk84N2p1aU1OYkxHUng1Rldnc2l4M3NxNXA0MWhILUloSEVYTTdnVFZPWTduX05fb2FRdGQtMmxNTzd5RlYzXzJiV1B3M0Z5QkVwcjN5NlBYM0NRNmdIOUtOTkJlcnl6clZEUVFyY25tMFFlYm1ZbkRPM3ZR?oc=5",
-            "publishedAt": "2026-08-11T13:46+00:00"
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTl96UXhDT1ZHbmcwZEFTOTN5S3FqOVRDVWN5WWYyRnpsaGZWdk9BNVBtc0pSeGp0LXZWRWxjZ2RJTVZvSUtvbmlZUEk0bmVkQ1gybjNsY2d1azltWG9mX2FpWnNMNkd3UXQ2a3BTOG1YOG5IczVyQ2JXSGYwOXI5VW9zWnQ2ZVpMLWdOalZXV1pwX2thYkgxSzNVRzZ6eHVHdlhlUmV5d1J2a291a3Qw?oc=5",
+            "publishedAt": "2026-08-08T01:01+00:00"
           },
           {
             "title": "Australia's Largest Processing & Packaging Event Returns to Melbourne in 2027 - FoodProcessing.com.au",
@@ -617,14 +616,8 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
-          {
-            "title": "SupplyOne Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-            "source": "Revelio Labs",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IaHhJVjNWd0ltWG4ybmZ5YmwzaE9EeUZtV2VlWEpTVEl6anlvXzBnaDBRdUpIckVhV1RpUGlQUlhqellUTUZ0ZWloU1ZxTlplRUtNX1ZPYmRZSkNFOHZvOHRiZVlvZlhZ?oc=5",
-            "publishedAt": "2026-07-29T03:05+00:00"
-          },
           {
             "title": "2026 Industrial Review Spotlight - Featured Project: SupplyOne, Inc. - NEREJ",
             "source": "NEREJ",
@@ -641,12 +634,6 @@
         "hiring": [],
         "moves": [],
         "items": [
-          {
-            "title": "SupplyOne Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-            "source": "Revelio Labs",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IaHhJVjNWd0ltWG4ybmZ5YmwzaE9EeUZtV2VlWEpTVEl6anlvXzBnaDBRdUpIckVhV1RpUGlQUlhqellUTUZ0ZWloU1ZxTlplRUtNX1ZPYmRZSkNFOHZvOHRiZVlvZlhZ?oc=5",
-            "publishedAt": "2026-07-29T03:05+00:00"
-          },
           {
             "title": "2026 Industrial Review Spotlight - Featured Project: SupplyOne, Inc. - NEREJ",
             "source": "NEREJ",
@@ -674,11 +661,11 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
-            "title": "Hannah Bell, Performance Vehicle Works Racing Hope Third Time\u2019s the Charm at Tri-County Speedway - Catchfence",
-            "source": "Catchfence",
+            "title": "Hannah Bell, Performance Vehicle Works Racing Hope Third Time\u2019s the Charm at Tri-County Speedway - catchfence.com",
+            "source": "catchfence.com",
             "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYWJFVkNNSlRXNE5YLVZ0SUNwV3NKQU5ZN2l3UGd3aFM2bXdMUDhSVVNzbEtHV1FlcnpoTFBPVmJRMkRhSUExd3pRU2s5NGNja3JpVFhrcG1RdEV1a2Q5eElabXBoY0RCc0s3UV9LVWcwUG5GdHdYd043MmhzVEotS05BMkRtcFBPRkZ1VXlyMjVWTE8tUmhyOVNWZ052YjlrRG92MC1IMkQtajlTdzJ5ZW51OFk0OE5ybHhWalVWamdKRi1UMGd3MnREaTd2VGJWb0l1RUVNRDVsZTBKTEE2VFZqU3ZyZERHdkdHZlN3SkN1NmZsVzFSMA?oc=5",
             "publishedAt": "2026-07-31T21:09+00:00"
           }
@@ -696,8 +683,8 @@
         "moves": [],
         "items": [
           {
-            "title": "Hannah Bell, Performance Vehicle Works Racing Hope Third Time\u2019s the Charm at Tri-County Speedway - Catchfence",
-            "source": "Catchfence",
+            "title": "Hannah Bell, Performance Vehicle Works Racing Hope Third Time\u2019s the Charm at Tri-County Speedway - catchfence.com",
+            "source": "catchfence.com",
             "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYWJFVkNNSlRXNE5YLVZ0SUNwV3NKQU5ZN2l3UGd3aFM2bXdMUDhSVVNzbEtHV1FlcnpoTFBPVmJRMkRhSUExd3pRU2s5NGNja3JpVFhrcG1RdEV1a2Q5eElabXBoY0RCc0s3UV9LVWcwUG5GdHdYd043MmhzVEotS05BMkRtcFBPRkZ1VXlyMjVWTE8tUmhyOVNWZ052YjlrRG92MC1IMkQtajlTdzJ5ZW51OFk0OE5ybHhWalVWamdKRi1UMGd3MnREaTd2VGJWb0l1RUVNRDVsZTBKTEE2VFZqU3ZyZERHdkdHZlN3SkN1NmZsVzFSMA?oc=5",
             "publishedAt": "2026-07-31T21:09+00:00"
           }
@@ -716,19 +703,19 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [
           {
             "title": "Sonoco names global consumer packaging leader amid restructuring - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlViVmNXNlI3OTNZY1Q2d1VQdXNoZjB6RTF0clU4WTh1Q1NSQk44VEFuUHlwV3ZsYXZMX0dzV3pBVWo4SUdqeWR5eTNBSkZIeHk3eUUtU2FweHVmV1A3N2Z1eE1Jd3I5SlkyT1dBSUVmRmdKcHpnQmg2V0ctNWtsRHNoeEprdHV6M05HQTB6TzMxMW5PdW1BZDNzZE05c0tQbDRxOU03MnVsMkpleEwzMHg1UGlTUHBI?oc=5",
-            "publishedAt": "2026-08-05T17:23+00:00"
+            "publishedAt": "2026-08-05T07:00+00:00"
           },
           {
-            "title": "The Kyle Gass Band Joins the Cardboard Sessions - V13 Media",
+            "title": "Joe Sumner Debuts \u201cCurrent Events\u201d Inspired by Cardboard Sessions Experience - V13 Media",
             "source": "V13 Media",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02cUVQQk15ckNCSGpUcE9BMjJ0eVdRaFFtdUdrOWxaV2hPcGpweDVRNVRhOUxXSWdhZFBEVEViTEhhRnVZaVJ5dm9TSEMyRDNhNThKMUpPaU9VdkhNNkdYYk5WakpYR29fRjNnN1kxM2dBbjMwM25HZ1Vtem4?oc=5",
-            "publishedAt": "2026-08-07T05:01+00:00"
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmVsS0FjS2o1cmNUaWNCNTl3LXU0Vy15TWpyclhUeEc1dENlQk81a29uSkNuVDRZcGJFUUFQa2hVbGd2bTJMbWozVS1yXzNacWxMU1k1NXFCMVBzaUdhbTNMbW5kUHBhWkF5WUFnazZJbXRBRlRaUGcxWVpTMURISUF4dWE4TW4tR0xHZTZCbzRBTk9DS2xvUnNZZzNyQzl1?oc=5",
+            "publishedAt": "2026-07-28T07:00+00:00"
           },
           {
             "title": "Ernest Owen Wathen - The Owensboro Times",
@@ -752,13 +739,13 @@
             "title": "Sonoco names global consumer packaging leader amid restructuring - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlViVmNXNlI3OTNZY1Q2d1VQdXNoZjB6RTF0clU4WTh1Q1NSQk44VEFuUHlwV3ZsYXZMX0dzV3pBVWo4SUdqeWR5eTNBSkZIeHk3eUUtU2FweHVmV1A3N2Z1eE1Jd3I5SlkyT1dBSUVmRmdKcHpnQmg2V0ctNWtsRHNoeEprdHV6M05HQTB6TzMxMW5PdW1BZDNzZE05c0tQbDRxOU03MnVsMkpleEwzMHg1UGlTUHBI?oc=5",
-            "publishedAt": "2026-08-05T17:23+00:00"
+            "publishedAt": "2026-08-05T07:00+00:00"
           },
           {
-            "title": "The Kyle Gass Band Joins the Cardboard Sessions - V13 Media",
+            "title": "Joe Sumner Debuts \u201cCurrent Events\u201d Inspired by Cardboard Sessions Experience - V13 Media",
             "source": "V13 Media",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02cUVQQk15ckNCSGpUcE9BMjJ0eVdRaFFtdUdrOWxaV2hPcGpweDVRNVRhOUxXSWdhZFBEVEViTEhhRnVZaVJ5dm9TSEMyRDNhNThKMUpPaU9VdkhNNkdYYk5WakpYR29fRjNnN1kxM2dBbjMwM25HZ1Vtem4?oc=5",
-            "publishedAt": "2026-08-07T05:01+00:00"
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmVsS0FjS2o1cmNUaWNCNTl3LXU0Vy15TWpyclhUeEc1dENlQk81a29uSkNuVDRZcGJFUUFQa2hVbGd2bTJMbWozVS1yXzNacWxMU1k1NXFCMVBzaUdhbTNMbW5kUHBhWkF5WUFnazZJbXRBRlRaUGcxWVpTMURISUF4dWE4TW4tR0xHZTZCbzRBTk9DS2xvUnNZZzNyQzl1?oc=5",
+            "publishedAt": "2026-07-28T07:00+00:00"
           },
           {
             "title": "Ernest Owen Wathen - The Owensboro Times",
@@ -781,7 +768,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-08-13T14:34+00:00",
+        "lastUpdated": "2026-08-14T14:27+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -793,8 +780,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-13T14:34+00:00",
-  "lastSuccessfulAt": "2026-08-13T14:34+00:00",
+  "lastAttemptedAt": "2026-08-14T14:27+00:00",
+  "lastSuccessfulAt": "2026-08-14T14:27+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
