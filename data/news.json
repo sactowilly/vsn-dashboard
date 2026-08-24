@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T14:04+00:00",
+  "lastUpdated": "2026-08-24T14:06+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,10 +14,10 @@
   ],
   "stories": [
     {
-      "title": "EU packaging rules take effect with limits on 'forever chemicals', plastics curbs - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGYyZ2lqVDNPcU55TXU5dlozM21zb1l6aHR3YlE5a3REX2gyNkRZVEg2NmgxU0oyLW5qMWJscElRd2lxaWVpaG1mZjRqa0EtZ2NVaUFLbUQ0ZTA3amtrZWlYR2lvLUs4WGNyY0s5UnlBMlNxZEdBc281ZVRweUR5Tl9VQkM5S2NYcWhhTy1JU1lSVTI5M3lMQS1sQ0pxR3IyVllsV013OHZQR3hJQ1NTUjVZQjZld0loZnpsZ0poamszUDQxUEdxTWtLLWk?oc=5",
-      "publishedAt": "2026-08-11T07:00+00:00",
+      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more for stuff - CalMatters",
+      "source": "CalMatters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUU8wMEZqVWM2Y2pKR09NTS1mc0hoa1o2dF8zUy14VEpudFNYekZzMnNMOGhCd0Z3RktVZTlydU1pWkZ6elhpZmtRVzhZT3lsWDRhTjRreTlPV25uaFFySGljYjR5Q2JWLTQ4ZzdKdnZRdnBCelpjN1NQWW1VUHBOWnVQR2JMMVlzN25fdWRSLWlYM2c?oc=5",
+      "publishedAt": "2026-08-20T12:00+00:00",
       "impact": "Low"
     },
     {
@@ -28,16 +28,9 @@
       "impact": "Low"
     },
     {
-      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more for stuff - CalMatters",
-      "source": "CalMatters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUU8wMEZqVWM2Y2pKR09NTS1mc0hoa1o2dF8zUy14VEpudFNYekZzMnNMOGhCd0Z3RktVZTlydU1pWkZ6elhpZmtRVzhZT3lsWDRhTjRreTlPV25uaFFySGljYjR5Q2JWLTQ4ZzdKdnZRdnBCelpjN1NQWW1VUHBOWnVQR2JMMVlzN25fdWRSLWlYM2c?oc=5",
-      "publishedAt": "2026-08-20T12:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "New EU rules on packaging enter into application - environment.ec.europa.eu",
-      "source": "environment.ec.europa.eu",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdS1FRmRVZEtIZFA2Yng4czVjUkZqVjkzblhXRHIxcXFOSF9IMzVSQ0FiY2kxaUhZOEV3VVZJNDV5ZkRxM0JMcllnVlJvLXM5elpWVXpQUktocTdtRWxMa3lMLTg0UkN1aDd2ZHhHaWN5UzgtRVJTSUFzVjhXdmE0d0NzcnpHZXVFMDVzdnROYkVhMzFwMGlB?oc=5",
+      "title": "EU packaging rules take effect with limits on 'forever chemicals', plastics curbs - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGYyZ2lqVDNPcU55TXU5dlozM21zb1l6aHR3YlE5a3REX2gyNkRZVEg2NmgxU0oyLW5qMWJscElRd2lxaWVpaG1mZjRqa0EtZ2NVaUFLbUQ0ZTA3amtrZWlYR2lvLUs4WGNyY0s5UnlBMlNxZEdBc281ZVRweUR5Tl9VQkM5S2NYcWhhTy1JU1lSVTI5M3lMQS1sQ0pxR3IyVllsV013OHZQR3hJQ1NTUjVZQjZld0loZnpsZ0poamszUDQxUEdxTWtLLWk?oc=5",
       "publishedAt": "2026-08-11T07:00+00:00",
       "impact": "Low"
     },
@@ -49,31 +42,38 @@
       "impact": "Medium"
     },
     {
-      "title": "How Top Consumer Electronics Brands Cut Virgin Plastic Use - Packaging Digest",
-      "source": "Packaging Digest",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdldMeVFfMXBIUDd4RFBfS25vQUxleVctN2xMY2d6WWxLM2tnRDJMLXRQeEtfeEZUMW5JSU5TRmh6QUtmcVVBNFExcmlkcUkwWG5ZMVQxR2JYaml5cG1sSlQxSXRjRGdlNHdLcEwyS1ltZWRCQl9WaGVjWlB6cmNjVFNDMldRZDlYMDFpdmw2TUNpd24xWUVkYmI1bWxGQkx2OWNVaU0zSG8?oc=5",
-      "publishedAt": "2026-08-14T22:25+00:00",
+      "title": "New EU rules on packaging enter into application - environment.ec.europa.eu",
+      "source": "environment.ec.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdS1FRmRVZEtIZFA2Yng4czVjUkZqVjkzblhXRHIxcXFOSF9IMzVSQ0FiY2kxaUhZOEV3VVZJNDV5ZkRxM0JMcllnVlJvLXM5elpWVXpQUktocTdtRWxMa3lMLTg0UkN1aDd2ZHhHaWN5UzgtRVJTSUFzVjhXdmE0d0NzcnpHZXVFMDVzdnROYkVhMzFwMGlB?oc=5",
+      "publishedAt": "2026-08-11T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "GreenDot and Duo Plast AG receive German Packaging Award 2026 - Recycling Today",
-      "source": "Recycling Today",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNm5RSGFyYnRHQTgyZ093eWJVUkRUbUJyVmxmU0ktbG5oc3RibmdtQWI3cGQ3b1NJSVd4XzlJTFdOaXRobUt2M21KVU9yaHlGTGZuc0dpM1JneVpueXFUc19qWnpTSk8wM250WFQ4QUtpazMtR3owSWV3WTBVVXBZVlpHNEZmcExPc3RPSFV3TnpmMWpwb3VUc01HY1l2ZlU?oc=5",
-      "publishedAt": "2026-08-12T21:00+00:00",
+      "title": "EPS Transport Packaging Removed from U.S. Plastics Pact List - Packaging World",
+      "source": "Packaging World",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0ktZ3N2WW5fdDBvTVZyY2dkaUZ5dFRNUEIyc1FhVDhhY0ZYTWxBZWtCclhfdUh6aGM4YTZndGlMOW0yS01iMGxleUlOZFVuU0F0Um1reHNPZlV4NmkwRG1CdGhNZXFuaG9yUU1jQ1pYSGd3eEVnQ2NhaG5jMlYxSF9TTVU0cHRHX2dnM0dDRll4aklael9JbUE0bzl4R0pOOXQ2c3JkWHItaGlBRGcwaTBQT2VKQ0pMQ3B0QlB2Um4?oc=5",
+      "publishedAt": "2026-08-19T19:50+00:00",
       "impact": "Low"
     },
     {
-      "title": "Sustainable Food Packaging Company With Indian Roots to Invest $5M Gainesville - Global Atlanta",
-      "source": "Global Atlanta",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXFpT3BxS184eUgzUVpOVW9kQ084bHpXaldVU0o0RENCN2pRQy1RSjU1MHJCZVZrb2xxQjMwakVRcGhOLXNONlp1cVhHX1gzRjVPYjFLOUNFNlBEZUtBdWVJWG1fZWs1MFFVQm9Ic2VnYUdvNmtqcHlsMk9Oa1pwb3BXLWwyWDNJNThFb09NOWdkTHZ3MF9JMVlVcXRJY3BrSHAtWDlfMlpTaEZp?oc=5",
-      "publishedAt": "2026-08-18T22:18+00:00",
+      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more - LAist",
+      "source": "LAist",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVC1OR05kSEc5T1RVVVh3VGR2MEswNDdvRExyR2hYZm1Ea2R6b1hKLVhSd0UtajVfZkRaSFItZzNWWkRoUnd5YS1uYjd5WU0xcjNkTDVzb1N0WVVhdkNtOUo2d0MzNU9kbEo4U1lZbkVMX1dJWjJSaDZJRGs1WkJhb1E1RTNPUTZELWU1SmtiR09aaTh6RXRoLTdPakh2aGMyTVFxV0RJZ0o?oc=5",
+      "publishedAt": "2026-08-20T22:30+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "EPS transport packaging removed from USPP list - Resource Recycling",
+      "source": "Resource Recycling",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDFHMzJpTXdtNVFfTEtXN0VCaGFiRGZBYUNSY3NUcDd6eE1JdWg5RFFFS2J3RXBJUmYyM0E5MWpnNG8wZ0M5eHFUaWNaQXFBanMwNm5VckQ3cUQ3bzVhOHRGSVd2ODFVaUFlYWdBTzhaaGNHclBRa0JzbW5MYlQ2ZUw3V2FRRGNuZFRRdGRTSmVNMm5nTWFnZG9VN1cwS0k?oc=5",
+      "publishedAt": "2026-08-21T10:00+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-20T14:04+00:00",
-  "lastSuccessfulAt": "2026-08-20T14:04+00:00",
+  "lastAttemptedAt": "2026-08-24T14:06+00:00",
+  "lastSuccessfulAt": "2026-08-24T14:06+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

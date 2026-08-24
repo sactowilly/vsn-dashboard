@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T14:04+00:00",
+  "lastUpdated": "2026-08-24T14:06+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "10 km NW of The Geysers, CA",
+      "region": "17 km SW of Toms Place, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km NW of The Geysers, CA",
+      "region": "5 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km NE of Milford, Utah",
+      "region": "17 km SW of Toms Place, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km WSW of Alberto Oviedo Mota, B.C., MX",
+      "region": "19 km SW of Toms Place, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km WNW of Cobb, CA",
+      "region": "19 km SW of Toms Place, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km WNW of Cobb, CA",
+      "region": "6 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "47 km ENE of Pedro Bay, Alaska",
+      "region": "10 km E of Coso Junction, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km WNW of Cobb, CA",
+      "region": "10 km ENE of Coso Junction, CA",
       "severity": "Low"
     },
     {
-      "type": "Extreme Heat Warning issued August 20 at 4:57AM PDT until August 21 at 8:00PM PDT by NWS Las Vegas NV",
-      "region": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Hualapai Mountains; Northwest Deserts; Death Valley National Park; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
+      "type": "Red Flag Warning issued August 24 at 5:06AM PDT until August 24 at 8:00PM PDT by NWS Medford OR",
+      "region": "Western Klamath National Forest; Central Siskiyou County Including Shasta Valley; Siskiyou Mountains; Eastern Rogue Valley; Southern Oregon Cascades",
       "severity": "Severe"
     },
     {
-      "type": "Extreme Heat Warning issued August 20 at 2:30AM MST until August 23 at 8:00PM MST by NWS Phoenix AZ",
-      "region": "Parker Valley; Kofa; Yuma; Central La Paz; Southeast Yuma County; Gila River Valley; Imperial County Southwest; Imperial County Southeast; Imperial County West; Imperial Valley; Palo Verde Valley; Chuckwalla Valley",
+      "type": "Extreme Heat Warning issued August 24 at 1:58AM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Inland Valleys",
       "severity": "Severe"
     },
     {
-      "type": "Fire Weather Watch issued August 20 at 1:40AM PDT until August 21 at 9:00PM PDT by NWS Medford OR",
-      "region": "Central Siskiyou County Including Shasta Valley; Siskiyou County from the Cascade Mountains East and South to Mt Shasta; Modoc County Except for the Surprise Valley",
+      "type": "Extreme Heat Warning issued August 24 at 1:58AM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Mountains",
       "severity": "Severe"
     },
     {
-      "type": "Heat Advisory issued August 20 at 1:31AM PDT until August 20 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino and Riverside County Valleys-The Inland Empire",
+      "type": "Heat Advisory issued August 24 at 1:58AM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Riverside County Mountains",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-20T14:04+00:00",
-  "lastSuccessfulAt": "2026-08-20T14:04+00:00",
+  "lastAttemptedAt": "2026-08-24T14:06+00:00",
+  "lastSuccessfulAt": "2026-08-24T14:06+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
