@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T14:08+00:00",
+  "lastUpdated": "2026-08-26T14:08+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "18 km WNW of Karluk, Alaska",
+      "region": "11 km W of Forsan, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km WSW of Johannesburg, CA",
+      "region": "11 km SSW of Lompoc, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km ENE of P\u0101hala, Hawaii",
+      "region": "4 km E of Ojai, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km SE of Tyonek, Alaska",
+      "region": "3 km NE of Ojai, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km E of Julian, CA",
+      "region": "9 km ENE of Coso Junction, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km ENE of Coso Junction, CA",
+      "region": "8 km ESE of Palomar Observatory, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km SSW of Valencia, CA",
-      "severity": "Low"
+      "region": "14 km SSE of Esperanza, Puerto Rico",
+      "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "1 km WNW of Rosemead, CA",
+      "region": "1 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Air Quality Alert issued August 25 at 6:39AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Eastern San Fernando Valley; Eastern San Gabriel Mountains; Interstate 5 Corridor; Los Angeles County Inland Coast including Downtown Los Angeles; Los Angeles County San Gabriel Valley; Santa Clarita Valley; Santa Susana Mountains; Western San Fernando Valley; Western San Gabriel Mountains and Highway 14 Corridor",
-      "severity": "Unknown"
-    },
-    {
-      "type": "Heat Advisory issued August 25 at 3:47AM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Bernardino County Mountains",
+      "type": "Beach Hazards Statement issued August 26 at 6:58AM PDT until August 27 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued August 25 at 3:47AM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
+      "type": "Extreme Heat Warning issued August 26 at 6:04AM PDT until August 28 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southwestern Coast",
       "severity": "Severe"
     },
     {
-      "type": "Heat Advisory issued August 25 at 3:47AM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Orange County Coastal",
-      "severity": "Moderate"
+      "type": "Extreme Heat Warning issued August 26 at 6:04AM PDT until August 28 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands; Santa Barbara County Southeastern Coast; Ventura County Beaches; Ventura County Inland Coast; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles",
+      "severity": "Severe"
+    },
+    {
+      "type": "Extreme Heat Warning issued August 26 at 6:04AM PDT until August 28 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Cuyama Valley; Santa Clarita Valley; Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains; Southern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Western Antelope Valley Foothills; Eastern Antelope Valley Foothills; Antelope Valley; Los Angeles County San Gabriel Valley",
+      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-25T14:08+00:00",
-  "lastSuccessfulAt": "2026-08-25T14:08+00:00",
+  "lastAttemptedAt": "2026-08-26T14:08+00:00",
+  "lastSuccessfulAt": "2026-08-26T14:08+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
