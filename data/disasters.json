@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T14:08+00:00",
+  "lastUpdated": "2026-08-27T22:59+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "11 km W of Forsan, Texas",
+      "region": "19 km ESE of Silver Springs, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km SSW of Lompoc, CA",
+      "region": "8 km E of Bonita, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km E of Ojai, CA",
+      "region": "16 km NE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km NE of Ojai, CA",
+      "region": "17 km NE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km ENE of Coso Junction, CA",
+      "region": "16 km NE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km ESE of Palomar Observatory, CA",
+      "region": "16 km NE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km SSE of Esperanza, Puerto Rico",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "1 km NW of The Geysers, CA",
+      "region": "16 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued August 26 at 6:58AM PDT until August 27 at 11:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
+      "type": "Earthquake",
+      "region": "4 km W of Brawley, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Special Weather Statement issued August 27 at 3:50PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Central Ventura County Valleys; Southern Ventura County Mountains; Northern Ventura County Mountains; Interstate 5 Corridor",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued August 26 at 6:04AM PDT until August 28 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Barbara County Southwestern Coast",
+      "type": "Extreme Heat Warning issued August 27 at 1:46PM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Mountains",
       "severity": "Severe"
     },
     {
-      "type": "Extreme Heat Warning issued August 26 at 6:04AM PDT until August 28 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands; Santa Barbara County Southeastern Coast; Ventura County Beaches; Ventura County Inland Coast; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles",
+      "type": "Extreme Heat Warning issued August 27 at 1:46PM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Orange County Inland",
       "severity": "Severe"
     },
     {
-      "type": "Extreme Heat Warning issued August 26 at 6:04AM PDT until August 28 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Cuyama Valley; Santa Clarita Valley; Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains; Southern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Western Antelope Valley Foothills; Eastern Antelope Valley Foothills; Antelope Valley; Los Angeles County San Gabriel Valley",
+      "type": "Extreme Heat Warning issued August 27 at 1:46PM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
       "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-26T14:08+00:00",
-  "lastSuccessfulAt": "2026-08-26T14:08+00:00",
+  "lastAttemptedAt": "2026-08-27T22:59+00:00",
+  "lastSuccessfulAt": "2026-08-27T22:59+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
