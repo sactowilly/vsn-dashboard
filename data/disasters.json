@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T22:59+00:00",
+  "lastUpdated": "2026-08-28T23:04+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "19 km ESE of Silver Springs, Nevada",
+      "region": "29 km WSW of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km E of Bonita, CA",
+      "region": "9 km S of Idyllwild, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km NE of Milford, Utah",
+      "region": "79 km WNW of Yakutat, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km NE of Milford, Utah",
+      "region": "5 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km NE of Milford, Utah",
+      "region": "124 km N of Aksu, China",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "6 km ENE of Drumright, Oklahoma",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km NE of Milford, Utah",
+      "region": "11 km N of Borrego Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km WSW of Johannesburg, CA",
+      "region": "11 km ESE of Woods Cross, Utah",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "4 km W of Brawley, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Special Weather Statement issued August 27 at 3:50PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Central Ventura County Valleys; Southern Ventura County Mountains; Northern Ventura County Mountains; Interstate 5 Corridor",
+      "type": "Special Weather Statement issued August 28 at 3:49PM PDT by NWS Phoenix AZ",
+      "region": "Imperial Valley",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued August 27 at 1:46PM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Mountains",
+      "type": "Air Quality Alert issued August 28 at 3:45PM MST by NWS Phoenix AZ",
+      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
+      "severity": "Unknown"
+    },
+    {
+      "type": "Extreme Heat Warning issued August 28 at 1:56PM MST until August 29 at 8:00PM MST by NWS Phoenix AZ",
+      "region": "Parker Valley; Kofa; Yuma; Central La Paz; Southeast Yuma County; Gila River Valley; Imperial County Southwest; Imperial County Southeast; Imperial County West; Imperial Valley; Palo Verde Valley; Chuckwalla Valley",
       "severity": "Severe"
     },
     {
-      "type": "Extreme Heat Warning issued August 27 at 1:46PM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Orange County Inland",
-      "severity": "Severe"
-    },
-    {
-      "type": "Extreme Heat Warning issued August 27 at 1:46PM PDT until August 28 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
+      "type": "Extreme Heat Warning issued August 28 at 1:56PM MST until August 28 at 8:00PM MST by NWS Phoenix AZ",
+      "region": "Joshua Tree NP East; Salton Sea; Chuckwalla Mountains; Chiriaco Summit",
       "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-27T22:59+00:00",
-  "lastSuccessfulAt": "2026-08-27T22:59+00:00",
+  "lastAttemptedAt": "2026-08-28T23:04+00:00",
+  "lastSuccessfulAt": "2026-08-28T23:04+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
