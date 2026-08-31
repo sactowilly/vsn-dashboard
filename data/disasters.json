@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T23:04+00:00",
+  "lastUpdated": "2026-08-31T19:31+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "29 km WSW of Petersville, Alaska",
+      "region": "38 km WNW of Four Mile Road, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km S of Idyllwild, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "79 km WNW of Yakutat, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "5 km NNW of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "124 km N of Aksu, China",
+      "region": "112 km SSW of Chirilagua, El Salvador",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "6 km ENE of Drumright, Oklahoma",
+      "region": "12 km S of Olancha, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km N of Borrego Springs, CA",
+      "region": "8 km E of Vallejo, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km ESE of Woods Cross, Utah",
+      "region": "45 km NNW of Los Algodones, B.C., MX",
       "severity": "Low"
     },
     {
-      "type": "Special Weather Statement issued August 28 at 3:49PM PDT by NWS Phoenix AZ",
-      "region": "Imperial Valley",
+      "type": "Earthquake",
+      "region": "3 km SE of Owasso, Oklahoma",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "58 km S of Whites City, New Mexico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "58 km S of Whites City, New Mexico",
+      "severity": "Low"
+    },
+    {
+      "type": "Red Flag Warning issued August 31 at 12:30PM PDT until August 31 at 8:00PM PDT by NWS Medford OR",
+      "region": "Western Klamath National Forest; Central Siskiyou County Including Shasta Valley; Siskiyou County from the Cascade Mountains East and South to Mt Shasta; Modoc County Except for the Surprise Valley; Klamath Basin and the Fremont-Winema National Forest",
+      "severity": "Severe"
+    },
+    {
+      "type": "Frost Advisory issued August 31 at 12:19PM PDT until September 2 at 8:00AM PDT by NWS Medford OR",
+      "region": "Modoc County; Klamath Basin; Northern and Eastern Klamath County and Western Lake County; Central and Eastern Lake County",
+      "severity": "Minor"
+    },
+    {
+      "type": "Red Flag Warning issued August 31 at 11:42AM PDT until September 1 at 11:00PM PDT by NWS Reno NV",
+      "region": "Surprise Valley California; Eastern Lassen County; Northern Washoe County",
+      "severity": "Severe"
+    },
+    {
+      "type": "Beach Hazards Statement issued August 30 at 1:16PM PDT until August 31 at 3:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
       "severity": "Moderate"
-    },
-    {
-      "type": "Air Quality Alert issued August 28 at 3:45PM MST by NWS Phoenix AZ",
-      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
-      "severity": "Unknown"
-    },
-    {
-      "type": "Extreme Heat Warning issued August 28 at 1:56PM MST until August 29 at 8:00PM MST by NWS Phoenix AZ",
-      "region": "Parker Valley; Kofa; Yuma; Central La Paz; Southeast Yuma County; Gila River Valley; Imperial County Southwest; Imperial County Southeast; Imperial County West; Imperial Valley; Palo Verde Valley; Chuckwalla Valley",
-      "severity": "Severe"
-    },
-    {
-      "type": "Extreme Heat Warning issued August 28 at 1:56PM MST until August 28 at 8:00PM MST by NWS Phoenix AZ",
-      "region": "Joshua Tree NP East; Salton Sea; Chuckwalla Mountains; Chiriaco Summit",
-      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-28T23:04+00:00",
-  "lastSuccessfulAt": "2026-08-28T23:04+00:00",
+  "lastAttemptedAt": "2026-08-31T19:31+00:00",
+  "lastSuccessfulAt": "2026-08-31T19:31+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

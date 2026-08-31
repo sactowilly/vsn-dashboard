@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T23:04+00:00",
+  "lastUpdated": "2026-08-31T19:31+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -28,10 +28,17 @@
       "impact": "Low"
     },
     {
-      "title": "What Europe\u2019s EPR fees already reward in plastic packaging - Plastics News",
-      "source": "Plastics News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1FNcXJ5UUhfSnZHS3U5eHdvWFYtRlVCdmZ5QmdtTlBxRVVvbHMtbWw4SnBuWW84QVFEc1lDeUg2S0xZVDlTM2E2eHdHWGFULWhsSzNMRnB6a2pRbFpRcWM0VE1iRHFMUlJOWmg2UU5CMDlleF9CVHdGV3JrZkw4NllvUVRHZWJGc1Z0SjBPRDVCNFJpdy1fai1YQkg5dmJZMmlfLWk0bVdnZTlKWWROa3FpbWlWWUxYZTdzTGN6Z3ZKZGc?oc=5",
-      "publishedAt": "2026-08-19T07:00+00:00",
+      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more - LAist",
+      "source": "LAist",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVC1OR05kSEc5T1RVVVh3VGR2MEswNDdvRExyR2hYZm1Ea2R6b1hKLVhSd0UtajVfZkRaSFItZzNWWkRoUnd5YS1uYjd5WU0xcjNkTDVzb1N0WVVhdkNtOUo2d0MzNU9kbEo4U1lZbkVMX1dJWjJSaDZJRGs1WkJhb1E1RTNPUTZELWU1SmtiR09aaTh6RXRoLTdPakh2aGMyTVFxV0RJZ0o?oc=5",
+      "publishedAt": "2026-08-20T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Where Walmart\u2019s packaging ended up on 2025 sustainability targets - Supply Chain Dive",
+      "source": "Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHRNd2RRVXNIOEp2emQwVElITU9kWkJyb0g5NWRNSkh4Zkc3WGZpNmRIZ0ROQmUyQXc1WVpCdlZOQXdCT01JbVlVNkl5RHo2TWZNTHJyN3dYRFZHcktCbVBkNmZKaTZuUkFTLWpjcFlhdVpmZnNLWFVHRzRfaDRuMTVIbFAzT0l2b2NKWFVkMGFvMGJYdDduM2NOdmRlUnhtLXVpTE5PZ3NkRUx0NlE?oc=5",
+      "publishedAt": "2026-08-25T14:55+00:00",
       "impact": "Medium"
     },
     {
@@ -42,24 +49,10 @@
       "impact": "Low"
     },
     {
-      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more - LAist",
-      "source": "LAist",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVC1OR05kSEc5T1RVVVh3VGR2MEswNDdvRExyR2hYZm1Ea2R6b1hKLVhSd0UtajVfZkRaSFItZzNWWkRoUnd5YS1uYjd5WU0xcjNkTDVzb1N0WVVhdkNtOUo2d0MzNU9kbEo4U1lZbkVMX1dJWjJSaDZJRGs1WkJhb1E1RTNPUTZELWU1SmtiR09aaTh6RXRoLTdPakh2aGMyTVFxV0RJZ0o?oc=5",
-      "publishedAt": "2026-08-20T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "New EU rules on packaging enter into application - environment.ec.europa.eu",
-      "source": "environment.ec.europa.eu",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdS1FRmRVZEtIZFA2Yng4czVjUkZqVjkzblhXRHIxcXFOSF9IMzVSQ0FiY2kxaUhZOEV3VVZJNDV5ZkRxM0JMcllnVlJvLXM5elpWVXpQUktocTdtRWxMa3lMLTg0UkN1aDd2ZHhHaWN5UzgtRVJTSUFzVjhXdmE0d0NzcnpHZXVFMDVzdnROYkVhMzFwMGlB?oc=5",
-      "publishedAt": "2026-08-11T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "US Plastics Pact removes EPS transport packaging from problematic list - Packaging Insights",
-      "source": "Packaging Insights",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDJXSkt4NVBKRkdlRy1yMXl4cmVuc2lXR19ublJKamdHTFNmdzI1RXhxbmhYRGo2dFNPb2d5dzN0MzA4cF9WbUhBX3d2LXd2Skk4RTd1QmUzSmoxeTg3QnVHeVZ1QkczaFAxVzFGT1JoTWlDR3ljMnFsRGp1RmZLNEtuaFZ6MTg0TmlQeA?oc=5",
-      "publishedAt": "2026-08-24T15:13+00:00",
+      "title": "Judge upholds Oregon\u2019s packaging recycling law - OregonLive.com",
+      "source": "OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmFUR0JKeXpCa2U1dk9SZXVla19MWWtQV2lIXzZkdUVqeWpyZ0pBVF96TXBsLWNGS3l5endXaFVPM2lHV0hMQ1o5Ym1LeFVyRHNSV1BfNWZpVjhWdlQ2c082U0FEUnRROFJEOG5KU1JmWWNPdXRMdVVlUzNUb25kOFNXdTBPVGVLVkxpREhWUVNSRUHSAacBQVVfeXFMUDBSUmlLTVF0LUpvcFp2SVcydlB0Y0QwdGlSV094eTQ4NFlpVG5BRkJrUHNCUW1hWEY4Y0s2bjhuTGgtOXd5eDBoU01GQ0RfaGhlQzJ0Yk10UjNXdG1vNTBWQjlkcFJDTXY4dGIwbnd2VHhDc2xfR0ZvanNLcXJxVVE3cWl6VW9iV2Z2WUhhdS1XemM2d01lT3BJZ3pIM2E3S2NNY1V2OVE?oc=5",
+      "publishedAt": "2026-08-29T00:30+00:00",
       "impact": "Low"
     },
     {
@@ -68,12 +61,19 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVdETVBmM0ZhTkR2Q3FocjJQMUJpVkpIRXpwWUNrMUVyS3A0aXlybmp4LTFxcGJTMndJMFFKRzFQd05uZVdPQWwyME1zdl9yWmdqTUc3MEhkRFNmV0tEekN5WFpEOVZIYU1PX01YYVJxNjN3ZktCc2RpYzAxNDhmV2I4b25fZWxHTzVXV0ZxM3lzWWtBZnR1dXdjZWQ5ZzBfSmlPRzk2N1JlM2JER1BtRnJxVlZLZnprLTI0d2NUbU9id2szNzdQbE02V1NkZjMwTXQ4X056WExPY2xZcDJaTmlMNmpFV1ZyTmY1V1loMTRPQU53M2tWS2kxZ2REZTQ?oc=5",
       "publishedAt": "2026-08-25T08:14+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "PepsiCo makes packaging gains, but infrastructure remains a hurdle - FoodNavigator.com",
+      "source": "FoodNavigator.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmt3TXkzOF92WjF0UXdyRF9OT3Iza2ZsX3o0RVkwbHh4bUhoSUctLW5LX1dLeVFYbEZlVzVIVmZScm15RFBKSndZbzFwdzBzTnBsRFZGeTNVUTZvVkJrUTkyMlMyY0VsMTgwelFFZzdsRkFjMEt3amJLQmxuYUc1MkJlWXhwRnFoejlERU5LaTFQd2VCcVdUR2xmY2ptX1NGcGE3aHBQN0gySXlWbXg4?oc=5",
+      "publishedAt": "2026-08-21T13:26+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-28T23:04+00:00",
-  "lastSuccessfulAt": "2026-08-28T23:04+00:00",
+  "lastAttemptedAt": "2026-08-31T19:31+00:00",
+  "lastSuccessfulAt": "2026-08-31T19:31+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
