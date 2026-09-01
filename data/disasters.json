@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T19:31+00:00",
+  "lastUpdated": "2026-09-01T17:20+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,64 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "38 km WNW of Four Mile Road, Alaska",
+      "region": "15 km W of Ukiah, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "112 km SSW of Chirilagua, El Salvador",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "12 km S of Olancha, CA",
+      "region": "15 km W of Ukiah, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km E of Vallejo, CA",
+      "region": "37 km WNW of Tatitlek, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "45 km NNW of Los Algodones, B.C., MX",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SE of Owasso, Oklahoma",
+      "region": "119 km NW of Yakutat, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km S of Whites City, New Mexico",
+      "region": "86 km NW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km S of Whites City, New Mexico",
+      "region": "22 km NE of Pine Valley, CA",
       "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued August 31 at 12:30PM PDT until August 31 at 8:00PM PDT by NWS Medford OR",
-      "region": "Western Klamath National Forest; Central Siskiyou County Including Shasta Valley; Siskiyou County from the Cascade Mountains East and South to Mt Shasta; Modoc County Except for the Surprise Valley; Klamath Basin and the Fremont-Winema National Forest",
-      "severity": "Severe"
+      "type": "Earthquake",
+      "region": "44 km NW of Toyah, Texas",
+      "severity": "Low"
     },
     {
-      "type": "Frost Advisory issued August 31 at 12:19PM PDT until September 2 at 8:00AM PDT by NWS Medford OR",
+      "type": "Frost Advisory issued September 1 at 4:01AM PDT until September 2 at 8:00AM PDT by NWS Medford OR",
       "region": "Modoc County; Klamath Basin; Northern and Eastern Klamath County and Western Lake County; Central and Eastern Lake County",
       "severity": "Minor"
     },
     {
-      "type": "Red Flag Warning issued August 31 at 11:42AM PDT until September 1 at 11:00PM PDT by NWS Reno NV",
+      "type": "Red Flag Warning issued September 1 at 12:43AM PDT until September 1 at 11:00PM PDT by NWS Reno NV",
       "region": "Surprise Valley California; Eastern Lassen County; Northern Washoe County",
       "severity": "Severe"
     },
     {
-      "type": "Beach Hazards Statement issued August 30 at 1:16PM PDT until August 31 at 3:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
+      "type": "Lake Wind Advisory issued August 31 at 1:21PM PDT until September 1 at 8:00PM PDT by NWS Reno NV",
+      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties; Greater Lake Tahoe Area; Greater Lake Tahoe Area; Greater Reno-Carson City-Minden Area; Western Nevada Basin and Range including Pyramid Lake",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-08-31T19:31+00:00",
-  "lastSuccessfulAt": "2026-08-31T19:31+00:00",
+  "lastAttemptedAt": "2026-09-01T17:20+00:00",
+  "lastSuccessfulAt": "2026-09-01T17:20+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
