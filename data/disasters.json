@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T17:20+00:00",
+  "lastUpdated": "2026-09-02T17:12+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,64 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "15 km W of Ukiah, CA",
+      "region": "128 km E of Chignik, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km W of Ukiah, CA",
+      "region": "55 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "37 km WNW of Tatitlek, Alaska",
+      "region": "15 km S of Hope, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "63 km WNW of Ninilchik, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "119 km NW of Yakutat, Alaska",
+      "region": "3 km WSW of Dibble, Oklahoma",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "86 km NW of Karluk, Alaska",
+      "region": "5 km WNW of Borrego Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "22 km NE of Pine Valley, CA",
+      "region": "5 km NW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "44 km NW of Toyah, Texas",
+      "region": "2 km NNW of Guayanilla, Puerto Rico",
       "severity": "Low"
     },
     {
-      "type": "Frost Advisory issued September 1 at 4:01AM PDT until September 2 at 8:00AM PDT by NWS Medford OR",
-      "region": "Modoc County; Klamath Basin; Northern and Eastern Klamath County and Western Lake County; Central and Eastern Lake County",
-      "severity": "Minor"
+      "type": "Wind Advisory issued September 2 at 1:48AM PDT until September 2 at 8:00PM PDT by NWS Eureka CA",
+      "region": "Southeastern Interior Humboldt",
+      "severity": "Moderate"
     },
     {
-      "type": "Red Flag Warning issued September 1 at 12:43AM PDT until September 1 at 11:00PM PDT by NWS Reno NV",
-      "region": "Surprise Valley California; Eastern Lassen County; Northern Washoe County",
-      "severity": "Severe"
+      "type": "Wind Advisory issued September 2 at 1:48AM PDT until September 2 at 8:00PM PDT by NWS Eureka CA",
+      "region": "Southwestern Humboldt",
+      "severity": "Moderate"
     },
     {
-      "type": "Lake Wind Advisory issued August 31 at 1:21PM PDT until September 1 at 8:00PM PDT by NWS Reno NV",
-      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties; Greater Lake Tahoe Area; Greater Lake Tahoe Area; Greater Reno-Carson City-Minden Area; Western Nevada Basin and Range including Pyramid Lake",
+      "type": "Wind Advisory issued September 2 at 1:48AM PDT until September 2 at 8:00PM PDT by NWS Eureka CA",
+      "region": "Coastal Del Norte",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued September 2 at 1:48AM PDT until September 2 at 8:00PM PDT by NWS Eureka CA",
+      "region": "Interior Del Norte",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-01T17:20+00:00",
-  "lastSuccessfulAt": "2026-09-01T17:20+00:00",
+  "lastAttemptedAt": "2026-09-02T17:12+00:00",
+  "lastSuccessfulAt": "2026-09-02T17:12+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
