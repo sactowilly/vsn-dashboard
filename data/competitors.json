@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T17:12+00:00",
+  "lastUpdated": "2026-09-03T17:04+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,27 +18,8 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Industrial Packaging Stocks Q2 Results: Benchmarking Packaging Corporation of America (NYSE:PKG) - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlB6LWNUWjVzYmdaOVotOUV0bEVuemNUVElYa2tyU3RENmpETXA3ek1Ed0JNdzYtajBmeU4wWmc3SGZXNnU0WWNBck1DUFhBYV9oQm85Qy1xZU51blE2SVpxRXN6by1jZ3B0TWVMVXJRZDZmeHRfaWFYNHRfUG9rOTNoU1BQelpFNEtWM2p1VHZRaVFza2EwclJ0SnBiOTl5SWU5Q0tn?oc=5",
-            "publishedAt": "2026-08-10T07:00+00:00"
-          },
-          {
-            "title": "Packaging Corp. of America (PKG) Q1 2026 Earnings Call Transcript - Fortune",
-            "source": "Fortune",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNmxmMUdPMXo2QV9OLTZXZ0tBc2tmTmxTaGNQSndjNkZyTjF5V083Z3Rac2dOU09fbUpGd1JJY3JIb2ZnX0FCd095V2xsMllsMXBzc3B0V04tcm9mX2lxdDNsZG9YNGFubF9aZVhsbGM3a0FYWXR3QjFKNA?oc=5",
-            "publishedAt": "2026-08-26T23:46+00:00"
-          },
-          {
-            "title": "PEAK6 LLC Takes Position in Packaging Corporation of America $PKG - MarketBeat",
-            "source": "MarketBeat",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTJsTEE3amE3X08wVjlXVjNJQnZuX1dqQTU5Z251VlQtdEFLbnlEUlAyUnZVejFRbXA2MFllUmZQTDFWNGRCYVQ3Nk1qNjNMZHdxdi1IazVNcERqbG9QV3d1SnNQMlliU3ExWF9lS1l0WUN5eGdxLUc5ckZGRUtYM09tWTh5VEZYamxLMFFpSVRlSVg3cXk5Y0RDeFV1NWEtM19JTW9ibnp3b01vdFIzZjlXUC1qNEpYa0VBRTd4T2ptUHM?oc=5",
-            "publishedAt": "2026-08-24T10:59+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [
           {
             "title": "Sales Representative \u2013 Northern California",
@@ -49,26 +30,7 @@
           }
         ],
         "moves": [],
-        "items": [
-          {
-            "title": "Industrial Packaging Stocks Q2 Results: Benchmarking Packaging Corporation of America (NYSE:PKG) - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlB6LWNUWjVzYmdaOVotOUV0bEVuemNUVElYa2tyU3RENmpETXA3ek1Ed0JNdzYtajBmeU4wWmc3SGZXNnU0WWNBck1DUFhBYV9oQm85Qy1xZU51blE2SVpxRXN6by1jZ3B0TWVMVXJRZDZmeHRfaWFYNHRfUG9rOTNoU1BQelpFNEtWM2p1VHZRaVFza2EwclJ0SnBiOTl5SWU5Q0tn?oc=5",
-            "publishedAt": "2026-08-10T07:00+00:00"
-          },
-          {
-            "title": "Packaging Corp. of America (PKG) Q1 2026 Earnings Call Transcript - Fortune",
-            "source": "Fortune",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNmxmMUdPMXo2QV9OLTZXZ0tBc2tmTmxTaGNQSndjNkZyTjF5V083Z3Rac2dOU09fbUpGd1JJY3JIb2ZnX0FCd095V2xsMllsMXBzc3B0V04tcm9mX2lxdDNsZG9YNGFubF9aZVhsbGM3a0FYWXR3QjFKNA?oc=5",
-            "publishedAt": "2026-08-26T23:46+00:00"
-          },
-          {
-            "title": "PEAK6 LLC Takes Position in Packaging Corporation of America $PKG - MarketBeat",
-            "source": "MarketBeat",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTJsTEE3amE3X08wVjlXVjNJQnZuX1dqQTU5Z251VlQtdEFLbnlEUlAyUnZVejFRbXA2MFllUmZQTDFWNGRCYVQ3Nk1qNjNMZHdxdi1IazVNcERqbG9QV3d1SnNQMlliU3ExWF9lS1l0WUN5eGdxLUc5ckZGRUtYM09tWTh5VEZYamxLMFFpSVRlSVg3cXk5Y0RDeFV1NWEtM19JTW9ibnp3b01vdFIzZjlXUC1qNEpYa0VBRTd4T2ptUHM?oc=5",
-            "publishedAt": "2026-08-24T10:59+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Packaging Corporation of America\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Corrugated"
       }
@@ -83,27 +45,8 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Georgia Tech signs jersey patch sponsorship deal with metro Atlanta-based packaging company - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFRnWjVTR3BJX29oLTJTeC1xdGtHcE8zd2hmV1piR2VNbl9jd2F0aFdMU2RYWTlLcjM2Y3I3ZmtCLTIwMFJHWTl3M2FTYmp6MzUwSXRWRVBwcFJFRTVoeDRaaEYzbzZUWHZ2OFpFSWFhN042TVUtUmxkX1gxdnhPOHoxcU13VFFjTVdTX0RCZmtwTG1DMTFEaHZaMktuMU1C?oc=5",
-            "publishedAt": "2026-09-01T18:04+00:00"
-          },
-          {
-            "title": "Georgia Tech adds Veritiv as football jersey patch sponsor - Sports Business Journal",
-            "source": "Sports Business Journal",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ0tWTHZpRjdhSllqbVRDaWpwNGJpbnE4dVJYLUFNTlpFV1lLZTdpcjFVSGtHZXJqcWREanpWM0E3d2NveXdJb0FXN2dSZTZybVF1MU54Z1dGaFhKZHJEUGpxWlprLXNEWnFPMTVPWjBFVWllbF9QcFczTVp2LUM3OWdGcUxPTlVmUkl5ZTN4R05KaS1oQ0U0cDB6aWMweGdZU01PV3NpVm1Ncy1Kel91QnJ3bE4zM0ww?oc=5",
-            "publishedAt": "2026-09-01T20:05+00:00"
-          },
-          {
-            "title": "GT Football announces \"Veritiv\" as jersey patch sponsor - On3",
-            "source": "On3",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnEtbldSenU4M0ZvOXFiSEwwVXIydXN3VEItS3RRVWVwQ1VlTFUzblhKNktDYlNxVmxhbmVqWlFsMTNja0NQSDAwVHZ0MFRSOE16c1d4ZlFHejMzNXVHWDN1ZW1LbXNWWDNHNzRoemdVZ2YyelJBZTl0bHJMQTBrcmxHNkxiY0dhbXlpMDl1M0hlT1Bndkk0aXB1R1dSQQ?oc=5",
-            "publishedAt": "2026-09-01T18:02+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [
           {
             "title": "Sales Representative \u2013 Northern California",
@@ -114,26 +57,7 @@
           }
         ],
         "moves": [],
-        "items": [
-          {
-            "title": "Georgia Tech signs jersey patch sponsorship deal with metro Atlanta-based packaging company - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFRnWjVTR3BJX29oLTJTeC1xdGtHcE8zd2hmV1piR2VNbl9jd2F0aFdMU2RYWTlLcjM2Y3I3ZmtCLTIwMFJHWTl3M2FTYmp6MzUwSXRWRVBwcFJFRTVoeDRaaEYzbzZUWHZ2OFpFSWFhN042TVUtUmxkX1gxdnhPOHoxcU13VFFjTVdTX0RCZmtwTG1DMTFEaHZaMktuMU1C?oc=5",
-            "publishedAt": "2026-09-01T18:04+00:00"
-          },
-          {
-            "title": "Georgia Tech adds Veritiv as football jersey patch sponsor - Sports Business Journal",
-            "source": "Sports Business Journal",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ0tWTHZpRjdhSllqbVRDaWpwNGJpbnE4dVJYLUFNTlpFV1lLZTdpcjFVSGtHZXJqcWREanpWM0E3d2NveXdJb0FXN2dSZTZybVF1MU54Z1dGaFhKZHJEUGpxWlprLXNEWnFPMTVPWjBFVWllbF9QcFczTVp2LUM3OWdGcUxPTlVmUkl5ZTN4R05KaS1oQ0U0cDB6aWMweGdZU01PV3NpVm1Ncy1Kel91QnJ3bE4zM0ww?oc=5",
-            "publishedAt": "2026-09-01T20:05+00:00"
-          },
-          {
-            "title": "GT Football announces \"Veritiv\" as jersey patch sponsor - On3",
-            "source": "On3",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnEtbldSenU4M0ZvOXFiSEwwVXIydXN3VEItS3RRVWVwQ1VlTFUzblhKNktDYlNxVmxhbmVqWlFsMTNja0NQSDAwVHZ0MFRSOE16c1d4ZlFHejMzNXVHWDN1ZW1LbXNWWDNHNzRoemdVZ2YyelJBZTl0bHJMQTBrcmxHNkxiY0dhbXlpMDl1M0hlT1Bndkk0aXB1R1dSQQ?oc=5",
-            "publishedAt": "2026-09-01T18:02+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Veritiv\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Distribution"
       }
@@ -148,49 +72,11 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
-            "source": "Cleaning & Maintenance Management",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
-            "publishedAt": "2026-08-24T20:09+00:00"
-          },
-          {
-            "title": "Read Our Big Scoop: Ice Cream Cones, the Ingenious Invention of American Immigrants - Food Manufacturing",
-            "source": "Food Manufacturing",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDhWMGtXcUFhd0FENU1DYjZsTDRUZTNZZ09Pb3liaUJkblpzeXdtS3hlV0NXNlNfVjFXb0hjU2xRTk9uWTg5ZXR5TmNsWEpwUEd0ZmdRUG40QUhQZmZVakxGYjFTU2lSekRpbnN0ZXJsNW9Ma1N3cWlmUERueVBrVTlQak43TU14Vm5ndlhTdnhGT3VQb3g5Wnlqc29MTDNVaVh3WjN5NkhycC1xNmc1bmhJdktrdlg0aF9Pa3FGR0hiOGt1Y0huWVZmR0ZGNTBOVTk3NW5R?oc=5",
-            "publishedAt": "2026-09-02T15:17+00:00"
-          },
-          {
-            "title": "SupplyCaddy Secures Additional Growth Capital from CEAS Investments - Morningstar",
-            "source": "Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnJKZmFYc3ZyOUpERkRhOGFRLWJqM2swUEJubUZnSGxqaDNybUpCUXNOV2VwU2t3TXg0R0lnN1RFUlV3LThDdS1WMDhXT0t5YnBkRWFQbkVfWkZzZXVRQXRqLThZRjJnQlNBOGVOcnB6bFhlbUNIeFZ2T25Dc1Q0WFljdy0xbFl4ay1DdENDaFpWRlowenl0dTZYVDhRSEd1OHNXQkNTWkZ0bEUwdms0eE94VURONXVzb0ZXV1hkWHF1NFQ5V3Yw?oc=5",
-            "publishedAt": "2026-09-01T11:46+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [],
         "moves": [],
-        "items": [
-          {
-            "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
-            "source": "Cleaning & Maintenance Management",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
-            "publishedAt": "2026-08-24T20:09+00:00"
-          },
-          {
-            "title": "Read Our Big Scoop: Ice Cream Cones, the Ingenious Invention of American Immigrants - Food Manufacturing",
-            "source": "Food Manufacturing",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDhWMGtXcUFhd0FENU1DYjZsTDRUZTNZZ09Pb3liaUJkblpzeXdtS3hlV0NXNlNfVjFXb0hjU2xRTk9uWTg5ZXR5TmNsWEpwUEd0ZmdRUG40QUhQZmZVakxGYjFTU2lSekRpbnN0ZXJsNW9Ma1N3cWlmUERueVBrVTlQak43TU14Vm5ndlhTdnhGT3VQb3g5Wnlqc29MTDNVaVh3WjN5NkhycC1xNmc1bmhJdktrdlg0aF9Pa3FGR0hiOGt1Y0huWVZmR0ZGNTBOVTk3NW5R?oc=5",
-            "publishedAt": "2026-09-02T15:17+00:00"
-          },
-          {
-            "title": "SupplyCaddy Secures Additional Growth Capital from CEAS Investments - Morningstar",
-            "source": "Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnJKZmFYc3ZyOUpERkRhOGFRLWJqM2swUEJubUZnSGxqaDNybUpCUXNOV2VwU2t3TXg0R0lnN1RFUlV3LThDdS1WMDhXT0t5YnBkRWFQbkVfWkZzZXVRQXRqLThZRjJnQlNBOGVOcnB6bFhlbUNIeFZ2T25Dc1Q0WFljdy0xbFl4ay1DdENDaFpWRlowenl0dTZYVDhRSEd1OHNXQkNTWkZ0bEUwdms0eE94VURONXVzb0ZXV1hkWHF1NFQ5V3Yw?oc=5",
-            "publishedAt": "2026-09-01T11:46+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Imperial Dade\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Distribution"
       }
@@ -205,27 +91,8 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Uline hosting warehouse hiring event Thursday - Atlanta News First",
-            "source": "Atlanta News First",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3dYNnFQZ3FMSXo0QmpsUlNab2YzRnJyZUVZUkx5XzJqaVJBanA1YjBzaWFuLXR0VU1jSGRpcndzQlg5S013MExwcXRXbW9QUlhRWkJ3UjhvSXBKeU1jMXg5dnk3WUVoN1lqOUFic09rZlJvRXhNNDVFSVo2b1dXdDRScU8xbmUtM2dYYVllSDhlN3Btc3JHdEl4Mjg?oc=5",
-            "publishedAt": "2026-08-26T19:46+00:00"
-          },
-          {
-            "title": "Uline BizSpotlight - Milwaukee Business Journal - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56NmNMNFIwazNHMWUtdkp4SkVOY0syOWJlQWRMS19JNzExSG1MaDVhSTh5ckJ0YUwwMVNtbnBvRmJvbW91b0JvWWM2cE5YQXBiU1dUZE94ZzRNemtNVER3TUdsYzktdkd1WWRyVkNYdE5ZVTI1MnRVemp3?oc=5",
-            "publishedAt": "2026-08-25T12:40+00:00"
-          },
-          {
-            "title": "Uline hiring event offers $5,000 bonus - Norwich Bulletin",
-            "source": "Norwich Bulletin",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMldqUFhPU1hUZElYOUNfZWJoaFctMXVBRDczTDRTbUh3LXY4RnE5REhYZGJrY3VRZ0ZJU1RhRDdPSWUzc0FwUnJBSkp1Ui1McEJDbGYyeEhhZ2trcVZxUW5TWGZGTXZraTdmdmRnN0R0WVpDa0tzVEQzbHYxeTdfelBPQlplNm1hc3dONFBrMndYVXJxOTUzdnNyZE02N0x5UUdvZ3ZtY0tQS3NvTzZXSHlZdUdhbW5WeXpsS015TEVxMERkQ0RzR0FqVGp2XzZzOE1zdTByalR4NDdBSGc?oc=5",
-            "publishedAt": "2026-08-05T07:00+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [
           {
             "title": "Uline hosting warehouse hiring event Thursday - Atlanta News First",
@@ -243,26 +110,7 @@
           }
         ],
         "moves": [],
-        "items": [
-          {
-            "title": "Uline hosting warehouse hiring event Thursday - Atlanta News First",
-            "source": "Atlanta News First",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3dYNnFQZ3FMSXo0QmpsUlNab2YzRnJyZUVZUkx5XzJqaVJBanA1YjBzaWFuLXR0VU1jSGRpcndzQlg5S013MExwcXRXbW9QUlhRWkJ3UjhvSXBKeU1jMXg5dnk3WUVoN1lqOUFic09rZlJvRXhNNDVFSVo2b1dXdDRScU8xbmUtM2dYYVllSDhlN3Btc3JHdEl4Mjg?oc=5",
-            "publishedAt": "2026-08-26T19:46+00:00"
-          },
-          {
-            "title": "Uline BizSpotlight - Milwaukee Business Journal - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56NmNMNFIwazNHMWUtdkp4SkVOY0syOWJlQWRMS19JNzExSG1MaDVhSTh5ckJ0YUwwMVNtbnBvRmJvbW91b0JvWWM2cE5YQXBiU1dUZE94ZzRNemtNVER3TUdsYzktdkd1WWRyVkNYdE5ZVTI1MnRVemp3?oc=5",
-            "publishedAt": "2026-08-25T12:40+00:00"
-          },
-          {
-            "title": "Uline hiring event offers $5,000 bonus - Norwich Bulletin",
-            "source": "Norwich Bulletin",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMldqUFhPU1hUZElYOUNfZWJoaFctMXVBRDczTDRTbUh3LXY4RnE5REhYZGJrY3VRZ0ZJU1RhRDdPSWUzc0FwUnJBSkp1Ui1McEJDbGYyeEhhZ2trcVZxUW5TWGZGTXZraTdmdmRnN0R0WVpDa0tzVEQzbHYxeTdfelBPQlplNm1hc3dONFBrMndYVXJxOTUzdnNyZE02N0x5UUdvZ3ZtY0tQS3NvTzZXSHlZdUdhbW5WeXpsS015TEVxMERkQ0RzR0FqVGp2XzZzOE1zdTByalR4NDdBSGc?oc=5",
-            "publishedAt": "2026-08-05T07:00+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Uline\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Catalog / Distribution"
       }
@@ -277,49 +125,11 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Containerboard pricing holds steady in August - Packaging Dive",
-            "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0JxYS1TLWNUUDFYaFBaTjRCNHZqSlp2ZWppSkJKSVhNWVhUTjZTc3Z5eFhqeUtvU1otXzQzVjkydWFNS0UzTTh1aHZOcjVsUXpxQmJEeGxORUxmeDlVZlhsSnFLTXRJUmlFVDNBbi1uMzFwbVpzODRVWXJFeUZscDMtUjRTOUl1VllCQmYtUW9BbGtENzdBNFFNSzNLNWdIZWl5TW5IVkhHUjg4WU81anpwTjJwQ3pOZFk0Rll4dTNYbWs?oc=5",
-            "publishedAt": "2026-08-25T07:00+00:00"
-          },
-          {
-            "title": "International Paper (IP) Stock Still Looks Like A Bargain On Price Hike Scrutiny - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTRhZ2xQRTNWVnBOcVBoeFM3ellhMlZDalQ2U0c1R05GN1ZXek1NY3pBRmJLVWpTSUVFQTIxR1lhNHpyd0E0cHV4N09YNU1Zb2QyLW81STYyYzhWNEFpcEVSMjRPMmVCV2wwVkYwVUIyeU4ya09kVzFCWThrbC1yV09uSS05eHpiWjl5T0RuWlN0WHZfd1JQd3kzMGNRQ1RY?oc=5",
-            "publishedAt": "2026-08-18T07:00+00:00"
-          },
-          {
-            "title": "New-Build U.S. Paper Mills Aimed at Tissue Products, Packaging - Industrial Info Resources",
-            "source": "Industrial Info Resources",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVEVCZXRXUWJaTTVYSnVfZmNvc1VhaHRfMkoyM1duTmVsV000NGd0cW1XUm5paTZvWWtVYWdtU3ROekFPZ3VmaDY1Ym4xdHMwYzM3NnBqYVFXb2VvMW03REtTdnNJU2NpOGhoa1d5NzJLelNQTU5NTGRJZjdaNE9UMy0zelFKaGFSZ2h4NXFwX3QyTGJQcTNSS0FYcjJES2NnOEk2NmJrMzctMjR6YWVFQ2tlNFoxVDljT0QtNk5EYnBUY0tjTkUyZXl3?oc=5",
-            "publishedAt": "2026-08-31T11:09+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [],
         "moves": [],
-        "items": [
-          {
-            "title": "Containerboard pricing holds steady in August - Packaging Dive",
-            "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0JxYS1TLWNUUDFYaFBaTjRCNHZqSlp2ZWppSkJKSVhNWVhUTjZTc3Z5eFhqeUtvU1otXzQzVjkydWFNS0UzTTh1aHZOcjVsUXpxQmJEeGxORUxmeDlVZlhsSnFLTXRJUmlFVDNBbi1uMzFwbVpzODRVWXJFeUZscDMtUjRTOUl1VllCQmYtUW9BbGtENzdBNFFNSzNLNWdIZWl5TW5IVkhHUjg4WU81anpwTjJwQ3pOZFk0Rll4dTNYbWs?oc=5",
-            "publishedAt": "2026-08-25T07:00+00:00"
-          },
-          {
-            "title": "International Paper (IP) Stock Still Looks Like A Bargain On Price Hike Scrutiny - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTRhZ2xQRTNWVnBOcVBoeFM3ellhMlZDalQ2U0c1R05GN1ZXek1NY3pBRmJLVWpTSUVFQTIxR1lhNHpyd0E0cHV4N09YNU1Zb2QyLW81STYyYzhWNEFpcEVSMjRPMmVCV2wwVkYwVUIyeU4ya09kVzFCWThrbC1yV09uSS05eHpiWjl5T0RuWlN0WHZfd1JQd3kzMGNRQ1RY?oc=5",
-            "publishedAt": "2026-08-18T07:00+00:00"
-          },
-          {
-            "title": "New-Build U.S. Paper Mills Aimed at Tissue Products, Packaging - Industrial Info Resources",
-            "source": "Industrial Info Resources",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVEVCZXRXUWJaTTVYSnVfZmNvc1VhaHRfMkoyM1duTmVsV000NGd0cW1XUm5paTZvWWtVYWdtU3ROekFPZ3VmaDY1Ym4xdHMwYzM3NnBqYVFXb2VvMW03REtTdnNJU2NpOGhoa1d5NzJLelNQTU5NTGRJZjdaNE9UMy0zelFKaGFSZ2h4NXFwX3QyTGJQcTNSS0FYcjJES2NnOEk2NmJrMzctMjR6YWVFQ2tlNFoxVDljT0QtNk5EYnBUY0tjTkUyZXl3?oc=5",
-            "publishedAt": "2026-08-31T11:09+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"International Paper\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Corrugated / Paper"
       }
@@ -334,27 +144,8 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Pratt Industries Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
-            "source": "reveliolabs.com",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQQ3pndWt0TC03MTVsaGNGOVBwSXkyajdkVWtmckIwb2dzSUNIMW11YXVRWlZrQjc0S0pEYW1uaE12S2RXaFJlaG9oRW1wVUJFRlh2a0ZWbnNpWDRDTFB1QU11aGVTcHZsWDVzMVJpNksxZw?oc=5",
-            "publishedAt": "2026-08-20T16:26+00:00"
-          },
-          {
-            "title": "The Rock Hill region is fueling record SC job growth \u2014 and there\u2019s more to come - Rock Hill Herald",
-            "source": "Rock Hill Herald",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sVXd4RElGcWpIUTFfaUk2Q3ZteDFBREFuQUpCRGRnbVR4S0dXVHN3WUI1MjRGdUZjalJsTUhNcmxMbTM2Mmhxd2lGc2Z1M1dPd3pmVlY1T2dTd01vMTlrVkxBTWxDZW44eC1Ibk9HdGVld9IBckFVX3lxTE0tMkdiN28yRnUweVBzSUY0d3dyVnhyM0IyYWRISmwwZlhYdXN6b3VfMjBoV2UxMTdOMURvZm44dDlHVkhtYVhvVFVBN2pGSloyMi05UlNkMEdNemMtT0o4UWNmOGFGNHB4dXRBbjhjbGlLQQ?oc=5",
-            "publishedAt": "2026-08-24T09:00+00:00"
-          },
-          {
-            "title": "Corrugated Boxes Market (2035): E-Commerce Packaging, Digital - openPR.com",
-            "source": "openPR.com",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGdvZGh2SWdkZXhQMEU4MHc0MmJQQUpOMFI2dTExNTBZRFpBbHlPRGN6YTlGUUlvQWdILXhVdlEtclE4S2NuMHFxWFNIRXVsaHNYcTZfYm04b1FRQVBidXZFeDBrMUEyODF3VjVTc3RPSWJOWjlpSHE3QVM4YlkteXd5dF9WUVZSSnlmZXFGeEwwNlRxLXE4Vg?oc=5",
-            "publishedAt": "2026-08-18T07:51+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [
           {
             "title": "\ud83c\udfed Beloit, WI Manufacturing Jobs \u2013 Multiple Openings From $18+/hr - NewsBreak: Local News & Alerts",
@@ -365,26 +156,7 @@
           }
         ],
         "moves": [],
-        "items": [
-          {
-            "title": "Pratt Industries Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
-            "source": "reveliolabs.com",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQQ3pndWt0TC03MTVsaGNGOVBwSXkyajdkVWtmckIwb2dzSUNIMW11YXVRWlZrQjc0S0pEYW1uaE12S2RXaFJlaG9oRW1wVUJFRlh2a0ZWbnNpWDRDTFB1QU11aGVTcHZsWDVzMVJpNksxZw?oc=5",
-            "publishedAt": "2026-08-20T16:26+00:00"
-          },
-          {
-            "title": "The Rock Hill region is fueling record SC job growth \u2014 and there\u2019s more to come - Rock Hill Herald",
-            "source": "Rock Hill Herald",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sVXd4RElGcWpIUTFfaUk2Q3ZteDFBREFuQUpCRGRnbVR4S0dXVHN3WUI1MjRGdUZjalJsTUhNcmxMbTM2Mmhxd2lGc2Z1M1dPd3pmVlY1T2dTd01vMTlrVkxBTWxDZW44eC1Ibk9HdGVld9IBckFVX3lxTE0tMkdiN28yRnUweVBzSUY0d3dyVnhyM0IyYWRISmwwZlhYdXN6b3VfMjBoV2UxMTdOMURvZm44dDlHVkhtYVhvVFVBN2pGSloyMi05UlNkMEdNemMtT0o4UWNmOGFGNHB4dXRBbjhjbGlLQQ?oc=5",
-            "publishedAt": "2026-08-24T09:00+00:00"
-          },
-          {
-            "title": "Corrugated Boxes Market (2035): E-Commerce Packaging, Digital - openPR.com",
-            "source": "openPR.com",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGdvZGh2SWdkZXhQMEU4MHc0MmJQQUpOMFI2dTExNTBZRFpBbHlPRGN6YTlGUUlvQWdILXhVdlEtclE4S2NuMHFxWFNIRXVsaHNYcTZfYm04b1FRQVBidXZFeDBrMUEyODF3VjVTc3RPSWJOWjlpSHE3QVM4YlkteXd5dF9WUVZSSnlmZXFGeEwwNlRxLXE4Vg?oc=5",
-            "publishedAt": "2026-08-18T07:51+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Pratt Industries\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Corrugated / Paper"
       }
@@ -399,49 +171,11 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Independent box making group decries containerboard price increases - Packaging Dive",
-            "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGRURzlCcnZEOTNURm9GV0w2TWxpX2lELWktZHlvM3hYaDR6RDd5TlJRXzhKb2l4ejF5YlZvSmhrMFF2aGFQOUJ3Z2JyUzRrNUVyYmNPSmNOOWY2cFRHaGE3Umtqbk5MaGU1RGpMbWx6X0VwdV9iRnNzeF9VczRFTTZuWEpWMzREXzRITXotc0hhdWZFMnpZbTBKOHUwT2ZHWnplbW9qUDhhN3hfbXY0bXRXZ1VZNThJM3JscmtRY3N4NnMzdm5zVWR3?oc=5",
-            "publishedAt": "2026-08-10T07:00+00:00"
-          },
-          {
-            "title": "Are Wall Street Analysts Bullish on Smurfit Westrock Stock? - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVFlQnpqQzlHaDZKei00dmNZN25VeHMzZjBBTF8ycWhPaFNPd3cwQndDM1JfNnNKaFo3VHdZYXpQekFjNjVQNzFKdFBpY1NsT21MSjREMlFMNzZnZ1FqVzQwMVRNWWt4X2NGbURtU2NhUE9rSGJvSFJscXhydFN2NDdUbGVlQllGajA1dHI2UmtoNDJEMER3aGtLSWc0eVhkSk9V?oc=5",
-            "publishedAt": "2026-08-13T07:00+00:00"
-          },
-          {
-            "title": "How Smurfit Westrock\u2019s US$100 Price Hike for Containerboard Will Impact Smurfit Westrock (SW) Investors - simplywall.st",
-            "source": "simplywall.st",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2t3QzZ1dDlmcS1YWWN5VHpxQTJWU01KN3BBaUI2ck1ENkhTdUxQeGFpdXhySFJ3bjVxQ3lGRy1URVI5N3dKeGVrZ0FlZlNUTEtiV1I2cG9sNEkyTkgtSjJSOHRLakIzUEwzZS12blI0OG85RzVVWmdYVE40aW9zejlzSi1tbzhLLXFGQU5lbUpGSi1CcGQzUjhpTVc4bmc4Z0dRWkZBVkZmV1RsMGltbm16WFhOdjNJbEJFN3pDOE9IOUdMMXowb0V5SWvSAdIBQVVfeXFMTVFpOGVlUHFYZGFRSjZkcFdNakdIY050WHd6UkQ0b3dHQ0dfWVA1aWdXb2JFblZrX1lhSmlLM3JRbzdRaHR1TXJIMEd0U20zMWtFckoxeTVxa2U3aHdWR1FTVEpEWkFXQy1TMmttVWFlTkdiTjhQLVlFUXl2a3c2bHdfcTYtdGhGZmljZlBOcVVjR0g3d3lFSEZmeE41cXEzTU10cFhkTjh2RmpaRVFmaE1zRG04UHlzMzNCRmNlVURDS09EOXV5Wkp0NEsyVG1IUllB?oc=5",
-            "publishedAt": "2026-08-13T07:00+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [],
         "moves": [],
-        "items": [
-          {
-            "title": "Independent box making group decries containerboard price increases - Packaging Dive",
-            "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGRURzlCcnZEOTNURm9GV0w2TWxpX2lELWktZHlvM3hYaDR6RDd5TlJRXzhKb2l4ejF5YlZvSmhrMFF2aGFQOUJ3Z2JyUzRrNUVyYmNPSmNOOWY2cFRHaGE3Umtqbk5MaGU1RGpMbWx6X0VwdV9iRnNzeF9VczRFTTZuWEpWMzREXzRITXotc0hhdWZFMnpZbTBKOHUwT2ZHWnplbW9qUDhhN3hfbXY0bXRXZ1VZNThJM3JscmtRY3N4NnMzdm5zVWR3?oc=5",
-            "publishedAt": "2026-08-10T07:00+00:00"
-          },
-          {
-            "title": "Are Wall Street Analysts Bullish on Smurfit Westrock Stock? - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVFlQnpqQzlHaDZKei00dmNZN25VeHMzZjBBTF8ycWhPaFNPd3cwQndDM1JfNnNKaFo3VHdZYXpQekFjNjVQNzFKdFBpY1NsT21MSjREMlFMNzZnZ1FqVzQwMVRNWWt4X2NGbURtU2NhUE9rSGJvSFJscXhydFN2NDdUbGVlQllGajA1dHI2UmtoNDJEMER3aGtLSWc0eVhkSk9V?oc=5",
-            "publishedAt": "2026-08-13T07:00+00:00"
-          },
-          {
-            "title": "How Smurfit Westrock\u2019s US$100 Price Hike for Containerboard Will Impact Smurfit Westrock (SW) Investors - simplywall.st",
-            "source": "simplywall.st",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2t3QzZ1dDlmcS1YWWN5VHpxQTJWU01KN3BBaUI2ck1ENkhTdUxQeGFpdXhySFJ3bjVxQ3lGRy1URVI5N3dKeGVrZ0FlZlNUTEtiV1I2cG9sNEkyTkgtSjJSOHRLakIzUEwzZS12blI0OG85RzVVWmdYVE40aW9zejlzSi1tbzhLLXFGQU5lbUpGSi1CcGQzUjhpTVc4bmc4Z0dRWkZBVkZmV1RsMGltbm16WFhOdjNJbEJFN3pDOE9IOUdMMXowb0V5SWvSAdIBQVVfeXFMTVFpOGVlUHFYZGFRSjZkcFdNakdIY050WHd6UkQ0b3dHQ0dfWVA1aWdXb2JFblZrX1lhSmlLM3JRbzdRaHR1TXJIMEd0U20zMWtFckoxeTVxa2U3aHdWR1FTVEpEWkFXQy1TMmttVWFlTkdiTjhQLVlFUXl2a3c2bHdfcTYtdGhGZmljZlBOcVVjR0g3d3lFSEZmeE41cXEzTU10cFhkTjh2RmpaRVFmaE1zRG04UHlzMzNCRmNlVURDS09EOXV5Wkp0NEsyVG1IUllB?oc=5",
-            "publishedAt": "2026-08-13T07:00+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"WestRock\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Corrugated / Packaging"
       }
@@ -456,49 +190,11 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "New certification strengthens DS Smith\u2019s Finnish operations - PULPAPERnews.com",
-            "source": "PULPAPERnews.com",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGwxcW52bGlkT0RlU0VJZVlJUDNBZ0hrbVgyc2M0TFdxZXAtQkkzSVhlaFJheUJmOU1tMFJodGx6czF1clZUb3hPSzlQUjdZbUxxZW5nQXNReFpiUmJ4ZUJFYnl5ZlcyX0U5SnRQRkJXWDZOZGoyMFhFSVlPSGk3Wm9xWmpURjVOOUJmbWtsN3Z1ZGZPZXZBUDBoRnhEai1feVA0Ng?oc=5",
-            "publishedAt": "2026-08-26T09:04+00:00"
-          },
-          {
-            "title": "DS Smith streamlines Cloetta\u2019s confectionery POS displays with modular design - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmo3Ynk3ZDdzTUpOdHNndWFDTkJJdjZVbHJnSnJxZ0pCVUI2ODVVRXR1OEdEcUNxTzFEenV0STZiWENyekdkNkQ1RE5UMVdhY3NPNnpOMXAtQ2NIamFHY0RLYzVJZ2ZiRUY5S0F4T2VfWHFwVldGNE1uQnYtc2ZTejJaaW9oaHFr?oc=5",
-            "publishedAt": "2026-08-24T08:29+00:00"
-          },
-          {
-            "title": "Top Reusable E-commerce Packaging Companies, 10.24% CAGR - Fortune Business Insights",
-            "source": "Fortune Business Insights",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2lzTml1SENTUFpTdVRNSlc1b0JmQWZBRWE5c2xtOFpsaTVfMUdRVEdxLXg2dHBSam5CSGx5UndwZGxNY0NZRHZJTmdYdTJpMWJSaXNPOVFZeHc2RWNrVFRvb1pIeUhEVGhQLTBiVXh1VGlJbHZmODhCRU1SVGVTQXBNWm05eXduVmtXZkR2d2ZvOEJPTWlxNg?oc=5",
-            "publishedAt": "2026-08-18T09:13+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [],
         "moves": [],
-        "items": [
-          {
-            "title": "New certification strengthens DS Smith\u2019s Finnish operations - PULPAPERnews.com",
-            "source": "PULPAPERnews.com",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGwxcW52bGlkT0RlU0VJZVlJUDNBZ0hrbVgyc2M0TFdxZXAtQkkzSVhlaFJheUJmOU1tMFJodGx6czF1clZUb3hPSzlQUjdZbUxxZW5nQXNReFpiUmJ4ZUJFYnl5ZlcyX0U5SnRQRkJXWDZOZGoyMFhFSVlPSGk3Wm9xWmpURjVOOUJmbWtsN3Z1ZGZPZXZBUDBoRnhEai1feVA0Ng?oc=5",
-            "publishedAt": "2026-08-26T09:04+00:00"
-          },
-          {
-            "title": "DS Smith streamlines Cloetta\u2019s confectionery POS displays with modular design - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmo3Ynk3ZDdzTUpOdHNndWFDTkJJdjZVbHJnSnJxZ0pCVUI2ODVVRXR1OEdEcUNxTzFEenV0STZiWENyekdkNkQ1RE5UMVdhY3NPNnpOMXAtQ2NIamFHY0RLYzVJZ2ZiRUY5S0F4T2VfWHFwVldGNE1uQnYtc2ZTejJaaW9oaHFr?oc=5",
-            "publishedAt": "2026-08-24T08:29+00:00"
-          },
-          {
-            "title": "Top Reusable E-commerce Packaging Companies, 10.24% CAGR - Fortune Business Insights",
-            "source": "Fortune Business Insights",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2lzTml1SENTUFpTdVRNSlc1b0JmQWZBRWE5c2xtOFpsaTVfMUdRVEdxLXg2dHBSam5CSGx5UndwZGxNY0NZRHZJTmdYdTJpMWJSaXNPOVFZeHc2RWNrVFRvb1pIeUhEVGhQLTBiVXh1VGlJbHZmODhCRU1SVGVTQXBNWm05eXduVmtXZkR2d2ZvOEJPTWlxNg?oc=5",
-            "publishedAt": "2026-08-18T09:13+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"DS Smith\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Corrugated / Packaging"
       }
@@ -513,49 +209,11 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Blood Glucose Test Strip Packaging Market (2026 - 2033) - Grand View Research",
-            "source": "Grand View Research",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFNVT3ZpWmQ3c1FvSHprS3JMVDg2TDJJa21pYURQcl95OG0teEZDVjM1TXhMVnlldGxDTEh2WGt4bXlOMDBLcF8wblJvTkV4RHNBS1pzTW1hYlczS3hMWHpWeEd6QVZmNzlERW4wLWVCWHFGT19ZQXhXQ0RGMHRyT2l4ZE9RbG1TVndzeVl5RXlLc1oxQUhLSXdYUWozZGFCaWc?oc=5",
-            "publishedAt": "2026-08-31T07:43+00:00"
-          },
-          {
-            "title": "What Cannabis Manufacturers Can Learn from the Pharmaceutical Industry About Trace Metal Impurities in Plastic Materials - Cannabis Industry Journal",
-            "source": "Cannabis Industry Journal",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYlJQWkVnVE1VMi1TQ1Myb18wd1p3ZDZ6ZC1Nakg4Y2hOLUwzaDFjRnhFNGsyVWZiWHAzLUJ0Mm5GdXpCWHc1bWFOUDNqQWo5b21KNHROSDlzX2NpME0xZXNaV1V4N0g2bzhudTJPcEs3Z05YZUdxeHp2YWVXSnEtVmtTclpJaHZqN1IybjVtek41U1p5dDNkcjNYYWFmdmdxN1h0RGdGSnk1M2M4ZmF5X3FIeURCUHoybzFQZEN5RHYxcThXRkRXeFJmeHJLWGwtV3pfUVpFNVdzRGp0UkY4V3ZKTEZ3RUNMbDZJMEZ4Z2FSNGRjcEZz0gH8AUFVX3lxTE1zVGxMcm9rQzdlVnp4aV8zMTlqRWZ4TGVxdzBqeGw1bVBidjlQYW5rd1QxQ2JPMVZXZHRyOHR5VXdjTVpQVjllbWdtR2pWQnBzQ1c1eXNNemthVXYwcVZna251TDZ5ZFMwaE9pNFg4NDlOTEozaG0zN0pqYldHUTEyTTAyV01GVFh0ZHltaVJpN0xqOGdFSU1jYVYyWnZiM25MUGkzNTE1RnVxeDJkcjJYaUhLeWFkSUswbXdCdGJ2SU45dFdtVEdJZW5JX1M3UGdoN1gzUzdsOE15cVRVMVo4OTNVb0lzQ0U2cmZvaHRqRXJRN2s0WVVsTEJPcA?oc=5",
-            "publishedAt": "2026-08-25T22:32+00:00"
-          },
-          {
-            "title": "Fifty Years of Evolution in Contact Lenses - Review of Optometry",
-            "source": "Review of Optometry",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGtKNDludDZOUHY1bXhwY3FCeU9yU1MwaDh3RHRXLUZEajhnU09mNGIwY21qUEg4b1ZfX3lFWlRQREFFeTM0bC0yYklLbFFvUDFVVm0tQ25FbWhGWDhFekQxa0VGMjVjNWhtMzJaQjZVOEVDZzJqOF9CU1FPVTdKN25EWG90VmlKLUwtaw?oc=5",
-            "publishedAt": "2026-08-15T07:00+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [],
         "moves": [],
-        "items": [
-          {
-            "title": "Blood Glucose Test Strip Packaging Market (2026 - 2033) - Grand View Research",
-            "source": "Grand View Research",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFNVT3ZpWmQ3c1FvSHprS3JMVDg2TDJJa21pYURQcl95OG0teEZDVjM1TXhMVnlldGxDTEh2WGt4bXlOMDBLcF8wblJvTkV4RHNBS1pzTW1hYlczS3hMWHpWeEd6QVZmNzlERW4wLWVCWHFGT19ZQXhXQ0RGMHRyT2l4ZE9RbG1TVndzeVl5RXlLc1oxQUhLSXdYUWozZGFCaWc?oc=5",
-            "publishedAt": "2026-08-31T07:43+00:00"
-          },
-          {
-            "title": "What Cannabis Manufacturers Can Learn from the Pharmaceutical Industry About Trace Metal Impurities in Plastic Materials - Cannabis Industry Journal",
-            "source": "Cannabis Industry Journal",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYlJQWkVnVE1VMi1TQ1Myb18wd1p3ZDZ6ZC1Nakg4Y2hOLUwzaDFjRnhFNGsyVWZiWHAzLUJ0Mm5GdXpCWHc1bWFOUDNqQWo5b21KNHROSDlzX2NpME0xZXNaV1V4N0g2bzhudTJPcEs3Z05YZUdxeHp2YWVXSnEtVmtTclpJaHZqN1IybjVtek41U1p5dDNkcjNYYWFmdmdxN1h0RGdGSnk1M2M4ZmF5X3FIeURCUHoybzFQZEN5RHYxcThXRkRXeFJmeHJLWGwtV3pfUVpFNVdzRGp0UkY4V3ZKTEZ3RUNMbDZJMEZ4Z2FSNGRjcEZz0gH8AUFVX3lxTE1zVGxMcm9rQzdlVnp4aV8zMTlqRWZ4TGVxdzBqeGw1bVBidjlQYW5rd1QxQ2JPMVZXZHRyOHR5VXdjTVpQVjllbWdtR2pWQnBzQ1c1eXNNemthVXYwcVZna251TDZ5ZFMwaE9pNFg4NDlOTEozaG0zN0pqYldHUTEyTTAyV01GVFh0ZHltaVJpN0xqOGdFSU1jYVYyWnZiM25MUGkzNTE1RnVxeDJkcjJYaUhLeWFkSUswbXdCdGJ2SU45dFdtVEdJZW5JX1M3UGdoN1gzUzdsOE15cVRVMVo4OTNVb0lzQ0U2cmZvaHRqRXJRN2s0WVVsTEJPcA?oc=5",
-            "publishedAt": "2026-08-25T22:32+00:00"
-          },
-          {
-            "title": "Fifty Years of Evolution in Contact Lenses - Review of Optometry",
-            "source": "Review of Optometry",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGtKNDludDZOUHY1bXhwY3FCeU9yU1MwaDh3RHRXLUZEajhnU09mNGIwY21qUEg4b1ZfX3lFWlRQREFFeTM0bC0yYklLbFFvUDFVVm0tQ25FbWhGWDhFekQxa0VGMjVjNWhtMzJaQjZVOEVDZzJqOF9CU1FPVTdKN25EWG90VmlKLUwtaw?oc=5",
-            "publishedAt": "2026-08-15T07:00+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Distribution"
       }
@@ -570,49 +228,11 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Acetone Rinse Bottles Market Outlook to 2035 - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ud25KMkdxRVdOUW1IZDVLUE1mcU5uTktlNWJaenZLZm9yYlNyTjNrbjl1QW1zV045ZkNDN1NQbzJTLXNmNEZPRk5JLTRLdm95N2tkVWZyc05RTi1udHk2ZDIzWm9STDlvcnJRczdMNWdraXZkVGVzZUpXbnRTNUE?oc=5",
-            "publishedAt": "2026-09-01T04:46+00:00"
-          },
-          {
-            "title": "rhode Prepares to Expand in Europe with Sephora - Beauty Packaging",
-            "source": "Beauty Packaging",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHpYUTRtbGVJVDg3MlNaZXVZcG1BbzFwTzhKQ2c1M2FXMktCeXh2VVcwN2Z5Z2hEZ1ZCR1E5X0lmSUlvOS10TFAzaXdZVFJWMnVtcFBTay1MbEZ2MURZM1JjQnBRZm41c2RqcEE2ZDBlQ0ZJUkZ0Vk80dWRZWlNWaW9ZR0h6TjQtZWlsVjhkLVNEUjdGWU9QWHVB?oc=5",
-            "publishedAt": "2026-08-31T13:23+00:00"
-          },
-          {
-            "title": "OD Creatie Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
-            "source": "reveliolabs.com",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PZkFfdlF3WGZlaWwzRV8wY2FaaDFPSWRJclIzVDdoR0xiaklQQ3VYbjZEUE5SakdtU05lMDRFODNKYjVZRmtCVnN5aHJvOUptNjRES3hIZ3VWR0p6MF84U1M1WHFtQm0wbXc?oc=5",
-            "publishedAt": "2026-08-14T07:14+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [],
         "moves": [],
-        "items": [
-          {
-            "title": "Acetone Rinse Bottles Market Outlook to 2035 - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ud25KMkdxRVdOUW1IZDVLUE1mcU5uTktlNWJaenZLZm9yYlNyTjNrbjl1QW1zV045ZkNDN1NQbzJTLXNmNEZPRk5JLTRLdm95N2tkVWZyc05RTi1udHk2ZDIzWm9STDlvcnJRczdMNWdraXZkVGVzZUpXbnRTNUE?oc=5",
-            "publishedAt": "2026-09-01T04:46+00:00"
-          },
-          {
-            "title": "rhode Prepares to Expand in Europe with Sephora - Beauty Packaging",
-            "source": "Beauty Packaging",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHpYUTRtbGVJVDg3MlNaZXVZcG1BbzFwTzhKQ2c1M2FXMktCeXh2VVcwN2Z5Z2hEZ1ZCR1E5X0lmSUlvOS10TFAzaXdZVFJWMnVtcFBTay1MbEZ2MURZM1JjQnBRZm41c2RqcEE2ZDBlQ0ZJUkZ0Vk80dWRZWlNWaW9ZR0h6TjQtZWlsVjhkLVNEUjdGWU9QWHVB?oc=5",
-            "publishedAt": "2026-08-31T13:23+00:00"
-          },
-          {
-            "title": "OD Creatie Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
-            "source": "reveliolabs.com",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PZkFfdlF3WGZlaWwzRV8wY2FaaDFPSWRJclIzVDdoR0xiaklQQ3VYbjZEUE5SakdtU05lMDRFODNKYjVZRmtCVnN5aHJvOUptNjRES3hIZ3VWR0p6MF84U1M1WHFtQm0wbXc?oc=5",
-            "publishedAt": "2026-08-14T07:14+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Packaging Distribution"
       }
@@ -627,32 +247,11 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Marco Sealing Solutions Acquires Global O-Ring and Seal, Adds Houston Hub - Modern Distribution Management",
-            "source": "Modern Distribution Management",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0h1SFpjX1BVOVNDVGJtWVdDZGVxbGdtMWhKaW9TZUtRYUMwWlhDd3RIazRjV3E0SS1LS09IM3VGb0dXMjFBNzhSeEVPelZMN0VRc1BGVnRzVjlkNGdtSTNqUXEzbjBNdEdpVUV4aFFFZDVJYll0R2RpOTBDd1B2SWk4ODFBekRIZGljVnlJUDRxRlRlN0JEVTNRcm1YT29tRUV6dHdZbE9GQ040UGV1bHNDUmxyZGxrTzZnZFpReDhCMEYwU1NIZ1ZneWtGdm8?oc=5",
-            "publishedAt": "2026-09-01T22:17+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [],
-        "moves": [
-          {
-            "title": "Marco Sealing Solutions Acquires Global O-Ring and Seal, Adds Houston Hub - Modern Distribution Management",
-            "source": "Modern Distribution Management",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0h1SFpjX1BVOVNDVGJtWVdDZGVxbGdtMWhKaW9TZUtRYUMwWlhDd3RIazRjV3E0SS1LS09IM3VGb0dXMjFBNzhSeEVPelZMN0VRc1BGVnRzVjlkNGdtSTNqUXEzbjBNdEdpVUV4aFFFZDVJYll0R2RpOTBDd1B2SWk4ODFBekRIZGljVnlJUDRxRlRlN0JEVTNRcm1YT29tRUV6dHdZbE9GQ040UGV1bHNDUmxyZGxrTzZnZFpReDhCMEYwU1NIZ1ZneWtGdm8?oc=5",
-            "publishedAt": "2026-09-01T22:17+00:00"
-          }
-        ],
-        "items": [
-          {
-            "title": "Marco Sealing Solutions Acquires Global O-Ring and Seal, Adds Houston Hub - Modern Distribution Management",
-            "source": "Modern Distribution Management",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0h1SFpjX1BVOVNDVGJtWVdDZGVxbGdtMWhKaW9TZUtRYUMwWlhDd3RIazRjV3E0SS1LS09IM3VGb0dXMjFBNzhSeEVPelZMN0VRc1BGVnRzVjlkNGdtSTNqUXEzbjBNdEdpVUV4aFFFZDVJYll0R2RpOTBDd1B2SWk4ODFBekRIZGljVnlJUDRxRlRlN0JEVTNRcm1YT29tRUV6dHdZbE9GQ040UGV1bHNDUmxyZGxrTzZnZFpReDhCMEYwU1NIZ1ZneWtGdm8?oc=5",
-            "publishedAt": "2026-09-01T22:17+00:00"
-          }
-        ],
+        "moves": [],
+        "items": [],
         "query": "\"SupplyOne\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Packaging Distribution"
       }
@@ -667,8 +266,15 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [
+          {
+            "title": "Business Journal reveals WA's fastest-growing private companies - The Business Journals",
+            "source": "The Business Journals",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGdMTUtkTFhzNjBXT2xscGc2Qjc2Yjh3eVZuMjY1ZXZyY1Izb3JsdjdWUEZNVDBKOTc0cS0tdHg1bnpkVVBmS1IzZVlhQlI5MURUdlhlcHd4M1BTNVFDT01nVExLMmFOeldWMnh6YjE3NW1maDlUOE1CdWl5M2dMdEgzMGp3OFhYTHVEUnZ0Q1h5aHR0aTNV?oc=5",
+            "publishedAt": "2026-08-31T06:00+00:00"
+          }
+        ],
         "hiring": [
           {
             "title": "Sales Representative, Packaging - Sacramento, CA",
@@ -680,7 +286,14 @@
           }
         ],
         "moves": [],
-        "items": [],
+        "items": [
+          {
+            "title": "Business Journal reveals WA's fastest-growing private companies - The Business Journals",
+            "source": "The Business Journals",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGdMTUtkTFhzNjBXT2xscGc2Qjc2Yjh3eVZuMjY1ZXZyY1Izb3JsdjdWUEZNVDBKOTc0cS0tdHg1bnpkVVBmS1IzZVlhQlI5MURUdlhlcHd4M1BTNVFDT01nVExLMmFOeldWMnh6YjE3NW1maDlUOE1CdWl5M2dMdEgzMGp3OFhYTHVEUnZ0Q1h5aHR0aTNV?oc=5",
+            "publishedAt": "2026-08-31T06:00+00:00"
+          }
+        ],
         "query": "\"Alliance Packaging\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Corrugated / Packaging Distribution"
       }
@@ -695,27 +308,8 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
-        "news": [
-          {
-            "title": "Sonoco names global consumer packaging leader amid restructuring - Packaging Dive",
-            "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlViVmNXNlI3OTNZY1Q2d1VQdXNoZjB6RTF0clU4WTh1Q1NSQk44VEFuUHlwV3ZsYXZMX0dzV3pBVWo4SUdqeWR5eTNBSkZIeHk3eUUtU2FweHVmV1A3N2Z1eE1Jd3I5SlkyT1dBSUVmRmdKcHpnQmg2V0ctNWtsRHNoeEprdHV6M05HQTB6TzMxMW5PdW1BZDNzZE05c0tQbDRxOU03MnVsMkpleEwzMHg1UGlTUHBI?oc=5",
-            "publishedAt": "2026-08-05T07:00+00:00"
-          },
-          {
-            "title": "Lighthouse Launches Ernest Crews to Get Hotel Commercial Teams Running on AI in as Little as 30 Days - Newswire.com",
-            "source": "Newswire.com",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNxc3NLblUwNXlRWmhFc2p2cFVZdUhDbFRHakNKR1B3ekRGWURBQWFmWnpNSmtvQjMwaGtjRDU2US1Eb1BIRHYyRVNOWlRwOXZKU1JYZEU4b3ZMNm1LTkxVUVF5NmJKU1dXdkdiNVBqQWNDcWZ6TUN6bjQwUFd6cmU2bFEweGtBRUtyRFg0U29rOVphUzdhY1RsSjNURE5iejVDQW5WenctU0lkWEE?oc=5",
-            "publishedAt": "2026-09-02T11:58+00:00"
-          },
-          {
-            "title": "Sonoco names vice president, general manager of Consumer Packaging for EMEA - Recycling Today",
-            "source": "Recycling Today",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPem13b0Q4T0FuSF9YaWM0NU5CTjVDS1R6S0lVRzRkQ1pDVHRfTEtIdkxyeDB0LUdhVlhTYmZDakh5TWxmbXpXb0FMMkdHeDVjYlRsa0M5Q1ZtU1lIaWl1c3FUakIyUXVwbTl4d18yQWc3SGNIZXR3dktUZV9qNjRKWjFlRlJGNUVMeThPaGEtTVROSFpZWXBzUTd2ZE52ZUhpc0tWanlubk1YLXZUb3hnUlVqTkdWcFVFWEZDcWdR?oc=5",
-            "publishedAt": "2026-08-20T18:24+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-03T17:04+00:00",
+        "news": [],
         "hiring": [
           {
             "title": "Territory Sales Representative (Outside B2B Sales) - Sacramento, CA",
@@ -726,26 +320,7 @@
           }
         ],
         "moves": [],
-        "items": [
-          {
-            "title": "Sonoco names global consumer packaging leader amid restructuring - Packaging Dive",
-            "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlViVmNXNlI3OTNZY1Q2d1VQdXNoZjB6RTF0clU4WTh1Q1NSQk44VEFuUHlwV3ZsYXZMX0dzV3pBVWo4SUdqeWR5eTNBSkZIeHk3eUUtU2FweHVmV1A3N2Z1eE1Jd3I5SlkyT1dBSUVmRmdKcHpnQmg2V0ctNWtsRHNoeEprdHV6M05HQTB6TzMxMW5PdW1BZDNzZE05c0tQbDRxOU03MnVsMkpleEwzMHg1UGlTUHBI?oc=5",
-            "publishedAt": "2026-08-05T07:00+00:00"
-          },
-          {
-            "title": "Lighthouse Launches Ernest Crews to Get Hotel Commercial Teams Running on AI in as Little as 30 Days - Newswire.com",
-            "source": "Newswire.com",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNxc3NLblUwNXlRWmhFc2p2cFVZdUhDbFRHakNKR1B3ekRGWURBQWFmWnpNSmtvQjMwaGtjRDU2US1Eb1BIRHYyRVNOWlRwOXZKU1JYZEU4b3ZMNm1LTkxVUVF5NmJKU1dXdkdiNVBqQWNDcWZ6TUN6bjQwUFd6cmU2bFEweGtBRUtyRFg0U29rOVphUzdhY1RsSjNURE5iejVDQW5WenctU0lkWEE?oc=5",
-            "publishedAt": "2026-09-02T11:58+00:00"
-          },
-          {
-            "title": "Sonoco names vice president, general manager of Consumer Packaging for EMEA - Recycling Today",
-            "source": "Recycling Today",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPem13b0Q4T0FuSF9YaWM0NU5CTjVDS1R6S0lVRzRkQ1pDVHRfTEtIdkxyeDB0LUdhVlhTYmZDakh5TWxmbXpXb0FMMkdHeDVjYlRsa0M5Q1ZtU1lIaWl1c3FUakIyUXVwbTl4d18yQWc3SGNIZXR3dktUZV9qNjRKWjFlRlJGNUVMeThPaGEtTVROSFpZWXBzUTd2ZE52ZUhpc0tWanlubk1YLXZUb3hnUlVqTkdWcFVFWEZDcWdR?oc=5",
-            "publishedAt": "2026-08-20T18:24+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Ernest\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Packaging Distribution"
       }
@@ -760,7 +335,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-09-02T17:12+00:00",
+        "lastUpdated": "2026-09-03T17:04+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -772,8 +347,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-02T17:12+00:00",
-  "lastSuccessfulAt": "2026-09-02T17:12+00:00",
+  "lastAttemptedAt": "2026-09-03T17:04+00:00",
+  "lastSuccessfulAt": "2026-09-03T17:04+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

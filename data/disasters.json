@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T17:12+00:00",
+  "lastUpdated": "2026-09-03T17:04+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "128 km E of Chignik, Alaska",
+      "region": "44 km NW of Beluga, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "55 km S of Whites City, New Mexico",
+      "region": "15 km SE of Petrolia, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km S of Hope, Alaska",
+      "region": "61 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "63 km WNW of Ninilchik, Alaska",
+      "region": "11 km NE of Julian, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km WSW of Dibble, Oklahoma",
+      "region": "7 km NNW of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km WNW of Borrego Springs, CA",
+      "region": "8 km SW of Ivanof Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of Anza, CA",
-      "severity": "Low"
+      "region": "81 km SSW of Nikolski, Alaska",
+      "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NNW of Guayanilla, Puerto Rico",
+      "region": "63 km SSW of Nanwalek, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued September 2 at 1:48AM PDT until September 2 at 8:00PM PDT by NWS Eureka CA",
-      "region": "Southeastern Interior Humboldt",
+      "type": "Wind Advisory issued September 3 at 7:53AM PDT until September 4 at 6:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southwestern Coast; Santa Ynez Mountains Western Range",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued September 2 at 1:48AM PDT until September 2 at 8:00PM PDT by NWS Eureka CA",
-      "region": "Southwestern Humboldt",
+      "type": "Beach Hazards Statement issued September 3 at 6:40AM PDT until September 7 at 11:00PM PDT by NWS San Francisco CA",
+      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued September 2 at 1:48AM PDT until September 2 at 8:00PM PDT by NWS Eureka CA",
-      "region": "Coastal Del Norte",
+      "type": "Lake Wind Advisory issued September 3 at 1:02AM PDT until September 3 at 11:00PM PDT by NWS Reno NV",
+      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties; Greater Lake Tahoe Area; Greater Lake Tahoe Area; Greater Reno-Carson City-Minden Area; Western Nevada Basin and Range including Pyramid Lake",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued September 2 at 1:48AM PDT until September 2 at 8:00PM PDT by NWS Eureka CA",
-      "region": "Interior Del Norte",
+      "type": "Lake Wind Advisory issued September 3 at 1:02AM PDT until September 3 at 11:00PM PDT by NWS Reno NV",
+      "region": "Mono",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-02T17:12+00:00",
-  "lastSuccessfulAt": "2026-09-02T17:12+00:00",
+  "lastAttemptedAt": "2026-09-03T17:04+00:00",
+  "lastSuccessfulAt": "2026-09-03T17:04+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T17:12+00:00",
+  "lastUpdated": "2026-09-03T17:04+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,24 +14,38 @@
   ],
   "stories": [
     {
-      "title": "Packaging industry braces for impacts from U.S.-Canada trade war - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMExzeUhDRDhPZDRsVExJLWVLZUlpU2JuUnFzNXl6U3ZscEx5Z2VmTklrcmpwbngzQXRLQnphWVh4bTV1MVUwcVNlUXFON1FleGpNYmE3dDNmNGg0V0NneTg4ck5TOEY1VmRuQmdvTXJPbC00aVdQUlFvODJ5eFM5XzNuaGlqVE5RMHNESmduLWtRS183a0h3REZISVU5cVJUWDBucGltZDl3dmk1YUE?oc=5",
-      "publishedAt": "2026-08-26T17:09+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "California Demands Less Plastic in Packaging. Manufacturers Say You\u2019ll Pay More for Stuff - KQED",
-      "source": "KQED",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkNCMzBUTGlNcmJZNzZGOFRJaGJCLURzc3JwTEYwdmlEZHdEaHlnc3QxZElCbjlRclhsaFpfOEYwY2dwQks5Y3Fhck5lWXhrSVdUVWd4NVN5cERwNExrRFVsdG40cmZlZ1M1bGtHZlRZX0tTZkdwczNScGQ0aGFrWlFBclh0ckxTQm53VjRnMk4yQ29Qbm11M05ORWxRYTJvVkFqNmpKRm05S1poQzBGbUlyQklzaTlwdzhLYmdXUQ?oc=5",
+      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more for stuff - CalMatters",
+      "source": "CalMatters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUU8wMEZqVWM2Y2pKR09NTS1mc0hoa1o2dF8zUy14VEpudFNYekZzMnNMOGhCd0Z3RktVZTlydU1pWkZ6elhpZmtRVzhZT3lsWDRhTjRreTlPV25uaFFySGljYjR5Q2JWLTQ4ZzdKdnZRdnBCelpjN1NQWW1VUHBOWnVQR2JMMVlzN25fdWRSLWlYM2c?oc=5",
       "publishedAt": "2026-08-20T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "New EU rules on packaging enter into application - environment.ec.europa.eu",
-      "source": "environment.ec.europa.eu",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdS1FRmRVZEtIZFA2Yng4czVjUkZqVjkzblhXRHIxcXFOSF9IMzVSQ0FiY2kxaUhZOEV3VVZJNDV5ZkRxM0JMcllnVlJvLXM5elpWVXpQUktocTdtRWxMa3lMLTg0UkN1aDd2ZHhHaWN5UzgtRVJTSUFzVjhXdmE0d0NzcnpHZXVFMDVzdnROYkVhMzFwMGlB?oc=5",
-      "publishedAt": "2026-08-11T07:00+00:00",
+      "title": "US Plastics Pact removes transport EPS from \u2018problematic\u2019 list - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWwwcXF2T2laVDdfSTlQalk3aVRqcFhMRjJRTjBRRlhpZ2RjT241WlY5QVFKNElPUEhvbzBGYmE2UkF1WExGYTJLaWVhVWJjQ2FhbGZMWUUzOFRfTXpFOTk1M0RQclBSU09uMnN0WnFCTmdHeVR3MzY5T0JNZnJyZld4dFppQUlMUW5JM0pJVWoxdFUxNER1aXlncXhYdkFoSGUxWVk0cGtOTDBLMXVNMHJFVWo?oc=5",
+      "publishedAt": "2026-08-19T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "What Europe\u2019s EPR fees already reward in plastic packaging - Plastics News",
+      "source": "Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1FNcXJ5UUhfSnZHS3U5eHdvWFYtRlVCdmZ5QmdtTlBxRVVvbHMtbWw4SnBuWW84QVFEc1lDeUg2S0xZVDlTM2E2eHdHWGFULWhsSzNMRnB6a2pRbFpRcWM0VE1iRHFMUlJOWmg2UU5CMDlleF9CVHdGV3JrZkw4NllvUVRHZWJGc1Z0SjBPRDVCNFJpdy1fai1YQkg5dmJZMmlfLWk0bVdnZTlKWWROa3FpbWlWWUxYZTdzTGN6Z3ZKZGc?oc=5",
+      "publishedAt": "2026-08-19T07:00+00:00",
+      "impact": "Medium"
+    },
+    {
+      "title": "EPS Transport Packaging Removed from U.S. Plastics Pact List - Packaging World",
+      "source": "Packaging World",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0ktZ3N2WW5fdDBvTVZyY2dkaUZ5dFRNUEIyc1FhVDhhY0ZYTWxBZWtCclhfdUh6aGM4YTZndGlMOW0yS01iMGxleUlOZFVuU0F0Um1reHNPZlV4NmkwRG1CdGhNZXFuaG9yUU1jQ1pYSGd3eEVnQ2NhaG5jMlYxSF9TTVU0cHRHX2dnM0dDRll4aklael9JbUE0bzl4R0pOOXQ2c3JkWHItaGlBRGcwaTBQT2VKQ0pMQ3B0QlB2Um4?oc=5",
+      "publishedAt": "2026-08-19T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Sustainable Food Packaging Company With Indian Roots to Invest $5M Gainesville - Global Atlanta",
+      "source": "Global Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXFpT3BxS184eUgzUVpOVW9kQ084bHpXaldVU0o0RENCN2pRQy1RSjU1MHJCZVZrb2xxQjMwakVRcGhOLXNONlp1cVhHX1gzRjVPYjFLOUNFNlBEZUtBdWVJWG1fZWs1MFFVQm9Ic2VnYUdvNmtqcHlsMk9Oa1pwb3BXLWwyWDNJNThFb09NOWdkTHZ3MF9JMVlVcXRJY3BrSHAtWDlfMlpTaEZp?oc=5",
+      "publishedAt": "2026-08-18T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -42,38 +56,24 @@
       "impact": "Low"
     },
     {
-      "title": "HarperLove acquires ChromaScape's corrugated products business - PULPAPERnews.com",
-      "source": "PULPAPERnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmVRdUs5MGVWUW5HbE5QdGs2SzVEbGJOaWs5SGw4cUlkUXo5NmFkLThEbXNSWml4WTM0T1cxaW1pbnpGNVgzS0tBWldFOUFPdk5CSXpDWFZLX2ZnTWNZZC1GS1dOaHR6cTJhZjliNFMya2gweTc1NXJrZVRKVUt4MFUwTFZ2clF3bk1MNjJpdHlmQ0s2RnY4bE42TEcwNG50dlR6MERDZkU?oc=5",
-      "publishedAt": "2026-08-20T07:00+00:00",
-      "impact": "High"
-    },
-    {
-      "title": "Shifting the cleanup cost of packaging waste to companies could encourage greener packaging - Maine Morning Star",
-      "source": "Maine Morning Star",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONWJsWkQ5MDBPNFhWLVRsZnp4SklKcEJWei1JdW0xeHN3d0VnLTBQQUhLM19ISTRZcGxEY0tyWlFqeV9XVXE0MGNzWG5aclBKdnJpOHBYTkx0NXZtem5nTjM5VnJRamxQYXRqUTByV3QzN1ZSNzZKeUxwMC1XVk1zaHJsOF8tbU5Fd3JLdEpOMjJpaS0yNFlzVWduYUNBQjlBUGYwWFF5ZWlwcjhPd1FEVE5lZWF5ZmRINmYtY3VGdl9JUEg2c0k1dTJHNmE?oc=5",
-      "publishedAt": "2026-08-28T17:37+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "PepsiCo makes packaging gains, but infrastructure remains a hurdle - FoodNavigator.com",
-      "source": "FoodNavigator.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmt3TXkzOF92WjF0UXdyRF9OT3Iza2ZsX3o0RVkwbHh4bUhoSUctLW5LX1dLeVFYbEZlVzVIVmZScm15RFBKSndZbzFwdzBzTnBsRFZGeTNVUTZvVkJrUTkyMlMyY0VsMTgwelFFZzdsRkFjMEt3amJLQmxuYUc1MkJlWXhwRnFoejlERU5LaTFQd2VCcVdUR2xmY2ptX1NGcGE3aHBQN0gySXlWbXg4?oc=5",
-      "publishedAt": "2026-08-21T13:26+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Henkel's Packaging Recyclab in Shanghai now accredited for EU recognized paper packaging recyclability testing - PR Newswire",
       "source": "PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVdETVBmM0ZhTkR2Q3FocjJQMUJpVkpIRXpwWUNrMUVyS3A0aXlybmp4LTFxcGJTMndJMFFKRzFQd05uZVdPQWwyME1zdl9yWmdqTUc3MEhkRFNmV0tEekN5WFpEOVZIYU1PX01YYVJxNjN3ZktCc2RpYzAxNDhmV2I4b25fZWxHTzVXV0ZxM3lzWWtBZnR1dXdjZWQ5ZzBfSmlPRzk2N1JlM2JER1BtRnJxVlZLZnprLTI0d2NUbU9id2szNzdQbE02V1NkZjMwTXQ4X056WExPY2xZcDJaTmlMNmpFV1ZyTmY1V1loMTRPQU53M2tWS2kxZ2REZTQ?oc=5",
       "publishedAt": "2026-08-25T08:14+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "Top Reusable E-commerce Packaging Companies, 10.24% CAGR - fortunebusinessinsights.com",
+      "source": "fortunebusinessinsights.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2lzTml1SENTUFpTdVRNSlc1b0JmQWZBRWE5c2xtOFpsaTVfMUdRVEdxLXg2dHBSam5CSGx5UndwZGxNY0NZRHZJTmdYdTJpMWJSaXNPOVFZeHc2RWNrVFRvb1pIeUhEVGhQLTBiVXh1VGlJbHZmODhCRU1SVGVTQXBNWm05eXduVmtXZkR2d2ZvOEJPTWlxNg?oc=5",
+      "publishedAt": "2026-08-18T09:13+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-02T17:12+00:00",
-  "lastSuccessfulAt": "2026-09-02T17:12+00:00",
+  "lastAttemptedAt": "2026-09-03T17:04+00:00",
+  "lastSuccessfulAt": "2026-09-03T17:04+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

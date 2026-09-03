@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T17:12+00:00",
+  "lastUpdated": "2026-09-03T17:04+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -80,12 +80,18 @@
       "us": 4.2,
       "california": 5.2,
       "sacramento": 4.8
+    },
+    {
+      "date": "2026-07",
+      "us": 4.1,
+      "california": 5.1,
+      "sacramento": 5.1
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-02T17:12+00:00",
-  "lastSuccessfulAt": "2026-09-02T17:12+00:00",
+  "lastAttemptedAt": "2026-09-03T17:04+00:00",
+  "lastSuccessfulAt": "2026-09-03T17:04+00:00",
   "sourceLimitations": [
     "Monthly BLS/FRED series can lag the current operating week."
   ]
