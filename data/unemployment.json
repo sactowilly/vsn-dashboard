@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T17:04+00:00",
+  "lastUpdated": "2026-09-04T16:53+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly",
   "sourceLinks": [
@@ -21,12 +21,6 @@
     "Sacramento series id used: CASACR5URN"
   ],
   "series": [
-    {
-      "date": "2025-08",
-      "us": 4.3,
-      "california": 5.5,
-      "sacramento": 5.5
-    },
     {
       "date": "2025-09",
       "us": 4.4,
@@ -90,8 +84,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-03T17:04+00:00",
-  "lastSuccessfulAt": "2026-09-03T17:04+00:00",
+  "lastAttemptedAt": "2026-09-04T16:53+00:00",
+  "lastSuccessfulAt": "2026-09-04T16:53+00:00",
   "sourceLimitations": [
     "Monthly BLS/FRED series can lag the current operating week."
   ]
