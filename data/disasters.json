@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T18:16+00:00",
+  "lastUpdated": "2026-09-08T17:16+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "11 km ENE of North Tustin, CA",
+      "region": "30 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km ESE of Cloverdale, CA",
+      "region": "11 km ENE of Ridgecrest, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of The Geysers, CA",
+      "region": "61 km WNW of Nanwalek, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of Boron, CA",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "44 km SSW of Cantwell, Alaska",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "3 km SSE of The Geysers, CA",
+      "region": "26 km WSW of Cantwell, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "69 km S of Cantwell, Alaska",
+      "region": "30 km SSW of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "28 km SSW of Ocotillo Wells, CA",
+      "region": "5 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Extreme Heat Warning issued September 7 at 11:09AM PDT until September 11 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
-      "severity": "Severe"
+      "type": "Earthquake",
+      "region": "6 km WNW of Othello, Washington",
+      "severity": "Low"
     },
     {
-      "type": "Heat Advisory issued September 7 at 11:09AM PDT until September 10 at 8:00PM PDT by NWS San Diego CA",
+      "type": "Coastal Flood Advisory issued September 8 at 9:03AM PDT until September 10 at 1:00AM PDT by NWS San Francisco CA",
+      "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "severity": "Minor"
+    },
+    {
+      "type": "Heat Advisory issued September 8 at 7:01AM PDT until September 10 at 8:00PM PDT by NWS San Diego CA",
       "region": "Riverside County Mountains; San Diego County Mountains",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued September 7 at 11:09AM PDT until September 10 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Inland Valleys",
-      "severity": "Moderate"
+      "type": "Extreme Heat Warning issued September 8 at 7:01AM PDT until September 11 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
+      "severity": "Severe"
     },
     {
-      "type": "Heat Advisory issued September 7 at 11:09AM PDT until September 10 at 8:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "type": "Heat Advisory issued September 8 at 7:01AM PDT until September 10 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Santa Ana Mountains and Foothills",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-07T18:16+00:00",
-  "lastSuccessfulAt": "2026-09-07T18:16+00:00",
+  "lastAttemptedAt": "2026-09-08T17:16+00:00",
+  "lastSuccessfulAt": "2026-09-08T17:16+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
