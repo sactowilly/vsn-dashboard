@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:16+00:00",
+  "lastUpdated": "2026-09-09T17:10+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "30 km NW of Toyah, Texas",
+      "region": "19 km WNW of Progreso, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km ENE of Ridgecrest, CA",
+      "region": "10 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "61 km WNW of Nanwalek, Alaska",
+      "region": "28 km SW of Glacier View, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NW of The Geysers, CA",
+      "region": "12 km W of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "26 km WSW of Cantwell, Alaska",
+      "region": "3 km SSE of Loma Linda, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "30 km SSW of Petersville, Alaska",
+      "region": "6 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of The Geysers, CA",
+      "region": "2 km WSW of Ocean City, Washington",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of Othello, Washington",
+      "region": "3 km SW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued September 8 at 9:03AM PDT until September 10 at 1:00AM PDT by NWS San Francisco CA",
-      "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Minor"
-    },
-    {
-      "type": "Heat Advisory issued September 8 at 7:01AM PDT until September 10 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Riverside County Mountains; San Diego County Mountains",
+      "type": "Beach Hazards Statement issued September 9 at 8:38AM PDT until September 11 at 12:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued September 8 at 7:01AM PDT until September 11 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning",
+      "type": "Extreme Heat Warning issued September 9 at 8:09AM PDT until September 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Cuyama Valley; Santa Clarita Valley; San Luis Obispo County Beaches; San Luis Obispo County Inland Central Coast; Santa Lucia Mountains; Southern Salinas Valley; San Luis Obispo County Interior Valleys; San Luis Obispo County Mountains; Santa Barbara County Central Coast Beaches; Santa Barbara County Inland Central Coast; Santa Ynez Valley; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Santa Ynez Mountains Western Range; Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains; Ventura County Beaches; Ventura County Inland Coast; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Southeastern Ventura County Valleys; Santa Susana Mountains",
       "severity": "Severe"
     },
     {
-      "type": "Heat Advisory issued September 8 at 7:01AM PDT until September 10 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Santa Ana Mountains and Foothills",
-      "severity": "Moderate"
+      "type": "Extreme Heat Warning issued September 9 at 8:09AM PDT until September 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands",
+      "severity": "Severe"
+    },
+    {
+      "type": "Extreme Heat Warning issued September 9 at 8:09AM PDT until September 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Los Angeles County San Gabriel Valley",
+      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-08T17:16+00:00",
-  "lastSuccessfulAt": "2026-09-08T17:16+00:00",
+  "lastAttemptedAt": "2026-09-09T17:10+00:00",
+  "lastSuccessfulAt": "2026-09-09T17:10+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
