@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:10+00:00",
+  "lastUpdated": "2026-09-11T17:03+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "19 km WNW of Progreso, B.C., MX",
+      "region": "10 km S of Johnsville, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km NW of The Geysers, CA",
+      "region": "17 km SW of Oasis, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "28 km SW of Glacier View, Alaska",
+      "region": "8 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km W of Anza, CA",
+      "region": "61 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SSE of Loma Linda, CA",
+      "region": "16 km NE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NW of The Geysers, CA",
+      "region": "58 km W of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km WSW of Ocean City, Washington",
+      "region": "58 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SW of P\u0101hala, Hawaii",
+      "region": "10 km NE of Coso Junction, CA",
       "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued September 9 at 8:38AM PDT until September 11 at 12:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
+      "type": "Red Flag Warning issued September 11 at 10:02AM PDT until September 14 at 11:00AM PDT by NWS Sacramento CA",
+      "region": "South-Central Shasta County Including Redding Metro; Sierra Nevada of Tehama-Butte-Plumas Counties Between 1000-3000 ft; Northern Sacramento Valley in Tehama County; Central Glenn County Including Interstate 5; Eastern Glenn County; Butte County Below 1000 ft; Central Colusa County Including Interstate 5; Eastern Colusa County; Sutter and Yuba Counties Below 1000 ft",
+      "severity": "Severe"
+    },
+    {
+      "type": "Red Flag Warning issued September 11 at 10:02AM PDT until September 14 at 11:00AM PDT by NWS Sacramento CA",
+      "region": "Glenn and Colusa County Coast Range Above 3000 ft; Western Glenn and Colusa County Foothills Between 1000-3000 ft",
+      "severity": "Severe"
+    },
+    {
+      "type": "Wind Advisory issued September 11 at 7:23AM PDT until September 12 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southwestern Coast",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued September 9 at 8:09AM PDT until September 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Cuyama Valley; Santa Clarita Valley; San Luis Obispo County Beaches; San Luis Obispo County Inland Central Coast; Santa Lucia Mountains; Southern Salinas Valley; San Luis Obispo County Interior Valleys; San Luis Obispo County Mountains; Santa Barbara County Central Coast Beaches; Santa Barbara County Inland Central Coast; Santa Ynez Valley; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Santa Ynez Mountains Western Range; Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains; Ventura County Beaches; Ventura County Inland Coast; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Southeastern Ventura County Valleys; Santa Susana Mountains",
-      "severity": "Severe"
-    },
-    {
-      "type": "Extreme Heat Warning issued September 9 at 8:09AM PDT until September 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands",
-      "severity": "Severe"
-    },
-    {
-      "type": "Extreme Heat Warning issued September 9 at 8:09AM PDT until September 10 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Los Angeles County San Gabriel Valley",
-      "severity": "Severe"
+      "type": "Wind Advisory issued September 11 at 7:23AM PDT until September 12 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Ynez Mountains Western Range",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-09T17:10+00:00",
-  "lastSuccessfulAt": "2026-09-09T17:10+00:00",
+  "lastAttemptedAt": "2026-09-11T17:03+00:00",
+  "lastSuccessfulAt": "2026-09-11T17:03+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

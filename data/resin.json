@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-09T17:10+00:00",
+  "lastUpdated": "2026-09-11T17:03+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly market action + proxy",
-  "whatChanged": "PE resin -$0.15/lb is the operating market action; proxy moved -20.6 index points versus the prior published month.",
+  "whatChanged": "PE resin -$0.15/lb is the operating market action; proxy moved -3.5 index points versus the prior published month.",
   "sourceLinks": [
     {
       "label": "FRED Plastics Material and Resin Manufacturing PPI",
@@ -18,7 +18,7 @@
     "Proxy refreshed from FRED Plastics Material and Resin Manufacturing PPI.",
     "Use market action for pricing conversations; use proxy as directional context only."
   ],
-  "currentDeltaIndex": -20.56,
+  "currentDeltaIndex": -3.53,
   "marketAction": {
     "label": "PE resin -$0.15/lb",
     "market": "North American polyethylene resin",
@@ -111,10 +111,6 @@
   ],
   "series": [
     {
-      "date": "2025-08",
-      "value": 313.877
-    },
-    {
       "date": "2025-09",
       "value": 309.16
     },
@@ -144,25 +140,29 @@
     },
     {
       "date": "2026-04",
-      "value": 331.419
+      "value": 328.413
     },
     {
       "date": "2026-05",
-      "value": 376.881
+      "value": 360.445
     },
     {
       "date": "2026-06",
-      "value": 367.41
+      "value": 351.011
     },
     {
       "date": "2026-07",
-      "value": 346.848
+      "value": 335.399
+    },
+    {
+      "date": "2026-08",
+      "value": 331.873
     }
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-09T17:10+00:00",
-  "lastSuccessfulAt": "2026-09-09T17:10+00:00",
+  "lastAttemptedAt": "2026-09-11T17:03+00:00",
+  "lastSuccessfulAt": "2026-09-11T17:03+00:00",
   "sourceLimitations": [
     "Resin market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
     "Resin pricing varies by polymer, grade, supplier, contract, and spot-versus-contract market.",

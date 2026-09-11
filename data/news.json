@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:10+00:00",
+  "lastUpdated": "2026-09-11T17:03+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,8 +14,8 @@
   ],
   "stories": [
     {
-      "title": "Packaging industry braces for impacts from U.S.-Canada trade war - Packaging Dive",
-      "source": "Packaging Dive",
+      "title": "Packaging industry braces for impacts from U.S.-Canada trade war - packagingdive.com",
+      "source": "packagingdive.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMExzeUhDRDhPZDRsVExJLWVLZUlpU2JuUnFzNXl6U3ZscEx5Z2VmTklrcmpwbngzQXRLQnphWVh4bTV1MVUwcVNlUXFON1FleGpNYmE3dDNmNGg0V0NneTg4ck5TOEY1VmRuQmdvTXJPbC00aVdQUlFvODJ5eFM5XzNuaGlqVE5RMHNESmduLWtRS183a0h3REZISVU5cVJUWDBucGltZDl3dmk1YUE?oc=5",
       "publishedAt": "2026-08-26T07:00+00:00",
       "impact": "Low"
@@ -28,17 +28,31 @@
       "impact": "Low"
     },
     {
-      "title": "New EU rules on packaging enter into application - environment.ec.europa.eu",
-      "source": "environment.ec.europa.eu",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdS1FRmRVZEtIZFA2Yng4czVjUkZqVjkzblhXRHIxcXFOSF9IMzVSQ0FiY2kxaUhZOEV3VVZJNDV5ZkRxM0JMcllnVlJvLXM5elpWVXpQUktocTdtRWxMa3lMLTg0UkN1aDd2ZHhHaWN5UzgtRVJTSUFzVjhXdmE0d0NzcnpHZXVFMDVzdnROYkVhMzFwMGlB?oc=5",
-      "publishedAt": "2026-08-11T07:00+00:00",
+      "title": "How Amazon rethought paper to power a new, more sustainable way of packaging - aboutamazon.com",
+      "source": "aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BaHdNNUFEMFJISWRnNWM1b3FuYTRTYWpLLTAyX3JuY3VXVHo3SU95N09aOHE2VE1Wa2l4WERwNTlGUU1IS0NCRVZhRTBpQjh0WW5FYm1hSGRLenc1VU9hbWxmaTZXRW52azZrZUx4WXltSmhMNVN0NTEydGhLQQ?oc=5",
+      "publishedAt": "2026-09-09T17:22+00:00",
       "impact": "Low"
     },
     {
-      "title": "Judge upholds Oregon\u2019s packaging recycling law - OregonLive.com",
-      "source": "OregonLive.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmFUR0JKeXpCa2U1dk9SZXVla19MWWtQV2lIXzZkdUVqeWpyZ0pBVF96TXBsLWNGS3l5endXaFVPM2lHV0hMQ1o5Ym1LeFVyRHNSV1BfNWZpVjhWdlQ2c082U0FEUnRROFJEOG5KU1JmWWNPdXRMdVVlUzNUb25kOFNXdTBPVGVLVkxpREhWUVNSRUHSAacBQVVfeXFMUDBSUmlLTVF0LUpvcFp2SVcydlB0Y0QwdGlSV094eTQ4NFlpVG5BRkJrUHNCUW1hWEY4Y0s2bjhuTGgtOXd5eDBoU01GQ0RfaGhlQzJ0Yk10UjNXdG1vNTBWQjlkcFJDTXY4dGIwbnd2VHhDc2xfR0ZvanNLcXJxVVE3cWl6VW9iV2Z2WUhhdS1XemM2d01lT3BJZ3pIM2E3S2NNY1V2OVE?oc=5",
-      "publishedAt": "2026-08-28T07:00+00:00",
+      "title": "Who's behind the secretive multimillion-dollar campaign to crush California's landmark plastics law? - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObGtBRGR1elB5SHQtV0l1ek45c3JRbzhlb3JWeG5sb0xPZERLc25ldnM4OXVnN2ZwOWNPaC1Na0VTUzdjdGhUTEp1ZG1xbThLWWJhYng3ZEt2TnBGa3pGV09LckRYQmNlWFRaX2dQZlk1eDh6TWV6TW1tb05scUNwMmFGZngwaUhXRGt1NHE1Y3dEXzQ?oc=5",
+      "publishedAt": "2026-09-03T07:00+00:00",
+      "impact": "High"
+    },
+    {
+      "title": "It's not just food: The plastic packaging your food comes in may carry cancer-linked chemicals, and most go untested - Fortune",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0LWlYZ0EyUE01UkNJMGFTYmdoYXp3T2RPeUNOcGZMX2w5ekluSl9hd3BSWkpPYXNXYzJXa0s5TWRRVEk4RldxNTRhYnR6aEZEY3NobzMzYkRqNmVKeWtfcWUzNjBUOHFuUWZIX0hPb3NiWVI0?oc=5",
+      "publishedAt": "2026-09-10T17:23+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Mexico's Metal Packaging Industry Advances Circularity - Mexico Business News",
+      "source": "Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTd4cUtSUm5FMUpyX0taSmpvOWhxdXRfSVJueGpTbjJHaWwxRHFfRC1odVpRT0dHcDZuSTF0ZVhxV1lmZHd4VUx0aEJtOFljdkF5YldZbjhha2ExdEI5ZlE2YVNSOFdzampKQXlBSlRLNWVPdlNLNU5fOU5BdkZObGp4WmVPaFlsNUNsN0oyUTE2TXp1eGI5Qkp4WVNCNkdEa1FB?oc=5",
+      "publishedAt": "2026-09-10T19:09+00:00",
       "impact": "Low"
     },
     {
@@ -49,31 +63,17 @@
       "impact": "Low"
     },
     {
-      "title": "Who's behind the secretive multimillion-dollar campaign to crush California's landmark plastics law? - Los Angeles Times",
-      "source": "Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObGtBRGR1elB5SHQtV0l1ek45c3JRbzhlb3JWeG5sb0xPZERLc25ldnM4OXVnN2ZwOWNPaC1Na0VTUzdjdGhUTEp1ZG1xbThLWWJhYng3ZEt2TnBGa3pGV09LckRYQmNlWFRaX2dQZlk1eDh6TWV6TW1tb05scUNwMmFGZngwaUhXRGt1NHE1Y3dEXzQ?oc=5",
-      "publishedAt": "2026-09-03T12:00+00:00",
-      "impact": "High"
-    },
-    {
-      "title": "Consumers increasingly prioritize sustainability for e-commerce packaging: Ryder - ESG Dive",
-      "source": "ESG Dive",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUxiVnFXajZSazQ5Y1IwcTc4RnNBNGY0ZUl0bHRnWUlJYmZkb0lkS1RLSkJzMXlneDVVd3JwY3IzOEd5czJKM2RBdENPZC1senpBSWZkZGNrUTl6My15dXJLT2dJbk1ONThkLXhsWWs3S3JTYlc3Y0MyVnMxcUtrZlJIUjhGUVBQQ2tndXh4bDBab1BnVERtekN3ZUtWOU5Mb3RzRGtBX2hxQU5EdTlUdGlpbkNkbXB3ZUE?oc=5",
-      "publishedAt": "2026-09-03T22:12+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Report flags thousands of food packaging chemicals for replacement - C&EN",
-      "source": "C&EN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VSUc4NV9MS2JqSzh6QU5uUWI1aVg5NzdWdHBlVmRsOG1JRUYtQnpsdE5JcnVWNDFWU3VIcEJNSTFmeHc0T0VZR05OZlc1LWVsanU3b3hjOVNoQXdjVGs4YWQ0WXp3WnY2SnhDYjJoN2FsTUxmTmh1elNJSQ?oc=5",
-      "publishedAt": "2026-09-03T20:52+00:00",
+      "title": "Wood-fiber Packaging Market Size & Share Report, 2033 - Grand View Research",
+      "source": "Grand View Research",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblpUZ3QxRXNZamNqTzNWajBhVXN0aTl6aUJkQjk0OWFhSXh4RFc5N3JUTWNSOTFCMWQwdDhDb29ONklkRTk1UlFvaFAyWWliX2dDXzRhS2pFWlFpQ2hEZnNpYmpuRzE1SnViVlJpWTRzZEx1TXJwXzI5ZW1jd2pEd0V2Y0VkNWtHb29BV29JMA?oc=5",
+      "publishedAt": "2026-09-10T06:30+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-09T17:10+00:00",
-  "lastSuccessfulAt": "2026-09-09T17:10+00:00",
+  "lastAttemptedAt": "2026-09-11T17:03+00:00",
+  "lastSuccessfulAt": "2026-09-11T17:03+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
