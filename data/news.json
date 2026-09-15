@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T18:42+00:00",
+  "lastUpdated": "2026-09-15T17:41+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -42,8 +42,8 @@
       "impact": "Low"
     },
     {
-      "title": "It's not just food: The plastic packaging your food comes in may carry cancer-linked chemicals, and most go untested - fortune.com",
-      "source": "fortune.com",
+      "title": "It's not just food: The plastic packaging your food comes in may carry cancer-linked chemicals, and most go untested - Fortune",
+      "source": "Fortune",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0LWlYZ0EyUE01UkNJMGFTYmdoYXp3T2RPeUNOcGZMX2w5ekluSl9hd3BSWkpPYXNXYzJXa0s5TWRRVEk4RldxNTRhYnR6aEZEY3NobzMzYkRqNmVKeWtfcWUzNjBUOHFuUWZIX0hPb3NiWVI0?oc=5",
       "publishedAt": "2026-09-10T17:23+00:00",
       "impact": "Low"
@@ -56,24 +56,24 @@
       "impact": "Low"
     },
     {
-      "title": "N.J. Extends Food-Contact Packaging Exemption to Minimum Content Law to 2029 - Packaging World",
-      "source": "Packaging World",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONTFkaGVtamliWVBPeW9HdGRPbzA5djJIdkNBVmhUN1lIOHR1UU9LQzItSnlQdGZpQ3MzbTQyVlNqeWlJMTNkRmlHS2NSMWlNcVJQOWtfb3hSdVR2MHJfZWg2U3lXS2ZIcFNKZmUxbXNtSlVzRlVMVk5kZXg5eXN4VTcxZzlwLXkxRUFZdng3ak0tUk9vNXV4MWs0LUtYZ1pZeUlfLUNiT2UtVUpNcDlJOVVlOXg3LVYtWG8xckJPUFlpZkFwa2hkRVhrSE0?oc=5",
-      "publishedAt": "2026-09-04T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Thousands of Food-Packaging Chemicals Lack Safety Data - Time Magazine",
       "source": "Time Magazine",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWZtdy03VlZPb1BYUG5DMDVpazlIQmF2eTV2RjFlZjZLWjdkbU5xZnk3TDNSUWUxSkQyM2FyUkt5THptak5nUV9xNzBPd0NuVjgwRzJOa01HQWhvMnVqdWlYVFU3WnNGWkVpX1dOb2pNcHNaN3lqT2FqUlJFN3YwS1BZYTZ5ZkJ1ZjR6YS1GT05xMkpkeHc?oc=5",
-      "publishedAt": "2026-09-10T15:57+00:00",
+      "publishedAt": "2026-09-10T15:58+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Behind New Jersey\u2019s delay of recycled-content rules for packaging - Plastics News",
+      "source": "Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWtfbzRHNnZ4cDNhYUdiblJYN2t6VzRRNGUzdHkxVHo0Y0hkWDNEYkR0NkdjUGFIcU4yRUhNbXctZkh3dmRKN2txeWJhcGNDZmlmTF90dlVOaVRXYWFwTTlTY2dfd1E2QW85X1hrV1pXOHY1Rk5pUWk0Q051MVVlM2FxMEYwaUxhc3hDRTFYTW5nX2ZJZ2gzdWxUdnVnOEphSXhnZ3hYd3VyYmlPdHc?oc=5",
+      "publishedAt": "2026-09-14T15:08+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-14T18:42+00:00",
-  "lastSuccessfulAt": "2026-09-14T18:42+00:00",
+  "lastAttemptedAt": "2026-09-15T17:41+00:00",
+  "lastSuccessfulAt": "2026-09-15T17:41+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

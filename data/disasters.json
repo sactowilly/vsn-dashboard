@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T18:42+00:00",
+  "lastUpdated": "2026-09-15T17:41+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,23 +19,8 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "15 km NNE of Tres Pinos, CA",
+      "region": "16 km NE of Milford, Utah",
       "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "32 km SSE of Cantwell, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "22 km W of Toyah, Texas",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "157 km SSE of Labuha, Indonesia",
-      "severity": "Medium"
     },
     {
       "type": "Earthquake",
@@ -44,34 +29,44 @@
     },
     {
       "type": "Earthquake",
-      "region": "17 km SE of Forsan, Texas",
+      "region": "27 km S of Mossyrock, Washington",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "86 km NW of Karluk, Alaska",
+      "region": "7 km ENE of Calipatria, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "38 km WNW of Four Mile Road, Alaska",
+      "region": "52 km SSW of Whites City, New Mexico",
       "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued September 14 at 11:39AM PDT until September 16 at 12:00AM PDT by NWS Hanford CA",
+      "type": "Earthquake",
+      "region": "15 km NW of Toyah, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "7 km NW of The Geysers, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "45 km NW of Toyah, Texas",
+      "severity": "Low"
+    },
+    {
+      "type": "Lake Wind Advisory issued September 15 at 6:32AM PDT until September 16 at 12:00AM PDT by NWS Hanford CA",
       "region": "West Side Mountains north of 198",
       "severity": "Moderate"
-    },
-    {
-      "type": "Red Flag Warning issued September 14 at 3:05AM PDT until September 14 at 5:00PM PDT by NWS Sacramento CA",
-      "region": "South-Central Shasta County Including Redding Metro; Sierra Nevada of Tehama-Butte-Plumas Counties Between 1000-3000 ft; Northern Sacramento Valley in Tehama County; Glenn and Colusa County Coast Range Above 3000 ft; Central Glenn County Including Interstate 5; Eastern Glenn County; Butte County Below 1000 ft; Western Glenn and Colusa County Foothills Between 1000-3000 ft; Central Colusa County Including Interstate 5; Eastern Colusa County; Sutter and Yuba Counties Below 1000 ft",
-      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-14T18:42+00:00",
-  "lastSuccessfulAt": "2026-09-14T18:42+00:00",
+  "lastAttemptedAt": "2026-09-15T17:41+00:00",
+  "lastSuccessfulAt": "2026-09-15T17:41+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
