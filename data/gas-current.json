@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T17:41+00:00",
+  "lastUpdated": "2026-09-16T17:38+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily Sacramento + weekly CA backup",
   "sourceLinks": [
@@ -17,14 +17,14 @@
     "AAA is scraped in GitHub Actions, not in the browser.",
     "EIA California weekly gasoline and diesel prices are retained as backup/context, not Sacramento-specific pricing."
   ],
-  "currentRegular": 6.0175,
-  "weekAgoRegular": 5.8658,
-  "monthAgoRegular": 5.5714,
-  "yearAgoRegular": 4.6531,
-  "sacramentoRegular": 5.967,
-  "sacramentoDiesel": 8.2214,
-  "sacramentoWeekAgoRegular": 5.8099,
-  "sacramentoWeekAgoDiesel": 7.7422,
+  "currentRegular": 6.044,
+  "weekAgoRegular": 5.8797,
+  "monthAgoRegular": 5.5718,
+  "yearAgoRegular": 4.6523,
+  "sacramentoRegular": 5.9871,
+  "sacramentoDiesel": 8.2718,
+  "sacramentoWeekAgoRegular": 5.8322,
+  "sacramentoWeekAgoDiesel": 7.8217,
   "eiaCaliforniaRegular": 5.827,
   "eiaCaliforniaDiesel": 8.039,
   "eiaCaliforniaWeekAgoRegular": 5.678,
@@ -33,8 +33,8 @@
   "weekAgoDiesel": 7.764,
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-15T17:41+00:00",
-  "lastSuccessfulAt": "2026-09-15T17:41+00:00",
+  "lastAttemptedAt": "2026-09-16T17:38+00:00",
+  "lastSuccessfulAt": "2026-09-16T17:38+00:00",
   "sourceLimitations": [
     "Sacramento AAA values are primary. EIA California weekly prices are used as backup/context only because they are statewide, not Sacramento metro."
   ]

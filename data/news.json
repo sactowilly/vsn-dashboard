@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T17:41+00:00",
+  "lastUpdated": "2026-09-16T17:38+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,15 +14,8 @@
   ],
   "stories": [
     {
-      "title": "Packaging industry braces for impacts from U.S.-Canada trade war - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMExzeUhDRDhPZDRsVExJLWVLZUlpU2JuUnFzNXl6U3ZscEx5Z2VmTklrcmpwbngzQXRLQnphWVh4bTV1MVUwcVNlUXFON1FleGpNYmE3dDNmNGg0V0NneTg4ck5TOEY1VmRuQmdvTXJPbC00aVdQUlFvODJ5eFM5XzNuaGlqVE5RMHNESmduLWtRS183a0h3REZISVU5cVJUWDBucGltZDl3dmk1YUE?oc=5",
-      "publishedAt": "2026-08-26T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more for stuff - CalMatters",
-      "source": "CalMatters",
+      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more for stuff - calmatters.org",
+      "source": "calmatters.org",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUU8wMEZqVWM2Y2pKR09NTS1mc0hoa1o2dF8zUy14VEpudFNYekZzMnNMOGhCd0Z3RktVZTlydU1pWkZ6elhpZmtRVzhZT3lsWDRhTjRreTlPV25uaFFySGljYjR5Q2JWLTQ4ZzdKdnZRdnBCelpjN1NQWW1VUHBOWnVQR2JMMVlzN25fdWRSLWlYM2c?oc=5",
       "publishedAt": "2026-08-20T07:00+00:00",
       "impact": "Low"
@@ -35,15 +28,36 @@
       "impact": "Low"
     },
     {
-      "title": "New Jersey delays PCR requirements for food-contact packaging to 2030 - Waste Dive",
-      "source": "Waste Dive",
+      "title": "Passing the sniff test: Overcoming PCR\u2019s odor and color challenges - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZktNa1ViWG5iY1F4a1A0T1p6cDM4WUFKRU9scHFfVWw4RFZsRGhEbGxzSmpkQ3RsSWYzMnk3UUZMZXJvN3k0enNhdFV4VGZfb1F4ek03MU5Jakk2ZF82SUl5LXJFV0hMZ2c4NFFjbXFhNnVmQ3F5UTlQekdYYTRyZnVyLVdvczVPM3NuU2NTdEhxN25mek14V0FCVnVwZw?oc=5",
+      "publishedAt": "2026-09-15T20:06+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Turning Packaging Compliance into a Win for the C-Suite - bcg.com",
+      "source": "bcg.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GMndxcjBoVUZYd2xNWkNSdklBeUlpNlpoZk11ZnNFUWZsaE9DdHFQbmpNT3phLUVIR0Nrekh2SUdaeXN1T2xpcUp5WnFsaUVCaVYxVUdiWjdGSk9QX3JNRlh2ZFpGbFpfMUFlVVJibEFVYUl6NmZZbV9KQQ?oc=5",
+      "publishedAt": "2026-09-16T04:56+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "New Jersey delays PCR requirements for food-contact packaging to 2030 - wastedive.com",
+      "source": "wastedive.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHd4bnI3QXpJQU11NTlFbDA5Rkc3Q3Zob0JPVlhTU3AtbTFabmhJM3ZWQTRTU1lHQ2p3b21JMm9UUkNoMkJxZndydmU4cFU4SVhRWnNxaWJ3YllMYnQ2ZHFsbzJOOHBHTnB2Y290NnkyM1R5ZmNZZGpTYTA5cGkxczExNWZEcUdnS242RVFhel9XajUtWE12LWRHeEU?oc=5",
       "publishedAt": "2026-09-11T15:27+00:00",
       "impact": "Low"
     },
     {
-      "title": "It's not just food: The plastic packaging your food comes in may carry cancer-linked chemicals, and most go untested - Fortune",
-      "source": "Fortune",
+      "title": "Unilever joins consortium to accelerate innovation of paper-based flexible packaging - Unilever Global",
+      "source": "Unilever Global",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFhIaVZBU19wemhkdEh3cWxpZWpVc1ZBek9KbW1PMnlrWnA4QnVFX0hWcFcwRkJtZWN5eXhscGVYS2hGR3JBSF9VVlJxNkZvdk1oMVhSekRYSDJHVkpYbW5vNGlSbXRzc1VMZHdZSTZEMmdYeXRmWHZZMFNwMGVNZkdtcUpuRDZDd0syVkFiNEE5ZUdLbmhhcFNjQy1DekY5WENqNGFZb2dwbGN0RUtMb2JLMGlralA4MjBjSWpqNDF3dHptaERIdmFveWI?oc=5",
+      "publishedAt": "2026-09-16T08:36+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "It's not just food: The plastic packaging your food comes in may carry cancer-linked chemicals, and most go untested - fortune.com",
+      "source": "fortune.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0LWlYZ0EyUE01UkNJMGFTYmdoYXp3T2RPeUNOcGZMX2w5ekluSl9hd3BSWkpPYXNXYzJXa0s5TWRRVEk4RldxNTRhYnR6aEZEY3NobzMzYkRqNmVKeWtfcWUzNjBUOHFuUWZIX0hPb3NiWVI0?oc=5",
       "publishedAt": "2026-09-10T17:23+00:00",
       "impact": "Low"
@@ -54,26 +68,12 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjRBNi1vME45bVYwQ3IzS3BWR3lybjFuQ09uVE5Wb29TWVFxODR4dG9COXhxZ29HcDRtakN3dXJHX2M0MF9PSF81aUYyN2s2dkpKTWloZUdJeVU2X1RTTW1adi01cmpRMjc2U1NGQVd0SXdCSXI4S2F2RXB5Vm5uQkVIN3hnWEtoangtTzlVVllnMlJOQUF5ZXpBNmJVWG1jZ3U1UjlKS0RBdUk1QThj?oc=5",
       "publishedAt": "2026-09-08T09:01+00:00",
       "impact": "Low"
-    },
-    {
-      "title": "Thousands of Food-Packaging Chemicals Lack Safety Data - Time Magazine",
-      "source": "Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWZtdy03VlZPb1BYUG5DMDVpazlIQmF2eTV2RjFlZjZLWjdkbU5xZnk3TDNSUWUxSkQyM2FyUkt5THptak5nUV9xNzBPd0NuVjgwRzJOa01HQWhvMnVqdWlYVFU3WnNGWkVpX1dOb2pNcHNaN3lqT2FqUlJFN3YwS1BZYTZ5ZkJ1ZjR6YS1GT05xMkpkeHc?oc=5",
-      "publishedAt": "2026-09-10T15:58+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Behind New Jersey\u2019s delay of recycled-content rules for packaging - Plastics News",
-      "source": "Plastics News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWtfbzRHNnZ4cDNhYUdiblJYN2t6VzRRNGUzdHkxVHo0Y0hkWDNEYkR0NkdjUGFIcU4yRUhNbXctZkh3dmRKN2txeWJhcGNDZmlmTF90dlVOaVRXYWFwTTlTY2dfd1E2QW85X1hrV1pXOHY1Rk5pUWk0Q051MVVlM2FxMEYwaUxhc3hDRTFYTW5nX2ZJZ2gzdWxUdnVnOEphSXhnZ3hYd3VyYmlPdHc?oc=5",
-      "publishedAt": "2026-09-14T15:08+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-15T17:41+00:00",
-  "lastSuccessfulAt": "2026-09-15T17:41+00:00",
+  "lastAttemptedAt": "2026-09-16T17:38+00:00",
+  "lastSuccessfulAt": "2026-09-16T17:38+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

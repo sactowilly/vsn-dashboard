@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T17:41+00:00",
+  "lastUpdated": "2026-09-16T17:38+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,54 +19,59 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "16 km NE of Milford, Utah",
+      "region": "17 km SW of Valdez, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "21 km ESE of Little Lake, CA",
+      "region": "16 km WSW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "27 km S of Mossyrock, Washington",
+      "region": "2 km N of Berkeley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km ENE of Calipatria, CA",
+      "region": "97 km S of McCarthy, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "52 km SSW of Whites City, New Mexico",
+      "region": "12 km WNW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km NW of Toyah, Texas",
+      "region": "86 km NW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "10 km WNW of Beluga, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "45 km NW of Toyah, Texas",
+      "region": "9 km WNW of Anza, CA",
       "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued September 15 at 6:32AM PDT until September 16 at 12:00AM PDT by NWS Hanford CA",
+      "type": "Lake Wind Advisory issued September 16 at 2:47AM PDT until September 17 at 12:00AM PDT by NWS Hanford CA",
       "region": "West Side Mountains north of 198",
       "severity": "Moderate"
+    },
+    {
+      "type": "Air Quality Alert issued September 15 at 5:02PM MST by NWS Phoenix AZ",
+      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
+      "severity": "Unknown"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-15T17:41+00:00",
-  "lastSuccessfulAt": "2026-09-15T17:41+00:00",
+  "lastAttemptedAt": "2026-09-16T17:38+00:00",
+  "lastSuccessfulAt": "2026-09-16T17:38+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
