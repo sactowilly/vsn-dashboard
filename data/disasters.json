@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T17:38+00:00",
+  "lastUpdated": "2026-09-17T17:39+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,59 +19,49 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "17 km SW of Valdez, Alaska",
+      "region": "32 km SSW of Nanwalek, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km WSW of Karluk, Alaska",
+      "region": "26 km NNW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km N of Berkeley, CA",
+      "region": "12 km W of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "97 km S of McCarthy, Alaska",
+      "region": "57 km W of Nanwalek, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km WNW of Toyah, Texas",
+      "region": "12 km N of Cabazon, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "86 km NW of Karluk, Alaska",
+      "region": "0 km NE of Indios, Puerto Rico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km WNW of Beluga, Alaska",
+      "region": "1 km WSW of Parkfield, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km WNW of Anza, CA",
+      "region": "6 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
-    },
-    {
-      "type": "Lake Wind Advisory issued September 16 at 2:47AM PDT until September 17 at 12:00AM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Air Quality Alert issued September 15 at 5:02PM MST by NWS Phoenix AZ",
-      "region": "Imperial County Southwest; Imperial County West; Imperial Valley",
-      "severity": "Unknown"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-16T17:38+00:00",
-  "lastSuccessfulAt": "2026-09-16T17:38+00:00",
+  "lastAttemptedAt": "2026-09-17T17:39+00:00",
+  "lastSuccessfulAt": "2026-09-17T17:39+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T17:38+00:00",
+  "lastUpdated": "2026-09-17T17:39+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,10 +14,17 @@
   ],
   "stories": [
     {
-      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more for stuff - calmatters.org",
-      "source": "calmatters.org",
+      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more for stuff - CalMatters",
+      "source": "CalMatters",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUU8wMEZqVWM2Y2pKR09NTS1mc0hoa1o2dF8zUy14VEpudFNYekZzMnNMOGhCd0Z3RktVZTlydU1pWkZ6elhpZmtRVzhZT3lsWDRhTjRreTlPV25uaFFySGljYjR5Q2JWLTQ4ZzdKdnZRdnBCelpjN1NQWW1VUHBOWnVQR2JMMVlzN25fdWRSLWlYM2c?oc=5",
       "publishedAt": "2026-08-20T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Packaging industry braces for impacts from U.S.-Canada trade war - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMExzeUhDRDhPZDRsVExJLWVLZUlpU2JuUnFzNXl6U3ZscEx5Z2VmTklrcmpwbngzQXRLQnphWVh4bTV1MVUwcVNlUXFON1FleGpNYmE3dDNmNGg0V0NneTg4ck5TOEY1VmRuQmdvTXJPbC00aVdQUlFvODJ5eFM5XzNuaGlqVE5RMHNESmduLWtRS183a0h3REZISVU5cVJUWDBucGltZDl3dmk1YUE?oc=5",
+      "publishedAt": "2026-08-26T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -25,20 +32,6 @@
       "source": "About Amazon",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BaHdNNUFEMFJISWRnNWM1b3FuYTRTYWpLLTAyX3JuY3VXVHo3SU95N09aOHE2VE1Wa2l4WERwNTlGUU1IS0NCRVZhRTBpQjh0WW5FYm1hSGRLenc1VU9hbWxmaTZXRW52azZrZUx4WXltSmhMNVN0NTEydGhLQQ?oc=5",
       "publishedAt": "2026-09-09T17:22+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Passing the sniff test: Overcoming PCR\u2019s odor and color challenges - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZktNa1ViWG5iY1F4a1A0T1p6cDM4WUFKRU9scHFfVWw4RFZsRGhEbGxzSmpkQ3RsSWYzMnk3UUZMZXJvN3k0enNhdFV4VGZfb1F4ek03MU5Jakk2ZF82SUl5LXJFV0hMZ2c4NFFjbXFhNnVmQ3F5UTlQekdYYTRyZnVyLVdvczVPM3NuU2NTdEhxN25mek14V0FCVnVwZw?oc=5",
-      "publishedAt": "2026-09-15T20:06+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Turning Packaging Compliance into a Win for the C-Suite - bcg.com",
-      "source": "bcg.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GMndxcjBoVUZYd2xNWkNSdklBeUlpNlpoZk11ZnNFUWZsaE9DdHFQbmpNT3phLUVIR0Nrekh2SUdaeXN1T2xpcUp5WnFsaUVCaVYxVUdiWjdGSk9QX3JNRlh2ZFpGbFpfMUFlVVJibEFVYUl6NmZZbV9KQQ?oc=5",
-      "publishedAt": "2026-09-16T04:56+00:00",
       "impact": "Low"
     },
     {
@@ -56,8 +49,8 @@
       "impact": "Low"
     },
     {
-      "title": "It's not just food: The plastic packaging your food comes in may carry cancer-linked chemicals, and most go untested - fortune.com",
-      "source": "fortune.com",
+      "title": "It's not just food: The plastic packaging your food comes in may carry cancer-linked chemicals, and most go untested - Fortune",
+      "source": "Fortune",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0LWlYZ0EyUE01UkNJMGFTYmdoYXp3T2RPeUNOcGZMX2w5ekluSl9hd3BSWkpPYXNXYzJXa0s5TWRRVEk4RldxNTRhYnR6aEZEY3NobzMzYkRqNmVKeWtfcWUzNjBUOHFuUWZIX0hPb3NiWVI0?oc=5",
       "publishedAt": "2026-09-10T17:23+00:00",
       "impact": "Low"
@@ -68,12 +61,19 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjRBNi1vME45bVYwQ3IzS3BWR3lybjFuQ09uVE5Wb29TWVFxODR4dG9COXhxZ29HcDRtakN3dXJHX2M0MF9PSF81aUYyN2s2dkpKTWloZUdJeVU2X1RTTW1adi01cmpRMjc2U1NGQVd0SXdCSXI4S2F2RXB5Vm5uQkVIN3hnWEtoangtTzlVVllnMlJOQUF5ZXpBNmJVWG1jZ3U1UjlKS0RBdUk1QThj?oc=5",
       "publishedAt": "2026-09-08T09:01+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "Michelman Highlights Co-Created Paper Packaging Structures and Next-Generation Cup Coatings at PACK EXPO International 2026 From: Michelman, Inc. - packworld.com",
+      "source": "packworld.com",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNbmpCci1xcTJTOGI0QkhKcS1MSVl2M05HY0NTQUpYYU1Cd2pVWGJwM05sTVRHbEI3LTFxUnc3LUNheTlwWDB6ZlQwOVNmM282THNPNjVxR2Y5Ymt6MnNQWm5BSmdfUjBZNHRVN3gyZzJ1WlA0LXVNWExURUVHSnVLR1hDVUI4WFotNnJYMEdXUWs1bklmcUtkMHJqTlM1U2dONzBMdGVuaFREc3p4dExoeFpFVzZvSllhbF90UWQtMWZGb2lDTHc4c3lNYzQ3WU45ZHNtei02cXZ6T1daUUQwRXFpYVVhcWpQVy1rb1d3Q0pUSS1qc0RiejJnTlBIcXJDTjlEeXpfUzgtdHVmTDFvT2tMSWJvY1gxQUN5djZidUlqcWdoaFF4OEpha0xaS2FpT1FwMQ?oc=5",
+      "publishedAt": "2026-09-16T21:02+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-16T17:38+00:00",
-  "lastSuccessfulAt": "2026-09-16T17:38+00:00",
+  "lastAttemptedAt": "2026-09-17T17:39+00:00",
+  "lastSuccessfulAt": "2026-09-17T17:39+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
