@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T17:39+00:00",
+  "lastUpdated": "2026-09-18T17:06+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,49 +19,49 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "32 km SSW of Nanwalek, Alaska",
+      "region": "10 km ENE of Fox, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "26 km NNW of P\u0101hala, Hawaii",
+      "region": "1 km E of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km W of Anza, CA",
+      "region": "38 km W of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "57 km W of Nanwalek, Alaska",
+      "region": "7 km ESE of Susitna North, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km N of Cabazon, CA",
+      "region": "6 km SSE of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "0 km NE of Indios, Puerto Rico",
+      "region": "13 km ESE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km WSW of Parkfield, CA",
+      "region": "5 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SSW of P\u0101hala, Hawaii",
+      "region": "108 km E of Cordova, Alaska",
       "severity": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-17T17:39+00:00",
-  "lastSuccessfulAt": "2026-09-17T17:39+00:00",
+  "lastAttemptedAt": "2026-09-18T17:06+00:00",
+  "lastSuccessfulAt": "2026-09-18T17:06+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
