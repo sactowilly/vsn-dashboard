@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T17:06+00:00",
+  "lastUpdated": "2026-09-22T17:39+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,49 +19,49 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "10 km ENE of Fox, Alaska",
+      "region": "10 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km E of The Geysers, CA",
+      "region": "50 km S of Silver Peak, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "38 km W of Anchor Point, Alaska",
+      "region": "30 km NW of Valdez, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km ESE of Susitna North, Alaska",
+      "region": "47 km W of Nanwalek, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SSE of Pinnacles, CA",
+      "region": "21 km E of Little Lake, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "13 km ESE of P\u0101hala, Hawaii",
+      "region": "35 km N of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km WNW of Cobb, CA",
+      "region": "64 km ENE of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "108 km E of Cordova, Alaska",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-18T17:06+00:00",
-  "lastSuccessfulAt": "2026-09-18T17:06+00:00",
+  "lastAttemptedAt": "2026-09-22T17:39+00:00",
+  "lastSuccessfulAt": "2026-09-22T17:39+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

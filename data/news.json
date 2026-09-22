@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T17:06+00:00",
+  "lastUpdated": "2026-09-22T17:39+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,18 +14,11 @@
   ],
   "stories": [
     {
-      "title": "As California demands less plastic in packaging, manufacturers say you\u2019ll pay more for stuff - CalMatters",
-      "source": "CalMatters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUU8wMEZqVWM2Y2pKR09NTS1mc0hoa1o2dF8zUy14VEpudFNYekZzMnNMOGhCd0Z3RktVZTlydU1pWkZ6elhpZmtRVzhZT3lsWDRhTjRreTlPV25uaFFySGljYjR5Q2JWLTQ4ZzdKdnZRdnBCelpjN1NQWW1VUHBOWnVQR2JMMVlzN25fdWRSLWlYM2c?oc=5",
-      "publishedAt": "2026-08-20T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Packaging industry braces for impacts from U.S.-Canada trade war - Packaging Dive",
+      "title": "Used box businesses eye opportunity amid rising containerboard prices - Packaging Dive",
       "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMExzeUhDRDhPZDRsVExJLWVLZUlpU2JuUnFzNXl6U3ZscEx5Z2VmTklrcmpwbngzQXRLQnphWVh4bTV1MVUwcVNlUXFON1FleGpNYmE3dDNmNGg0V0NneTg4ck5TOEY1VmRuQmdvTXJPbC00aVdQUlFvODJ5eFM5XzNuaGlqVE5RMHNESmduLWtRS183a0h3REZISVU5cVJUWDBucGltZDl3dmk1YUE?oc=5",
-      "publishedAt": "2026-08-26T07:00+00:00",
-      "impact": "Low"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1YyY0E3dzZTMEt0LVNIUngxQXJvMHJhd1J2N3dCbXhpY19acEl3UUdnUnVsVFRMR3YwR1NmSWF1SXBEekpYUlpjRGtscEQ5N25OOVFwdGdQMWRMNzJCel9hTlN5NzB4dE8tVVREZTNrekxNc0xKSFhURGNQekRJd3lSVnBrMlJodU9MSDEwRTY?oc=5",
+      "publishedAt": "2026-08-25T07:00+00:00",
+      "impact": "Medium"
     },
     {
       "title": "How Amazon rethought paper to power a new, more sustainable way of packaging - About Amazon",
@@ -42,38 +35,45 @@
       "impact": "Low"
     },
     {
-      "title": "Turning Packaging Compliance into a Win for the C-Suite - Boston Consulting Group",
-      "source": "Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GMndxcjBoVUZYd2xNWkNSdklBeUlpNlpoZk11ZnNFUWZsaE9DdHFQbmpNT3phLUVIR0Nrekh2SUdaeXN1T2xpcUp5WnFsaUVCaVYxVUdiWjdGSk9QX3JNRlh2ZFpGbFpfMUFlVVJibEFVYUl6NmZZbV9KQQ?oc=5",
-      "publishedAt": "2026-09-16T04:56+00:00",
+      "title": "Clemson researcher rethinks plastic packaging from start to finish - Clemson News",
+      "source": "Clemson News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEZ3dGtOTEJKMnFuaGZWQVBzZzdXWlNzai1jUmZCWURqMGFtUW5aR2pFN1J0ZENwLVJzVXBmTkFoMldzWFlYMmkyMmRxclZuanNUZjBEalpUbzl6dzk1cnFnNE5uVXRURHFhZzNwZi04UzJTTkZVZWtWQXI2TURDXzRjaFBhd1NydWlwYm96UkdPZUtCQUNJ?oc=5",
+      "publishedAt": "2026-09-22T12:59+00:00",
       "impact": "Low"
     },
     {
-      "title": "New Jersey delays PCR requirements for food-contact packaging to 2030 - Waste Dive",
-      "source": "Waste Dive",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHd4bnI3QXpJQU11NTlFbDA5Rkc3Q3Zob0JPVlhTU3AtbTFabmhJM3ZWQTRTU1lHQ2p3b21JMm9UUkNoMkJxZndydmU4cFU4SVhRWnNxaWJ3YllMYnQ2ZHFsbzJOOHBHTnB2Y290NnkyM1R5ZmNZZGpTYTA5cGkxczExNWZEcUdnS242RVFhel9XajUtWE12LWRHeEU?oc=5",
-      "publishedAt": "2026-09-11T15:27+00:00",
+      "title": "Paper Alternatives Still Need Plastic for Product Protection - PlasticsToday",
+      "source": "PlasticsToday",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelJVQThDdV9PT1U3TTQ0Nkl5NlNXaHpqbzRnYjh6VGlmVmNNd1lqSnA3U2UtN3IwdW11dmVpalRPRE9JUGZhZ0h4ZHc1cE5zRmEtZFRpeGRKS3RIU1JORExUQUtHbHM5cEl0enJOdGZJcTVlREJRakJqb1htVmNVTlQ5ZHVxaHc4b2dScWFwaTEycHB6WUpnSg?oc=5",
+      "publishedAt": "2026-09-18T17:43+00:00",
       "impact": "Low"
     },
     {
-      "title": "It's not just food: The plastic packaging your food comes in may carry cancer-linked chemicals, and most go untested - Fortune",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0LWlYZ0EyUE01UkNJMGFTYmdoYXp3T2RPeUNOcGZMX2w5ekluSl9hd3BSWkpPYXNXYzJXa0s5TWRRVEk4RldxNTRhYnR6aEZEY3NobzMzYkRqNmVKeWtfcWUzNjBUOHFuUWZIX0hPb3NiWVI0?oc=5",
-      "publishedAt": "2026-09-10T17:23+00:00",
+      "title": "Plasma technology could help plant-based packaging replace plastic - Phys.org",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVlXUzlhSnlrcjd3TUdFNmxLeFpMM2RNT1FjOFNMV1ZZbWFzOHpIYmV0bzVRVmxBUUVMSGdKaVJZa21pOWR4VjBUT0NiVklvZlZtT3JGd2ZUaEJtcEZVN0NDMTE1d2FNOERNSS05cDJTZmtKelc1bnN0MjVpMm91SEFn?oc=5",
+      "publishedAt": "2026-09-21T20:40+00:00",
       "impact": "Low"
     },
     {
-      "title": "Why investors are looking to Africa\u2019s packaging industry for growth - packaging-gateway.com",
-      "source": "packaging-gateway.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjRBNi1vME45bVYwQ3IzS3BWR3lybjFuQ09uVE5Wb29TWVFxODR4dG9COXhxZ29HcDRtakN3dXJHX2M0MF9PSF81aUYyN2s2dkpKTWloZUdJeVU2X1RTTW1adi01cmpRMjc2U1NGQVd0SXdCSXI4S2F2RXB5Vm5uQkVIN3hnWEtoangtTzlVVllnMlJOQUF5ZXpBNmJVWG1jZ3U1UjlKS0RBdUk1QThj?oc=5",
-      "publishedAt": "2026-09-08T09:01+00:00",
+      "title": "ALPLA\u2019s holistic approach to packaging design - resource-recycling.com",
+      "source": "resource-recycling.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXhGVzg4VjNkRzdwMDB1bW5CdlpPbU5FcUw5ZnVvU20wbThrVHd3T2ZCQTgtaFlBajB3QUoyZlZlTVhISHE2OTJrVWoyOXhqVDlKbkVTal9HSlhuV1BQNDJOX0xCWW1uVGg4VUd2ZWR6UGpPUlBFa3NnVnRVTmpzal9iQUxsN080RU05ODAtUmtUR0NjbE9wUFpKTzU?oc=5",
+      "publishedAt": "2026-09-18T13:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Behind New Jersey\u2019s delay of recycled-content rules for packaging - Plastics News",
+      "source": "Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWtfbzRHNnZ4cDNhYUdiblJYN2t6VzRRNGUzdHkxVHo0Y0hkWDNEYkR0NkdjUGFIcU4yRUhNbXctZkh3dmRKN2txeWJhcGNDZmlmTF90dlVOaVRXYWFwTTlTY2dfd1E2QW85X1hrV1pXOHY1Rk5pUWk0Q051MVVlM2FxMEYwaUxhc3hDRTFYTW5nX2ZJZ2gzdWxUdnVnOEphSXhnZ3hYd3VyYmlPdHc?oc=5",
+      "publishedAt": "2026-09-14T15:08+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-18T17:06+00:00",
-  "lastSuccessfulAt": "2026-09-18T17:06+00:00",
+  "lastAttemptedAt": "2026-09-22T17:39+00:00",
+  "lastSuccessfulAt": "2026-09-22T17:39+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
