@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T17:39+00:00",
+  "lastUpdated": "2026-09-23T17:52+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,49 +19,54 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "10 km WNW of The Geysers, CA",
+      "region": "56 km WNW of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "50 km S of Silver Peak, Nevada",
+      "region": "5 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "30 km NW of Valdez, Alaska",
+      "region": "7 km SW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "47 km W of Nanwalek, Alaska",
+      "region": "7 km SSE of Salina, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "21 km E of Little Lake, CA",
+      "region": "6 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "35 km N of Petersville, Alaska",
+      "region": "193 km SE of Mata-Utu, Wallis and Futuna",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "21 km N of Ridgecrest, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "64 km ENE of Pedro Bay, Alaska",
+      "region": "4 km WNW of Fuig, Puerto Rico",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "8 km NW of The Geysers, CA",
-      "severity": "Low"
+      "type": "Red Flag Warning issued September 23 at 10:43AM PDT until September 24 at 8:00PM PDT by NWS Medford OR",
+      "region": "Modoc County Except for the Surprise Valley",
+      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-22T17:39+00:00",
-  "lastSuccessfulAt": "2026-09-22T17:39+00:00",
+  "lastAttemptedAt": "2026-09-23T17:52+00:00",
+  "lastSuccessfulAt": "2026-09-23T17:52+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
