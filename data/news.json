@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T17:52+00:00",
+  "lastUpdated": "2026-09-24T17:52+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -13,13 +13,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "Used box businesses eye opportunity amid rising containerboard prices - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1YyY0E3dzZTMEt0LVNIUngxQXJvMHJhd1J2N3dCbXhpY19acEl3UUdnUnVsVFRMR3YwR1NmSWF1SXBEekpYUlpjRGtscEQ5N25OOVFwdGdQMWRMNzJCel9hTlN5NzB4dE8tVVREZTNrekxNc0xKSFhURGNQekRJd3lSVnBrMlJodU9MSDEwRTY?oc=5",
-      "publishedAt": "2026-08-25T07:00+00:00",
-      "impact": "Medium"
-    },
     {
       "title": "How Amazon rethought paper to power a new, more sustainable way of packaging - About Amazon",
       "source": "About Amazon",
@@ -42,6 +35,13 @@
       "impact": "Low"
     },
     {
+      "title": "California governor vetoes updates to SB 54\u2019s plastic pollution fund - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0x3cVB5bjZpcGpHLW80XzY5SXI3TEFpSVRueXlpX3RTcnFXSms3a0JNYlF1OVJ1TmcwSUdtMVNNcDdhYnJJcGFzUkFBa2hocnVwVTlmaWFPSkJxTEdoWDUydTJDSEd2R3l4T1E5b0g3VWdtemo3UC0yQWFaUG40aTNIQWVCbVhDaENlUkJfTTNuYm9EOVBiUndFRGMtemZMdUxZN2dsdUNqZ01D?oc=5",
+      "publishedAt": "2026-09-21T17:07+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "Paper Alternatives Still Need Plastic for Product Protection - PlasticsToday",
       "source": "PlasticsToday",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelJVQThDdV9PT1U3TTQ0Nkl5NlNXaHpqbzRnYjh6VGlmVmNNd1lqSnA3U2UtN3IwdW11dmVpalRPRE9JUGZhZ0h4ZHc1cE5zRmEtZFRpeGRKS3RIU1JORExUQUtHbHM5cEl0enJOdGZJcTVlREJRakJqb1htVmNVTlQ5ZHVxaHc4b2dScWFwaTEycHB6WUpnSg?oc=5",
@@ -56,24 +56,24 @@
       "impact": "Low"
     },
     {
+      "title": "Press release: The PaperFlex Consortium launched to accelerate paper-based flexible packaging innovation - Ellen MacArthur Foundation",
+      "source": "Ellen MacArthur Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOazRVZmFiQzBScmU2a0pwOS1UcnNhakl1Y3BXZ25mVDlVRmtTcUI0VnBFbzRGNUxBaUR5Q0JzaHRoZnQtMExWS2tpMGo5TTAzSW5VVi02UTBLVzRDeTgzaEJhbDVSMjMyZDhRMXYtTGUwamFMMWNvWGVYX2xNV3paNUEycnhLbFJnQzFwZU9mT3d2NnhaSDkyM1dSR1hkQW9oalVUSElQXzdiNnZPa09uNkhIbnVaSDJrbFY1OWlvX3d1eVhxOTBPVF9tRThYZVZBX09nNWFXSERVd2lv?oc=5",
+      "publishedAt": "2026-09-16T07:00+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
       "source": "Sustainability Magazine",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
       "publishedAt": "2026-09-16T08:13+00:00",
       "impact": "Low"
-    },
-    {
-      "title": "ALPLA\u2019s holistic approach to packaging design - Resource Recycling",
-      "source": "Resource Recycling",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXhGVzg4VjNkRzdwMDB1bW5CdlpPbU5FcUw5ZnVvU20wbThrVHd3T2ZCQTgtaFlBajB3QUoyZlZlTVhISHE2OTJrVWoyOXhqVDlKbkVTal9HSlhuV1BQNDJOX0xCWW1uVGg4VUd2ZWR6UGpPUlBFa3NnVnRVTmpzal9iQUxsN080RU05ODAtUmtUR0NjbE9wUFpKTzU?oc=5",
-      "publishedAt": "2026-09-18T13:00+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-23T17:52+00:00",
-  "lastSuccessfulAt": "2026-09-23T17:52+00:00",
+  "lastAttemptedAt": "2026-09-24T17:52+00:00",
+  "lastSuccessfulAt": "2026-09-24T17:52+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

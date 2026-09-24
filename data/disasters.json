@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T17:52+00:00",
+  "lastUpdated": "2026-09-24T17:52+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,54 +19,59 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "56 km WNW of Anchor Point, Alaska",
+      "region": "2 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km SSW of P\u0101hala, Hawaii",
+      "region": "6 km S of Redlands, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km SW of P\u0101hala, Hawaii",
+      "region": "31 km SW of Garden City, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km SSE of Salina, Utah",
+      "region": "5 km NNW of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km SSW of P\u0101hala, Hawaii",
+      "region": "2 km W of Calimesa, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "193 km SE of Mata-Utu, Wallis and Futuna",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "21 km N of Ridgecrest, CA",
+      "region": "20 km SSW of Inyokern, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km WNW of Fuig, Puerto Rico",
+      "region": "6 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued September 23 at 10:43AM PDT until September 24 at 8:00PM PDT by NWS Medford OR",
+      "type": "Earthquake",
+      "region": "26 km NW of Kernville, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Red Flag Warning issued September 24 at 10:11AM PDT until September 24 at 8:00PM PDT by NWS Medford OR",
       "region": "Modoc County Except for the Surprise Valley",
       "severity": "Severe"
+    },
+    {
+      "type": "Lake Wind Advisory issued September 24 at 9:58AM PDT until September 24 at 8:00PM PDT by NWS Hanford CA",
+      "region": "West Side Mountains north of 198",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-23T17:52+00:00",
-  "lastSuccessfulAt": "2026-09-23T17:52+00:00",
+  "lastAttemptedAt": "2026-09-24T17:52+00:00",
+  "lastSuccessfulAt": "2026-09-24T17:52+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

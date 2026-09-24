@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T17:52+00:00",
+  "lastUpdated": "2026-09-24T17:52+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
             "title": "What Are Wall Street Analysts' Target Price for Packaging Corporation of America Stock? - Yahoo Finance",
@@ -27,16 +27,16 @@
             "publishedAt": "2026-08-26T07:00+00:00"
           },
           {
-            "title": "Shareholders get $1.50 from Packaging Corp. of America on Oct. 15 - Stock Titan",
-            "source": "Stock Titan",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWwyZGRzcExvZ1l4OGh4OXN4NG5yYTV3RXIzU0FUMnBjQlBJM1QxaEpSVVJiOWt1VC02eHlvelc1OFFXLUV5Q1V1TDMwWXg1WWFBdDg4aVdaVE80X09fV01GN0E3al9CZzAyRjl2QW5TNXB3M0F1YnM3RkhIR1BicTNjT3dfOThTQW9JSjRxaFZXQVBmaHp2T3pfSzdUMDZNbWxvRzdBaU4?oc=5",
-            "publishedAt": "2026-09-02T07:00+00:00"
-          },
-          {
             "title": "Packaging Corp. of America (PKG) Q1 2026 Earnings Call Transcript - Fortune",
             "source": "Fortune",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNmxmMUdPMXo2QV9OLTZXZ0tBc2tmTmxTaGNQSndjNkZyTjF5V083Z3Rac2dOU09fbUpGd1JJY3JIb2ZnX0FCd095V2xsMllsMXBzc3B0V04tcm9mX2lxdDNsZG9YNGFubF9aZVhsbGM3a0FYWXR3QjFKNA?oc=5",
             "publishedAt": "2026-09-13T04:52+00:00"
+          },
+          {
+            "title": "3 paper packaging CEOs talk market volatility, pricing - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tNWWV2QlNmUnpkZjZDSHFTUFJhNDhGWHVTa1FfR1l2Yk5nYlgxV3B5MUtTRkwtZ0JCaERtd2RVQm5fUmU0M2x5Z0pBaU4yME9LckJ1M2Z6ZElYNzNWN3hxV2tPMlRUWTloNTlpV25iX0VXNmtKM2Y2eEJ0aHhQa0FNa1VnNlUxTjRJYndnTnRtSHJPLXRKWEhycWU3dzVCZmxOeFh0TldCQQ?oc=5",
+            "publishedAt": "2026-09-11T07:00+00:00"
           }
         ],
         "hiring": [
@@ -57,16 +57,16 @@
             "publishedAt": "2026-08-26T07:00+00:00"
           },
           {
-            "title": "Shareholders get $1.50 from Packaging Corp. of America on Oct. 15 - Stock Titan",
-            "source": "Stock Titan",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWwyZGRzcExvZ1l4OGh4OXN4NG5yYTV3RXIzU0FUMnBjQlBJM1QxaEpSVVJiOWt1VC02eHlvelc1OFFXLUV5Q1V1TDMwWXg1WWFBdDg4aVdaVE80X09fV01GN0E3al9CZzAyRjl2QW5TNXB3M0F1YnM3RkhIR1BicTNjT3dfOThTQW9JSjRxaFZXQVBmaHp2T3pfSzdUMDZNbWxvRzdBaU4?oc=5",
-            "publishedAt": "2026-09-02T07:00+00:00"
-          },
-          {
             "title": "Packaging Corp. of America (PKG) Q1 2026 Earnings Call Transcript - Fortune",
             "source": "Fortune",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNmxmMUdPMXo2QV9OLTZXZ0tBc2tmTmxTaGNQSndjNkZyTjF5V083Z3Rac2dOU09fbUpGd1JJY3JIb2ZnX0FCd095V2xsMllsMXBzc3B0V04tcm9mX2lxdDNsZG9YNGFubF9aZVhsbGM3a0FYWXR3QjFKNA?oc=5",
             "publishedAt": "2026-09-13T04:52+00:00"
+          },
+          {
+            "title": "3 paper packaging CEOs talk market volatility, pricing - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tNWWV2QlNmUnpkZjZDSHFTUFJhNDhGWHVTa1FfR1l2Yk5nYlgxV3B5MUtTRkwtZ0JCaERtd2RVQm5fUmU0M2x5Z0pBaU4yME9LckJ1M2Z6ZElYNzNWN3hxV2tPMlRUWTloNTlpV25iX0VXNmtKM2Y2eEJ0aHhQa0FNa1VnNlUxTjRJYndnTnRtSHJPLXRKWEhycWU3dzVCZmxOeFh0TldCQQ?oc=5",
+            "publishedAt": "2026-09-11T07:00+00:00"
           }
         ],
         "query": "\"Packaging Corporation of America\" packaging OR corrugated OR distribution when:30d",
@@ -83,7 +83,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
             "title": "Georgia Tech Athletics, Veritiv Announce Historic Partnership - Georgia Tech Yellow Jackets",
@@ -148,7 +148,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
             "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
@@ -163,21 +163,14 @@
             "publishedAt": "2026-09-17T17:16+00:00"
           },
           {
-            "title": "BDI Receives Growth Investment from Kelso & Company - Modern Distribution Management",
-            "source": "Modern Distribution Management",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmdiT0RHWW5fc3pPUWxicVc0ajc0anFvNkhLMGFQdF9CSS1rRlpmaDZHd0hkQkxGNENYaEVXVDZnNEJBRHFWSU5OSWZ0UThLeDVOV21fSHY1TFFVMHJZd1ZZVUNJcTZnUkd1M1AzeGxIdVlLb1NGa2tiOXBBOXdfRk1IUDRMNjRyVTMwV0c2Qll3ZXp3SWVncDdfMkw?oc=5",
-            "publishedAt": "2026-08-25T18:32+00:00"
+            "title": "SupplyCaddy secures funding from CEAS Investments - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3J4dkRWUnhpV0J5LU5uOURTeFdQR2NnVDB1WUdCX0RoRGNOQ202VEF6VVpReXZjSkFQdU9FdEM1Z3JqTVVrNWg2ZnBQU1poOW5DUDBiS3BDVXFEUk82NmRIZnc2ekJBeTlWaHRvN3A3MkNOM0ZreGNyemZDOTAxR1hUdkN0ZXhaZEQ0WVRGaHozV0FvNkZRTXhfZm5KWHdxYm9IV0dnYklsY1dTUXc?oc=5",
+            "publishedAt": "2026-09-02T07:00+00:00"
           }
         ],
         "hiring": [],
-        "moves": [
-          {
-            "title": "BDI Receives Growth Investment from Kelso & Company - Modern Distribution Management",
-            "source": "Modern Distribution Management",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmdiT0RHWW5fc3pPUWxicVc0ajc0anFvNkhLMGFQdF9CSS1rRlpmaDZHd0hkQkxGNENYaEVXVDZnNEJBRHFWSU5OSWZ0UThLeDVOV21fSHY1TFFVMHJZd1ZZVUNJcTZnUkd1M1AzeGxIdVlLb1NGa2tiOXBBOXdfRk1IUDRMNjRyVTMwV0c2Qll3ZXp3SWVncDdfMkw?oc=5",
-            "publishedAt": "2026-08-25T18:32+00:00"
-          }
-        ],
+        "moves": [],
         "items": [
           {
             "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
@@ -192,10 +185,10 @@
             "publishedAt": "2026-09-17T17:16+00:00"
           },
           {
-            "title": "BDI Receives Growth Investment from Kelso & Company - Modern Distribution Management",
-            "source": "Modern Distribution Management",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmdiT0RHWW5fc3pPUWxicVc0ajc0anFvNkhLMGFQdF9CSS1rRlpmaDZHd0hkQkxGNENYaEVXVDZnNEJBRHFWSU5OSWZ0UThLeDVOV21fSHY1TFFVMHJZd1ZZVUNJcTZnUkd1M1AzeGxIdVlLb1NGa2tiOXBBOXdfRk1IUDRMNjRyVTMwV0c2Qll3ZXp3SWVncDdfMkw?oc=5",
-            "publishedAt": "2026-08-25T18:32+00:00"
+            "title": "SupplyCaddy secures funding from CEAS Investments - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3J4dkRWUnhpV0J5LU5uOURTeFdQR2NnVDB1WUdCX0RoRGNOQ202VEF6VVpReXZjSkFQdU9FdEM1Z3JqTVVrNWg2ZnBQU1poOW5DUDBiS3BDVXFEUk82NmRIZnc2ekJBeTlWaHRvN3A3MkNOM0ZreGNyemZDOTAxR1hUdkN0ZXhaZEQ0WVRGaHozV0FvNkZRTXhfZm5KWHdxYm9IV0dnYklsY1dTUXc?oc=5",
+            "publishedAt": "2026-09-02T07:00+00:00"
           }
         ],
         "query": "\"Imperial Dade\" packaging OR corrugated OR distribution when:30d",
@@ -212,7 +205,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
             "title": "Milwaukee Bucks Name Wisconsin-Based Uline As Official Jersey Patch Partner - NBA.com",
@@ -227,8 +220,8 @@
             "publishedAt": "2026-09-11T19:27+00:00"
           },
           {
-            "title": "Bucks, Uline partnership for jersey patch draws ire of fans - Milwaukee Journal Sentinel",
-            "source": "Milwaukee Journal Sentinel",
+            "title": "Bucks, Uline partnership for jersey patch draws ire of fans - jsonline.com",
+            "source": "jsonline.com",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3BpMHgwM0hPM1lvT2tNYXkwNmVsbXRtTU5yRnUzMVZpWVluSjlGb29TWkU2X055akZ0LWk0MXE3Y094Z1VEV3NyUWEwbkdOeG1xcE55R2Rqc3J0UGJmWDV0TklOc2VkTWdRdEFfUVd0Q2RJQ3hKbUJuUEtSQnhHNXlkR0FkNUdyVHBFYVh0aHBNc05jM3VYWWpmVFpzNnVrSk43LXk2a2Q3NTZsa0RuaWNscWs1UkJGal9yYXlPLXJRTjIzd1hF?oc=5",
             "publishedAt": "2026-09-22T20:48+00:00"
           }
@@ -271,8 +264,8 @@
             "publishedAt": "2026-09-11T19:27+00:00"
           },
           {
-            "title": "Bucks, Uline partnership for jersey patch draws ire of fans - Milwaukee Journal Sentinel",
-            "source": "Milwaukee Journal Sentinel",
+            "title": "Bucks, Uline partnership for jersey patch draws ire of fans - jsonline.com",
+            "source": "jsonline.com",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3BpMHgwM0hPM1lvT2tNYXkwNmVsbXRtTU5yRnUzMVZpWVluSjlGb29TWkU2X055akZ0LWk0MXE3Y094Z1VEV3NyUWEwbkdOeG1xcE55R2Rqc3J0UGJmWDV0TklOc2VkTWdRdEFfUVd0Q2RJQ3hKbUJuUEtSQnhHNXlkR0FkNUdyVHBFYVh0aHBNc05jM3VYWWpmVFpzNnVrSk43LXk2a2Q3NTZsa0RuaWNscWs1UkJGal9yYXlPLXJRTjIzd1hF?oc=5",
             "publishedAt": "2026-09-22T20:48+00:00"
           }
@@ -291,19 +284,19 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
-          {
-            "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
-            "source": "Sustainability Magazine",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
-            "publishedAt": "2026-09-16T08:13+00:00"
-          },
           {
             "title": "3 paper packaging CEOs talk market volatility, pricing - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tNWWV2QlNmUnpkZjZDSHFTUFJhNDhGWHVTa1FfR1l2Yk5nYlgxV3B5MUtTRkwtZ0JCaERtd2RVQm5fUmU0M2x5Z0pBaU4yME9LckJ1M2Z6ZElYNzNWN3hxV2tPMlRUWTloNTlpV25iX0VXNmtKM2Y2eEJ0aHhQa0FNa1VnNlUxTjRJYndnTnRtSHJPLXRKWEhycWU3dzVCZmxOeFh0TldCQQ?oc=5",
             "publishedAt": "2026-09-11T07:00+00:00"
+          },
+          {
+            "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
+            "source": "Sustainability Magazine",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
+            "publishedAt": "2026-09-16T08:13+00:00"
           },
           {
             "title": "International Paper (IP) Stock Looks Below Fair Value Even As Sales Stay Weak - simplywall.st",
@@ -316,16 +309,16 @@
         "moves": [],
         "items": [
           {
-            "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
-            "source": "Sustainability Magazine",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
-            "publishedAt": "2026-09-16T08:13+00:00"
-          },
-          {
             "title": "3 paper packaging CEOs talk market volatility, pricing - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tNWWV2QlNmUnpkZjZDSHFTUFJhNDhGWHVTa1FfR1l2Yk5nYlgxV3B5MUtTRkwtZ0JCaERtd2RVQm5fUmU0M2x5Z0pBaU4yME9LckJ1M2Z6ZElYNzNWN3hxV2tPMlRUWTloNTlpV25iX0VXNmtKM2Y2eEJ0aHhQa0FNa1VnNlUxTjRJYndnTnRtSHJPLXRKWEhycWU3dzVCZmxOeFh0TldCQQ?oc=5",
             "publishedAt": "2026-09-11T07:00+00:00"
+          },
+          {
+            "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
+            "source": "Sustainability Magazine",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
+            "publishedAt": "2026-09-16T08:13+00:00"
           },
           {
             "title": "International Paper (IP) Stock Looks Below Fair Value Even As Sales Stay Weak - simplywall.st",
@@ -348,7 +341,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
             "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - paperage.com",
@@ -420,7 +413,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
             "title": "Smurfit Westrock, Pratt seek investigation into \u2018unfairly traded\u2019 pizza box imports - Packaging Dive",
@@ -429,16 +422,16 @@
             "publishedAt": "2026-09-10T07:00+00:00"
           },
           {
-            "title": "Smurfit Westrock remains committed to metro Atlanta as it seeks growth through sustainability - bizjournals.com",
-            "source": "bizjournals.com",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0hXRTN6TGZ5NkM4MmR0TTdrM0dfSlNuSDE5alJldHFsUHhmZlF3WnJsdFVoWnZ4QkI3ZEJjZ29Tc1p2N2wxTV9fR3o1d2U5NzMxcHh3WGxSUmdxSEVEYXJTbGdTTWVDQ3hWLVAtOGl4dW1NNklPa21XS05BVVBWN3FBQVBKXy13bjFZZktpdnRoV0NxQmdqWUQwV1JBdw?oc=5",
-            "publishedAt": "2026-09-23T16:30+00:00"
+            "title": "Smurfit Westrock Announces Agreement to Acquire CMPC\u2019s Chilean Containerboard and Corrugated Business - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1pCMWVvd2J4MThpRWYxUk5OdHNGX1BQb0pxbkZBcEFrWkRnZ3k1UXYwZF9rV2tNMkc1cTBzOEt1bTBjOGlWQVhaUzc5aDFfamY1YkJYZjhMVEdrT3I0cHZNYXkwZ210RThvMVI5RWs5WEpEOXFHRlZtd0ZFbEJMcmhFY09BN1ZleEpabFhiVUZNQ0NDaVBDTnloX1Z3b05fRHo0WUJvLTZ5YjJjLWc?oc=5",
+            "publishedAt": "2026-09-23T20:28+00:00"
           },
           {
-            "title": "Smurfit Westrock Named Among TIME\u2019s World\u2019s Best Companies - Ink World Magazine",
-            "source": "Ink World Magazine",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2w4T2l1QWZLSW9FNjNKSC1JR0F0bUdwTzNUTV9aOXU5ekxCaFI5Y20tZFhnSW5QMDlVWTV0dGlRZXpoZ1NyRlNYX3duNmlSbmlkV0xZeVFCM29WTXc5NklyNEUwSW5uTjVqMW5oQVc1UkJxdzVvb21IOXFwU2pEbDNBTlNIczktczJFeFlvSlk2RVFlZjA4aXgzTENuQmdqN21pQ3huYw?oc=5",
-            "publishedAt": "2026-09-14T12:11+00:00"
+            "title": "Smurfit Westrock to Acquire CMPC's Chilean Containerboard and Corrugated Business for $420 Million - paperage.com",
+            "source": "paperage.com",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaXlXcVFNRkx2MUdiNjJfTWtyWnhsUGRlU1VTSGJVV0c3bGVzb0RPNXFkbW5odUpLNHZTeUN4WWpTYjNKRFNFb18wbm1xTm9yQ09YRG9yUFFVX3JCNmRCWlF1WDlQS3NyZlRPMDVWVmpvakRiVDlFZGt3VmFQaURtMTMxcTdraTFNM2JOWmR4VzRORktVMUEzS3Y2TDIwWWxlUVdfdUNwemZMRXRVVkdqbVRqR2NEYmpHN0ZoVDlSd2Y4SjdRSUxrYXNJektPazUySVRoQm9EcTFMbExOblE?oc=5",
+            "publishedAt": "2026-09-24T14:07+00:00"
           }
         ],
         "hiring": [],
@@ -451,16 +444,16 @@
             "publishedAt": "2026-09-10T07:00+00:00"
           },
           {
-            "title": "Smurfit Westrock remains committed to metro Atlanta as it seeks growth through sustainability - bizjournals.com",
-            "source": "bizjournals.com",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0hXRTN6TGZ5NkM4MmR0TTdrM0dfSlNuSDE5alJldHFsUHhmZlF3WnJsdFVoWnZ4QkI3ZEJjZ29Tc1p2N2wxTV9fR3o1d2U5NzMxcHh3WGxSUmdxSEVEYXJTbGdTTWVDQ3hWLVAtOGl4dW1NNklPa21XS05BVVBWN3FBQVBKXy13bjFZZktpdnRoV0NxQmdqWUQwV1JBdw?oc=5",
-            "publishedAt": "2026-09-23T16:30+00:00"
+            "title": "Smurfit Westrock Announces Agreement to Acquire CMPC\u2019s Chilean Containerboard and Corrugated Business - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1pCMWVvd2J4MThpRWYxUk5OdHNGX1BQb0pxbkZBcEFrWkRnZ3k1UXYwZF9rV2tNMkc1cTBzOEt1bTBjOGlWQVhaUzc5aDFfamY1YkJYZjhMVEdrT3I0cHZNYXkwZ210RThvMVI5RWs5WEpEOXFHRlZtd0ZFbEJMcmhFY09BN1ZleEpabFhiVUZNQ0NDaVBDTnloX1Z3b05fRHo0WUJvLTZ5YjJjLWc?oc=5",
+            "publishedAt": "2026-09-23T20:28+00:00"
           },
           {
-            "title": "Smurfit Westrock Named Among TIME\u2019s World\u2019s Best Companies - Ink World Magazine",
-            "source": "Ink World Magazine",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2w4T2l1QWZLSW9FNjNKSC1JR0F0bUdwTzNUTV9aOXU5ekxCaFI5Y20tZFhnSW5QMDlVWTV0dGlRZXpoZ1NyRlNYX3duNmlSbmlkV0xZeVFCM29WTXc5NklyNEUwSW5uTjVqMW5oQVc1UkJxdzVvb21IOXFwU2pEbDNBTlNIczktczJFeFlvSlk2RVFlZjA4aXgzTENuQmdqN21pQ3huYw?oc=5",
-            "publishedAt": "2026-09-14T12:11+00:00"
+            "title": "Smurfit Westrock to Acquire CMPC's Chilean Containerboard and Corrugated Business for $420 Million - paperage.com",
+            "source": "paperage.com",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaXlXcVFNRkx2MUdiNjJfTWtyWnhsUGRlU1VTSGJVV0c3bGVzb0RPNXFkbW5odUpLNHZTeUN4WWpTYjNKRFNFb18wbm1xTm9yQ09YRG9yUFFVX3JCNmRCWlF1WDlQS3NyZlRPMDVWVmpvakRiVDlFZGt3VmFQaURtMTMxcTdraTFNM2JOWmR4VzRORktVMUEzS3Y2TDIwWWxlUVdfdUNwemZMRXRVVkdqbVRqR2NEYmpHN0ZoVDlSd2Y4SjdRSUxrYXNJektPazUySVRoQm9EcTFMbExOblE?oc=5",
+            "publishedAt": "2026-09-24T14:07+00:00"
           }
         ],
         "query": "\"WestRock\" packaging OR corrugated OR distribution when:30d",
@@ -477,7 +470,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
             "title": "DS Smith Kemsley to shut one paper machine, invest in another, with job losses expected - Packaging News",
@@ -492,7 +485,7 @@
             "publishedAt": "2026-09-04T07:00+00:00"
           },
           {
-            "title": "DS Smith Launceston paper plant could close with loss of 165 jobs - Cornwall Live",
+            "title": "165 jobs at risk at historic Cornwall plant - Cornwall Live",
             "source": "Cornwall Live",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXNWRTRfWlF3Ym5KdnJMZ0R1UzRRMU9yc0J6UGNOWGVQcWVxTk42eUZHbi1mVWpwYTdqNDB4cjA4WnVuRmJDMEFlV05DNDNLd1RRanhkQk5ValRycjJVN1ZpQ3NIVzRHTXFtSW1MSjJDVXp4ZDc1ZTIyVFNDSUVLcVhGTzNkaGduNUs0UmhZRUdxZw?oc=5",
             "publishedAt": "2026-09-04T07:00+00:00"
@@ -500,7 +493,7 @@
         ],
         "hiring": [
           {
-            "title": "DS Smith Launceston paper plant could close with loss of 165 jobs - Cornwall Live",
+            "title": "165 jobs at risk at historic Cornwall plant - Cornwall Live",
             "source": "Cornwall Live",
             "url": "",
             "publishedAt": "2026-09-04T07:00+00:00",
@@ -515,7 +508,7 @@
             "publishedAt": "2026-09-04T07:00+00:00"
           },
           {
-            "title": "DS Smith Launceston paper plant could close with loss of 165 jobs - Cornwall Live",
+            "title": "165 jobs at risk at historic Cornwall plant - Cornwall Live",
             "source": "Cornwall Live",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXNWRTRfWlF3Ym5KdnJMZ0R1UzRRMU9yc0J6UGNOWGVQcWVxTk42eUZHbi1mVWpwYTdqNDB4cjA4WnVuRmJDMEFlV05DNDNLd1RRanhkQk5ValRycjJVN1ZpQ3NIVzRHTXFtSW1MSjJDVXp4ZDc1ZTIyVFNDSUVLcVhGTzNkaGduNUs0UmhZRUdxZw?oc=5",
             "publishedAt": "2026-09-04T07:00+00:00"
@@ -535,7 +528,7 @@
             "publishedAt": "2026-09-04T07:00+00:00"
           },
           {
-            "title": "DS Smith Launceston paper plant could close with loss of 165 jobs - Cornwall Live",
+            "title": "165 jobs at risk at historic Cornwall plant - Cornwall Live",
             "source": "Cornwall Live",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXNWRTRfWlF3Ym5KdnJMZ0R1UzRRMU9yc0J6UGNOWGVQcWVxTk42eUZHbi1mVWpwYTdqNDB4cjA4WnVuRmJDMEFlV05DNDNLd1RRanhkQk5ValRycjJVN1ZpQ3NIVzRHTXFtSW1MSjJDVXp4ZDc1ZTIyVFNDSUVLcVhGTzNkaGduNUs0UmhZRUdxZw?oc=5",
             "publishedAt": "2026-09-04T07:00+00:00"
@@ -555,37 +548,11 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
-        "news": [
-          {
-            "title": "What Cannabis Manufacturers Can Learn from the Pharmaceutical Industry About Trace Metal Impurities in Plastic Materials - Cannabis Industry Journal",
-            "source": "Cannabis Industry Journal",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYlJQWkVnVE1VMi1TQ1Myb18wd1p3ZDZ6ZC1Nakg4Y2hOLUwzaDFjRnhFNGsyVWZiWHAzLUJ0Mm5GdXpCWHc1bWFOUDNqQWo5b21KNHROSDlzX2NpME0xZXNaV1V4N0g2bzhudTJPcEs3Z05YZUdxeHp2YWVXSnEtVmtTclpJaHZqN1IybjVtek41U1p5dDNkcjNYYWFmdmdxN1h0RGdGSnk1M2M4ZmF5X3FIeURCUHoybzFQZEN5RHYxcThXRkRXeFJmeHJLWGwtV3pfUVpFNVdzRGp0UkY4V3ZKTEZ3RUNMbDZJMEZ4Z2FSNGRjcEZz0gH8AUFVX3lxTE1zVGxMcm9rQzdlVnp4aV8zMTlqRWZ4TGVxdzBqeGw1bVBidjlQYW5rd1QxQ2JPMVZXZHRyOHR5VXdjTVpQVjllbWdtR2pWQnBzQ1c1eXNNemthVXYwcVZna251TDZ5ZFMwaE9pNFg4NDlOTEozaG0zN0pqYldHUTEyTTAyV01GVFh0ZHltaVJpN0xqOGdFSU1jYVYyWnZiM25MUGkzNTE1RnVxeDJkcjJYaUhLeWFkSUswbXdCdGJ2SU45dFdtVEdJZW5JX1M3UGdoN1gzUzdsOE15cVRVMVo4OTNVb0lzQ0U2cmZvaHRqRXJRN2s0WVVsTEJPcA?oc=5",
-            "publishedAt": "2026-08-25T07:00+00:00"
-          },
-          {
-            "title": "Calcutta High Court Upholds Gold Flake Trademark Injunction in IJM Gold Stag Dispute - Court Book",
-            "source": "Court Book",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2xUcC1vZmptM1hxZXdJWXYwVTJ2XzU3LXR2ZkxneFhVXzY0a0Jha2s5ZEc0V21zRTdNd0FWRndVUFB2LUVfdlJwX2tBVjg3NkpqQmFWT2Y4OVBKLWY5ajBycE5Sa0JxS01qVEF3U0Q1UktBWC1NRmVWbVU2RGVaUGtoU1NkekpZMGVzOTI5TFBOT19FdC13eXZzMjJzNEdzU1ZkRmJ4bjc4SVBXUlpERA?oc=5",
-            "publishedAt": "2026-09-22T05:05+00:00"
-          }
-        ],
+        "lastUpdated": "2026-09-24T17:52+00:00",
+        "news": [],
         "hiring": [],
         "moves": [],
-        "items": [
-          {
-            "title": "What Cannabis Manufacturers Can Learn from the Pharmaceutical Industry About Trace Metal Impurities in Plastic Materials - Cannabis Industry Journal",
-            "source": "Cannabis Industry Journal",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYlJQWkVnVE1VMi1TQ1Myb18wd1p3ZDZ6ZC1Nakg4Y2hOLUwzaDFjRnhFNGsyVWZiWHAzLUJ0Mm5GdXpCWHc1bWFOUDNqQWo5b21KNHROSDlzX2NpME0xZXNaV1V4N0g2bzhudTJPcEs3Z05YZUdxeHp2YWVXSnEtVmtTclpJaHZqN1IybjVtek41U1p5dDNkcjNYYWFmdmdxN1h0RGdGSnk1M2M4ZmF5X3FIeURCUHoybzFQZEN5RHYxcThXRkRXeFJmeHJLWGwtV3pfUVpFNVdzRGp0UkY4V3ZKTEZ3RUNMbDZJMEZ4Z2FSNGRjcEZz0gH8AUFVX3lxTE1zVGxMcm9rQzdlVnp4aV8zMTlqRWZ4TGVxdzBqeGw1bVBidjlQYW5rd1QxQ2JPMVZXZHRyOHR5VXdjTVpQVjllbWdtR2pWQnBzQ1c1eXNNemthVXYwcVZna251TDZ5ZFMwaE9pNFg4NDlOTEozaG0zN0pqYldHUTEyTTAyV01GVFh0ZHltaVJpN0xqOGdFSU1jYVYyWnZiM25MUGkzNTE1RnVxeDJkcjJYaUhLeWFkSUswbXdCdGJ2SU45dFdtVEdJZW5JX1M3UGdoN1gzUzdsOE15cVRVMVo4OTNVb0lzQ0U2cmZvaHRqRXJRN2s0WVVsTEJPcA?oc=5",
-            "publishedAt": "2026-08-25T07:00+00:00"
-          },
-          {
-            "title": "Calcutta High Court Upholds Gold Flake Trademark Injunction in IJM Gold Stag Dispute - Court Book",
-            "source": "Court Book",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2xUcC1vZmptM1hxZXdJWXYwVTJ2XzU3LXR2ZkxneFhVXzY0a0Jha2s5ZEc0V21zRTdNd0FWRndVUFB2LUVfdlJwX2tBVjg3NkpqQmFWT2Y4OVBKLWY5ajBycE5Sa0JxS01qVEF3U0Q1UktBWC1NRmVWbVU2RGVaUGtoU1NkekpZMGVzOTI5TFBOT19FdC13eXZzMjJzNEdzU1ZkRmJ4bjc4SVBXUlpERA?oc=5",
-            "publishedAt": "2026-09-22T05:05+00:00"
-          }
-        ],
+        "items": [],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
         "categoryContext": "Distribution"
       }
@@ -600,7 +567,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
             "title": "Berlin Packaging Turns Sustainability Ambition into Action Through Innovation, Circularity, and Collaboration - PR Newswire",
@@ -615,14 +582,21 @@
             "publishedAt": "2026-08-26T07:00+00:00"
           },
           {
-            "title": "The top 3 packaging trends booming with Gen Alpha - Cosmetics Business",
-            "source": "Cosmetics Business",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUE1zVnNQWnF6dG82ZS0tcl9HNHFMS2NPSXdZQzFGOFJDeDQ0bTZoNDUxZk1KOHBmVThiYnRiZnRjVnF0OHZrd2dmT1B1NDJDbWtMZl9tTlA2ZFF3VXV3QmszRGwwSjh3Z2pEVGtxSDVlaE82SWN2SWNtVzdFODVXQQ?oc=5",
-            "publishedAt": "2026-09-21T09:14+00:00"
+            "title": "Butterfly Equity Expands Food Packaging Footprint with Acquisition of Sabert - Packaging Strategies",
+            "source": "Packaging Strategies",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTFZDTXhoRzZMVEttbTBvRW9ZRWNJXzlzRHBuWWtBQ08xbVlSM2lCV2daQXdPUzdxeUNuMXRaZmlvOGNKemVwaElSNFdJOERnbzBUdEFoNjJCRENRZ05hVUhZUlVKcHR2ME16Rm50Nkt5dExOblVIaUduNXRqTDhLVDFzcnZfVFg5dUJuYWNWWnFXNjJDNjFHYWw5R0dBLThyZDZPdjdYOG1mX2FZUGhWdDUwRlNyLXBuYlVQYzJCQUtCd24wVXMw?oc=5",
+            "publishedAt": "2026-09-23T04:00+00:00"
           }
         ],
         "hiring": [],
-        "moves": [],
+        "moves": [
+          {
+            "title": "Butterfly Equity Expands Food Packaging Footprint with Acquisition of Sabert - Packaging Strategies",
+            "source": "Packaging Strategies",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTFZDTXhoRzZMVEttbTBvRW9ZRWNJXzlzRHBuWWtBQ08xbVlSM2lCV2daQXdPUzdxeUNuMXRaZmlvOGNKemVwaElSNFdJOERnbzBUdEFoNjJCRENRZ05hVUhZUlVKcHR2ME16Rm50Nkt5dExOblVIaUduNXRqTDhLVDFzcnZfVFg5dUJuYWNWWnFXNjJDNjFHYWw5R0dBLThyZDZPdjdYOG1mX2FZUGhWdDUwRlNyLXBuYlVQYzJCQUtCd24wVXMw?oc=5",
+            "publishedAt": "2026-09-23T04:00+00:00"
+          }
+        ],
         "items": [
           {
             "title": "Berlin Packaging Turns Sustainability Ambition into Action Through Innovation, Circularity, and Collaboration - PR Newswire",
@@ -637,10 +611,10 @@
             "publishedAt": "2026-08-26T07:00+00:00"
           },
           {
-            "title": "The top 3 packaging trends booming with Gen Alpha - Cosmetics Business",
-            "source": "Cosmetics Business",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUE1zVnNQWnF6dG82ZS0tcl9HNHFMS2NPSXdZQzFGOFJDeDQ0bTZoNDUxZk1KOHBmVThiYnRiZnRjVnF0OHZrd2dmT1B1NDJDbWtMZl9tTlA2ZFF3VXV3QmszRGwwSjh3Z2pEVGtxSDVlaE82SWN2SWNtVzdFODVXQQ?oc=5",
-            "publishedAt": "2026-09-21T09:14+00:00"
+            "title": "Butterfly Equity Expands Food Packaging Footprint with Acquisition of Sabert - Packaging Strategies",
+            "source": "Packaging Strategies",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTFZDTXhoRzZMVEttbTBvRW9ZRWNJXzlzRHBuWWtBQ08xbVlSM2lCV2daQXdPUzdxeUNuMXRaZmlvOGNKemVwaElSNFdJOERnbzBUdEFoNjJCRENRZ05hVUhZUlVKcHR2ME16Rm50Nkt5dExOblVIaUduNXRqTDhLVDFzcnZfVFg5dUJuYWNWWnFXNjJDNjFHYWw5R0dBLThyZDZPdjdYOG1mX2FZUGhWdDUwRlNyLXBuYlVQYzJCQUtCd24wVXMw?oc=5",
+            "publishedAt": "2026-09-23T04:00+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -657,19 +631,13 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
-            "title": "SupplyCaddy Receives Growth Infusion from Partner CEAS Investments - Yahoo Finance",
+            "title": "SupplyCaddy secures funding from CEAS Investments - Yahoo Finance",
             "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ05jMVZqcDNDNVhkUm9teHpYRThYRXYyQ1hCYlJfMXVEZ25zMWYwTjM1Q2J5czU1QVlhc2xHTzAwZEVHVGg4RkpmTkE5M3RQd2o5b0FZMVBQNWJlRGNoUVRKVkJZSlFxbDVOXzU4SjZqX2JNQk1PRTlVSGhWWXFZS3pjOWcwTzVwRERVMjRENGFOS3RSSG9iOHJBbUR5eW1kdy1yX0I1enBsd0d3RHc?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3J4dkRWUnhpV0J5LU5uOURTeFdQR2NnVDB1WUdCX0RoRGNOQ202VEF6VVpReXZjSkFQdU9FdEM1Z3JqTVVrNWg2ZnBQU1poOW5DUDBiS3BDVXFEUk82NmRIZnc2ekJBeTlWaHRvN3A3MkNOM0ZreGNyemZDOTAxR1hUdkN0ZXhaZEQ0WVRGaHozV0FvNkZRTXhfZm5KWHdxYm9IV0dnYklsY1dTUXc?oc=5",
             "publishedAt": "2026-09-02T07:00+00:00"
-          },
-          {
-            "title": "Group CEO of SOMIC Dr. Gerhard Huber Appointed Wirtschaftssenator h.c - spnews.com",
-            "source": "spnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LNmplVkFaMHZJUWxYYUdTU0FjYzhLZkRtRU1WbksyazRrbnVrTkdSRnZXczFabHJ6ZjExR1pjREsyRWlyUW1IVUZGcTh3aGvSAVpBVV95cUxORmQwUmJaWnZTS1dkZVFiZDVEeDJtc2VMTFVodEJ0dWlDeDRVaV9LSFdHN3l4NEZnVkZDa1pja00tdnZLS1VoQk9EQnhGSWZRNFpaQm1ES1N3U1E?oc=5",
-            "publishedAt": "2026-09-23T01:52+00:00"
           },
           {
             "title": "Marco Sealing Solutions Acquires Global O-Ring and Seal, Adds Houston Hub - Modern Distribution Management",
@@ -689,16 +657,10 @@
         ],
         "items": [
           {
-            "title": "SupplyCaddy Receives Growth Infusion from Partner CEAS Investments - Yahoo Finance",
+            "title": "SupplyCaddy secures funding from CEAS Investments - Yahoo Finance",
             "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ05jMVZqcDNDNVhkUm9teHpYRThYRXYyQ1hCYlJfMXVEZ25zMWYwTjM1Q2J5czU1QVlhc2xHTzAwZEVHVGg4RkpmTkE5M3RQd2o5b0FZMVBQNWJlRGNoUVRKVkJZSlFxbDVOXzU4SjZqX2JNQk1PRTlVSGhWWXFZS3pjOWcwTzVwRERVMjRENGFOS3RSSG9iOHJBbUR5eW1kdy1yX0I1enBsd0d3RHc?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3J4dkRWUnhpV0J5LU5uOURTeFdQR2NnVDB1WUdCX0RoRGNOQ202VEF6VVpReXZjSkFQdU9FdEM1Z3JqTVVrNWg2ZnBQU1poOW5DUDBiS3BDVXFEUk82NmRIZnc2ekJBeTlWaHRvN3A3MkNOM0ZreGNyemZDOTAxR1hUdkN0ZXhaZEQ0WVRGaHozV0FvNkZRTXhfZm5KWHdxYm9IV0dnYklsY1dTUXc?oc=5",
             "publishedAt": "2026-09-02T07:00+00:00"
-          },
-          {
-            "title": "Group CEO of SOMIC Dr. Gerhard Huber Appointed Wirtschaftssenator h.c - spnews.com",
-            "source": "spnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LNmplVkFaMHZJUWxYYUdTU0FjYzhLZkRtRU1WbksyazRrbnVrTkdSRnZXczFabHJ6ZjExR1pjREsyRWlyUW1IVUZGcTh3aGvSAVpBVV95cUxORmQwUmJaWnZTS1dkZVFiZDVEeDJtc2VMTFVodEJ0dWlDeDRVaV9LSFdHN3l4NEZnVkZDa1pja00tdnZLS1VoQk9EQnhGSWZRNFpaQm1ES1N3U1E?oc=5",
-            "publishedAt": "2026-09-23T01:52+00:00"
           },
           {
             "title": "Marco Sealing Solutions Acquires Global O-Ring and Seal, Adds Houston Hub - Modern Distribution Management",
@@ -721,25 +683,19 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
-          {
-            "title": "Business Journal reveals WA's fastest-growing private companies - bizjournals.com",
-            "source": "bizjournals.com",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGdMTUtkTFhzNjBXT2xscGc2Qjc2Yjh3eVZuMjY1ZXZyY1Izb3JsdjdWUEZNVDBKOTc0cS0tdHg1bnpkVVBmS1IzZVlhQlI5MURUdlhlcHd4M1BTNVFDT01nVExLMmFOeldWMnh6YjE3NW1maDlUOE1CdWl5M2dMdEgzMGp3OFhYTHVEUnZ0Q1h5aHR0aTNV?oc=5",
-            "publishedAt": "2026-08-30T07:00+00:00"
-          },
-          {
-            "title": "Versatile Sam Corry Ready for Performance Vehicle Works Racing Late Model Debut at Hickory Motor Speedway - Catchfence",
-            "source": "Catchfence",
-            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYWxNQXBWQzJ2dE5qN1BWeUp0SVdLS2hKLXI0S2pvcGY0bjJWTWRhUFZ4ZGMwR1ZKTmJ5WElsOXFwUDRDMUk2X1ZoSXgzZ2JXU21ueWxxNmI5UDVsME92VWJaUENwNm40d083LURBSnZNWEVwTHlLc2NXWkVabU12SjNrYmpHWFIwY2EteXJXZDVjdUhkb2hsbVpzZDNNMHlSNEdycHFyWDF2aWdEUlViU3lCVVI1SUZuWmZVYU1OSF9YLUVJQ3hiOGRyQmpDVHNMblk3UmZ2MXBTNG12SlhrR3FVanBIM2RMSnRfcXBabmpUTDEwclQ2enNjMy04bmkwZlc3N3pTYw?oc=5",
-            "publishedAt": "2026-09-19T01:03+00:00"
-          },
           {
             "title": "Nordstrom tops list of largest private companies in WA - bizjournals.com",
             "source": "bizjournals.com",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWRNamgybXR1UEppLXdlNzVZN1ZvOXdpSzdvTVVIMlZtQnM0Z1VkZjBVeXItOFlyTktQTm4zdHdIZ3p1endwTnFibU5rUjlGN19ZQ0M4ZEFVb2NZcDBoc2EyUTZZbXhqN1Nsd1Q5eTBadFhDMkFJZG1pcHpRcjdybGlkcTVfWkNHc0oxTTNUbzljRGRO?oc=5",
             "publishedAt": "2026-09-11T07:00+00:00"
+          },
+          {
+            "title": "Versatile Sam Corry Ready for Performance Vehicle Works Racing Late Model Debut at Hickory Motor Speedway - catchfence.com",
+            "source": "catchfence.com",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYWxNQXBWQzJ2dE5qN1BWeUp0SVdLS2hKLXI0S2pvcGY0bjJWTWRhUFZ4ZGMwR1ZKTmJ5WElsOXFwUDRDMUk2X1ZoSXgzZ2JXU21ueWxxNmI5UDVsME92VWJaUENwNm40d083LURBSnZNWEVwTHlLc2NXWkVabU12SjNrYmpHWFIwY2EteXJXZDVjdUhkb2hsbVpzZDNNMHlSNEdycHFyWDF2aWdEUlViU3lCVVI1SUZuWmZVYU1OSF9YLUVJQ3hiOGRyQmpDVHNMblk3UmZ2MXBTNG12SlhrR3FVanBIM2RMSnRfcXBabmpUTDEwclQ2enNjMy04bmkwZlc3N3pTYw?oc=5",
+            "publishedAt": "2026-09-19T01:03+00:00"
           }
         ],
         "hiring": [
@@ -755,22 +711,16 @@
         "moves": [],
         "items": [
           {
-            "title": "Business Journal reveals WA's fastest-growing private companies - bizjournals.com",
-            "source": "bizjournals.com",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGdMTUtkTFhzNjBXT2xscGc2Qjc2Yjh3eVZuMjY1ZXZyY1Izb3JsdjdWUEZNVDBKOTc0cS0tdHg1bnpkVVBmS1IzZVlhQlI5MURUdlhlcHd4M1BTNVFDT01nVExLMmFOeldWMnh6YjE3NW1maDlUOE1CdWl5M2dMdEgzMGp3OFhYTHVEUnZ0Q1h5aHR0aTNV?oc=5",
-            "publishedAt": "2026-08-30T07:00+00:00"
-          },
-          {
-            "title": "Versatile Sam Corry Ready for Performance Vehicle Works Racing Late Model Debut at Hickory Motor Speedway - Catchfence",
-            "source": "Catchfence",
-            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYWxNQXBWQzJ2dE5qN1BWeUp0SVdLS2hKLXI0S2pvcGY0bjJWTWRhUFZ4ZGMwR1ZKTmJ5WElsOXFwUDRDMUk2X1ZoSXgzZ2JXU21ueWxxNmI5UDVsME92VWJaUENwNm40d083LURBSnZNWEVwTHlLc2NXWkVabU12SjNrYmpHWFIwY2EteXJXZDVjdUhkb2hsbVpzZDNNMHlSNEdycHFyWDF2aWdEUlViU3lCVVI1SUZuWmZVYU1OSF9YLUVJQ3hiOGRyQmpDVHNMblk3UmZ2MXBTNG12SlhrR3FVanBIM2RMSnRfcXBabmpUTDEwclQ2enNjMy04bmkwZlc3N3pTYw?oc=5",
-            "publishedAt": "2026-09-19T01:03+00:00"
-          },
-          {
             "title": "Nordstrom tops list of largest private companies in WA - bizjournals.com",
             "source": "bizjournals.com",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWRNamgybXR1UEppLXdlNzVZN1ZvOXdpSzdvTVVIMlZtQnM0Z1VkZjBVeXItOFlyTktQTm4zdHdIZ3p1endwTnFibU5rUjlGN19ZQ0M4ZEFVb2NZcDBoc2EyUTZZbXhqN1Nsd1Q5eTBadFhDMkFJZG1pcHpRcjdybGlkcTVfWkNHc0oxTTNUbzljRGRO?oc=5",
             "publishedAt": "2026-09-11T07:00+00:00"
+          },
+          {
+            "title": "Versatile Sam Corry Ready for Performance Vehicle Works Racing Late Model Debut at Hickory Motor Speedway - catchfence.com",
+            "source": "catchfence.com",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYWxNQXBWQzJ2dE5qN1BWeUp0SVdLS2hKLXI0S2pvcGY0bjJWTWRhUFZ4ZGMwR1ZKTmJ5WElsOXFwUDRDMUk2X1ZoSXgzZ2JXU21ueWxxNmI5UDVsME92VWJaUENwNm40d083LURBSnZNWEVwTHlLc2NXWkVabU12SjNrYmpHWFIwY2EteXJXZDVjdUhkb2hsbVpzZDNNMHlSNEdycHFyWDF2aWdEUlViU3lCVVI1SUZuWmZVYU1OSF9YLUVJQ3hiOGRyQmpDVHNMblk3UmZ2MXBTNG12SlhrR3FVanBIM2RMSnRfcXBabmpUTDEwclQ2enNjMy04bmkwZlc3N3pTYw?oc=5",
+            "publishedAt": "2026-09-19T01:03+00:00"
           }
         ],
         "query": "\"Alliance Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -787,11 +737,11 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [
           {
-            "title": "Lighthouse Launches Ernest Crews to Get Hotel Commercial Teams Running on AI in as Little as 30 Days - Newswire.com",
-            "source": "Newswire.com",
+            "title": "Lighthouse Launches Ernest Crews to Get Hotel Commercial Teams Running on AI in as Little as 30 Days - newswire.com",
+            "source": "newswire.com",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNxc3NLblUwNXlRWmhFc2p2cFVZdUhDbFRHakNKR1B3ekRGWURBQWFmWnpNSmtvQjMwaGtjRDU2US1Eb1BIRHYyRVNOWlRwOXZKU1JYZEU4b3ZMNm1LTkxVUVF5NmJKU1dXdkdiNVBqQWNDcWZ6TUN6bjQwUFd6cmU2bFEweGtBRUtyRFg0U29rOVphUzdhY1RsSjNURE5iejVDQW5WenctU0lkWEE?oc=5",
             "publishedAt": "2026-09-02T07:00+00:00"
           }
@@ -808,8 +758,8 @@
         "moves": [],
         "items": [
           {
-            "title": "Lighthouse Launches Ernest Crews to Get Hotel Commercial Teams Running on AI in as Little as 30 Days - Newswire.com",
-            "source": "Newswire.com",
+            "title": "Lighthouse Launches Ernest Crews to Get Hotel Commercial Teams Running on AI in as Little as 30 Days - newswire.com",
+            "source": "newswire.com",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNxc3NLblUwNXlRWmhFc2p2cFVZdUhDbFRHakNKR1B3ekRGWURBQWFmWnpNSmtvQjMwaGtjRDU2US1Eb1BIRHYyRVNOWlRwOXZKU1JYZEU4b3ZMNm1LTkxVUVF5NmJKU1dXdkdiNVBqQWNDcWZ6TUN6bjQwUFd6cmU2bFEweGtBRUtyRFg0U29rOVphUzdhY1RsSjNURE5iejVDQW5WenctU0lkWEE?oc=5",
             "publishedAt": "2026-09-02T07:00+00:00"
           }
@@ -828,7 +778,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-09-23T17:52+00:00",
+        "lastUpdated": "2026-09-24T17:52+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -840,8 +790,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-23T17:52+00:00",
-  "lastSuccessfulAt": "2026-09-23T17:52+00:00",
+  "lastAttemptedAt": "2026-09-24T17:52+00:00",
+  "lastSuccessfulAt": "2026-09-24T17:52+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
