@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T17:52+00:00",
+  "lastUpdated": "2026-09-25T17:59+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,59 +19,64 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "2 km NW of The Geysers, CA",
+      "region": "4 km SSW of Honaunau-Napoopoo, Hawaii",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "10 km ENE of North Tustin, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km S of Redlands, CA",
+      "region": "92 km ESE of McCarthy, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "31 km SW of Garden City, Texas",
+      "region": "11 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NNW of Anchor Point, Alaska",
+      "region": "91 km ESE of McCarthy, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km W of Calimesa, CA",
+      "region": "7 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "20 km SSW of Inyokern, CA",
+      "region": "94 km ESE of McCarthy, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NW of The Geysers, CA",
+      "region": "71 km WNW of Ninilchik, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "26 km NW of Kernville, CA",
-      "severity": "Low"
+      "type": "Lake Wind Advisory issued September 25 at 10:00AM PDT until September 25 at 8:00PM PDT by NWS Reno NV",
+      "region": "Mono; Greater Reno-Carson City-Minden Area",
+      "severity": "Moderate"
     },
     {
-      "type": "Red Flag Warning issued September 24 at 10:11AM PDT until September 24 at 8:00PM PDT by NWS Medford OR",
-      "region": "Modoc County Except for the Surprise Valley",
-      "severity": "Severe"
+      "type": "Lake Wind Advisory issued September 25 at 10:00AM PDT until September 25 at 8:00PM PDT by NWS Reno NV",
+      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties; Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "severity": "Moderate"
     },
     {
-      "type": "Lake Wind Advisory issued September 24 at 9:58AM PDT until September 24 at 8:00PM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198",
+      "type": "Beach Hazards Statement issued September 25 at 3:37AM PDT until September 27 at 5:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-24T17:52+00:00",
-  "lastSuccessfulAt": "2026-09-24T17:52+00:00",
+  "lastAttemptedAt": "2026-09-25T17:59+00:00",
+  "lastSuccessfulAt": "2026-09-25T17:59+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

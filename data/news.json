@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T17:52+00:00",
+  "lastUpdated": "2026-09-25T17:59+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -21,31 +21,10 @@
       "impact": "Low"
     },
     {
-      "title": "Unilever joins consortium to accelerate innovation of paper-based flexible packaging - Unilever Global",
-      "source": "Unilever Global",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFhIaVZBU19wemhkdEh3cWxpZWpVc1ZBek9KbW1PMnlrWnA4QnVFX0hWcFcwRkJtZWN5eXhscGVYS2hGR3JBSF9VVlJxNkZvdk1oMVhSekRYSDJHVkpYbW5vNGlSbXRzc1VMZHdZSTZEMmdYeXRmWHZZMFNwMGVNZkdtcUpuRDZDd0syVkFiNEE5ZUdLbmhhcFNjQy1DekY5WENqNGFZb2dwbGN0RUtMb2JLMGlralA4MjBjSWpqNDF3dHptaERIdmFveWI?oc=5",
-      "publishedAt": "2026-09-16T08:36+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Clemson scientist aims to give plastic packaging a better end of life - Clemson News",
       "source": "Clemson News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEZ3dGtOTEJKMnFuaGZWQVBzZzdXWlNzai1jUmZCWURqMGFtUW5aR2pFN1J0ZENwLVJzVXBmTkFoMldzWFlYMmkyMmRxclZuanNUZjBEalpUbzl6dzk1cnFnNE5uVXRURHFhZzNwZi04UzJTTkZVZWtWQXI2TURDXzRjaFBhd1NydWlwYm96UkdPZUtCQUNJ?oc=5",
       "publishedAt": "2026-09-22T12:59+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "California governor vetoes updates to SB 54\u2019s plastic pollution fund - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0x3cVB5bjZpcGpHLW80XzY5SXI3TEFpSVRueXlpX3RTcnFXSms3a0JNYlF1OVJ1TmcwSUdtMVNNcDdhYnJJcGFzUkFBa2hocnVwVTlmaWFPSkJxTEdoWDUydTJDSEd2R3l4T1E5b0g3VWdtemo3UC0yQWFaUG40aTNIQWVCbVhDaENlUkJfTTNuYm9EOVBiUndFRGMtemZMdUxZN2dsdUNqZ01D?oc=5",
-      "publishedAt": "2026-09-21T17:07+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Paper Alternatives Still Need Plastic for Product Protection - PlasticsToday",
-      "source": "PlasticsToday",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelJVQThDdV9PT1U3TTQ0Nkl5NlNXaHpqbzRnYjh6VGlmVmNNd1lqSnA3U2UtN3IwdW11dmVpalRPRE9JUGZhZ0h4ZHc1cE5zRmEtZFRpeGRKS3RIU1JORExUQUtHbHM5cEl0enJOdGZJcTVlREJRakJqb1htVmNVTlQ5ZHVxaHc4b2dScWFwaTEycHB6WUpnSg?oc=5",
-      "publishedAt": "2026-09-18T17:43+00:00",
       "impact": "Low"
     },
     {
@@ -56,24 +35,45 @@
       "impact": "Low"
     },
     {
-      "title": "Press release: The PaperFlex Consortium launched to accelerate paper-based flexible packaging innovation - Ellen MacArthur Foundation",
-      "source": "Ellen MacArthur Foundation",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOazRVZmFiQzBScmU2a0pwOS1UcnNhakl1Y3BXZ25mVDlVRmtTcUI0VnBFbzRGNUxBaUR5Q0JzaHRoZnQtMExWS2tpMGo5TTAzSW5VVi02UTBLVzRDeTgzaEJhbDVSMjMyZDhRMXYtTGUwamFMMWNvWGVYX2xNV3paNUEycnhLbFJnQzFwZU9mT3d2NnhaSDkyM1dSR1hkQW9oalVUSElQXzdiNnZPa09uNkhIbnVaSDJrbFY1OWlvX3d1eVhxOTBPVF9tRThYZVZBX09nNWFXSERVd2lv?oc=5",
-      "publishedAt": "2026-09-16T07:00+00:00",
+      "title": "Paper Alternatives Still Need Plastic for Product Protection - PlasticsToday",
+      "source": "PlasticsToday",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelJVQThDdV9PT1U3TTQ0Nkl5NlNXaHpqbzRnYjh6VGlmVmNNd1lqSnA3U2UtN3IwdW11dmVpalRPRE9JUGZhZ0h4ZHc1cE5zRmEtZFRpeGRKS3RIU1JORExUQUtHbHM5cEl0enJOdGZJcTVlREJRakJqb1htVmNVTlQ5ZHVxaHc4b2dScWFwaTEycHB6WUpnSg?oc=5",
+      "publishedAt": "2026-09-18T17:43+00:00",
       "impact": "Low"
     },
     {
-      "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
-      "source": "Sustainability Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
-      "publishedAt": "2026-09-16T08:13+00:00",
+      "title": "California governor vetoes updates to SB 54\u2019s plastic pollution fund - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0x3cVB5bjZpcGpHLW80XzY5SXI3TEFpSVRueXlpX3RTcnFXSms3a0JNYlF1OVJ1TmcwSUdtMVNNcDdhYnJJcGFzUkFBa2hocnVwVTlmaWFPSkJxTEdoWDUydTJDSEd2R3l4T1E5b0g3VWdtemo3UC0yQWFaUG40aTNIQWVCbVhDaENlUkJfTTNuYm9EOVBiUndFRGMtemZMdUxZN2dsdUNqZ01D?oc=5",
+      "publishedAt": "2026-09-21T17:07+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
+      "publishedAt": "2026-09-21T04:28+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "ALPLA\u2019s holistic approach to packaging design - Resource Recycling",
+      "source": "Resource Recycling",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXhGVzg4VjNkRzdwMDB1bW5CdlpPbU5FcUw5ZnVvU20wbThrVHd3T2ZCQTgtaFlBajB3QUoyZlZlTVhISHE2OTJrVWoyOXhqVDlKbkVTal9HSlhuV1BQNDJOX0xCWW1uVGg4VUd2ZWR6UGpPUlBFa3NnVnRVTmpzal9iQUxsN080RU05ODAtUmtUR0NjbE9wUFpKTzU?oc=5",
+      "publishedAt": "2026-09-18T13:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - paperage.com",
+      "source": "paperage.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOUNaNm03RjVoaUpRYlhHNERGN0xXVXhIQk1VWmZZZGxLd1NFZ1pTNzFfNlhCZ2VDVnZGbU9aNlZBTmdxM0RKaEEzcFludGRjVktSdWYtZnd2V2JBVkctOWE2cXctTUtucHVMSEZWcXFQQ3FHVDRDZ1l5UGVYTVZBenhlTnk3N25SQmJRT3gyRXFJN3ZkaFZ4aUI2Y0FvNkZjV0Jaa2VZbnR2NHdRUUIyTVNFS0lLc2dGUUxPQ1ZyU3I3TW1pLV9LX2MyQ1RaZGF3aUxr?oc=5",
+      "publishedAt": "2026-09-23T13:36+00:00",
+      "impact": "High"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-24T17:52+00:00",
-  "lastSuccessfulAt": "2026-09-24T17:52+00:00",
+  "lastAttemptedAt": "2026-09-25T17:59+00:00",
+  "lastSuccessfulAt": "2026-09-25T17:59+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
