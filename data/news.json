@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T17:59+00:00",
+  "lastUpdated": "2026-09-28T20:09+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -21,38 +21,31 @@
       "impact": "Low"
     },
     {
-      "title": "Clemson scientist aims to give plastic packaging a better end of life - Clemson News",
-      "source": "Clemson News",
+      "title": "Clemson scientist aims to give plastic packaging a better end of life - news.clemson.edu",
+      "source": "news.clemson.edu",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEZ3dGtOTEJKMnFuaGZWQVBzZzdXWlNzai1jUmZCWURqMGFtUW5aR2pFN1J0ZENwLVJzVXBmTkFoMldzWFlYMmkyMmRxclZuanNUZjBEalpUbzl6dzk1cnFnNE5uVXRURHFhZzNwZi04UzJTTkZVZWtWQXI2TURDXzRjaFBhd1NydWlwYm96UkdPZUtCQUNJ?oc=5",
       "publishedAt": "2026-09-22T12:59+00:00",
       "impact": "Low"
     },
     {
-      "title": "Plasma technology could help plant-based packaging replace plastic - Phys.org",
-      "source": "Phys.org",
+      "title": "Plasma technology could help plant-based packaging replace plastic - phys.org",
+      "source": "phys.org",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVlXUzlhSnlrcjd3TUdFNmxLeFpMM2RNT1FjOFNMV1ZZbWFzOHpIYmV0bzVRVmxBUUVMSGdKaVJZa21pOWR4VjBUT0NiVklvZlZtT3JGd2ZUaEJtcEZVN0NDMTE1d2FNOERNSS05cDJTZmtKelc1bnN0MjVpMm91SEFn?oc=5",
       "publishedAt": "2026-09-21T20:40+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Nestl\u00e9 breaks down its path to 2030 for virgin plastic reduction - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXBTRkNTUG53NGxEc3k1NkFsN0xyV3ZCYTVNN3hrU1Y4bjNlUGx4bW5XdUVpcGRiYURlNXRKcFNmVTVXaGtNU29DWVJNWkNzY1dCcmU1TFpLNERZckVRRnNIdXV4LV9qb2lSczgyVWFYQXFydTROb0UzT2prMHNQbTh4aGg2VzY0?oc=5",
+      "publishedAt": "2026-09-24T16:23+00:00",
       "impact": "Low"
     },
     {
       "title": "Paper Alternatives Still Need Plastic for Product Protection - PlasticsToday",
       "source": "PlasticsToday",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelJVQThDdV9PT1U3TTQ0Nkl5NlNXaHpqbzRnYjh6VGlmVmNNd1lqSnA3U2UtN3IwdW11dmVpalRPRE9JUGZhZ0h4ZHc1cE5zRmEtZFRpeGRKS3RIU1JORExUQUtHbHM5cEl0enJOdGZJcTVlREJRakJqb1htVmNVTlQ5ZHVxaHc4b2dScWFwaTEycHB6WUpnSg?oc=5",
-      "publishedAt": "2026-09-18T17:43+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "California governor vetoes updates to SB 54\u2019s plastic pollution fund - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0x3cVB5bjZpcGpHLW80XzY5SXI3TEFpSVRueXlpX3RTcnFXSms3a0JNYlF1OVJ1TmcwSUdtMVNNcDdhYnJJcGFzUkFBa2hocnVwVTlmaWFPSkJxTEdoWDUydTJDSEd2R3l4T1E5b0g3VWdtemo3UC0yQWFaUG40aTNIQWVCbVhDaENlUkJfTTNuYm9EOVBiUndFRGMtemZMdUxZN2dsdUNqZ01D?oc=5",
-      "publishedAt": "2026-09-21T17:07+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
-      "publishedAt": "2026-09-21T04:28+00:00",
+      "publishedAt": "2026-09-18T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -63,17 +56,24 @@
       "impact": "Low"
     },
     {
-      "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - paperage.com",
-      "source": "paperage.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOUNaNm03RjVoaUpRYlhHNERGN0xXVXhIQk1VWmZZZGxLd1NFZ1pTNzFfNlhCZ2VDVnZGbU9aNlZBTmdxM0RKaEEzcFludGRjVktSdWYtZnd2V2JBVkctOWE2cXctTUtucHVMSEZWcXFQQ3FHVDRDZ1l5UGVYTVZBenhlTnk3N25SQmJRT3gyRXFJN3ZkaFZ4aUI2Y0FvNkZjV0Jaa2VZbnR2NHdRUUIyTVNFS0lLc2dGUUxPQ1ZyU3I3TW1pLV9LX2MyQ1RaZGF3aUxr?oc=5",
-      "publishedAt": "2026-09-23T13:36+00:00",
-      "impact": "High"
+      "title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
+      "publishedAt": "2026-09-21T04:28+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "The EU\u2019s new packaging rules are a bureaucratic bungle - The Economist",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckc4cS13Mk44S0t4aFNFS3Bzb3d3YVhweHJRWkxzU0xvOF9ISFRERzM0TVlyUlRUMFk3LWJTR3R5dGFRWm90TWJ0S0FTelY4bWJBbE03R0pWbXNaWm5mRTY1Q3JQQ0VSSUNxWllpdkRPNV9BM2FMdnFjR3FCVzF0cEF6TTF2YmhmQUJxMGI4NGtPLVItVGJnMHV4al9kUQ?oc=5",
+      "publishedAt": "2026-09-24T13:22+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-25T17:59+00:00",
-  "lastSuccessfulAt": "2026-09-25T17:59+00:00",
+  "lastAttemptedAt": "2026-09-28T20:09+00:00",
+  "lastSuccessfulAt": "2026-09-28T20:09+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

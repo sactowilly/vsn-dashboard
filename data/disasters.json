@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T17:59+00:00",
+  "lastUpdated": "2026-09-28T20:09+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,64 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "4 km SSW of Honaunau-Napoopoo, Hawaii",
+      "region": "20 km SSW of Sunrise, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "2 km SW of Sakai, Japan",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "10 km ENE of North Tustin, CA",
+      "region": "86 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "92 km ESE of McCarthy, Alaska",
+      "region": "57 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km WNW of The Geysers, CA",
+      "region": "55 km S of Kingston, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "91 km ESE of McCarthy, Alaska",
+      "region": "45 km N of Charlotte Amalie, U.S. Virgin Islands",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km W of Cobb, CA",
+      "region": "42 km NW of Toyah, Texas",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "94 km ESE of McCarthy, Alaska",
+      "region": "58 km S of Whites City, New Mexico",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "71 km WNW of Ninilchik, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Lake Wind Advisory issued September 25 at 10:00AM PDT until September 25 at 8:00PM PDT by NWS Reno NV",
-      "region": "Mono; Greater Reno-Carson City-Minden Area",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Lake Wind Advisory issued September 25 at 10:00AM PDT until September 25 at 8:00PM PDT by NWS Reno NV",
-      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties; Greater Lake Tahoe Area; Greater Lake Tahoe Area",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Beach Hazards Statement issued September 25 at 3:37AM PDT until September 27 at 5:00PM PDT by NWS San Diego CA",
+      "type": "Coastal Flood Advisory issued September 28 at 11:44AM PDT until September 30 at 5:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "severity": "Minor"
+    },
+    {
+      "type": "Coastal Flood Advisory issued September 28 at 10:39AM PDT until October 1 at 5:00PM PDT by NWS San Francisco CA",
+      "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "severity": "Minor"
+    },
+    {
+      "type": "Lake Wind Advisory issued September 28 at 6:51AM PDT until September 28 at 7:00PM PDT by NWS Hanford CA",
+      "region": "Kern River Valley",
       "severity": "Moderate"
+    },
+    {
+      "type": "Flood Watch issued September 28 at 4:34AM PDT until September 29 at 5:00AM PDT by NWS Las Vegas NV",
+      "region": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; San Bernardino County-Upper Colorado River Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
+      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-25T17:59+00:00",
-  "lastSuccessfulAt": "2026-09-25T17:59+00:00",
+  "lastAttemptedAt": "2026-09-28T20:09+00:00",
+  "lastSuccessfulAt": "2026-09-28T20:09+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
