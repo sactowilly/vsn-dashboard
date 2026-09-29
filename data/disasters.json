@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T20:09+00:00",
+  "lastUpdated": "2026-09-29T18:41+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "20 km SSW of Sunrise, Alaska",
+      "region": "9 km WNW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km SW of Sakai, Japan",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "86 km NNW of Karluk, Alaska",
+      "region": "20 km W of Cohoe, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "57 km S of Whites City, New Mexico",
+      "region": "16 km WNW of Aleneva, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "55 km S of Kingston, Nevada",
+      "region": "16 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "45 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "region": "5 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "42 km NW of Toyah, Texas",
+      "region": "5 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km S of Whites City, New Mexico",
+      "region": "86 km W of Karluk, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued September 28 at 11:44AM PDT until September 30 at 5:00PM PDT by NWS San Diego CA",
+      "type": "Earthquake",
+      "region": "85 km NW of Karluk, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Coastal Flood Advisory issued September 29 at 1:59AM PDT until September 30 at 5:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Minor"
     },
     {
-      "type": "Coastal Flood Advisory issued September 28 at 10:39AM PDT until October 1 at 5:00PM PDT by NWS San Francisco CA",
+      "type": "Coastal Flood Advisory issued September 28 at 9:16PM PDT until October 1 at 5:00PM PDT by NWS San Francisco CA",
       "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
       "severity": "Minor"
     },
     {
-      "type": "Lake Wind Advisory issued September 28 at 6:51AM PDT until September 28 at 7:00PM PDT by NWS Hanford CA",
-      "region": "Kern River Valley",
-      "severity": "Moderate"
+      "type": "High Surf Advisory issued September 28 at 1:28PM PDT until September 29 at 5:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
+      "severity": "Minor"
     },
     {
-      "type": "Flood Watch issued September 28 at 4:34AM PDT until September 29 at 5:00AM PDT by NWS Las Vegas NV",
-      "region": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; San Bernardino County-Upper Colorado River Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
-      "severity": "Severe"
+      "type": "Coastal Flood Advisory issued September 28 at 1:28PM PDT until September 29 at 5:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
+      "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-28T20:09+00:00",
-  "lastSuccessfulAt": "2026-09-28T20:09+00:00",
+  "lastAttemptedAt": "2026-09-29T18:41+00:00",
+  "lastSuccessfulAt": "2026-09-29T18:41+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
