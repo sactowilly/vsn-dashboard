@@ -96,6 +96,11 @@ const expectedIds = [
 ];
 
 const errors = [];
+const warnings = [];
+
+// Leaked writing-level labels ("6th grade", "8th-grade", "grade level"), without
+// matching ordinary text such as "8th annual" or "July 6th".
+const hiddenLevelTerms = new RegExp(String.raw`\b(?:6th|8th|sixth|eighth)[\s-]+grade\b|\bgrade[\s-]+level\b`, "i");
 
 function wordCount(value) {
   return String(value || "").trim().split(/\s+/).filter(Boolean).length;
@@ -154,11 +159,21 @@ for (const id of expectedIds) {
     if (!html.includes(heading)) errors.push(`${id}: flyout missing ${heading}`);
   }
 
-  const hiddenLevelTerms = new RegExp(["6th", "8th", ["grade", "level"].join(" ")].join("|"), "i");
-  if (hiddenLevelTerms.test(html)) {
-    errors.push(`${id}: flyout should not mention internal audience-level labels`);
+  // Rendered flyouts include live third-party text, so a match here is a warning.
+  // A hard failure on scraped text blocked every tile for 18 days (2026-07-24 to 2026-08-10).
+  const match = html.match(hiddenLevelTerms);
+  if (match) {
+    warnings.push(`${id}: flyout mentions an internal audience-level label ("${match[0]}")`);
   }
 }
+
+// Authored copy in app.js is under our control, so a leak there is a hard error.
+const authoredLeak = appSource.match(hiddenLevelTerms);
+if (authoredLeak) {
+  errors.push(`app.js: authored copy mentions an internal audience-level label ("${authoredLeak[0]}")`);
+}
+
+for (const warning of warnings) console.log(`::warning title=Dashboard content::${warning}`);
 
 if (errors.length) {
   console.error("Dashboard content validation failed:");
