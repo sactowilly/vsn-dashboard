@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T18:41+00:00",
+  "lastUpdated": "2026-09-30T18:28+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "9 km WNW of Anza, CA",
+      "region": "8 km SW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "20 km W of Cohoe, Alaska",
+      "region": "48 km ENE of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km WNW of Aleneva, Alaska",
+      "region": "20 km N of Four Mile Road, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km WSW of Johannesburg, CA",
+      "region": "2 km WSW of Liborio Negron Torres, Puerto Rico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of The Geysers, CA",
+      "region": "6 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of The Geysers, CA",
+      "region": "86 km SSE of Igiugig, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "86 km W of Karluk, Alaska",
+      "region": "44 km WNW of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "85 km NW of Karluk, Alaska",
+      "region": "24 km ENE of Beluga, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued September 29 at 1:59AM PDT until September 30 at 5:00PM PDT by NWS San Diego CA",
+      "type": "Extreme Heat Watch issued September 30 at 9:46AM PDT until October 8 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands; Santa Clarita Valley; Ventura County Beaches; Ventura County Inland Coast; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains; Los Angeles County San Gabriel Valley",
+      "severity": "Severe"
+    },
+    {
+      "type": "Extreme Heat Watch issued September 30 at 9:46AM PDT until October 8 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Cuyama Valley; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Santa Ynez Mountains Western Range; Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains; Santa Cruz and Anacapa Islands",
+      "severity": "Severe"
+    },
+    {
+      "type": "Extreme Heat Watch issued September 30 at 3:05AM PDT until October 7 at 9:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; San Bernardino and Riverside County Valleys-The Inland Empire; San Diego County Inland Valleys; Santa Ana Mountains and Foothills; Orange County Coastal; Orange County Inland",
+      "severity": "Severe"
+    },
+    {
+      "type": "Coastal Flood Advisory issued September 30 at 2:02AM PDT until September 30 at 5:00PM PDT by NWS San Diego CA",
       "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Minor"
-    },
-    {
-      "type": "Coastal Flood Advisory issued September 28 at 9:16PM PDT until October 1 at 5:00PM PDT by NWS San Francisco CA",
-      "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
-      "severity": "Minor"
-    },
-    {
-      "type": "High Surf Advisory issued September 28 at 1:28PM PDT until September 29 at 5:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
-      "severity": "Minor"
-    },
-    {
-      "type": "Coastal Flood Advisory issued September 28 at 1:28PM PDT until September 29 at 5:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
       "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-29T18:41+00:00",
-  "lastSuccessfulAt": "2026-09-29T18:41+00:00",
+  "lastAttemptedAt": "2026-09-30T18:28+00:00",
+  "lastSuccessfulAt": "2026-09-30T18:28+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

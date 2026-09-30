@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T18:41+00:00",
+  "lastUpdated": "2026-09-30T18:28+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,29 +14,22 @@
   ],
   "stories": [
     {
-      "title": "How Amazon rethought paper to power a new, more sustainable way of packaging - aboutamazon.com",
-      "source": "aboutamazon.com",
+      "title": "How Amazon rethought paper to power a new, more sustainable way of packaging - About Amazon",
+      "source": "About Amazon",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BaHdNNUFEMFJISWRnNWM1b3FuYTRTYWpLLTAyX3JuY3VXVHo3SU95N09aOHE2VE1Wa2l4WERwNTlGUU1IS0NCRVZhRTBpQjh0WW5FYm1hSGRLenc1VU9hbWxmaTZXRW52azZrZUx4WXltSmhMNVN0NTEydGhLQQ?oc=5",
       "publishedAt": "2026-09-09T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "Clemson scientist aims to give plastic packaging a better end of life - Clemson News",
-      "source": "Clemson News",
+      "title": "Clemson scientist aims to give plastic packaging a better end of life - news.clemson.edu",
+      "source": "news.clemson.edu",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEZ3dGtOTEJKMnFuaGZWQVBzZzdXWlNzai1jUmZCWURqMGFtUW5aR2pFN1J0ZENwLVJzVXBmTkFoMldzWFlYMmkyMmRxclZuanNUZjBEalpUbzl6dzk1cnFnNE5uVXRURHFhZzNwZi04UzJTTkZVZWtWQXI2TURDXzRjaFBhd1NydWlwYm96UkdPZUtCQUNJ?oc=5",
-      "publishedAt": "2026-09-22T12:59+00:00",
+      "publishedAt": "2026-09-22T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "Plasma technology could help plant-based packaging replace plastic - Phys.org",
-      "source": "Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVlXUzlhSnlrcjd3TUdFNmxLeFpMM2RNT1FjOFNMV1ZZbWFzOHpIYmV0bzVRVmxBUUVMSGdKaVJZa21pOWR4VjBUT0NiVklvZlZtT3JGd2ZUaEJtcEZVN0NDMTE1d2FNOERNSS05cDJTZmtKelc1bnN0MjVpMm91SEFn?oc=5",
-      "publishedAt": "2026-09-21T20:40+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Nestl\u00e9 breaks down its path to 2030 for virgin plastic reduction - Packaging Dive",
-      "source": "Packaging Dive",
+      "title": "Nestl\u00e9 breaks down its path to 2030 for virgin plastic reduction - packagingdive.com",
+      "source": "packagingdive.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXBTRkNTUG53NGxEc3k1NkFsN0xyV3ZCYTVNN3hrU1Y4bjNlUGx4bW5XdUVpcGRiYURlNXRKcFNmVTVXaGtNU29DWVJNWkNzY1dCcmU1TFpLNERZckVRRnNIdXV4LV9qb2lSczgyVWFYQXFydTROb0UzT2prMHNQbTh4aGg2VzY0?oc=5",
       "publishedAt": "2026-09-24T16:23+00:00",
       "impact": "Low"
@@ -46,13 +39,6 @@
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHBGLTF1OG0zUUNxVmVHNF8zek8zSmY3Qjg5VThtbVFpUU03VHJERWlLdEpiUE1lQkhBdG55MEk5QTFvaFZJbUN3WHhmMGQxaWZsVk5tUlV1THU4WlhYTlhlZHlBMS1XSVVfNGdvNEdlYkFpWk5OZjF5NVpaeF9lZ3NxZmozQV9iMmd2WUF6MGgwaGE3T0ZpQlRxdm1JZG8?oc=5",
       "publishedAt": "2026-09-25T15:29+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
-      "publishedAt": "2026-09-20T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -68,12 +54,26 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOUNaNm03RjVoaUpRYlhHNERGN0xXVXhIQk1VWmZZZGxLd1NFZ1pTNzFfNlhCZ2VDVnZGbU9aNlZBTmdxM0RKaEEzcFludGRjVktSdWYtZnd2V2JBVkctOWE2cXctTUtucHVMSEZWcXFQQ3FHVDRDZ1l5UGVYTVZBenhlTnk3N25SQmJRT3gyRXFJN3ZkaFZ4aUI2Y0FvNkZjV0Jaa2VZbnR2NHdRUUIyTVNFS0lLc2dGUUxPQ1ZyU3I3TW1pLV9LX2MyQ1RaZGF3aUxr?oc=5",
       "publishedAt": "2026-09-23T13:36+00:00",
       "impact": "High"
+    },
+    {
+      "title": "The PaperFlex Consortium launches to support paper-based flexible packaging innovation - Recycling Today",
+      "source": "Recycling Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0NQQ1cyb2pEcE9QOTBQbzdGbk5yMnM5bV9kSllpWlRDY0U4SlBtdzA2ekNVYTdSSXVJUGJDNC1vWmk1TlN1U05PSEc1WEpXdy0zNjg3Ulk4ZFV3SkxPeG5YODJ5b0cyUldGWTMteThmOHhISDhlSy1XcjlxSEI3VTVZN3pVeGNIUlZLcmRZZVJkNjI0cEgyUzRRR2pyUVV3X1BKZ21YdXJBS1MxRW9tR3JhNlBUdkNCbXFhSnpPdFE?oc=5",
+      "publishedAt": "2026-09-28T19:55+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "The Packaging Industry is Obsessed with the Wrong Thing - Packaging Digest",
+      "source": "Packaging Digest",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdThZWFBLR09FYkRLMkhjM0JMY1FNWG9CUXhBSnNoeXQzcFIzeVVmRGdJTld1anMwZGM1SjhUa1lmNmJTUW9Gb2xIWGhqd2hkWjdFNVQ2Wm4xV1djcmF6SEh2bXVVV0hma2RXTTRzZEtQenEwODFMVVB2a0hpX05aVzhlWGI4SkJsMlY3UmxDZFZoQW5RLWw5OXBqd3hhT2wzV2JOU3Ytaw?oc=5",
+      "publishedAt": "2026-09-29T23:08+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-09-29T18:41+00:00",
-  "lastSuccessfulAt": "2026-09-29T18:41+00:00",
+  "lastAttemptedAt": "2026-09-30T18:28+00:00",
+  "lastSuccessfulAt": "2026-09-30T18:28+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
