@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T18:55+00:00",
+  "lastUpdated": "2026-10-02T18:31+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,31 +14,24 @@
   ],
   "stories": [
     {
-      "title": "Clemson scientist aims to give plastic packaging a better end of life - Clemson News",
-      "source": "Clemson News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEZ3dGtOTEJKMnFuaGZWQVBzZzdXWlNzai1jUmZCWURqMGFtUW5aR2pFN1J0ZENwLVJzVXBmTkFoMldzWFlYMmkyMmRxclZuanNUZjBEalpUbzl6dzk1cnFnNE5uVXRURHFhZzNwZi04UzJTTkZVZWtWQXI2TURDXzRjaFBhd1NydWlwYm96UkdPZUtCQUNJ?oc=5",
-      "publishedAt": "2026-09-22T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "3 Packaging Stocks Worth Watching Despite Industry Pressure - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "title": "3 Packaging Stocks Worth Watching Despite Industry Pressure - Yahoo Finance",
+      "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHBGLTF1OG0zUUNxVmVHNF8zek8zSmY3Qjg5VThtbVFpUU03VHJERWlLdEpiUE1lQkhBdG55MEk5QTFvaFZJbUN3WHhmMGQxaWZsVk5tUlV1THU4WlhYTlhlZHlBMS1XSVVfNGdvNEdlYkFpWk5OZjF5NVpaeF9lZ3NxZmozQV9iMmd2WUF6MGgwaGE3T0ZpQlRxdm1JZG8?oc=5",
       "publishedAt": "2026-09-25T15:29+00:00",
       "impact": "Low"
     },
     {
-      "title": "Nestl\u00e9 breaks down its path to 2030 for virgin plastic reduction - packagingdive.com",
-      "source": "packagingdive.com",
+      "title": "Nestl\u00e9 breaks down its path to 2030 for virgin plastic reduction - Packaging Dive",
+      "source": "Packaging Dive",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXBTRkNTUG53NGxEc3k1NkFsN0xyV3ZCYTVNN3hrU1Y4bjNlUGx4bW5XdUVpcGRiYURlNXRKcFNmVTVXaGtNU29DWVJNWkNzY1dCcmU1TFpLNERZckVRRnNIdXV4LV9qb2lSczgyVWFYQXFydTROb0UzT2prMHNQbTh4aGg2VzY0?oc=5",
-      "publishedAt": "2026-09-24T16:23+00:00",
+      "publishedAt": "2026-09-24T07:00+00:00",
       "impact": "Low"
     },
     {
-      "title": "Kraft Heinz Tackles Small-Plastic Packaging Recovery - Packaging Digest",
-      "source": "Packaging Digest",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk1wbFlnbkJ1ZzVkLXIyZE9uZC15c3BzRDduS2JLOXYzMkhFQVdNZjJSQ0wtOWR1dDN2aGk2Z3lDaGRsUl9DUjRiOXRqdGlZVDF4SlZTNURMT0NuSjRfUUNPMTlpSFVFTTdmVHJtYmZ2bm00enA0b18xSDJIdGlNMzF6NjFqT2VFWUh3cTVFVGl0d1ZJdko2ZjYwV2Joem5n?oc=5",
-      "publishedAt": "2026-09-30T23:27+00:00",
+      "title": "California\u2019s SB 54 Packaging Law: What Businesses Need To Know - Forbes",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzJXS1ZEOEwzV0FqalY2dHRXOXp5ejRjN2JLX1pFanRkSWlTMndLR1BZY2dWdWZBSVlLUHlMNmlYRmdWSk1PVTZkMFJwVFZJYzVzMFczaFN6TGpsTUVUQWl5M2NMWVlySWg3b010d2w2eDk0SFFIenpPaHk2ZVk1MU5OU1QtLTIzSENqSHlZQVlfRzMzT1owTVl3czVoWXNvcTZGUXJ5d0xVeC1mT3pQb1hEOXA2M19RdERxUEhBMWRtNnFsSkJybW1rOEYxQQ?oc=5",
+      "publishedAt": "2026-09-25T12:00+00:00",
       "impact": "Low"
     },
     {
@@ -56,24 +49,31 @@
       "impact": "High"
     },
     {
+      "title": "Kraft Heinz Tackles Small-Plastic Packaging Recovery - Packaging Digest",
+      "source": "Packaging Digest",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk1wbFlnbkJ1ZzVkLXIyZE9uZC15c3BzRDduS2JLOXYzMkhFQVdNZjJSQ0wtOWR1dDN2aGk2Z3lDaGRsUl9DUjRiOXRqdGlZVDF4SlZTNURMT0NuSjRfUUNPMTlpSFVFTTdmVHJtYmZ2bm00enA0b18xSDJIdGlNMzF6NjFqT2VFWUh3cTVFVGl0d1ZJdko2ZjYwV2Joem5n?oc=5",
+      "publishedAt": "2026-09-30T23:27+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "PepsiCo and Procter & Gamble Join Initiative to Replace Nonrecyclable Flexible Plastic Packaging Following Engagement with As You Sow \u2014 As You Sow - As You Sow",
+      "source": "As You Sow",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORXgxdnNNdnBRZXd3aFFtaGdQUkdxVjFEWkV1OGRNeUxwbEFWRzhjRnNDTkVVMjdhLU1UcTc5N0lxN3ZIQ1NXQV9ucWg0RFFKUUVUNWZRVmUtSmxYcldkQTdzU09XU0h5UG5uSVlyUnVhbExuc2EzNUZSUVVCZlhkRlhsTXk1T29NVEhnTEhhV3NkRmFKb2hyM0xzeXB4RWpOTloyM1NEOVFIZDBnMm9FbGZKX3FNWFpuZEd3Z1dhOVlXU3RTN3JQSXRHUHZaOGtTZmlQaDdVMkllMDN1WlhZMFZvZ0p6QUd2REEzR3NkQVdnR1d1d2tJQnFxeHNtX3V5ek1xQUVtajhMWkgtV3JaVDIyUQ?oc=5",
+      "publishedAt": "2026-10-01T19:27+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "Graphic Packaging Holding Company Appoints Aditya Gandhi as Chief Accounting Officer - PR Newswire",
       "source": "PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajdKRGRyM3UwYjJEcTMyY3ZyXzN1RmwzOWo0SnZNVWNJYmVra2YyaFNUcUowTTdsdHVxTHdqWXg5cERJVG9FNDFqMWNkRXRULWFCMGhGUDhnZnl1ckFXVGtBNFhVTXd6Zk15aGI5ajg3NmIzVTdPeHJrZDV6dnQwc0RHX2VOSFhYX0NuT2J1YmZuQzlWbHRnWWdISXptQ0xUUW1sNlpfQ0ZmZjB4VEM0cTFoLWhsU3YtRWliNURtNm0zd3BnTGZOby12UHJXOGRSOUtQY3BEMA?oc=5",
       "publishedAt": "2026-09-28T10:30+00:00",
       "impact": "Low"
-    },
-    {
-      "title": "Paper reveals how thoughtful packaging design can boost recycling and support worker livelihoods in low and middle-income countries \u2013 The Consumer Goods Forum - The Consumer Goods Forum",
-      "source": "The Consumer Goods Forum",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONmM5a2VVZDRkN28tZ0JtVTZjX3lGQ3NjOHhtT0c5SnJOYTF6bUtjNnVUeWh1amE1Y1RROEh6SHVMQjJ4Y2tIcm51b05qaWRzOVpJS2hQdFJvMWM4X0IzLVJ0cW42T0lkQXBBT1ZTVjg5V0s0UUJDLVd5ZWM1V2YybFpTYS1RYi0tOEZ2SWNBRi01b01GWjVua1NUbHYyRFBoZzQ3czF3Q05xVUx4OUF5cll3ZnUxYnZuSFZtdjVYQWtva0MtenFULTJKLXoxLVBaUzVWZTd0Z0xseXI3RDNQdXRUNHBTOGdRTGRNTU9vN2lKbnNNMDNpR2M0aHlLRlk?oc=5",
-      "publishedAt": "2026-09-28T11:47+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-01T18:55+00:00",
-  "lastSuccessfulAt": "2026-10-01T18:55+00:00",
+  "lastAttemptedAt": "2026-10-02T18:31+00:00",
+  "lastSuccessfulAt": "2026-10-02T18:31+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
