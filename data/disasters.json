@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T18:31+00:00",
+  "lastUpdated": "2026-10-05T21:13+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "7 km WNW of Lake Hughes, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "60 km SSE of Denali National Park, Alaska",
+      "region": "32 km SW of Dana Point, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km SE of Tyonek, Alaska",
-      "severity": "Low"
+      "region": "south of the Fiji Islands",
+      "severity": "High"
     },
     {
       "type": "Earthquake",
-      "region": "105 km ENE of Ouzinkie, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "5 km WSW of Volcano, Hawaii",
+      "region": "31 km SW of Dana Point, CA",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "30 km NNW of Valpara\u00edso, Chile",
+      "region": "60 km S of Whites City, New Mexico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "3 km SE of Houston, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "60 km S of Whites City, New Mexico",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "12 km ENE of Metah\u0101ra, Ethiopia",
       "severity": "Medium"
     },
     {
-      "type": "Earthquake",
-      "region": "11 km ENE of P\u0101hala, Hawaii",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Heat Advisory issued October 2 at 11:16AM PDT until October 5 at 10:00PM PDT by NWS San Francisco CA",
-      "region": "North Bay Interior Valleys",
+      "type": "Beach Hazards Statement issued October 5 at 1:33PM PDT until October 9 at 11:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued October 2 at 11:16AM PDT until October 5 at 10:00PM PDT by NWS San Francisco CA",
-      "region": "Sonoma Coastal Range; North Bay Interior Mountains; San Francisco Bay Shoreline; East Bay Interior Valleys; Santa Cruz Mountains; Santa Clara Valley Including San Jose; Eastern Santa Clara Hills; East Bay Hills; Southern Salinas Valley/Arroyo Seco and Lake San Antonio; Santa Lucia Mountains and Los Padres National Forest; Mountains Of San Benito County And Interior Monterey County Including Pinnacles National Park",
+      "type": "Coastal Flood Advisory issued October 5 at 1:33PM PDT until October 9 at 11:00AM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "severity": "Minor"
+    },
+    {
+      "type": "Heat Advisory issued October 5 at 12:49PM PDT until October 7 at 11:00PM PDT by NWS Eureka CA",
+      "region": "Northwestern Interior Mendocino; Northeastern Interior Mendocino; Southwestern Interior Mendocino; Southeastern Interior Mendocino; Northern Lake; Western Lake; Southwestern Lake; Eastern Lake",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Warning issued October 2 at 10:38AM PDT until October 8 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Cuyama Valley; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Santa Ynez Mountains Western Range; Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains; Santa Cruz and Anacapa Islands",
-      "severity": "Severe"
-    },
-    {
-      "type": "Extreme Heat Warning issued October 2 at 10:38AM PDT until October 8 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands; Santa Clarita Valley; Ventura County Beaches; Ventura County Inland Coast; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains; Los Angeles County San Gabriel Valley",
+      "type": "Extreme Heat Watch issued October 5 at 11:38AM MST until October 8 at 8:00PM MST by NWS Phoenix AZ",
+      "region": "Imperial County West; Imperial Valley",
       "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-02T18:31+00:00",
-  "lastSuccessfulAt": "2026-10-02T18:31+00:00",
+  "lastAttemptedAt": "2026-10-05T21:13+00:00",
+  "lastSuccessfulAt": "2026-10-05T21:13+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
