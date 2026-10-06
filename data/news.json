@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T21:14+00:00",
+  "lastUpdated": "2026-10-06T18:56+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -28,13 +28,6 @@
       "impact": "Low"
     },
     {
-      "title": "Plasma Technology Could Help Plant-Based Packaging Replace Plastic - NC State University",
-      "source": "NC State University",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sOFR6OC1mcHg1dlRFZG5ub0R1cGZVblh6NWpVcFdNcXZXVnYyYjRIVTUwYlE5NjBOejk1MTlacF9nNFRHb2xlQ2V5Ml9TNWI1UDgyZkZRV0JscUszODVUSE9TdGV4SFFIenJmRjhXTnN5RlpzdEpxSDJTQmp3UTQ?oc=5",
-      "publishedAt": "2026-09-18T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "The EU\u2019s new packaging rules are a bureaucratic bungle - The Economist",
       "source": "The Economist",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckc4cS13Mk44S0t4aFNFS3Bzb3d3YVhweHJRWkxzU0xvOF9ISFRERzM0TVlyUlRUMFk3LWJTR3R5dGFRWm90TWJ0S0FTelY4bWJBbE03R0pWbXNaWm5mRTY1Q3JQQ0VSSUNxWllpdkRPNV9BM2FMdnFjR3FCVzF0cEF6TTF2YmhmQUJxMGI4NGtPLVItVGJnMHV4al9kUQ?oc=5",
@@ -56,24 +49,31 @@
       "impact": "Medium"
     },
     {
-      "title": "New Platform Automates Plastic Packaging Design Assessment - PlasticsToday",
-      "source": "PlasticsToday",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOci1SQkxQUHhrWi1nNVNqc0R6bjU2cEN5eFFMd3pSQ2lmRGlMMVYzeEJEenpZWUlMbjJXRE0wbjB4cFdkaTlNb2J5cjZwTUgzUlBOazllTHc3T19Oa2RNeFVZSUZodS1jMmQtYWlLR21PSjhaaVFITzc1Q1JIN2VrUnZUYTZTYTJuNVZhcWlGY25hWGgycmNENA?oc=5",
-      "publishedAt": "2026-09-30T18:57+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "PepsiCo and Procter & Gamble Join Initiative to Replace Nonrecyclable Flexible Plastic Packaging Following Engagement with As You Sow \u2014 As You Sow - As You Sow",
       "source": "As You Sow",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORXgxdnNNdnBRZXd3aFFtaGdQUkdxVjFEWkV1OGRNeUxwbEFWRzhjRnNDTkVVMjdhLU1UcTc5N0lxN3ZIQ1NXQV9ucWg0RFFKUUVUNWZRVmUtSmxYcldkQTdzU09XU0h5UG5uSVlyUnVhbExuc2EzNUZSUVVCZlhkRlhsTXk1T29NVEhnTEhhV3NkRmFKb2hyM0xzeXB4RWpOTloyM1NEOVFIZDBnMm9FbGZKX3FNWFpuZEd3Z1dhOVlXU3RTN3JQSXRHUHZaOGtTZmlQaDdVMkllMDN1WlhZMFZvZ0p6QUd2REEzR3NkQVdnR1d1d2tJQnFxeHNtX3V5ek1xQUVtajhMWkgtV3JaVDIyUQ?oc=5",
       "publishedAt": "2026-10-01T19:27+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "Graphic Packaging Holding Company Appoints Aditya Gandhi as Chief Accounting Officer - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajdKRGRyM3UwYjJEcTMyY3ZyXzN1RmwzOWo0SnZNVWNJYmVra2YyaFNUcUowTTdsdHVxTHdqWXg5cERJVG9FNDFqMWNkRXRULWFCMGhGUDhnZnl1ckFXVGtBNFhVTXd6Zk15aGI5ajg3NmIzVTdPeHJrZDV6dnQwc0RHX2VOSFhYX0NuT2J1YmZuQzlWbHRnWWdISXptQ0xUUW1sNlpfQ0ZmZjB4VEM0cTFoLWhsU3YtRWliNURtNm0zd3BnTGZOby12UHJXOGRSOUtQY3BEMA?oc=5",
+      "publishedAt": "2026-09-28T10:30+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "What You Need to Know Ahead of Packaging Corporation\u2019s Earnings Release - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU9nb3VZajZxcjB5enZHQVpwTUViZE5xQ0I0R210LXp2OURSOHBDT0lpTXEwUzZHUDdlSi1CcVVVRFp0OXVTR1FoY25oQmpiZ1pONlljYmVsQ18ycGxQNFZIZElxVkRpZjZLN0NvekxDRDdUUGNrVFFld0NVZk1icEtfRkxMdnk5MjZjQnQtbFNQbS13U2toa00wR2N5YWZremVPYXdHakgzQQ?oc=5",
+      "publishedAt": "2026-10-01T11:23+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-05T21:14+00:00",
-  "lastSuccessfulAt": "2026-10-05T21:14+00:00",
+  "lastAttemptedAt": "2026-10-06T18:56+00:00",
+  "lastSuccessfulAt": "2026-10-06T18:56+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

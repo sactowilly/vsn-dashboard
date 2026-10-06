@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T21:13+00:00",
+  "lastUpdated": "2026-10-06T18:56+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "7 km WNW of Lake Hughes, CA",
+      "region": "6 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "32 km SW of Dana Point, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "south of the Fiji Islands",
+      "region": "92 km NNW of Aleneva, Alaska",
       "severity": "High"
     },
     {
       "type": "Earthquake",
-      "region": "31 km SW of Dana Point, CA",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "60 km S of Whites City, New Mexico",
+      "region": "14 km NW of Parkfield, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SE of Houston, Alaska",
+      "region": "6 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "60 km S of Whites City, New Mexico",
+      "region": "6 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km ENE of Metah\u0101ra, Ethiopia",
-      "severity": "Medium"
+      "region": "46 km ENE of Pedro Bay, Alaska",
+      "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued October 5 at 1:33PM PDT until October 9 at 11:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "type": "Earthquake",
+      "region": "6 km SE of Napa, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "6 km WNW of Cobb, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Heat Advisory issued October 6 at 11:32AM PDT until October 9 at 10:00PM PDT by NWS Sacramento CA",
+      "region": "Western Shasta County Foothills Between 1000-3000 ft; South-Central Shasta County Including Redding Metro; Eastern Shasta County Foothills Between 1000-3000 ft; Sierra Nevada of Tehama-Butte-Plumas Counties Between 1000-3000 ft; Northern Motherlode Between 1000-3000 ft; Central Motherlode Between 1000-3000 ft; Southern Motherlode Between 1000-3000 ft; Western Tehama County Foothills Between 1000-3000 ft; Northern Sacramento Valley in Tehama County; Central Glenn County Including Interstate 5; Eastern Glenn County; Butte County Below 1000 ft; Western Glenn and Colusa County Foothills Between 1000-3000 ft; Central Colusa County Including Interstate 5; Eastern Colusa County; Sutter and Yuba Counties Below 1000 ft; Capay Hills of Yolo County and Vaca Hills of Solano County; Western Yolo County Including Capay Valley and Interstate 505; Central Yolo and Northeast Solano Counties Including Woodland and Davis; Sacramento Metro and Western El Dorado and Amador Counties; Central Solano County Including Fairfield and Vacaville; Southwestern Solano County Including Vallejo; Sacramento County Delta; San Joaquin County Delta; Central San Joaquin County Including Stockton Metro; Tracy Triangle Below 1000 ft; Northeastern San Joaquin Valley Below 1000 ft; Eastern Diablo Range Above 1000 ft; Western Stanislaus County Below 1000 ft Including Interstate 5; Central Stanislaus County Including Modesto Metro",
       "severity": "Moderate"
     },
     {
-      "type": "Coastal Flood Advisory issued October 5 at 1:33PM PDT until October 9 at 11:00AM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Minor"
-    },
-    {
-      "type": "Heat Advisory issued October 5 at 12:49PM PDT until October 7 at 11:00PM PDT by NWS Eureka CA",
+      "type": "Heat Advisory issued October 6 at 11:30AM PDT until October 8 at 11:00PM PDT by NWS Eureka CA",
       "region": "Northwestern Interior Mendocino; Northeastern Interior Mendocino; Southwestern Interior Mendocino; Southeastern Interior Mendocino; Northern Lake; Western Lake; Southwestern Lake; Eastern Lake",
       "severity": "Moderate"
     },
     {
-      "type": "Extreme Heat Watch issued October 5 at 11:38AM MST until October 8 at 8:00PM MST by NWS Phoenix AZ",
+      "type": "Extreme Heat Warning issued October 6 at 9:47AM MST until October 9 at 8:00PM MST by NWS Phoenix AZ",
       "region": "Imperial County West; Imperial Valley",
+      "severity": "Severe"
+    },
+    {
+      "type": "Extreme Heat Warning issued October 6 at 9:47AM MST until October 8 at 8:00PM MST by NWS Phoenix AZ",
+      "region": "Parker Valley; Gila River Valley; Palo Verde Valley; Chuckwalla Valley",
       "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-05T21:13+00:00",
-  "lastSuccessfulAt": "2026-10-05T21:13+00:00",
+  "lastAttemptedAt": "2026-10-06T18:56+00:00",
+  "lastSuccessfulAt": "2026-10-06T18:56+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
