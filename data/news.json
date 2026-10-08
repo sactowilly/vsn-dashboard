@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T18:56+00:00",
+  "lastUpdated": "2026-10-08T19:18+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -13,6 +13,13 @@
     }
   ],
   "stories": [
+    {
+      "title": "How Amazon rethought paper to power a new, more sustainable way of packaging - About Amazon",
+      "source": "About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BaHdNNUFEMFJISWRnNWM1b3FuYTRTYWpLLTAyX3JuY3VXVHo3SU95N09aOHE2VE1Wa2l4WERwNTlGUU1IS0NCRVZhRTBpQjh0WW5FYm1hSGRLenc1VU9hbWxmaTZXRW52azZrZUx4WXltSmhMNVN0NTEydGhLQQ?oc=5",
+      "publishedAt": "2026-09-09T07:00+00:00",
+      "impact": "Low"
+    },
     {
       "title": "Unilever joins consortium to accelerate innovation of paper-based flexible packaging - Unilever Global",
       "source": "Unilever Global",
@@ -28,13 +35,6 @@
       "impact": "Low"
     },
     {
-      "title": "The EU\u2019s new packaging rules are a bureaucratic bungle - The Economist",
-      "source": "The Economist",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckc4cS13Mk44S0t4aFNFS3Bzb3d3YVhweHJRWkxzU0xvOF9ISFRERzM0TVlyUlRUMFk3LWJTR3R5dGFRWm90TWJ0S0FTelY4bWJBbE03R0pWbXNaWm5mRTY1Q3JQQ0VSSUNxWllpdkRPNV9BM2FMdnFjR3FCVzF0cEF6TTF2YmhmQUJxMGI4NGtPLVItVGJnMHV4al9kUQ?oc=5",
-      "publishedAt": "2026-09-24T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Kraft Heinz Tackles Small-Plastic Packaging Recovery - Packaging Digest",
       "source": "Packaging Digest",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk1wbFlnbkJ1ZzVkLXIyZE9uZC15c3BzRDduS2JLOXYzMkhFQVdNZjJSQ0wtOWR1dDN2aGk2Z3lDaGRsUl9DUjRiOXRqdGlZVDF4SlZTNURMT0NuSjRfUUNPMTlpSFVFTTdmVHJtYmZ2bm00enA0b18xSDJIdGlNMzF6NjFqT2VFWUh3cTVFVGl0d1ZJdko2ZjYwV2Joem5n?oc=5",
@@ -42,25 +42,18 @@
       "impact": "Low"
     },
     {
-      "title": "Containerboard Roll Market To 2035: E-Commerce Packaging Demand Drives Growth - News and Statistics - IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnQtTnhNTEhtVjF1S0lyZE9aT0xqZ1A5RWswZjZ6d05CTXVhZHdQdHFHWWp6ZWhyc3lyUmRnN1lNNFRaQjVKTGtZZ1RmMnBYV3pLcU9KSFhRVWlvbkdLRHpCZ1owUU10SVNsVGg1ckFpblN6bHAzcVlmbmRXSDBlS3BNYkVDZ001cm5XSG1WTWwwcHhMSVVDZzViTVFLXzcwa21MUk91VEJLdXhTck1vZTdBQWZROTdu?oc=5",
-      "publishedAt": "2026-10-02T23:16+00:00",
+      "title": "SMA Cuts Packaging Costs 30% to 35% With On-Demand Corrugated Cases - Packaging World",
+      "source": "Packaging World",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1lOS3V3ZVd6M2JiSDlQTEZZQkpUWWJETWxNV21MLTdjR21Ednpjc2VDY2JLOGpnSEJZdHZTWk96Q1pKc3AwS0F5SXhYcG1OZzlPcFRfY2VrQTJ6UTBHWkU4eWdaOUlyekpORGpSbE9kZ1QzN2lGQUNfT3UteVgxOEpUYngzN0Q1N2dvbXpxczR6M2VJMTUyWEFYUFhMSHg2M2NTaXBKZE9KQ0U5dHQ5WjJJZWlTQWZrbzdhTk14U1hXdw?oc=5",
+      "publishedAt": "2026-10-08T14:41+00:00",
       "impact": "Medium"
     },
     {
-      "title": "PepsiCo and Procter & Gamble Join Initiative to Replace Nonrecyclable Flexible Plastic Packaging Following Engagement with As You Sow \u2014 As You Sow - As You Sow",
-      "source": "As You Sow",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORXgxdnNNdnBRZXd3aFFtaGdQUkdxVjFEWkV1OGRNeUxwbEFWRzhjRnNDTkVVMjdhLU1UcTc5N0lxN3ZIQ1NXQV9ucWg0RFFKUUVUNWZRVmUtSmxYcldkQTdzU09XU0h5UG5uSVlyUnVhbExuc2EzNUZSUVVCZlhkRlhsTXk1T29NVEhnTEhhV3NkRmFKb2hyM0xzeXB4RWpOTloyM1NEOVFIZDBnMm9FbGZKX3FNWFpuZEd3Z1dhOVlXU3RTN3JQSXRHUHZaOGtTZmlQaDdVMkllMDN1WlhZMFZvZ0p6QUd2REEzR3NkQVdnR1d1d2tJQnFxeHNtX3V5ek1xQUVtajhMWkgtV3JaVDIyUQ?oc=5",
-      "publishedAt": "2026-10-01T19:27+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Graphic Packaging Holding Company Appoints Aditya Gandhi as Chief Accounting Officer - PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajdKRGRyM3UwYjJEcTMyY3ZyXzN1RmwzOWo0SnZNVWNJYmVra2YyaFNUcUowTTdsdHVxTHdqWXg5cERJVG9FNDFqMWNkRXRULWFCMGhGUDhnZnl1ckFXVGtBNFhVTXd6Zk15aGI5ajg3NmIzVTdPeHJrZDV6dnQwc0RHX2VOSFhYX0NuT2J1YmZuQzlWbHRnWWdISXptQ0xUUW1sNlpfQ0ZmZjB4VEM0cTFoLWhsU3YtRWliNURtNm0zd3BnTGZOby12UHJXOGRSOUtQY3BEMA?oc=5",
-      "publishedAt": "2026-09-28T10:30+00:00",
-      "impact": "Low"
+      "title": "SupplyOne purchases Illinois corrugated packaging manufacturer - Pennsylvania Business Report -",
+      "source": "Pennsylvania Business Report -",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHptdFVOWEJBUUZCSDZ4NElxVFp5TDhKd1h4RE5mSEdWcU9TckVGZ05ZNGZSZXJSR0VEeDNFN3dNMy1MWC1tdzh6TGIyWUR4bGwzWDNPeW1DX3pyVkVXTS1SaWpoOHRGUEd4aEFKM0R1TGpFenU5THpDT0U5U1hNcC1MdUlhVlZ3YzZENUV6Vjkwa1dxWENaYUhqNGFFRXRXbkE?oc=5",
+      "publishedAt": "2026-10-05T19:59+00:00",
+      "impact": "Medium"
     },
     {
       "title": "What You Need to Know Ahead of Packaging Corporation\u2019s Earnings Release - Yahoo Finance",
@@ -68,12 +61,19 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU9nb3VZajZxcjB5enZHQVpwTUViZE5xQ0I0R210LXp2OURSOHBDT0lpTXEwUzZHUDdlSi1CcVVVRFp0OXVTR1FoY25oQmpiZ1pONlljYmVsQ18ycGxQNFZIZElxVkRpZjZLN0NvekxDRDdUUGNrVFFld0NVZk1icEtfRkxMdnk5MjZjQnQtbFNQbS13U2toa00wR2N5YWZremVPYXdHakgzQQ?oc=5",
       "publishedAt": "2026-10-01T11:23+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "Accurate Box Company Adds C Flute to Packaging Capabilities - Paper Industry News",
+      "source": "Paper Industry News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVndpXzBnVVRJQUw5MFRFbmx1bVhES0ZrVVpUZ0pfX3hnb1U2dW9id2lVaGtxblFhaHFpUjhhSEhVM3J2cjBIV01DRXJkd3JTNnFEWjktbzBJckk2a0Rldk1WN1I3UmVFenFwYjNER2owTEJkT25YcGhFQmY4SlVObTZtMWxEdzBmaUkyMElKLWQxTW1oa1lNN092dk5pWm9yaUo4R0lDdUs3WS1k?oc=5",
+      "publishedAt": "2026-10-06T13:16+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-06T18:56+00:00",
-  "lastSuccessfulAt": "2026-10-06T18:56+00:00",
+  "lastAttemptedAt": "2026-10-08T19:18+00:00",
+  "lastSuccessfulAt": "2026-10-08T19:18+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
