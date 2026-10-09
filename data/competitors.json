@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T19:18+00:00",
+  "lastUpdated": "2026-10-09T18:51+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "PCA to close full-line plant in Ohio - Packaging Dive",
@@ -96,7 +96,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "Veritiv launches compact cold chain packaging for pharmaceuticals - Yahoo Finance",
@@ -161,8 +161,14 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
+          {
+            "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
+            "source": "Cleaning & Maintenance Management",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
+            "publishedAt": "2026-10-06T12:24+00:00"
+          },
           {
             "title": "Tillis\u2019 Imperial Brady Leadership Agenda Built on Scale, Speed and Local Service - Total Food Service",
             "source": "Total Food Service",
@@ -173,6 +179,12 @@
         "hiring": [],
         "moves": [],
         "items": [
+          {
+            "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
+            "source": "Cleaning & Maintenance Management",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
+            "publishedAt": "2026-10-06T12:24+00:00"
+          },
           {
             "title": "Tillis\u2019 Imperial Brady Leadership Agenda Built on Scale, Speed and Local Service - Total Food Service",
             "source": "Total Food Service",
@@ -194,7 +206,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
@@ -272,7 +284,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "3 paper packaging CEOs talk market volatility, pricing - Packaging Dive",
@@ -329,7 +341,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - Paper Industry News",
@@ -407,7 +419,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "Smurfit Westrock, Pratt seek investigation into \u2018unfairly traded\u2019 pizza box imports - Packaging Dive",
@@ -464,7 +476,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "Accenture and osapiens Make DS Smith\u2019s Global Supply Chain More Transparent and Ready for Evolving EU Regulation - Business Wire",
@@ -476,13 +488,13 @@
             "title": "DS Smith Taps Accenture and Osapiens for Compliance Tech - WWD",
             "source": "WWD",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGNiMDRHMm5IcjVhbjl3dWwtc3BIWThFZ05pMThyemtTamVjQ0FwdmJ2RzdVbFpIZUlHakxydEVaZEI0M0dXMS1aYWZUaXJpeTFOMWtzOHhtTmxqSjhwN1JuSlhTMXRCb2FxZmx2bWlsNWJsQUR1aElWYWRRY3JhaWFSLUtxQkp2R050T3RSdmt4bktJUy1DM2ZoVjVlWi1rdmMwbg?oc=5",
-            "publishedAt": "2026-09-30T12:05+00:00"
+            "publishedAt": "2026-09-30T07:00+00:00"
           },
           {
-            "title": "DS Smith Builds EUDR Supply Chain Readiness With Accenture and osapiens - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTE2SEpaZktDem1FMXpOUGQ0WWJqdWhDMVNyN1RXVnkweTJwRlN6S09Nd2g2ZVdwcUp5YUpWRlg2RENyVnZnNU1yRkh5Ukd2MU5TNlJieGJmekdDcFNpdlgzWWxEaVhwRzd3YlM2dmo3MUFBRHZQT0hPOGhGczR1RTdFWVNsS1dIMEZTbHlHdGpZcy0yZ25mOXpfMGdBLUViaHRB?oc=5",
-            "publishedAt": "2026-10-01T11:14+00:00"
+            "title": "How Accenture and osapiens Prep DS Smith for EUDR - Supply Chain Digital",
+            "source": "Supply Chain Digital",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzB6WjBqZ2tWSTFyNGE2RjRiMktDNHBJOWVnMkNNTW93bVJsakU0QVBOTl9WdlBnRlBWZ1NWbFBBSk1IT3JVMXM0MlJKSThJN01CdktSSlFROHBzVXpxOXRSOFdibnZFVXA2bnpwZDI4Wm9VYzFMMzZyR0lYWVBUN1hKUzd4UGZ0WW0wM2tB?oc=5",
+            "publishedAt": "2026-09-29T07:00+00:00"
           }
         ],
         "hiring": [
@@ -506,13 +518,13 @@
             "title": "DS Smith Taps Accenture and Osapiens for Compliance Tech - WWD",
             "source": "WWD",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGNiMDRHMm5IcjVhbjl3dWwtc3BIWThFZ05pMThyemtTamVjQ0FwdmJ2RzdVbFpIZUlHakxydEVaZEI0M0dXMS1aYWZUaXJpeTFOMWtzOHhtTmxqSjhwN1JuSlhTMXRCb2FxZmx2bWlsNWJsQUR1aElWYWRRY3JhaWFSLUtxQkp2R050T3RSdmt4bktJUy1DM2ZoVjVlWi1rdmMwbg?oc=5",
-            "publishedAt": "2026-09-30T12:05+00:00"
+            "publishedAt": "2026-09-30T07:00+00:00"
           },
           {
-            "title": "DS Smith Builds EUDR Supply Chain Readiness With Accenture and osapiens - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTE2SEpaZktDem1FMXpOUGQ0WWJqdWhDMVNyN1RXVnkweTJwRlN6S09Nd2g2ZVdwcUp5YUpWRlg2RENyVnZnNU1yRkh5Ukd2MU5TNlJieGJmekdDcFNpdlgzWWxEaVhwRzd3YlM2dmo3MUFBRHZQT0hPOGhGczR1RTdFWVNsS1dIMEZTbHlHdGpZcy0yZ25mOXpfMGdBLUViaHRB?oc=5",
-            "publishedAt": "2026-10-01T11:14+00:00"
+            "title": "How Accenture and osapiens Prep DS Smith for EUDR - Supply Chain Digital",
+            "source": "Supply Chain Digital",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzB6WjBqZ2tWSTFyNGE2RjRiMktDNHBJOWVnMkNNTW93bVJsakU0QVBOTl9WdlBnRlBWZ1NWbFBBSk1IT3JVMXM0MlJKSThJN01CdktSSlFROHBzVXpxOXRSOFdibnZFVXA2bnpwZDI4Wm9VYzFMMzZyR0lYWVBUN1hKUzd4UGZ0WW0wM2tB?oc=5",
+            "publishedAt": "2026-09-29T07:00+00:00"
           }
         ],
         "query": "\"DS Smith\" packaging OR corrugated OR distribution when:30d",
@@ -529,19 +541,19 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
+          {
+            "title": "Downgauged Stretch Films: HCCB Uses 17\u00b5m Nano Cast Film to Reduce Packaging Material - Trend Hunter",
+            "source": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GREhGRU83VGNUdXBmeHgtblpZVnFHY3NibjJEaDVmbnhteHZudkJrenZ5c2ktMTFPNnhraGV4cjBsYm9vZHpsOEpJVlpMZ2NpTHp3ZUx1TmhzSUs2Tk1YYjRSOA?oc=5",
+            "publishedAt": "2026-09-28T07:00+00:00"
+          },
           {
             "title": "Storage Containers for Connectors Market 8.5% CAGR to 2035 on Grid-Scale Battery Storage - News and Statistics - IndexBox",
             "source": "IndexBox",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVlNGpBTmlUMEVSYVZPM0tQRXpTWUxDa3FFWkJtUG5UdWlxT05wOHFmZmRLVlI3QWpUSE9HdW9Cb1pUUVo1Y24yTU9aRU5LZmcyMVEwVFY1b0hZYkd6VTdRd1JxaHlqb3IyYVlRamRSYk90d0RNNzFDZ0d3SmVoN3h6M2RscHdmVVFTdlZNS1Vaa09iVVAzZ01Za1gzWXB6YUVIT09TVi1uMFE4blh5bnlFd3FfTlhabXBSLTdBUTl0WUE?oc=5",
             "publishedAt": "2026-10-08T10:06+00:00"
-          },
-          {
-            "title": "Italian sounding: Asiago beats Citterio - EFA News - European Food Agency",
-            "source": "EFA News - European Food Agency",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblFwVGtLb01rWW9ZNEV6YTd3R1BKVE1yaTR5RE9UbEdIV2VjY1VTTHlpRVBPOW5JN0NHaTdRVTN5bjBzblo0azFROWlFaGNEWjQ0cThsamtzQnFXY2tHZmdFRHIwSE5KRGoxWGRrLVZHak85QlpBVWRVcl8zblhMTUJLSFhRWVk?oc=5",
-            "publishedAt": "2026-10-06T10:10+00:00"
           },
           {
             "title": "64 GB for 300 Euros? How a Used RAM Kit Can Turn Out to Be a Sham - igor\u00b4sLAB",
@@ -554,16 +566,16 @@
         "moves": [],
         "items": [
           {
+            "title": "Downgauged Stretch Films: HCCB Uses 17\u00b5m Nano Cast Film to Reduce Packaging Material - Trend Hunter",
+            "source": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GREhGRU83VGNUdXBmeHgtblpZVnFHY3NibjJEaDVmbnhteHZudkJrenZ5c2ktMTFPNnhraGV4cjBsYm9vZHpsOEpJVlpMZ2NpTHp3ZUx1TmhzSUs2Tk1YYjRSOA?oc=5",
+            "publishedAt": "2026-09-28T07:00+00:00"
+          },
+          {
             "title": "Storage Containers for Connectors Market 8.5% CAGR to 2035 on Grid-Scale Battery Storage - News and Statistics - IndexBox",
             "source": "IndexBox",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVlNGpBTmlUMEVSYVZPM0tQRXpTWUxDa3FFWkJtUG5UdWlxT05wOHFmZmRLVlI3QWpUSE9HdW9Cb1pUUVo1Y24yTU9aRU5LZmcyMVEwVFY1b0hZYkd6VTdRd1JxaHlqb3IyYVlRamRSYk90d0RNNzFDZ0d3SmVoN3h6M2RscHdmVVFTdlZNS1Vaa09iVVAzZ01Za1gzWXB6YUVIT09TVi1uMFE4blh5bnlFd3FfTlhabXBSLTdBUTl0WUE?oc=5",
             "publishedAt": "2026-10-08T10:06+00:00"
-          },
-          {
-            "title": "Italian sounding: Asiago beats Citterio - EFA News - European Food Agency",
-            "source": "EFA News - European Food Agency",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblFwVGtLb01rWW9ZNEV6YTd3R1BKVE1yaTR5RE9UbEdIV2VjY1VTTHlpRVBPOW5JN0NHaTdRVTN5bjBzblo0azFROWlFaGNEWjQ0cThsamtzQnFXY2tHZmdFRHIwSE5KRGoxWGRrLVZHak85QlpBVWRVcl8zblhMTUJLSFhRWVk?oc=5",
-            "publishedAt": "2026-10-06T10:10+00:00"
           },
           {
             "title": "64 GB for 300 Euros? How a Used RAM Kit Can Turn Out to Be a Sham - igor\u00b4sLAB",
@@ -586,7 +598,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "Berlin Packaging Turns Sustainability Ambition into Action Through Innovation, Circularity, and Collaboration - PR Newswire",
@@ -601,10 +613,10 @@
             "publishedAt": "2026-09-29T14:00+00:00"
           },
           {
-            "title": "Italy's Brivaplast Exhibited at MakeUp in New York - Beauty Packaging",
-            "source": "Beauty Packaging",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjB5VmNaN1dxb2hnOVJCbEZNcGZHQ3RhbkZNUHpaUklFNHg4azM5NDZXU2tuOGE1UlA4OW5kc011aGhsclo2Rlh4WHZyelVLSGJnbXE0Z2trbXNBT01QdmdpenRKeEo0empDTWQ3NXN1bGRXTXZkYlJFRW1YdFRPdGJtcGRlTGJ0TGxsejNrN25XNGpMQUtVWHZTekRrV2s?oc=5",
-            "publishedAt": "2026-09-28T18:50+00:00"
+            "title": "Live at E-comm Pkg & Label Expo: How Harry's & Glossier Moved from D2C to Retail - Packaging World",
+            "source": "Packaging World",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBrNWRBZ2ptdmtaX21oZ3hhbmJXTUppbzZKQVNfSnc4eUNpMjI1YjE2RVJuRTVjdlJZWVVGb3l4aXhxUXI0V3RMeXFrUlp2QUlNWXJ5RWphTUFMUHpTYm53dmV2ZFR5dEFrdFctc3BZR042ZHZqTlU5OFNfUmphcVVFaVE2THBEajJicmVBWkhjU1dudDFETEI5UEJJa3haQ2lLUDlka1NFMENJY3VpbWFsNnRSa29GUzVCa2hrTQ?oc=5",
+            "publishedAt": "2026-10-02T21:25+00:00"
           }
         ],
         "hiring": [],
@@ -623,10 +635,10 @@
             "publishedAt": "2026-09-29T14:00+00:00"
           },
           {
-            "title": "Italy's Brivaplast Exhibited at MakeUp in New York - Beauty Packaging",
-            "source": "Beauty Packaging",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjB5VmNaN1dxb2hnOVJCbEZNcGZHQ3RhbkZNUHpaUklFNHg4azM5NDZXU2tuOGE1UlA4OW5kc011aGhsclo2Rlh4WHZyelVLSGJnbXE0Z2trbXNBT01QdmdpenRKeEo0empDTWQ3NXN1bGRXTXZkYlJFRW1YdFRPdGJtcGRlTGJ0TGxsejNrN25XNGpMQUtVWHZTekRrV2s?oc=5",
-            "publishedAt": "2026-09-28T18:50+00:00"
+            "title": "Live at E-comm Pkg & Label Expo: How Harry's & Glossier Moved from D2C to Retail - Packaging World",
+            "source": "Packaging World",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBrNWRBZ2ptdmtaX21oZ3hhbmJXTUppbzZKQVNfSnc4eUNpMjI1YjE2RVJuRTVjdlJZWVVGb3l4aXhxUXI0V3RMeXFrUlp2QUlNWXJ5RWphTUFMUHpTYm53dmV2ZFR5dEFrdFctc3BZR042ZHZqTlU5OFNfUmphcVVFaVE2THBEajJicmVBWkhjU1dudDFETEI5UEJJa3haQ2lLUDlka1NFMENJY3VpbWFsNnRSa29GUzVCa2hrTQ?oc=5",
+            "publishedAt": "2026-10-02T21:25+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -643,7 +655,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - PR Newswire",
@@ -719,8 +731,20 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [
+          {
+            "title": "After Brief Break, Hannah Bell, Performance Vehicle Works Racing Back in Action at Tri-County Speedway - Catchfence",
+            "source": "Catchfence",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQW9zWXUzY3M5a1BoNWRFbTFFOEJLYzEtQ1RrX0pramU4QldjeENQMTZTWWhmQzZHTEVNZEJGaFV0ZFB6SmtTY2RLc0ZRVnhWa01lWXYzeGl2OWVFTjdPYU1ta2IzUkpnNDVURDYwb1JqSlhEMC1sdDd3aU1QTm9IZkdNMVZrTUNkQ3c1MGNzdXpjTlpKdWc1OGh0X0FLMVAxdGh1cXJ5MnlFRkw1dEQzTk5DaFRCRnNRM01ZT0JHN0g2OXRONzBmemt0UUpTY19oUDR0RnJUZWtYRlJmU29ublZzV21yZndkbXRNUXV5MXJhQmFJcXNERXZweEdMelhT?oc=5",
+            "publishedAt": "2026-10-09T00:01+00:00"
+          },
+          {
+            "title": "Paul A. Hadley Obituary (2026) - Aloha, OR - Springer and Son - Aloha Funeral Home & Crematory - Legacy | Obituary",
+            "source": "Legacy | Obituary",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnREV4Q2QtekdPeS0ybm1PVmRGRi1RQ3U3YXRHdzNOSVM2cmlRYmFXR2tTN1FHeEJBUWZhcGhhWjJWU1BRMWRUaVZha1hrRXZrUTBETVAybUFpNzJUNUtNTC15RmlBcnVITDBpUE5wMkc1eU1JTVRZMzZVdEUtVWM?oc=5",
+            "publishedAt": "2026-10-08T18:56+00:00"
+          },
           {
             "title": "Versatile Sam Corry Ready for Performance Vehicle Works Racing Late Model Debut at Hickory Motor Speedway - Catchfence",
             "source": "Catchfence",
@@ -740,6 +764,18 @@
         ],
         "moves": [],
         "items": [
+          {
+            "title": "After Brief Break, Hannah Bell, Performance Vehicle Works Racing Back in Action at Tri-County Speedway - Catchfence",
+            "source": "Catchfence",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQW9zWXUzY3M5a1BoNWRFbTFFOEJLYzEtQ1RrX0pramU4QldjeENQMTZTWWhmQzZHTEVNZEJGaFV0ZFB6SmtTY2RLc0ZRVnhWa01lWXYzeGl2OWVFTjdPYU1ta2IzUkpnNDVURDYwb1JqSlhEMC1sdDd3aU1QTm9IZkdNMVZrTUNkQ3c1MGNzdXpjTlpKdWc1OGh0X0FLMVAxdGh1cXJ5MnlFRkw1dEQzTk5DaFRCRnNRM01ZT0JHN0g2OXRONzBmemt0UUpTY19oUDR0RnJUZWtYRlJmU29ublZzV21yZndkbXRNUXV5MXJhQmFJcXNERXZweEdMelhT?oc=5",
+            "publishedAt": "2026-10-09T00:01+00:00"
+          },
+          {
+            "title": "Paul A. Hadley Obituary (2026) - Aloha, OR - Springer and Son - Aloha Funeral Home & Crematory - Legacy | Obituary",
+            "source": "Legacy | Obituary",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnREV4Q2QtekdPeS0ybm1PVmRGRi1RQ3U3YXRHdzNOSVM2cmlRYmFXR2tTN1FHeEJBUWZhcGhhWjJWU1BRMWRUaVZha1hrRXZrUTBETVAybUFpNzJUNUtNTC15RmlBcnVITDBpUE5wMkc1eU1JTVRZMzZVdEUtVWM?oc=5",
+            "publishedAt": "2026-10-08T18:56+00:00"
+          },
           {
             "title": "Versatile Sam Corry Ready for Performance Vehicle Works Racing Late Model Debut at Hickory Motor Speedway - Catchfence",
             "source": "Catchfence",
@@ -761,7 +797,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [],
         "hiring": [
           {
@@ -788,7 +824,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-08T19:18+00:00",
+        "lastUpdated": "2026-10-09T18:51+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -800,8 +836,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-08T19:18+00:00",
-  "lastSuccessfulAt": "2026-10-08T19:18+00:00",
+  "lastAttemptedAt": "2026-10-09T18:51+00:00",
+  "lastSuccessfulAt": "2026-10-09T18:51+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T19:18+00:00",
+  "lastUpdated": "2026-10-09T18:51+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -13,13 +13,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "How Amazon rethought paper to power a new, more sustainable way of packaging - About Amazon",
-      "source": "About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BaHdNNUFEMFJISWRnNWM1b3FuYTRTYWpLLTAyX3JuY3VXVHo3SU95N09aOHE2VE1Wa2l4WERwNTlGUU1IS0NCRVZhRTBpQjh0WW5FYm1hSGRLenc1VU9hbWxmaTZXRW52azZrZUx4WXltSmhMNVN0NTEydGhLQQ?oc=5",
-      "publishedAt": "2026-09-09T07:00+00:00",
-      "impact": "Low"
-    },
     {
       "title": "Unilever joins consortium to accelerate innovation of paper-based flexible packaging - Unilever Global",
       "source": "Unilever Global",
@@ -35,13 +28,6 @@
       "impact": "Low"
     },
     {
-      "title": "Kraft Heinz Tackles Small-Plastic Packaging Recovery - Packaging Digest",
-      "source": "Packaging Digest",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk1wbFlnbkJ1ZzVkLXIyZE9uZC15c3BzRDduS2JLOXYzMkhFQVdNZjJSQ0wtOWR1dDN2aGk2Z3lDaGRsUl9DUjRiOXRqdGlZVDF4SlZTNURMT0NuSjRfUUNPMTlpSFVFTTdmVHJtYmZ2bm00enA0b18xSDJIdGlNMzF6NjFqT2VFWUh3cTVFVGl0d1ZJdko2ZjYwV2Joem5n?oc=5",
-      "publishedAt": "2026-09-30T23:27+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "SMA Cuts Packaging Costs 30% to 35% With On-Demand Corrugated Cases - Packaging World",
       "source": "Packaging World",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1lOS3V3ZVd6M2JiSDlQTEZZQkpUWWJETWxNV21MLTdjR21Ednpjc2VDY2JLOGpnSEJZdHZTWk96Q1pKc3AwS0F5SXhYcG1OZzlPcFRfY2VrQTJ6UTBHWkU4eWdaOUlyekpORGpSbE9kZ1QzN2lGQUNfT3UteVgxOEpUYngzN0Q1N2dvbXpxczR6M2VJMTUyWEFYUFhMSHg2M2NTaXBKZE9KQ0U5dHQ5WjJJZWlTQWZrbzdhTk14U1hXdw?oc=5",
@@ -49,18 +35,32 @@
       "impact": "Medium"
     },
     {
+      "title": "Commentary: The future of packaging is circular - Recycling Today",
+      "source": "Recycling Today",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2g5TGVIaW5aN0g4NGo2TUZFM3BzeHh0VGZ1Z1NQbzlFTFRqblBuSmFEVmh2WXJLTEFLNG0tRE05Vm9RNG9WVm9MTG1saHM2N1ZnNnYtVGJodVFhLVkzdkJWM0liRGtoWUd5ZjlTY2lUQ3A3Y3VWZmVvdTU4RWRWU1IyZnh1RUI3eXhr?oc=5",
+      "publishedAt": "2026-10-08T20:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "In-mold Labeled Plastic Packaging Market (2026 - 2033) - Grand View Research",
+      "source": "Grand View Research",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUFVVUpUVzNGWVphbUw2cUZOZ2thdnhUamJoM2tlVFVxY2U0ZUItdmJfRVRNbDU1NVVBTmh5SExpcXBNV3dad0pCRXRydlVBcldqaWVkb2RnenRPRXg0aXZ0d0N0cFFINGtQejZkWW4tMVlRa09zLWJuM2V1dnA2a18xVGtEeHRrZ1AzWTRYRkVpUG9PZDZ6dHJSdHlNUnZK?oc=5",
+      "publishedAt": "2026-10-09T06:19+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "AWA bringing insight, data to label and packaging industry with two events - Label and Narrow Web",
+      "source": "Label and Narrow Web",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1c5a1JoNUVRUmdReFlFVmF2ckc5Y2JvYVBlRGV5Z0ZhT0tuWkNOa05IZlBjNVVCdFZPaURsWC1NN3N3anFNREtZOEMxYTFxZUtPRVJDVUZoclczZ1JxZ2FCLWNQS29nd2N6RUszblJPWVE3dTNibVpxWC1uZFRQY3hkREN0cmFRWEp5NzhEZGNURUsyZVRYR0FuRHVSV0ZoWjlVamxHd1IyaGtzOWpIZjNINUZ6TkVHeElz?oc=5",
+      "publishedAt": "2026-10-08T13:45+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "SupplyOne purchases Illinois corrugated packaging manufacturer - Pennsylvania Business Report -",
       "source": "Pennsylvania Business Report -",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHptdFVOWEJBUUZCSDZ4NElxVFp5TDhKd1h4RE5mSEdWcU9TckVGZ05ZNGZSZXJSR0VEeDNFN3dNMy1MWC1tdzh6TGIyWUR4bGwzWDNPeW1DX3pyVkVXTS1SaWpoOHRGUEd4aEFKM0R1TGpFenU5THpDT0U5U1hNcC1MdUlhVlZ3YzZENUV6Vjkwa1dxWENaYUhqNGFFRXRXbkE?oc=5",
       "publishedAt": "2026-10-05T19:59+00:00",
       "impact": "Medium"
-    },
-    {
-      "title": "What You Need to Know Ahead of Packaging Corporation\u2019s Earnings Release - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU9nb3VZajZxcjB5enZHQVpwTUViZE5xQ0I0R210LXp2OURSOHBDT0lpTXEwUzZHUDdlSi1CcVVVRFp0OXVTR1FoY25oQmpiZ1pONlljYmVsQ18ycGxQNFZIZElxVkRpZjZLN0NvekxDRDdUUGNrVFFld0NVZk1icEtfRkxMdnk5MjZjQnQtbFNQbS13U2toa00wR2N5YWZremVPYXdHakgzQQ?oc=5",
-      "publishedAt": "2026-10-01T11:23+00:00",
-      "impact": "Low"
     },
     {
       "title": "Accurate Box Company Adds C Flute to Packaging Capabilities - Paper Industry News",
@@ -72,8 +72,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-08T19:18+00:00",
-  "lastSuccessfulAt": "2026-10-08T19:18+00:00",
+  "lastAttemptedAt": "2026-10-09T18:51+00:00",
+  "lastSuccessfulAt": "2026-10-09T18:51+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

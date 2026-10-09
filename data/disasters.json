@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T19:18+00:00",
+  "lastUpdated": "2026-10-09T18:51+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km WNW of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "4 km WNW of Diamond Ridge, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "13 km SE of Tehachapi, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "72 km SE of Chignik, Alaska",
+      "region": "28 km WNW of Nikiski, Alaska",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "2 km ESE of Mountain View Acres, CA",
+      "region": "1 km S of El Cacao, Panama",
+      "severity": "High"
+    },
+    {
+      "type": "Earthquake",
+      "region": "17 km NNE of Indian Springs, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km NE of Little Lake, CA",
+      "region": "22 km NW of Parkfield, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km NNW of The Geysers, CA",
+      "region": "3 km SW of Bajo Corral, Panama",
+      "severity": "High"
+    },
+    {
+      "type": "Earthquake",
+      "region": "15 km ENE of Honaunau-Napoopoo, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NW of The Geysers, CA",
+      "region": "12 km WSW of Pitaloza Arriba, Panama",
+      "severity": "High"
+    },
+    {
+      "type": "Earthquake",
+      "region": "16 km NE of Valdez, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Lake Wind Advisory issued October 8 at 11:45AM PDT until October 10 at 11:00PM PDT by NWS Reno NV",
-      "region": "Mono; Mineral and Southern Lyon Counties",
-      "severity": "Moderate"
+      "type": "Red Flag Warning issued October 9 at 11:23AM PDT until October 10 at 9:00PM PDT by NWS Reno NV",
+      "region": "Southern Mono County; Northern Sierra Front - Carson City/Douglas/Storey/Southern Washoe/Eastern Lyon/Far Southern Lassen Counties; Southern Sierra Front - Alpine/Northern Mono/Southern Lyon/Western Mineral Counties; West Humboldt Basin - Pershing County; Lahontan Basin - Churchill and Eastern Mineral Counties",
+      "severity": "Severe"
     },
     {
-      "type": "Lake Wind Advisory issued October 8 at 11:45AM PDT until October 10 at 11:00PM PDT by NWS Reno NV",
-      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area; Greater Reno-Carson City-Minden Area; Western Nevada Basin and Range including Pyramid Lake",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Red Flag Warning issued October 8 at 11:40AM PDT until October 9 at 9:00PM PDT by NWS Reno NV",
+      "type": "Red Flag Warning issued October 9 at 11:23AM PDT until October 9 at 9:00PM PDT by NWS Reno NV",
       "region": "Surprise Valley California; Eastern Lassen County; Northern Washoe County",
       "severity": "Severe"
     },
     {
-      "type": "Fire Weather Watch issued October 8 at 11:40AM PDT until October 10 at 9:00PM PDT by NWS Reno NV",
-      "region": "Southern Mono County; Northern Sierra Front - Carson City/Douglas/Storey/Southern Washoe/Eastern Lyon/Far Southern Lassen Counties; Southern Sierra Front - Alpine/Northern Mono/Southern Lyon/Western Mineral Counties; West Humboldt Basin - Pershing County; Lahontan Basin - Churchill and Eastern Mineral Counties",
-      "severity": "Severe"
+      "type": "Lake Wind Advisory issued October 9 at 9:37AM PDT until October 11 at 11:00PM PDT by NWS Hanford CA",
+      "region": "West Side Mountains north of 198",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued October 9 at 9:05AM PDT until October 10 at 7:00AM PDT by NWS Sacramento CA",
+      "region": "Central Solano County Including Fairfield and Vacaville; Southwestern Solano County Including Vallejo",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-08T19:18+00:00",
-  "lastSuccessfulAt": "2026-10-08T19:18+00:00",
+  "lastAttemptedAt": "2026-10-09T18:51+00:00",
+  "lastSuccessfulAt": "2026-10-09T18:51+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
