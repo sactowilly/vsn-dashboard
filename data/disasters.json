@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T18:51+00:00",
+  "lastUpdated": "2026-10-12T21:46+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "28 km WNW of Nikiski, Alaska",
+      "region": "33 km NW of Skwentna, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "7 km SW of Volcano, Hawaii",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "7 km SW of Volcano, Hawaii",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "3 km SSW of P\u0101hala, Hawaii",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "16 km NNW of Dixon Lane-Meadow Creek, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "3 km SSW of P\u0101hala, Hawaii",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "25 km W of R\u00edo Grande, Panama",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "1 km S of El Cacao, Panama",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "17 km NNE of Indian Springs, Nevada",
+      "region": "4 km SW of Winchester, CA",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "22 km NW of Parkfield, CA",
-      "severity": "Low"
+      "type": "Flood Advisory issued October 12 at 1:57PM PDT until October 12 at 3:45PM PDT by NWS Las Vegas NV",
+      "region": "San Bernardino, CA; Clark, NV",
+      "severity": "Minor"
     },
     {
-      "type": "Earthquake",
-      "region": "3 km SW of Bajo Corral, Panama",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "15 km ENE of Honaunau-Napoopoo, Hawaii",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "12 km WSW of Pitaloza Arriba, Panama",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "16 km NE of Valdez, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Red Flag Warning issued October 9 at 11:23AM PDT until October 10 at 9:00PM PDT by NWS Reno NV",
-      "region": "Southern Mono County; Northern Sierra Front - Carson City/Douglas/Storey/Southern Washoe/Eastern Lyon/Far Southern Lassen Counties; Southern Sierra Front - Alpine/Northern Mono/Southern Lyon/Western Mineral Counties; West Humboldt Basin - Pershing County; Lahontan Basin - Churchill and Eastern Mineral Counties",
-      "severity": "Severe"
-    },
-    {
-      "type": "Red Flag Warning issued October 9 at 11:23AM PDT until October 9 at 9:00PM PDT by NWS Reno NV",
-      "region": "Surprise Valley California; Eastern Lassen County; Northern Washoe County",
-      "severity": "Severe"
-    },
-    {
-      "type": "Lake Wind Advisory issued October 9 at 9:37AM PDT until October 11 at 11:00PM PDT by NWS Hanford CA",
-      "region": "West Side Mountains north of 198",
+      "type": "Beach Hazards Statement issued October 12 at 1:04PM PDT until October 13 at 5:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Malibu Coast; Los Angeles County Beaches",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued October 9 at 9:05AM PDT until October 10 at 7:00AM PDT by NWS Sacramento CA",
-      "region": "Central Solano County Including Fairfield and Vacaville; Southwestern Solano County Including Vallejo",
+      "type": "Coastal Flood Advisory issued October 12 at 1:04PM PDT until October 13 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Malibu Coast; Los Angeles County Beaches",
+      "severity": "Minor"
+    },
+    {
+      "type": "Beach Hazards Statement issued October 12 at 1:04PM PDT until October 13 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-09T18:51+00:00",
-  "lastSuccessfulAt": "2026-10-09T18:51+00:00",
+  "lastAttemptedAt": "2026-10-12T21:46+00:00",
+  "lastSuccessfulAt": "2026-10-12T21:46+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
