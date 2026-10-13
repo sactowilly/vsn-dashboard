@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T21:46+00:00",
+  "lastUpdated": "2026-10-13T19:53+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "PCA to close full-line plant in Ohio - Packaging Dive",
@@ -96,7 +96,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Veritiv launches compact cold chain packaging for pharmaceuticals - Yahoo Finance",
@@ -161,7 +161,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
@@ -206,7 +206,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
@@ -278,14 +278,8 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
-          {
-            "title": "International Paper CEO to Speak at Baird 2026 Global Industrial Conference - PR Newswire",
-            "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGNWbklBS1J3ZHZaQWV1STgxRjF6LWxBTkp6a0hFcERTSm5leWVZdnEycndlSnZIaHNZc0d3RktvcVozcmtNeTdtWk1PMWRSMGZNQ1JpRTQ4SzkyZW1FT1NET0RwQ2FESE5qMjNva1ZFcEdycmZ6cHVoNWZGT0hsTnhIcW5GMnVBN1NfYlYtT1hZSHJtNWVBdTlUQjM2ZVJ2MDA4NVBzM25UUEJndDVpdE1JSk83aE50ang0ZzVkMlUyZWlSVkNFUTVxdw?oc=5",
-            "publishedAt": "2026-09-25T07:00+00:00"
-          },
           {
             "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
             "source": "Sustainability Magazine",
@@ -297,18 +291,18 @@
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRERnZ1BEWWVXVjBrU21FT3NnT09MbVpaQVZ1QzVvRy1aQjVwZWVzS0NwUHgwOHR2THBJam5uSUpBa0NHbmd1SV9ETU1PaFQwMUlnczdxWjZ0SDZsakJta0JrdGJWdnFwTUw0dHBWNHFNUm9Pcmxwd01xY0VrTWJIV0lUWC01dnlOOEo0QnQ2MGVzVjFvX2FmLXhHdE5oQU00aDFETHpUOA?oc=5",
             "publishedAt": "2026-09-28T07:00+00:00"
+          },
+          {
+            "title": "International Paper Company (di) (IPC) Share Price, Stock Value, News & Analysis $IPC - MarketBeat",
+            "source": "MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqdjJjUy04eVJnVGdiR1p6QW1lejJsSWNNRk02MXhuTHdNZG1CeVpWUEFLNmxhWU9JS0tnbUZyb0s2aDd1OE14LVA2QXd6d2VyblM5Mg?oc=5",
+            "publishedAt": "2026-10-08T10:19+00:00"
           }
         ],
         "hiring": [],
         "moves": [],
         "items": [
           {
-            "title": "International Paper CEO to Speak at Baird 2026 Global Industrial Conference - PR Newswire",
-            "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGNWbklBS1J3ZHZaQWV1STgxRjF6LWxBTkp6a0hFcERTSm5leWVZdnEycndlSnZIaHNZc0d3RktvcVozcmtNeTdtWk1PMWRSMGZNQ1JpRTQ4SzkyZW1FT1NET0RwQ2FESE5qMjNva1ZFcEdycmZ6cHVoNWZGT0hsTnhIcW5GMnVBN1NfYlYtT1hZSHJtNWVBdTlUQjM2ZVJ2MDA4NVBzM25UUEJndDVpdE1JSk83aE50ang0ZzVkMlUyZWlSVkNFUTVxdw?oc=5",
-            "publishedAt": "2026-09-25T07:00+00:00"
-          },
-          {
             "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
             "source": "Sustainability Magazine",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
@@ -319,6 +313,12 @@
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRERnZ1BEWWVXVjBrU21FT3NnT09MbVpaQVZ1QzVvRy1aQjVwZWVzS0NwUHgwOHR2THBJam5uSUpBa0NHbmd1SV9ETU1PaFQwMUlnczdxWjZ0SDZsakJta0JrdGJWdnFwTUw0dHBWNHFNUm9Pcmxwd01xY0VrTWJIV0lUWC01dnlOOEo0QnQ2MGVzVjFvX2FmLXhHdE5oQU00aDFETHpUOA?oc=5",
             "publishedAt": "2026-09-28T07:00+00:00"
+          },
+          {
+            "title": "International Paper Company (di) (IPC) Share Price, Stock Value, News & Analysis $IPC - MarketBeat",
+            "source": "MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqdjJjUy04eVJnVGdiR1p6QW1lejJsSWNNRk02MXhuTHdNZG1CeVpWUEFLNmxhWU9JS0tnbUZyb0s2aDd1OE14LVA2QXd6d2VyblM5Mg?oc=5",
+            "publishedAt": "2026-10-08T10:19+00:00"
           }
         ],
         "query": "\"International Paper\" packaging OR corrugated OR distribution when:30d",
@@ -335,7 +335,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - Paper Industry News",
@@ -413,7 +413,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Smurfit Westrock to acquire CMPC\u2019s Chilean packaging assets - Yahoo Finance",
@@ -470,7 +470,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Accenture and osapiens Make DS Smith\u2019s Global Supply Chain More Transparent and Ready for Evolving EU Regulation - Business Wire",
@@ -535,7 +535,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Downgauged Stretch Films: HCCB Uses 17\u00b5m Nano Cast Film to Reduce Packaging Material - Trend Hunter",
@@ -592,7 +592,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Berlin Packaging Turns Sustainability Ambition into Action Through Innovation, Circularity, and Collaboration - PR Newswire",
@@ -601,20 +601,27 @@
             "publishedAt": "2026-09-17T07:00+00:00"
           },
           {
-            "title": "Berlin Packaging and ININUM Win Formes de Luxe Award for Beauty Tech Innovation - thejewishnews.com",
-            "source": "thejewishnews.com",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeWk1bXNnR2xROElaNFZpY2lUcU1wQkVOUnJwS1JGQlhrTXRzempUdkh0THFnV0VRVHBoMF9Md2k0TG9nWno5OTVlaFpHbGFrUXV1WUtMY0d5Y012RVZXZmdTd3QySFZqT1BIWkRsOUhMcVlSSHVTSHEta19CSVloRFY5TElzNHVUQ1UzUERVT3BXOG50b1RCMXU1TGtTd3ZKbXFpTUlXLS1YenVQbG83Um12UEdPcnlUXzNpelNHcXN0LW9kWm1FUDczck9iUVhTY1ZOcWYxTmxGWEtFcVBRTVh0ZDJJWG91bVlaa1I0T3Nvb3dSVWFoU2UtMXA4dnNmbVF1MjJKRVNicUo1enRnOTg0NktEY0h0dnc?oc=5",
-            "publishedAt": "2026-09-29T14:00+00:00"
+            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
+            "publishedAt": "2026-10-13T10:55+00:00"
           },
           {
-            "title": "Live at E-comm Pkg & Label Expo: How Harry's & Glossier Moved from D2C to Retail - Packaging World",
-            "source": "Packaging World",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBrNWRBZ2ptdmtaX21oZ3hhbmJXTUppbzZKQVNfSnc4eUNpMjI1YjE2RVJuRTVjdlJZWVVGb3l4aXhxUXI0V3RMeXFrUlp2QUlNWXJ5RWphTUFMUHpTYm53dmV2ZFR5dEFrdFctc3BZR042ZHZqTlU5OFNfUmphcVVFaVE2THBEajJicmVBWkhjU1dudDFETEI5UEJJa3haQ2lLUDlka1NFMENJY3VpbWFsNnRSa29GUzVCa2hrTQ?oc=5",
-            "publishedAt": "2026-10-02T21:25+00:00"
+            "title": "Perfume and AI: Berlin Packaging and Ininum win award at Luxe Pack Monaco - Premium Beauty News",
+            "source": "Premium Beauty News",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yN2x0azlJOUdoNXdGVVFaVUtIenNVR2owenliZlY1TUIwa0p2MVJmTFEtU0RvcW92QkVPN0RoRnYtRjdpZVF0VmZsbUFUd3k1bzQtcTdvaWpvSEMxdFZmWUVYOVg0ZC1FNHlLTVhYMmRNZi1SemVxY3JLYm8zM2s?oc=5",
+            "publishedAt": "2026-10-13T03:09+00:00"
           }
         ],
         "hiring": [],
-        "moves": [],
+        "moves": [
+          {
+            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
+            "publishedAt": "2026-10-13T10:55+00:00"
+          }
+        ],
         "items": [
           {
             "title": "Berlin Packaging Turns Sustainability Ambition into Action Through Innovation, Circularity, and Collaboration - PR Newswire",
@@ -623,16 +630,16 @@
             "publishedAt": "2026-09-17T07:00+00:00"
           },
           {
-            "title": "Berlin Packaging and ININUM Win Formes de Luxe Award for Beauty Tech Innovation - thejewishnews.com",
-            "source": "thejewishnews.com",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeWk1bXNnR2xROElaNFZpY2lUcU1wQkVOUnJwS1JGQlhrTXRzempUdkh0THFnV0VRVHBoMF9Md2k0TG9nWno5OTVlaFpHbGFrUXV1WUtMY0d5Y012RVZXZmdTd3QySFZqT1BIWkRsOUhMcVlSSHVTSHEta19CSVloRFY5TElzNHVUQ1UzUERVT3BXOG50b1RCMXU1TGtTd3ZKbXFpTUlXLS1YenVQbG83Um12UEdPcnlUXzNpelNHcXN0LW9kWm1FUDczck9iUVhTY1ZOcWYxTmxGWEtFcVBRTVh0ZDJJWG91bVlaa1I0T3Nvb3dSVWFoU2UtMXA4dnNmbVF1MjJKRVNicUo1enRnOTg0NktEY0h0dnc?oc=5",
-            "publishedAt": "2026-09-29T14:00+00:00"
+            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
+            "publishedAt": "2026-10-13T10:55+00:00"
           },
           {
-            "title": "Live at E-comm Pkg & Label Expo: How Harry's & Glossier Moved from D2C to Retail - Packaging World",
-            "source": "Packaging World",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBrNWRBZ2ptdmtaX21oZ3hhbmJXTUppbzZKQVNfSnc4eUNpMjI1YjE2RVJuRTVjdlJZWVVGb3l4aXhxUXI0V3RMeXFrUlp2QUlNWXJ5RWphTUFMUHpTYm53dmV2ZFR5dEFrdFctc3BZR042ZHZqTlU5OFNfUmphcVVFaVE2THBEajJicmVBWkhjU1dudDFETEI5UEJJa3haQ2lLUDlka1NFMENJY3VpbWFsNnRSa29GUzVCa2hrTQ?oc=5",
-            "publishedAt": "2026-10-02T21:25+00:00"
+            "title": "Perfume and AI: Berlin Packaging and Ininum win award at Luxe Pack Monaco - Premium Beauty News",
+            "source": "Premium Beauty News",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yN2x0azlJOUdoNXdGVVFaVUtIenNVR2owenliZlY1TUIwa0p2MVJmTFEtU0RvcW92QkVPN0RoRnYtRjdpZVF0VmZsbUFUd3k1bzQtcTdvaWpvSEMxdFZmWUVYOVg0ZC1FNHlLTVhYMmRNZi1SemVxY3JLYm8zM2s?oc=5",
+            "publishedAt": "2026-10-13T03:09+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -649,7 +656,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - PR Newswire",
@@ -725,7 +732,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [
           {
             "title": "Paul A. Hadley Obituary (2026) - Aloha, OR - Springer and Son - Aloha Funeral Home & Crematory - Legacy | Obituary",
@@ -791,7 +798,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [],
         "hiring": [
           {
@@ -818,7 +825,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-12T21:46+00:00",
+        "lastUpdated": "2026-10-13T19:53+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -830,8 +837,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-12T21:46+00:00",
-  "lastSuccessfulAt": "2026-10-12T21:46+00:00",
+  "lastAttemptedAt": "2026-10-13T19:53+00:00",
+  "lastSuccessfulAt": "2026-10-13T19:53+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

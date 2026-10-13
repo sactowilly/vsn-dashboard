@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T21:46+00:00",
+  "lastUpdated": "2026-10-13T19:53+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,24 +14,10 @@
   ],
   "stories": [
     {
-      "title": "Clemson scientist aims to give plastic packaging a better end of life - Clemson News",
-      "source": "Clemson News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEZ3dGtOTEJKMnFuaGZWQVBzZzdXWlNzai1jUmZCWURqMGFtUW5aR2pFN1J0ZENwLVJzVXBmTkFoMldzWFlYMmkyMmRxclZuanNUZjBEalpUbzl6dzk1cnFnNE5uVXRURHFhZzNwZi04UzJTTkZVZWtWQXI2TURDXzRjaFBhd1NydWlwYm96UkdPZUtCQUNJ?oc=5",
-      "publishedAt": "2026-09-22T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Unilever joins consortium to accelerate innovation of paper-based flexible packaging - Unilever Global",
       "source": "Unilever Global",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFhIaVZBU19wemhkdEh3cWxpZWpVc1ZBek9KbW1PMnlrWnA4QnVFX0hWcFcwRkJtZWN5eXhscGVYS2hGR3JBSF9VVlJxNkZvdk1oMVhSekRYSDJHVkpYbW5vNGlSbXRzc1VMZHdZSTZEMmdYeXRmWHZZMFNwMGVNZkdtcUpuRDZDd0syVkFiNEE5ZUdLbmhhcFNjQy1DekY5WENqNGFZb2dwbGN0RUtMb2JLMGlralA4MjBjSWpqNDF3dHptaERIdmFveWI?oc=5",
       "publishedAt": "2026-09-16T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "PCA to close full-line plant in Ohio - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVJMWE5XN05Dc1lZSG1uSV9iTHd5UW4tVXBUS1RnRFF0a05wal9GT3Q4TDRFZ3V0ejFnOHlIZFB5SzZFU19BeXZHeFREaWtmNVdOcDg1Y1B4N2RnTF92NTNJSmdwNnlSc21BakNKMDZnc0NzeEtENDIwb2lWbV8yRjZnZ2ZpTklrUlFnTTN2QmNNeWlzakVQT0NZZGF2YlFuVVY2T29tQllmRGZOc0NXTXpQQld3Y0tOU2JRc1VHcm1oZw?oc=5",
-      "publishedAt": "2026-10-02T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -42,6 +28,13 @@
       "impact": "Low"
     },
     {
+      "title": "Amid push for recycled fiber packaging, virgin demand remains strong - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEd1cHlyUVZSdUxTeTlENTZjdGs2ZHJOZ0RBOTYtWU5iTERfS2pFREVnb3hxaHoyMm0yTEo3NXh6X0xYeGVjMkdEQVd4dkFVemZTYUVvZzlUbHJUcFlVd2l2MWgxY3NOZ2tFU3BPR05Ia1FNb24tQ1FGSkN6c3R1UmhYanNvUG8?oc=5",
+      "publishedAt": "2026-10-12T16:41+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "Plasma Technology Could Help Plant-Based Packaging Replace Plastic - NC State University",
       "source": "NC State University",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sOFR6OC1mcHg1dlRFZG5ub0R1cGZVblh6NWpVcFdNcXZXVnYyYjRIVTUwYlE5NjBOejk1MTlacF9nNFRHb2xlQ2V5Ml9TNWI1UDgyZkZRV0JscUszODVUSE9TdGV4SFFIenJmRjhXTnN5RlpzdEpxSDJTQmp3UTQ?oc=5",
@@ -49,31 +42,38 @@
       "impact": "Low"
     },
     {
-      "title": "SMA Cuts Packaging Costs 30% to 35% With On-Demand Corrugated Cases - Packaging World",
-      "source": "Packaging World",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1lOS3V3ZVd6M2JiSDlQTEZZQkpUWWJETWxNV21MLTdjR21Ednpjc2VDY2JLOGpnSEJZdHZTWk96Q1pKc3AwS0F5SXhYcG1OZzlPcFRfY2VrQTJ6UTBHWkU4eWdaOUlyekpORGpSbE9kZ1QzN2lGQUNfT3UteVgxOEpUYngzN0Q1N2dvbXpxczR6M2VJMTUyWEFYUFhMSHg2M2NTaXBKZE9KQ0U5dHQ5WjJJZWlTQWZrbzdhTk14U1hXdw?oc=5",
-      "publishedAt": "2026-10-08T14:41+00:00",
+      "title": "UFP Packaging Launches All Boxed Up as Brand for Growing Corrugated Business - Morningstar",
+      "source": "Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGo1S010WXAyWDB6NzM1WFJKMzIzX3Z0dDN5OUtaWTQ4blBuTl9yRVhBSG54a21UaXlseTc5WFloSV91NEttY2JkLUZZVjhXTUJ2MVhSak1FUW5hdjVqU0xoejBXV19wSHlDc01BSEJLMW5KemhGV0pMa29LWkFpR0hxMDJmdmhjRGdxUUhvTFM4S0Q0dDg1YnhxZC04THZXRk1WeVBzTDBCamx4dEo2c1lvVmtSZFFXUm1OdUFpZ0NyYkcwX1V2M0xVNkRxWXlpV0tj?oc=5",
+      "publishedAt": "2026-10-13T13:00+00:00",
       "impact": "Medium"
     },
     {
-      "title": "In-mold Labeled Plastic Packaging Market Report 2026-2033 - Grand View Research",
-      "source": "Grand View Research",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUFVVUpUVzNGWVphbUw2cUZOZ2thdnhUamJoM2tlVFVxY2U0ZUItdmJfRVRNbDU1NVVBTmh5SExpcXBNV3dad0pCRXRydlVBcldqaWVkb2RnenRPRXg0aXZ0d0N0cFFINGtQejZkWW4tMVlRa09zLWJuM2V1dnA2a18xVGtEeHRrZ1AzWTRYRkVpUG9PZDZ6dHJSdHlNUnZK?oc=5",
-      "publishedAt": "2026-10-09T06:19+00:00",
+      "title": "AWA bringing insight, data to label and packaging industry with two events - Label and Narrow Web",
+      "source": "Label and Narrow Web",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1c5a1JoNUVRUmdReFlFVmF2ckc5Y2JvYVBlRGV5Z0ZhT0tuWkNOa05IZlBjNVVCdFZPaURsWC1NN3N3anFNREtZOEMxYTFxZUtPRVJDVUZoclczZ1JxZ2FCLWNQS29nd2N6RUszblJPWVE3dTNibVpxWC1uZFRQY3hkREN0cmFRWEp5NzhEZGNURUsyZVRYR0FuRHVSV0ZoWjlVamxHd1IyaGtzOWpIZjNINUZ6TkVHeElz?oc=5",
+      "publishedAt": "2026-10-08T13:45+00:00",
       "impact": "Low"
     },
     {
-      "title": "SupplyOne purchases Illinois corrugated packaging manufacturer - Pennsylvania Business Report -",
-      "source": "Pennsylvania Business Report -",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHptdFVOWEJBUUZCSDZ4NElxVFp5TDhKd1h4RE5mSEdWcU9TckVGZ05ZNGZSZXJSR0VEeDNFN3dNMy1MWC1tdzh6TGIyWUR4bGwzWDNPeW1DX3pyVkVXTS1SaWpoOHRGUEd4aEFKM0R1TGpFenU5THpDT0U5U1hNcC1MdUlhVlZ3YzZENUV6Vjkwa1dxWENaYUhqNGFFRXRXbkE?oc=5",
-      "publishedAt": "2026-10-05T19:59+00:00",
-      "impact": "Medium"
+      "title": "Mintel on the key challenges facing the packaging industry in 2023 - Packaging Europe",
+      "source": "Packaging Europe",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlN1bi00V0Q2OW16LXQtWTRnRThyeVJLenItdW9YSTNscWI5OGQ5YS05UWRQUUpKTzk5MkcwOFl4NWpXN1hlcEs5YjJvRWxYd2RUeXliS0lRSG1tcEdRV3FlTmtwUDJIM0dnaVk0ci1MMUV5MGk5VS1Gd3B2U1BWLXVQTjBjQURpWnlCODFVUkxBOUNLRVlRNzlTdjdkbGN3?oc=5",
+      "publishedAt": "2026-10-12T01:52+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Accurate Box Company Adds C Flute to Packaging Capabilities - Paper Industry News",
+      "source": "Paper Industry News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVndpXzBnVVRJQUw5MFRFbmx1bVhES0ZrVVpUZ0pfX3hnb1U2dW9id2lVaGtxblFhaHFpUjhhSEhVM3J2cjBIV01DRXJkd3JTNnFEWjktbzBJckk2a0Rldk1WN1I3UmVFenFwYjNER2owTEJkT25YcGhFQmY4SlVObTZtMWxEdzBmaUkyMElKLWQxTW1oa1lNN092dk5pWm9yaUo4R0lDdUs3WS1k?oc=5",
+      "publishedAt": "2026-10-06T13:16+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-12T21:46+00:00",
-  "lastSuccessfulAt": "2026-10-12T21:46+00:00",
+  "lastAttemptedAt": "2026-10-13T19:53+00:00",
+  "lastSuccessfulAt": "2026-10-13T19:53+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
