@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:53+00:00",
+  "lastUpdated": "2026-10-14T18:03+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "PCA to close full-line plant in Ohio - Packaging Dive",
@@ -96,7 +96,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Veritiv launches compact cold chain packaging for pharmaceuticals - Yahoo Finance",
@@ -161,7 +161,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
@@ -206,7 +206,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
@@ -278,8 +278,14 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
+          {
+            "title": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day - PR Newswire",
+            "source": "PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3RNQmdyREUwcGhSczA4MmpmUXUtRlpDdmhXcGdoOWhCXzgxMDVrYkRwazRqOEJVVm5CWmxHeXJMR3lpRmNvNHRCbDVSRkoxWUdOYzdpSHFKbTcwVzNfN19VZ1RnclJ5VVJ5TzY0dW81TnpsQXdwOEJhbEs5eTh6akVUY1Y2bk1VZXRKNlVJSDRTODhlSVZOZHJMNG1QTWc2NVpFQ0xKckVJX0pqbjc2WGZqWEo5VFVPc1Z5Y0k2SHdoNWVyaUxUbEFQalRmbVMtc2c?oc=5",
+            "publishedAt": "2026-10-14T11:00+00:00"
+          },
           {
             "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
             "source": "Sustainability Magazine",
@@ -287,38 +293,32 @@
             "publishedAt": "2026-09-16T07:00+00:00"
           },
           {
-            "title": "Q2 Earnings Roundup: International Paper (NYSE:IP) And The Rest Of The Industrial Packaging Segment - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRERnZ1BEWWVXVjBrU21FT3NnT09MbVpaQVZ1QzVvRy1aQjVwZWVzS0NwUHgwOHR2THBJam5uSUpBa0NHbmd1SV9ETU1PaFQwMUlnczdxWjZ0SDZsakJta0JrdGJWdnFwTUw0dHBWNHFNUm9Pcmxwd01xY0VrTWJIV0lUWC01dnlOOEo0QnQ2MGVzVjFvX2FmLXhHdE5oQU00aDFETHpUOA?oc=5",
-            "publishedAt": "2026-09-28T07:00+00:00"
-          },
-          {
-            "title": "International Paper Company (di) (IPC) Share Price, Stock Value, News & Analysis $IPC - MarketBeat",
-            "source": "MarketBeat",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqdjJjUy04eVJnVGdiR1p6QW1lejJsSWNNRk02MXhuTHdNZG1CeVpWUEFLNmxhWU9JS0tnbUZyb0s2aDd1OE14LVA2QXd6d2VyblM5Mg?oc=5",
-            "publishedAt": "2026-10-08T10:19+00:00"
+            "title": "International Paper Company (IP) stock price, news, quote and history - Yahoo Finance Singapore",
+            "source": "Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84Ni1UVXhjSk5SWVo0Ml9fdFVWWmxzS0NYcDI3aUQyY2c1dVFlQXRQY1BUb0hhX0QydDN1ZG5oX1FsdFVSU2NrVC1VY3RYS0E?oc=5",
+            "publishedAt": "2026-10-13T12:37+00:00"
           }
         ],
         "hiring": [],
         "moves": [],
         "items": [
           {
+            "title": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day - PR Newswire",
+            "source": "PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3RNQmdyREUwcGhSczA4MmpmUXUtRlpDdmhXcGdoOWhCXzgxMDVrYkRwazRqOEJVVm5CWmxHeXJMR3lpRmNvNHRCbDVSRkoxWUdOYzdpSHFKbTcwVzNfN19VZ1RnclJ5VVJ5TzY0dW81TnpsQXdwOEJhbEs5eTh6akVUY1Y2bk1VZXRKNlVJSDRTODhlSVZOZHJMNG1QTWc2NVpFQ0xKckVJX0pqbjc2WGZqWEo5VFVPc1Z5Y0k2SHdoNWVyaUxUbEFQalRmbVMtc2c?oc=5",
+            "publishedAt": "2026-10-14T11:00+00:00"
+          },
+          {
             "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
             "source": "Sustainability Magazine",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
             "publishedAt": "2026-09-16T07:00+00:00"
           },
           {
-            "title": "Q2 Earnings Roundup: International Paper (NYSE:IP) And The Rest Of The Industrial Packaging Segment - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRERnZ1BEWWVXVjBrU21FT3NnT09MbVpaQVZ1QzVvRy1aQjVwZWVzS0NwUHgwOHR2THBJam5uSUpBa0NHbmd1SV9ETU1PaFQwMUlnczdxWjZ0SDZsakJta0JrdGJWdnFwTUw0dHBWNHFNUm9Pcmxwd01xY0VrTWJIV0lUWC01dnlOOEo0QnQ2MGVzVjFvX2FmLXhHdE5oQU00aDFETHpUOA?oc=5",
-            "publishedAt": "2026-09-28T07:00+00:00"
-          },
-          {
-            "title": "International Paper Company (di) (IPC) Share Price, Stock Value, News & Analysis $IPC - MarketBeat",
-            "source": "MarketBeat",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqdjJjUy04eVJnVGdiR1p6QW1lejJsSWNNRk02MXhuTHdNZG1CeVpWUEFLNmxhWU9JS0tnbUZyb0s2aDd1OE14LVA2QXd6d2VyblM5Mg?oc=5",
-            "publishedAt": "2026-10-08T10:19+00:00"
+            "title": "International Paper Company (IP) stock price, news, quote and history - Yahoo Finance Singapore",
+            "source": "Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84Ni1UVXhjSk5SWVo0Ml9fdFVWWmxzS0NYcDI3aUQyY2c1dVFlQXRQY1BUb0hhX0QydDN1ZG5oX1FsdFVSU2NrVC1VY3RYS0E?oc=5",
+            "publishedAt": "2026-10-13T12:37+00:00"
           }
         ],
         "query": "\"International Paper\" packaging OR corrugated OR distribution when:30d",
@@ -335,7 +335,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - Paper Industry News",
@@ -344,16 +344,16 @@
             "publishedAt": "2026-09-23T13:36+00:00"
           },
           {
+            "title": "Pratt Industries plans $97.6 million corrugated plant in Iowa - Papnews",
+            "source": "Papnews",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WRmRsVzY2N0gwVjNrT1Y3X3dJVHdKdFNKcmZZQWM4dWg2ZUJfcVo0WGtINW5SZHBCeGtTcWszbVdSa01aZDFxcUItT3hhWE91N2FjbVVZTDhzNWRQUDZsa0ZJaUVJbEVUQmhQbW9INWhzdnpjeHdPRlRYckc4dw?oc=5",
+            "publishedAt": "2026-09-24T07:59+00:00"
+          },
+          {
             "title": "Valparaiso council carries ordinances for Pratt Industries expansion - Chicago Tribune",
             "source": "Chicago Tribune",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRNSnVXdVZBMUdTTVR1UTdtMlZDa05JSU5TT0RnQ0RYTWFuMzU2ZGw1T18wMTBtTVlTSU96RFJRa255R1c4ZDJFcE5lakJNV3daYUlGSlNDMnFOczFoX2xEenJxdlNEdFcxV1JxeHktTVYzUmhEblFZdVgwWlQ5cUVUMV9Rb19f?oc=5",
             "publishedAt": "2026-09-16T07:00+00:00"
-          },
-          {
-            "title": "US investigates dumping claims over imported pizza boxes - PULPAPERnews.com",
-            "source": "PULPAPERnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY2l2SkxpRXo1V1hCa1JwSGZZOVZYNnZqeEhUVzFFZVRCLTdSQy1wTGNySExTME9ONzlVVzB5X0xndV9BUDg1VlRfdGVUM3ZtMy1YcWJRZXUwdi04NE81cjVBMV9sY0NOUlF3cVEwdUZKS1F6OGd4MTdhT1k3a1B6ZVhUMTBSWDlvSFZoR3Q3b0hHUE1RRnJzV1dSclNfTXdXUEE?oc=5",
-            "publishedAt": "2026-10-09T08:38+00:00"
           }
         ],
         "hiring": [
@@ -373,6 +373,12 @@
             "publishedAt": "2026-09-23T13:36+00:00"
           },
           {
+            "title": "Pratt Industries plans $97.6 million corrugated plant in Iowa - Papnews",
+            "source": "Papnews",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WRmRsVzY2N0gwVjNrT1Y3X3dJVHdKdFNKcmZZQWM4dWg2ZUJfcVo0WGtINW5SZHBCeGtTcWszbVdSa01aZDFxcUItT3hhWE91N2FjbVVZTDhzNWRQUDZsa0ZJaUVJbEVUQmhQbW9INWhzdnpjeHdPRlRYckc4dw?oc=5",
+            "publishedAt": "2026-09-24T07:59+00:00"
+          },
+          {
             "title": "Valparaiso council carries ordinances for Pratt Industries expansion - Chicago Tribune",
             "source": "Chicago Tribune",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRNSnVXdVZBMUdTTVR1UTdtMlZDa05JSU5TT0RnQ0RYTWFuMzU2ZGw1T18wMTBtTVlTSU96RFJRa255R1c4ZDJFcE5lakJNV3daYUlGSlNDMnFOczFoX2xEenJxdlNEdFcxV1JxeHktTVYzUmhEblFZdVgwWlQ5cUVUMV9Rb19f?oc=5",
@@ -387,16 +393,16 @@
             "publishedAt": "2026-09-23T13:36+00:00"
           },
           {
+            "title": "Pratt Industries plans $97.6 million corrugated plant in Iowa - Papnews",
+            "source": "Papnews",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WRmRsVzY2N0gwVjNrT1Y3X3dJVHdKdFNKcmZZQWM4dWg2ZUJfcVo0WGtINW5SZHBCeGtTcWszbVdSa01aZDFxcUItT3hhWE91N2FjbVVZTDhzNWRQUDZsa0ZJaUVJbEVUQmhQbW9INWhzdnpjeHdPRlRYckc4dw?oc=5",
+            "publishedAt": "2026-09-24T07:59+00:00"
+          },
+          {
             "title": "Valparaiso council carries ordinances for Pratt Industries expansion - Chicago Tribune",
             "source": "Chicago Tribune",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRNSnVXdVZBMUdTTVR1UTdtMlZDa05JSU5TT0RnQ0RYTWFuMzU2ZGw1T18wMTBtTVlTSU96RFJRa255R1c4ZDJFcE5lakJNV3daYUlGSlNDMnFOczFoX2xEenJxdlNEdFcxV1JxeHktTVYzUmhEblFZdVgwWlQ5cUVUMV9Rb19f?oc=5",
             "publishedAt": "2026-09-16T07:00+00:00"
-          },
-          {
-            "title": "US investigates dumping claims over imported pizza boxes - PULPAPERnews.com",
-            "source": "PULPAPERnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY2l2SkxpRXo1V1hCa1JwSGZZOVZYNnZqeEhUVzFFZVRCLTdSQy1wTGNySExTME9ONzlVVzB5X0xndV9BUDg1VlRfdGVUM3ZtMy1YcWJRZXUwdi04NE81cjVBMV9sY0NOUlF3cVEwdUZKS1F6OGd4MTdhT1k3a1B6ZVhUMTBSWDlvSFZoR3Q3b0hHUE1RRnJzV1dSclNfTXdXUEE?oc=5",
-            "publishedAt": "2026-10-09T08:38+00:00"
           }
         ],
         "query": "\"Pratt Industries\" packaging OR corrugated OR distribution when:30d",
@@ -413,7 +419,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Smurfit Westrock to acquire CMPC\u2019s Chilean packaging assets - Yahoo Finance",
@@ -470,13 +476,13 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Accenture and osapiens Make DS Smith\u2019s Global Supply Chain More Transparent and Ready for Evolving EU Regulation - Business Wire",
             "source": "Business Wire",
             "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVWgtNXI3a3hsY0Rrb2FKbnA2RTE2MmtNTFBFQmx2dXExdnBzT05udVFKd3ZOVGU1WVppM0taWEp0clZEeTJBZXpjQkRfMHhfQUtkSkJ0a2d4SzI4aVY5R1RRSkF6WnNkd0VodkN2ZFdBdE93Q084ZS1FVUJYNUNEYTB1UkM2bHJDZ19QLVU3MFRsR2tLSmdfV01jYzRtdkU1T1lRY3dhRjh4d3JGeEhDcTRNMDY0UWF6dHlFVXJRQ29QdHlCaU4tYkkwRGhDbnJjX0g4YmVJVi1XaXktUy02d0ZtZzBSa3dQSzhfbDdZR3Fsem1faEpZOE1qMmE?oc=5",
-            "publishedAt": "2026-09-28T07:00+00:00"
+            "publishedAt": "2026-09-27T07:00+00:00"
           },
           {
             "title": "DS Smith Taps Accenture and Osapiens for Compliance Tech - WWD",
@@ -506,7 +512,7 @@
             "title": "Accenture and osapiens Make DS Smith\u2019s Global Supply Chain More Transparent and Ready for Evolving EU Regulation - Business Wire",
             "source": "Business Wire",
             "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVWgtNXI3a3hsY0Rrb2FKbnA2RTE2MmtNTFBFQmx2dXExdnBzT05udVFKd3ZOVGU1WVppM0taWEp0clZEeTJBZXpjQkRfMHhfQUtkSkJ0a2d4SzI4aVY5R1RRSkF6WnNkd0VodkN2ZFdBdE93Q084ZS1FVUJYNUNEYTB1UkM2bHJDZ19QLVU3MFRsR2tLSmdfV01jYzRtdkU1T1lRY3dhRjh4d3JGeEhDcTRNMDY0UWF6dHlFVXJRQ29QdHlCaU4tYkkwRGhDbnJjX0g4YmVJVi1XaXktUy02d0ZtZzBSa3dQSzhfbDdZR3Fsem1faEpZOE1qMmE?oc=5",
-            "publishedAt": "2026-09-28T07:00+00:00"
+            "publishedAt": "2026-09-27T07:00+00:00"
           },
           {
             "title": "DS Smith Taps Accenture and Osapiens for Compliance Tech - WWD",
@@ -535,7 +541,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Downgauged Stretch Films: HCCB Uses 17\u00b5m Nano Cast Film to Reduce Packaging Material - Trend Hunter",
@@ -544,16 +550,16 @@
             "publishedAt": "2026-09-28T07:00+00:00"
           },
           {
-            "title": "U.S. High Bandwidth Memory (HBM): Solving AI Bottlenecks - Kings Research",
-            "source": "Kings Research",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnctdHhYcEZIZ2lCZFFTVEZoMmt4eGEtcUU3ZTExNGFHanNnTU1JRFRIRlgyeTVlY1FUeDNnWXBwRlVLbXVHWU5RdEVTMzB1VG1uYlVfZVY3OEZod3NrY1dialdOUDh3cnB1cGNkbHk1WlJVTm1HTGNQdkdJMGVkWncxUQ?oc=5",
-            "publishedAt": "2026-10-12T13:53+00:00"
-          },
-          {
             "title": "64 GB for 300 Euros? How a Used RAM Kit Can Turn Out to Be a Sham - igor\u00b4sLAB",
             "source": "igor\u00b4sLAB",
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tYm04azZzeThIT29HQjRaMi1iQ09VN01xdGFDNmVmVGR0Nmh3UnN5NTFRQ1cwcHpPYk14TUNvWGs2ZDJ5b0hlNnpsdW9KREx5eHBkemdoNFF3Z25MN3hsUWQxUE11S1ZwSThYWnRZVEd2MFk?oc=5",
             "publishedAt": "2026-10-03T07:00+00:00"
+          },
+          {
+            "title": "Aerosol Packaging Market Size, Share, Segmentation, Regional Analysis, Competitive Landscape & Forecast 2026\u20132035 - Market Business Insights",
+            "source": "Market Business Insights",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LcWJybmZnQjZZNElUb0FiZGZvUXdFbmkxRFY1b2hxTWYwYjJwOU5uWGV0SlVpLVc4VUt3R3NoUmFVeU9udDBTYXp3SFkxVFZuVDJFVTFwQzZ2cmxFZFlYMnNIdU5TYmo3c1RGdVJWSkcyUQ?oc=5",
+            "publishedAt": "2026-10-02T20:41+00:00"
           }
         ],
         "hiring": [],
@@ -566,16 +572,16 @@
             "publishedAt": "2026-09-28T07:00+00:00"
           },
           {
-            "title": "U.S. High Bandwidth Memory (HBM): Solving AI Bottlenecks - Kings Research",
-            "source": "Kings Research",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnctdHhYcEZIZ2lCZFFTVEZoMmt4eGEtcUU3ZTExNGFHanNnTU1JRFRIRlgyeTVlY1FUeDNnWXBwRlVLbXVHWU5RdEVTMzB1VG1uYlVfZVY3OEZod3NrY1dialdOUDh3cnB1cGNkbHk1WlJVTm1HTGNQdkdJMGVkWncxUQ?oc=5",
-            "publishedAt": "2026-10-12T13:53+00:00"
-          },
-          {
             "title": "64 GB for 300 Euros? How a Used RAM Kit Can Turn Out to Be a Sham - igor\u00b4sLAB",
             "source": "igor\u00b4sLAB",
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tYm04azZzeThIT29HQjRaMi1iQ09VN01xdGFDNmVmVGR0Nmh3UnN5NTFRQ1cwcHpPYk14TUNvWGs2ZDJ5b0hlNnpsdW9KREx5eHBkemdoNFF3Z25MN3hsUWQxUE11S1ZwSThYWnRZVEd2MFk?oc=5",
             "publishedAt": "2026-10-03T07:00+00:00"
+          },
+          {
+            "title": "Aerosol Packaging Market Size, Share, Segmentation, Regional Analysis, Competitive Landscape & Forecast 2026\u20132035 - Market Business Insights",
+            "source": "Market Business Insights",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LcWJybmZnQjZZNElUb0FiZGZvUXdFbmkxRFY1b2hxTWYwYjJwOU5uWGV0SlVpLVc4VUt3R3NoUmFVeU9udDBTYXp3SFkxVFZuVDJFVTFwQzZ2cmxFZFlYMnNIdU5TYmo3c1RGdVJWSkcyUQ?oc=5",
+            "publishedAt": "2026-10-02T20:41+00:00"
           }
         ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -592,7 +598,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Berlin Packaging Turns Sustainability Ambition into Action Through Innovation, Circularity, and Collaboration - PR Newswire",
@@ -607,10 +613,10 @@
             "publishedAt": "2026-10-13T10:55+00:00"
           },
           {
-            "title": "Perfume and AI: Berlin Packaging and Ininum win award at Luxe Pack Monaco - Premium Beauty News",
-            "source": "Premium Beauty News",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yN2x0azlJOUdoNXdGVVFaVUtIenNVR2owenliZlY1TUIwa0p2MVJmTFEtU0RvcW92QkVPN0RoRnYtRjdpZVF0VmZsbUFUd3k1bzQtcTdvaWpvSEMxdFZmWUVYOVg0ZC1FNHlLTVhYMmRNZi1SemVxY3JLYm8zM2s?oc=5",
-            "publishedAt": "2026-10-13T03:09+00:00"
+            "title": "Berlin Packaging Named One of America's Greenest Companies 2027 by Newsweek - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTk9Wcm10M25BZXZuUWNuTUVJbVNsSW9YcnZkbDNsQVVwUFpZYTFtb3E2aGF3ZVVFemFjMFhOa05BNkJxcVphQWtsLVNNTXBzVk9mNEEyemdRaHhXUFRiaTBwdV9SV1dUVFF2algyY3hNUnpvbFJXNmdwanZRa2Z0d0lJTVZ3RWhwc0NTUUI1NGFESFNyZDVJ?oc=5",
+            "publishedAt": "2026-10-14T14:00+00:00"
           }
         ],
         "hiring": [],
@@ -636,10 +642,10 @@
             "publishedAt": "2026-10-13T10:55+00:00"
           },
           {
-            "title": "Perfume and AI: Berlin Packaging and Ininum win award at Luxe Pack Monaco - Premium Beauty News",
-            "source": "Premium Beauty News",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yN2x0azlJOUdoNXdGVVFaVUtIenNVR2owenliZlY1TUIwa0p2MVJmTFEtU0RvcW92QkVPN0RoRnYtRjdpZVF0VmZsbUFUd3k1bzQtcTdvaWpvSEMxdFZmWUVYOVg0ZC1FNHlLTVhYMmRNZi1SemVxY3JLYm8zM2s?oc=5",
-            "publishedAt": "2026-10-13T03:09+00:00"
+            "title": "Berlin Packaging Named One of America's Greenest Companies 2027 by Newsweek - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTk9Wcm10M25BZXZuUWNuTUVJbVNsSW9YcnZkbDNsQVVwUFpZYTFtb3E2aGF3ZVVFemFjMFhOa05BNkJxcVphQWtsLVNNTXBzVk9mNEEyemdRaHhXUFRiaTBwdV9SV1dUVFF2algyY3hNUnpvbFJXNmdwanZRa2Z0d0lJTVZ3RWhwc0NTUUI1NGFESFNyZDVJ?oc=5",
+            "publishedAt": "2026-10-14T14:00+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -656,7 +662,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - PR Newswire",
@@ -732,7 +738,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [
           {
             "title": "Paul A. Hadley Obituary (2026) - Aloha, OR - Springer and Son - Aloha Funeral Home & Crematory - Legacy | Obituary",
@@ -798,7 +804,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [],
         "hiring": [
           {
@@ -825,7 +831,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-13T19:53+00:00",
+        "lastUpdated": "2026-10-14T18:03+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -837,8 +843,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-13T19:53+00:00",
-  "lastSuccessfulAt": "2026-10-13T19:53+00:00",
+  "lastAttemptedAt": "2026-10-14T18:03+00:00",
+  "lastSuccessfulAt": "2026-10-14T18:03+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

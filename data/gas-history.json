@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:53+00:00",
+  "lastUpdated": "2026-10-14T18:03+00:00",
   "sourceStrength": "High",
   "freshness": "Weekly backup/context",
   "sourceLinks": [
@@ -12,11 +12,6 @@
     "California backup/context history refreshed from EIA weekly retail gasoline and diesel prices."
   ],
   "series": [
-    {
-      "date": "2026-07-20",
-      "regular": 5.354,
-      "diesel": 6.471
-    },
     {
       "date": "2026-07-27",
       "regular": 5.489,
@@ -71,12 +66,17 @@
       "date": "2026-10-05",
       "regular": 6.227,
       "diesel": 8.082
+    },
+    {
+      "date": "2026-10-12",
+      "regular": 6.104,
+      "diesel": 8.091
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-13T19:53+00:00",
-  "lastSuccessfulAt": "2026-10-13T19:53+00:00",
+  "lastAttemptedAt": "2026-10-14T18:03+00:00",
+  "lastSuccessfulAt": "2026-10-14T18:03+00:00",
   "sourceLimitations": [
     "EIA California weekly prices are not Sacramento metro prices; they are backup/context for the Sacramento-first AAA view."
   ]

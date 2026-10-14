@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:53+00:00",
+  "lastUpdated": "2026-10-14T18:03+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km SSW of P\u0101hala, Hawaii",
+      "region": "1 km NW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NNE of Susitna North, Alaska",
+      "region": "2 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km WSW of Searles Valley, CA",
+      "region": "10 km NE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "83 km W of Karluk, Alaska",
+      "region": "17 km NNE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km SSW of Leilani Estates, Hawaii",
+      "region": "24 km E of Anderson, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km SE of Katie, Oklahoma",
+      "region": "44 km SSE of Glacier View, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km SSW of P\u0101hala, Hawaii",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of The Geysers, CA",
+      "region": "16 km WSW of Olancha, CA",
       "severity": "Low"
     },
     {
-      "type": "Heat Advisory issued October 13 at 11:21AM PDT until October 17 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "San Luis Obispo County Beaches; San Luis Obispo County Inland Central Coast; Santa Barbara County Central Coast Beaches; Santa Barbara County Inland Central Coast; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles",
+      "type": "Red Flag Warning issued October 14 at 10:30AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
+      "region": "Central Sierra; North Kings River; Sequoia Kings; Lake Isabella",
+      "severity": "Severe"
+    },
+    {
+      "type": "Red Flag Warning issued October 14 at 10:30AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
+      "region": "Tehachapi Area; Fort Tejon",
+      "severity": "Severe"
+    },
+    {
+      "type": "Wind Advisory issued October 14 at 10:25AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
+      "region": "Indian Wells Valley; Mojave Desert Slopes; Mojave Desert",
       "severity": "Moderate"
     },
     {
-      "type": "Heat Advisory issued October 13 at 11:21AM PDT until October 17 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Beaches; Ventura County Inland Coast; Malibu Coast",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued October 13 at 11:21AM PDT until October 16 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Beaches; Ventura County Inland Coast; Malibu Coast",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued October 13 at 11:21AM PDT until October 16 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Clarita Valley; Central Ventura County Valleys; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Southern Ventura County Mountains; Northern Ventura County Mountains",
-      "severity": "Moderate"
+      "type": "Red Flag Warning issued October 14 at 10:14AM PDT until October 16 at 10:00AM PDT by NWS Sacramento CA",
+      "region": "Sierra Nevada of Tehama-Butte-Plumas Counties Between 1000-3000 ft; Sierra Nevada of Tehama-Butte-Plumas Counties Above 3000 ft; Northern Motherlode Between 1000-3000 ft; Sierra Nevada of Yuba-Sierra-Nevada-Placer Counties Between 3000-5000 ft Including Interstate 80; Sierra Nevada of Sierra-Nevada-Placer Counties Above 5000 ft Including Interstate 80; Central Motherlode Between 1000-3000 ft; Sierra Nevada of El Dorado and Amador Counties Between 3000-5000 ft Including Highway 50; Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Southern Motherlode Between 1000-3000 ft; Sierra Nevada of Calaveras and Tuolumne Counties Between 3000-5000 ft; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
+      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-13T19:53+00:00",
-  "lastSuccessfulAt": "2026-10-13T19:53+00:00",
+  "lastAttemptedAt": "2026-10-14T18:03+00:00",
+  "lastSuccessfulAt": "2026-10-14T18:03+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
