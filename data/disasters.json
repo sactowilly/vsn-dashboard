@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:03+00:00",
+  "lastUpdated": "2026-10-15T17:48+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "1 km NW of P\u0101hala, Hawaii",
+      "region": "6 km S of Portola Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NNW of The Geysers, CA",
+      "region": "13 km W of Petrolia, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km NE of P\u0101hala, Hawaii",
+      "region": "59 km ENE of Lake Minchumina, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km NNE of Milford, Utah",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "24 km E of Anderson, Alaska",
+      "region": "82 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "44 km SSE of Glacier View, Alaska",
+      "region": "7 km N of Lake Henshaw, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "15 km NE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km WSW of Olancha, CA",
+      "region": "18 km WSW of Johannesburg, CA",
       "severity": "Low"
     },
     {
-      "type": "Red Flag Warning issued October 14 at 10:30AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
-      "region": "Central Sierra; North Kings River; Sequoia Kings; Lake Isabella",
-      "severity": "Severe"
-    },
-    {
-      "type": "Red Flag Warning issued October 14 at 10:30AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
-      "region": "Tehachapi Area; Fort Tejon",
-      "severity": "Severe"
-    },
-    {
-      "type": "Wind Advisory issued October 14 at 10:25AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
+      "type": "Wind Advisory issued October 15 at 10:25AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
       "region": "Indian Wells Valley; Mojave Desert Slopes; Mojave Desert",
       "severity": "Moderate"
     },
     {
-      "type": "Red Flag Warning issued October 14 at 10:14AM PDT until October 16 at 10:00AM PDT by NWS Sacramento CA",
-      "region": "Sierra Nevada of Tehama-Butte-Plumas Counties Between 1000-3000 ft; Sierra Nevada of Tehama-Butte-Plumas Counties Above 3000 ft; Northern Motherlode Between 1000-3000 ft; Sierra Nevada of Yuba-Sierra-Nevada-Placer Counties Between 3000-5000 ft Including Interstate 80; Sierra Nevada of Sierra-Nevada-Placer Counties Above 5000 ft Including Interstate 80; Central Motherlode Between 1000-3000 ft; Sierra Nevada of El Dorado and Amador Counties Between 3000-5000 ft Including Highway 50; Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Southern Motherlode Between 1000-3000 ft; Sierra Nevada of Calaveras and Tuolumne Counties Between 3000-5000 ft; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
+      "type": "Wind Advisory issued October 15 at 10:23AM MST until October 16 at 2:00PM MST by NWS Phoenix AZ",
+      "region": "Chiriaco Summit",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued October 15 at 10:23AM MST until October 16 at 2:00PM MST by NWS Phoenix AZ",
+      "region": "Parker Valley; Chuckwalla Mountains; Imperial County Southeast; Palo Verde Valley; Chuckwalla Valley",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Red Flag Warning issued October 15 at 10:20AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
+      "region": "Central Sierra; North Kings River; Sequoia Kings; Lake Isabella; Tehachapi Area; Fort Tejon",
       "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-14T18:03+00:00",
-  "lastSuccessfulAt": "2026-10-14T18:03+00:00",
+  "lastAttemptedAt": "2026-10-15T17:48+00:00",
+  "lastSuccessfulAt": "2026-10-15T17:48+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
