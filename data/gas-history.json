@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T17:48+00:00",
+  "lastUpdated": "2026-10-16T17:31+00:00",
   "sourceStrength": "High",
   "freshness": "Weekly backup/context",
   "sourceLinks": [
@@ -66,12 +66,17 @@
       "date": "2026-10-05",
       "regular": 6.227,
       "diesel": 8.082
+    },
+    {
+      "date": "2026-10-12",
+      "regular": 6.104,
+      "diesel": 8.091
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-15T17:48+00:00",
-  "lastSuccessfulAt": "2026-10-15T17:48+00:00",
+  "lastAttemptedAt": "2026-10-16T17:31+00:00",
+  "lastSuccessfulAt": "2026-10-16T17:31+00:00",
   "sourceLimitations": [
     "EIA California weekly prices are not Sacramento metro prices; they are backup/context for the Sacramento-first AAA view."
   ]

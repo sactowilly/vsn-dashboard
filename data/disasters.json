@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T17:48+00:00",
+  "lastUpdated": "2026-10-16T17:31+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km S of Portola Valley, CA",
+      "region": "9 km WNW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "13 km W of Petrolia, CA",
+      "region": "21 km SSW of Trapper Creek, Alaska",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "9 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "59 km ENE of Lake Minchumina, Alaska",
+      "region": "73 km NNE of Port Alsworth, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NW of The Geysers, CA",
+      "region": "18 km SSE of Skwentna, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "82 km NNW of Karluk, Alaska",
+      "region": "22 km SSW of Ester, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km N of Lake Henshaw, CA",
+      "region": "26 km WSW of Westley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km NE of Milford, Utah",
+      "region": "34 km NNW of Chickaloon, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "18 km WSW of Johannesburg, CA",
-      "severity": "Low"
+      "type": "Beach Hazards Statement issued October 16 at 9:31AM PDT until October 18 at 9:00PM PDT by NWS San Francisco CA",
+      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued October 15 at 10:25AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
+      "type": "Wind Advisory issued October 16 at 9:31AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
       "region": "Indian Wells Valley; Mojave Desert Slopes; Mojave Desert",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued October 15 at 10:23AM MST until October 16 at 2:00PM MST by NWS Phoenix AZ",
-      "region": "Chiriaco Summit",
+      "type": "Wind Advisory issued October 16 at 5:10AM PDT until October 17 at 12:00PM PDT by NWS San Diego CA",
+      "region": "Orange County Inland",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued October 15 at 10:23AM MST until October 16 at 2:00PM MST by NWS Phoenix AZ",
-      "region": "Parker Valley; Chuckwalla Mountains; Imperial County Southeast; Palo Verde Valley; Chuckwalla Valley",
+      "type": "Heat Advisory issued October 16 at 5:10AM PDT until October 17 at 8:00PM PDT by NWS San Diego CA",
+      "region": "Orange County Inland",
       "severity": "Moderate"
-    },
-    {
-      "type": "Red Flag Warning issued October 15 at 10:20AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
-      "region": "Central Sierra; North Kings River; Sequoia Kings; Lake Isabella; Tehachapi Area; Fort Tejon",
-      "severity": "Severe"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-15T17:48+00:00",
-  "lastSuccessfulAt": "2026-10-15T17:48+00:00",
+  "lastAttemptedAt": "2026-10-16T17:31+00:00",
+  "lastSuccessfulAt": "2026-10-16T17:31+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T17:48+00:00",
+  "lastUpdated": "2026-10-16T17:31+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
             "title": "PCA to close full-line plant in Ohio - Packaging Dive",
@@ -96,7 +96,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
             "title": "Veritiv launches compact cold chain packaging for pharmaceuticals - Yahoo Finance",
@@ -161,7 +161,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
             "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
@@ -174,6 +174,12 @@
             "source": "Total Food Service",
             "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdnlKVVBxMXhWZFNJb3dGRnRadTdCaWF0Vkxsb0pGbjhsY25BY3pHTUxoRkItaW8yMURPOHRKUnI0N1BOTmZ6U1RheThqYVUzS0owYWhsdFFCQzRPTFo5VXV3aks1VGw3VzR4SFFMazRSZFhWY0UtaDNtOFFsdm0teA?oc=5",
             "publishedAt": "2026-10-05T18:17+00:00"
+          },
+          {
+            "title": "The Convergence of Janitorial, Packaging, MRO, and Digital Procurement - www.cleanlink.com",
+            "source": "www.cleanlink.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXF0X0xBZTZSWjdpYW5CaDRSZWpoNF9taFg2YnNwQU9VT3pOaU1DLTFCNi1SdUk1YjRoNUxPamtBVzdyTXlQTk1Qd29fb21VOTY0UC1qQ3hwdXlkN21kblFKc1FoaHpERHNVZHlDdkFuYzZycFA1UXJxT2c3dF9LbjVzNGVDY1Q4NTFmNEF0WE5tN0VTODl4Tk5QNmJTNXVZaThDQzRGejEzdFotcVlUSQ?oc=5",
+            "publishedAt": "2026-10-15T17:31+00:00"
           }
         ],
         "hiring": [],
@@ -190,6 +196,12 @@
             "source": "Total Food Service",
             "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdnlKVVBxMXhWZFNJb3dGRnRadTdCaWF0Vkxsb0pGbjhsY25BY3pHTUxoRkItaW8yMURPOHRKUnI0N1BOTmZ6U1RheThqYVUzS0owYWhsdFFCQzRPTFo5VXV3aks1VGw3VzR4SFFMazRSZFhWY0UtaDNtOFFsdm0teA?oc=5",
             "publishedAt": "2026-10-05T18:17+00:00"
+          },
+          {
+            "title": "The Convergence of Janitorial, Packaging, MRO, and Digital Procurement - www.cleanlink.com",
+            "source": "www.cleanlink.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXF0X0xBZTZSWjdpYW5CaDRSZWpoNF9taFg2YnNwQU9VT3pOaU1DLTFCNi1SdUk1YjRoNUxPamtBVzdyTXlQTk1Qd29fb21VOTY0UC1qQ3hwdXlkN21kblFKc1FoaHpERHNVZHlDdkFuYzZycFA1UXJxT2c3dF9LbjVzNGVDY1Q4NTFmNEF0WE5tN0VTODl4Tk5QNmJTNXVZaThDQzRGejEzdFotcVlUSQ?oc=5",
+            "publishedAt": "2026-10-15T17:31+00:00"
           }
         ],
         "query": "\"Imperial Dade\" packaging OR corrugated OR distribution when:30d",
@@ -206,7 +218,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
             "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
@@ -221,8 +233,8 @@
             "publishedAt": "2026-09-21T07:00+00:00"
           },
           {
-            "title": "NBA\u2019s Milwaukee Bucks Sign Jersey Patch Ad Deal With Uline - Bloomberg.com",
-            "source": "Bloomberg.com",
+            "title": "NBA\u2019s Milwaukee Bucks Sign Jersey Patch Ad Deal With Uline - Bloomberg",
+            "source": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHZKQ3dvUnhXd0J3SVVHYWVqQXBJZVh6cDBUdkI3VVFoVzk5M05nN19FNnZlQWs0MHZBbThwdWRpVkQxUVV0X1NoX1BnNWtrcHBqcWRiMExrRzNLYVhSNUljNEYwQjBZWnpIRUpqc09oYlN5cjhNTThUdGhIVzc5WmlDbjlyTnBWVlhkbGZUNHZLbHk0NTZMekRyd1JUZWxMNEY3M0V6U0JfOWZPZUE?oc=5",
             "publishedAt": "2026-09-21T07:00+00:00"
           }
@@ -258,8 +270,8 @@
             "publishedAt": "2026-09-21T07:00+00:00"
           },
           {
-            "title": "NBA\u2019s Milwaukee Bucks Sign Jersey Patch Ad Deal With Uline - Bloomberg.com",
-            "source": "Bloomberg.com",
+            "title": "NBA\u2019s Milwaukee Bucks Sign Jersey Patch Ad Deal With Uline - Bloomberg",
+            "source": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHZKQ3dvUnhXd0J3SVVHYWVqQXBJZVh6cDBUdkI3VVFoVzk5M05nN19FNnZlQWs0MHZBbThwdWRpVkQxUVV0X1NoX1BnNWtrcHBqcWRiMExrRzNLYVhSNUljNEYwQjBZWnpIRUpqc09oYlN5cjhNTThUdGhIVzc5WmlDbjlyTnBWVlhkbGZUNHZLbHk0NTZMekRyd1JUZWxMNEY3M0V6U0JfOWZPZUE?oc=5",
             "publishedAt": "2026-09-21T07:00+00:00"
           }
@@ -278,47 +290,47 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
-            "title": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day - PR Newswire",
-            "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3RNQmdyREUwcGhSczA4MmpmUXUtRlpDdmhXcGdoOWhCXzgxMDVrYkRwazRqOEJVVm5CWmxHeXJMR3lpRmNvNHRCbDVSRkoxWUdOYzdpSHFKbTcwVzNfN19VZ1RnclJ5VVJ5TzY0dW81TnpsQXdwOEJhbEs5eTh6akVUY1Y2bk1VZXRKNlVJSDRTODhlSVZOZHJMNG1QTWc2NVpFQ0xKckVJX0pqbjc2WGZqWEo5VFVPc1Z5Y0k2SHdoNWVyaUxUbEFQalRmbVMtc2c?oc=5",
-            "publishedAt": "2026-10-14T11:00+00:00"
-          },
-          {
-            "title": "PE firms explore deals for International Paper\u2019s European packaging business, FT reports - Reuters",
+            "title": "International Paper in talks with bidders for EMEA packaging business - Reuters",
             "source": "Reuters",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1pYRjVHd1JfS3psVUJVWEZ3V2MwanlEUlU1czhuSy1MUUltZ1ZZQmxGbHNSM256NGNaSy1ub25ZT2RhcElic0lQWTF2dFVaaWh2aDFFeHc2aE5wQnBBUGZWZXFNVU1hUGRYQm4ta1ctTDM2QTROMm5FNXVLZHR1b0staXpMZzZydFlhOFVTTzB6TUd3bE96Vkt1LUM5VE5DZ2hFeHBEaWU1azUzcUNvUmJHajhqRmRoQXdRUTZ4SnNqaXlJR3VSUWtwMWY?oc=5",
-            "publishedAt": "2026-10-15T14:20+00:00"
+            "publishedAt": "2026-10-15T17:42+00:00"
           },
           {
-            "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
-            "source": "Sustainability Magazine",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
-            "publishedAt": "2026-09-16T07:00+00:00"
+            "title": "STATEMENT REGARDING POSSIBLE EMEA PACKAGING BUSINESS SALE - PR Newswire",
+            "source": "PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXR1dVpoXzJSRm8wZ3VqcnM3aTRrV0V1aDk5MjdTWmpWdDBxNDdTNF9TdFJXS2dJMHM4bXlZZkdDbVV1WnU2emNmU0Fud0V1Q1VNVFJJbE5lZnNRTGtZVXp3UnZCZHZJUC1SMzdCcWV0UTY5T0NtSFNOZ0JZRkhMOU0tUWhFYzVMTmI0SVFBVmU5TDFmVWg4TWtENU9WWnB3RklPXzZJNkoyNWZFVlFOTkhFUQ?oc=5",
+            "publishedAt": "2026-10-15T17:09+00:00"
+          },
+          {
+            "title": "International Paper entertains offers for EMEA business - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGU5RVZmMHNKQzJGZWZjTUtFcUdZWmduTEVjUEtGTDZzT09hSktwYzU1d25wNnNxYzFCSnF2MzdWRjUwWUo2cUVjOS11OTR0VEIxSU5JRHRPZnVNeVo3M0FwemRsNjNEQ3VLUGRLUDBOU29WZk5wM1V0UUtKTWRIbFVuTHE1ajdRLV8wWnNxajY5ZzNxVElqXzBiV0t2SDA?oc=5",
+            "publishedAt": "2026-10-15T19:49+00:00"
           }
         ],
         "hiring": [],
         "moves": [],
         "items": [
           {
-            "title": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day - PR Newswire",
-            "source": "PR Newswire",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3RNQmdyREUwcGhSczA4MmpmUXUtRlpDdmhXcGdoOWhCXzgxMDVrYkRwazRqOEJVVm5CWmxHeXJMR3lpRmNvNHRCbDVSRkoxWUdOYzdpSHFKbTcwVzNfN19VZ1RnclJ5VVJ5TzY0dW81TnpsQXdwOEJhbEs5eTh6akVUY1Y2bk1VZXRKNlVJSDRTODhlSVZOZHJMNG1QTWc2NVpFQ0xKckVJX0pqbjc2WGZqWEo5VFVPc1Z5Y0k2SHdoNWVyaUxUbEFQalRmbVMtc2c?oc=5",
-            "publishedAt": "2026-10-14T11:00+00:00"
-          },
-          {
-            "title": "PE firms explore deals for International Paper\u2019s European packaging business, FT reports - Reuters",
+            "title": "International Paper in talks with bidders for EMEA packaging business - Reuters",
             "source": "Reuters",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1pYRjVHd1JfS3psVUJVWEZ3V2MwanlEUlU1czhuSy1MUUltZ1ZZQmxGbHNSM256NGNaSy1ub25ZT2RhcElic0lQWTF2dFVaaWh2aDFFeHc2aE5wQnBBUGZWZXFNVU1hUGRYQm4ta1ctTDM2QTROMm5FNXVLZHR1b0staXpMZzZydFlhOFVTTzB6TUd3bE96Vkt1LUM5VE5DZ2hFeHBEaWU1azUzcUNvUmJHajhqRmRoQXdRUTZ4SnNqaXlJR3VSUWtwMWY?oc=5",
-            "publishedAt": "2026-10-15T14:20+00:00"
+            "publishedAt": "2026-10-15T17:42+00:00"
           },
           {
-            "title": "Top 10: Sustainable Packaging Companies - Sustainability Magazine",
-            "source": "Sustainability Magazine",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJsNHVOQzJxQXItYmJyM1NwZVFBOU5fWHJHRS15TkdHSGlSMXU5eEgzZmY3bWswR2V3YVphUVJmcXVMS0wza213VXZFd1FGNWFad1l5VVA5b291MFIxYmxidDVpUkFwaktHem5uNXBXcEdLUlgyM0NvTG10T2doUk9rOW4wcTFPeFVHWDVxVWUzWTQ?oc=5",
-            "publishedAt": "2026-09-16T07:00+00:00"
+            "title": "STATEMENT REGARDING POSSIBLE EMEA PACKAGING BUSINESS SALE - PR Newswire",
+            "source": "PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXR1dVpoXzJSRm8wZ3VqcnM3aTRrV0V1aDk5MjdTWmpWdDBxNDdTNF9TdFJXS2dJMHM4bXlZZkdDbVV1WnU2emNmU0Fud0V1Q1VNVFJJbE5lZnNRTGtZVXp3UnZCZHZJUC1SMzdCcWV0UTY5T0NtSFNOZ0JZRkhMOU0tUWhFYzVMTmI0SVFBVmU5TDFmVWg4TWtENU9WWnB3RklPXzZJNkoyNWZFVlFOTkhFUQ?oc=5",
+            "publishedAt": "2026-10-15T17:09+00:00"
+          },
+          {
+            "title": "International Paper entertains offers for EMEA business - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGU5RVZmMHNKQzJGZWZjTUtFcUdZWmduTEVjUEtGTDZzT09hSktwYzU1d25wNnNxYzFCSnF2MzdWRjUwWUo2cUVjOS11OTR0VEIxSU5JRHRPZnVNeVo3M0FwemRsNjNEQ3VLUGRLUDBOU29WZk5wM1V0UUtKTWRIbFVuTHE1ajdRLV8wWnNxajY5ZzNxVElqXzBiV0t2SDA?oc=5",
+            "publishedAt": "2026-10-15T19:49+00:00"
           }
         ],
         "query": "\"International Paper\" packaging OR corrugated OR distribution when:30d",
@@ -335,33 +347,33 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
             "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - Paper Industry News",
             "source": "Paper Industry News",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOUNaNm03RjVoaUpRYlhHNERGN0xXVXhIQk1VWmZZZGxLd1NFZ1pTNzFfNlhCZ2VDVnZGbU9aNlZBTmdxM0RKaEEzcFludGRjVktSdWYtZnd2V2JBVkctOWE2cXctTUtucHVMSEZWcXFQQ3FHVDRDZ1l5UGVYTVZBenhlTnk3N25SQmJRT3gyRXFJN3ZkaFZ4aUI2Y0FvNkZjV0Jaa2VZbnR2NHdRUUIyTVNFS0lLc2dGUUxPQ1ZyU3I3TW1pLV9LX2MyQ1RaZGF3aUxr?oc=5",
-            "publishedAt": "2026-09-23T13:36+00:00"
-          },
-          {
-            "title": "Valparaiso council carries ordinances for Pratt Industries expansion - Chicago Tribune",
-            "source": "Chicago Tribune",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRNSnVXdVZBMUdTTVR1UTdtMlZDa05JSU5TT0RnQ0RYTWFuMzU2ZGw1T18wMTBtTVlTSU96RFJRa255R1c4ZDJFcE5lakJNV3daYUlGSlNDMnFOczFoX2xEenJxdlNEdFcxV1JxeHktTVYzUmhEblFZdVgwWlQ5cUVUMV9Rb19f?oc=5",
-            "publishedAt": "2026-09-16T07:00+00:00"
+            "publishedAt": "2026-09-23T07:00+00:00"
           },
           {
             "title": "US investigates dumping claims over imported pizza boxes - PULPAPERnews.com",
             "source": "PULPAPERnews.com",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY2l2SkxpRXo1V1hCa1JwSGZZOVZYNnZqeEhUVzFFZVRCLTdSQy1wTGNySExTME9ONzlVVzB5X0xndV9BUDg1VlRfdGVUM3ZtMy1YcWJRZXUwdi04NE81cjVBMV9sY0NOUlF3cVEwdUZKS1F6OGd4MTdhT1k3a1B6ZVhUMTBSWDlvSFZoR3Q3b0hHUE1RRnJzV1dSclNfTXdXUEE?oc=5",
             "publishedAt": "2026-10-09T08:38+00:00"
+          },
+          {
+            "title": "Iowa approves $246.5M in manufacturing incentives, backing 346 new jobs - Dealroom",
+            "source": "Dealroom",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDQybDRxTHdVQ291OWc2aUYzMmNUOWxvbnBMLVdRemU0dzA0MUZGSHdINm9FN1dNcmd3QWRlZmxXallZUVhqdDZETW1PNFRfN1dNdWpKV0taN3V6UzBtR2xacG5xcmlXamRQdGx3aGNIelp1QWl5SjVNbmxCLWRiakYycGMyTm5PNmNNRV9ROXR3enlmQjc3WnFBZVRNTjNIcUNFQktR?oc=5",
+            "publishedAt": "2026-09-19T05:14+00:00"
           }
         ],
         "hiring": [
           {
-            "title": "\ud83c\udfed Beloit, WI Manufacturing Jobs \u2013 Multiple Openings From $18+/hr - NewsBreak: Local News & Alerts",
-            "source": "NewsBreak: Local News & Alerts",
+            "title": "Iowa approves $246.5M in manufacturing incentives, backing 346 new jobs - Dealroom",
+            "source": "Dealroom",
             "url": "",
-            "publishedAt": "2026-08-20T13:45+00:00",
+            "publishedAt": "2026-09-19T05:14+00:00",
             "linkStatus": "direct_job_link_unavailable"
           }
         ],
@@ -370,13 +382,7 @@
             "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - Paper Industry News",
             "source": "Paper Industry News",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOUNaNm03RjVoaUpRYlhHNERGN0xXVXhIQk1VWmZZZGxLd1NFZ1pTNzFfNlhCZ2VDVnZGbU9aNlZBTmdxM0RKaEEzcFludGRjVktSdWYtZnd2V2JBVkctOWE2cXctTUtucHVMSEZWcXFQQ3FHVDRDZ1l5UGVYTVZBenhlTnk3N25SQmJRT3gyRXFJN3ZkaFZ4aUI2Y0FvNkZjV0Jaa2VZbnR2NHdRUUIyTVNFS0lLc2dGUUxPQ1ZyU3I3TW1pLV9LX2MyQ1RaZGF3aUxr?oc=5",
-            "publishedAt": "2026-09-23T13:36+00:00"
-          },
-          {
-            "title": "Valparaiso council carries ordinances for Pratt Industries expansion - Chicago Tribune",
-            "source": "Chicago Tribune",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRNSnVXdVZBMUdTTVR1UTdtMlZDa05JSU5TT0RnQ0RYTWFuMzU2ZGw1T18wMTBtTVlTSU96RFJRa255R1c4ZDJFcE5lakJNV3daYUlGSlNDMnFOczFoX2xEenJxdlNEdFcxV1JxeHktTVYzUmhEblFZdVgwWlQ5cUVUMV9Rb19f?oc=5",
-            "publishedAt": "2026-09-16T07:00+00:00"
+            "publishedAt": "2026-09-23T07:00+00:00"
           }
         ],
         "items": [
@@ -384,19 +390,19 @@
             "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - Paper Industry News",
             "source": "Paper Industry News",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOUNaNm03RjVoaUpRYlhHNERGN0xXVXhIQk1VWmZZZGxLd1NFZ1pTNzFfNlhCZ2VDVnZGbU9aNlZBTmdxM0RKaEEzcFludGRjVktSdWYtZnd2V2JBVkctOWE2cXctTUtucHVMSEZWcXFQQ3FHVDRDZ1l5UGVYTVZBenhlTnk3N25SQmJRT3gyRXFJN3ZkaFZ4aUI2Y0FvNkZjV0Jaa2VZbnR2NHdRUUIyTVNFS0lLc2dGUUxPQ1ZyU3I3TW1pLV9LX2MyQ1RaZGF3aUxr?oc=5",
-            "publishedAt": "2026-09-23T13:36+00:00"
-          },
-          {
-            "title": "Valparaiso council carries ordinances for Pratt Industries expansion - Chicago Tribune",
-            "source": "Chicago Tribune",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRNSnVXdVZBMUdTTVR1UTdtMlZDa05JSU5TT0RnQ0RYTWFuMzU2ZGw1T18wMTBtTVlTSU96RFJRa255R1c4ZDJFcE5lakJNV3daYUlGSlNDMnFOczFoX2xEenJxdlNEdFcxV1JxeHktTVYzUmhEblFZdVgwWlQ5cUVUMV9Rb19f?oc=5",
-            "publishedAt": "2026-09-16T07:00+00:00"
+            "publishedAt": "2026-09-23T07:00+00:00"
           },
           {
             "title": "US investigates dumping claims over imported pizza boxes - PULPAPERnews.com",
             "source": "PULPAPERnews.com",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY2l2SkxpRXo1V1hCa1JwSGZZOVZYNnZqeEhUVzFFZVRCLTdSQy1wTGNySExTME9ONzlVVzB5X0xndV9BUDg1VlRfdGVUM3ZtMy1YcWJRZXUwdi04NE81cjVBMV9sY0NOUlF3cVEwdUZKS1F6OGd4MTdhT1k3a1B6ZVhUMTBSWDlvSFZoR3Q3b0hHUE1RRnJzV1dSclNfTXdXUEE?oc=5",
             "publishedAt": "2026-10-09T08:38+00:00"
+          },
+          {
+            "title": "Iowa approves $246.5M in manufacturing incentives, backing 346 new jobs - Dealroom",
+            "source": "Dealroom",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDQybDRxTHdVQ291OWc2aUYzMmNUOWxvbnBMLVdRemU0dzA0MUZGSHdINm9FN1dNcmd3QWRlZmxXallZUVhqdDZETW1PNFRfN1dNdWpKV0taN3V6UzBtR2xacG5xcmlXamRQdGx3aGNIelp1QWl5SjVNbmxCLWRiakYycGMyTm5PNmNNRV9ROXR3enlmQjc3WnFBZVRNTjNIcUNFQktR?oc=5",
+            "publishedAt": "2026-09-19T05:14+00:00"
           }
         ],
         "query": "\"Pratt Industries\" packaging OR corrugated OR distribution when:30d",
@@ -413,8 +419,14 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
+          {
+            "title": "Smurfit Westrock to acquire Chilean containerboard assets - Recycling Today",
+            "source": "Recycling Today",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUg5WmVGZ1hfb1dpT29NZjFzYy1SQkVPdXA5UXBvdV9oczZoQ3I5bHBxMm80elhrbmxCeEo3ek1PdkNqUHJLeU1sUEtOeDdVWktCV2FPNGV4WmFUblpTNTBBUFhJUFpneEY5OFZNbm00WjBRSmdQN0QwWVBYZi1nUHpoM2VfNHh6U250bmNMYjd0LVg3ZmZ5cU9RdWZWVklIYUJFY3JVX3p2NEk4VnYwMzV3?oc=5",
+            "publishedAt": "2026-09-28T07:00+00:00"
+          },
           {
             "title": "Smurfit Westrock to acquire CMPC\u2019s Chilean packaging assets - Yahoo Finance",
             "source": "Yahoo Finance",
@@ -426,18 +438,18 @@
             "source": "The Business Journals",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0hXRTN6TGZ5NkM4MmR0TTdrM0dfSlNuSDE5alJldHFsUHhmZlF3WnJsdFVoWnZ4QkI3ZEJjZ29Tc1p2N2wxTV9fR3o1d2U5NzMxcHh3WGxSUmdxSEVEYXJTbGdTTWVDQ3hWLVAtOGl4dW1NNklPa21XS05BVVBWN3FBQVBKXy13bjFZZktpdnRoV0NxQmdqWUQwV1JBdw?oc=5",
             "publishedAt": "2026-09-23T07:00+00:00"
-          },
-          {
-            "title": "'No justification for 55 job losses' at packaging company, says union - BBC",
-            "source": "BBC",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2VVJpbklMLXVBdV9iTWhJNU85SFVsZDZER3Vqbk1oZ2RWNkxxbWJKRnJLS1RpN0lENkpXX2FqYk02UG8xaEF4Nk52MDJqeURqbGJXd3FNM2daRTA?oc=5",
-            "publishedAt": "2026-09-24T07:00+00:00"
           }
         ],
         "hiring": [],
         "moves": [],
         "items": [
           {
+            "title": "Smurfit Westrock to acquire Chilean containerboard assets - Recycling Today",
+            "source": "Recycling Today",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUg5WmVGZ1hfb1dpT29NZjFzYy1SQkVPdXA5UXBvdV9oczZoQ3I5bHBxMm80elhrbmxCeEo3ek1PdkNqUHJLeU1sUEtOeDdVWktCV2FPNGV4WmFUblpTNTBBUFhJUFpneEY5OFZNbm00WjBRSmdQN0QwWVBYZi1nUHpoM2VfNHh6U250bmNMYjd0LVg3ZmZ5cU9RdWZWVklIYUJFY3JVX3p2NEk4VnYwMzV3?oc=5",
+            "publishedAt": "2026-09-28T07:00+00:00"
+          },
+          {
             "title": "Smurfit Westrock to acquire CMPC\u2019s Chilean packaging assets - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlZobjN6WTVtNVNNamt3bTdwOG03UFhaWURjQkhOMndLaEczdnIyQ1hBazI0S05zcmR0QkphUDBpaGh4MVQtb2daVjBPNkxrOFhuWXhtUEpFQlIzVmc2am9xbjJ2dW83TzhIMWl4MmJSWUtMcU43MWtoa1loeGFMN19SUGo3TjA3MlE0eExmZlI2VDlnOGZnMkViQ3ZwNE0?oc=5",
@@ -448,12 +460,6 @@
             "source": "The Business Journals",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0hXRTN6TGZ5NkM4MmR0TTdrM0dfSlNuSDE5alJldHFsUHhmZlF3WnJsdFVoWnZ4QkI3ZEJjZ29Tc1p2N2wxTV9fR3o1d2U5NzMxcHh3WGxSUmdxSEVEYXJTbGdTTWVDQ3hWLVAtOGl4dW1NNklPa21XS05BVVBWN3FBQVBKXy13bjFZZktpdnRoV0NxQmdqWUQwV1JBdw?oc=5",
             "publishedAt": "2026-09-23T07:00+00:00"
-          },
-          {
-            "title": "'No justification for 55 job losses' at packaging company, says union - BBC",
-            "source": "BBC",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2VVJpbklMLXVBdV9iTWhJNU85SFVsZDZER3Vqbk1oZ2RWNkxxbWJKRnJLS1RpN0lENkpXX2FqYk02UG8xaEF4Nk52MDJqeURqbGJXd3FNM2daRTA?oc=5",
-            "publishedAt": "2026-09-24T07:00+00:00"
           }
         ],
         "query": "\"WestRock\" packaging OR corrugated OR distribution when:30d",
@@ -470,8 +476,14 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
+          {
+            "title": "International Paper in talks with bidders for EMEA packaging business - Reuters",
+            "source": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1pYRjVHd1JfS3psVUJVWEZ3V2MwanlEUlU1czhuSy1MUUltZ1ZZQmxGbHNSM256NGNaSy1ub25ZT2RhcElic0lQWTF2dFVaaWh2aDFFeHc2aE5wQnBBUGZWZXFNVU1hUGRYQm4ta1ctTDM2QTROMm5FNXVLZHR1b0staXpMZzZydFlhOFVTTzB6TUd3bE96Vkt1LUM5VE5DZ2hFeHBEaWU1azUzcUNvUmJHajhqRmRoQXdRUTZ4SnNqaXlJR3VSUWtwMWY?oc=5",
+            "publishedAt": "2026-10-15T17:42+00:00"
+          },
           {
             "title": "Private equity interest endangers London float of former DS Smith business - Financial Times",
             "source": "Financial Times",
@@ -479,16 +491,10 @@
             "publishedAt": "2026-10-15T13:13+00:00"
           },
           {
-            "title": "Accenture and osapiens Make DS Smith\u2019s Global Supply Chain More Transparent and Ready for Evolving EU Regulation - Business Wire",
-            "source": "Business Wire",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVWgtNXI3a3hsY0Rrb2FKbnA2RTE2MmtNTFBFQmx2dXExdnBzT05udVFKd3ZOVGU1WVppM0taWEp0clZEeTJBZXpjQkRfMHhfQUtkSkJ0a2d4SzI4aVY5R1RRSkF6WnNkd0VodkN2ZFdBdE93Q084ZS1FVUJYNUNEYTB1UkM2bHJDZ19QLVU3MFRsR2tLSmdfV01jYzRtdkU1T1lRY3dhRjh4d3JGeEhDcTRNMDY0UWF6dHlFVXJRQ29QdHlCaU4tYkkwRGhDbnJjX0g4YmVJVi1XaXktUy02d0ZtZzBSa3dQSzhfbDdZR3Fsem1faEpZOE1qMmE?oc=5",
-            "publishedAt": "2026-09-27T07:00+00:00"
-          },
-          {
-            "title": "International Paper gains amid report PE firms exploring bids for DS Smith (IP:NYSE) - Seeking Alpha",
-            "source": "Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3V4Ul9saXFaaVBXSUZxSEg3bHZfcjFzT2FhOVQ2MDd2QThoc2h1V0YxUGp4MUlCaEg1S3BPXzVHcGZSY3BBMWI0QnhQc1A2aFlxSjhCdlJibUFhS2FkcktTSzlGQ3N0OVZ6a1dqOE5EdHBpdm9nQ3dpbmxmcXFNdGtYVENiMXAtaWJHMHQ3aVhRbGEyNzlTdnZUMU9IM1JhLUxCYnNfdDFESXRGUjFvVzZB?oc=5",
-            "publishedAt": "2026-10-15T14:42+00:00"
+            "title": "International Paper entertains offers for EMEA business - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGU5RVZmMHNKQzJGZWZjTUtFcUdZWmduTEVjUEtGTDZzT09hSktwYzU1d25wNnNxYzFCSnF2MzdWRjUwWUo2cUVjOS11OTR0VEIxSU5JRHRPZnVNeVo3M0FwemRsNjNEQ3VLUGRLUDBOU29WZk5wM1V0UUtKTWRIbFVuTHE1ajdRLV8wWnNxajY5ZzNxVElqXzBiV0t2SDA?oc=5",
+            "publishedAt": "2026-10-15T19:49+00:00"
           }
         ],
         "hiring": [
@@ -503,22 +509,22 @@
         "moves": [],
         "items": [
           {
+            "title": "International Paper in talks with bidders for EMEA packaging business - Reuters",
+            "source": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1pYRjVHd1JfS3psVUJVWEZ3V2MwanlEUlU1czhuSy1MUUltZ1ZZQmxGbHNSM256NGNaSy1ub25ZT2RhcElic0lQWTF2dFVaaWh2aDFFeHc2aE5wQnBBUGZWZXFNVU1hUGRYQm4ta1ctTDM2QTROMm5FNXVLZHR1b0staXpMZzZydFlhOFVTTzB6TUd3bE96Vkt1LUM5VE5DZ2hFeHBEaWU1azUzcUNvUmJHajhqRmRoQXdRUTZ4SnNqaXlJR3VSUWtwMWY?oc=5",
+            "publishedAt": "2026-10-15T17:42+00:00"
+          },
+          {
             "title": "Private equity interest endangers London float of former DS Smith business - Financial Times",
             "source": "Financial Times",
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDJNV0RBaWJzSkIxSGNpOUtaRDNPV0tHTXEwYTY2cUw0R2xZc2RWbGFSS3E1MzFMa2YzRjJrMlZNUlZIaXFsZHFwcTJ4Mk1ZMXIwdU9jdExTeUxmdWVJQm1qVWNGNW9vcWlxVXRnanVQTXlTamJGWmhCRktJTFVXclBYRGI?oc=5",
             "publishedAt": "2026-10-15T13:13+00:00"
           },
           {
-            "title": "Accenture and osapiens Make DS Smith\u2019s Global Supply Chain More Transparent and Ready for Evolving EU Regulation - Business Wire",
-            "source": "Business Wire",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVWgtNXI3a3hsY0Rrb2FKbnA2RTE2MmtNTFBFQmx2dXExdnBzT05udVFKd3ZOVGU1WVppM0taWEp0clZEeTJBZXpjQkRfMHhfQUtkSkJ0a2d4SzI4aVY5R1RRSkF6WnNkd0VodkN2ZFdBdE93Q084ZS1FVUJYNUNEYTB1UkM2bHJDZ19QLVU3MFRsR2tLSmdfV01jYzRtdkU1T1lRY3dhRjh4d3JGeEhDcTRNMDY0UWF6dHlFVXJRQ29QdHlCaU4tYkkwRGhDbnJjX0g4YmVJVi1XaXktUy02d0ZtZzBSa3dQSzhfbDdZR3Fsem1faEpZOE1qMmE?oc=5",
-            "publishedAt": "2026-09-27T07:00+00:00"
-          },
-          {
-            "title": "International Paper gains amid report PE firms exploring bids for DS Smith (IP:NYSE) - Seeking Alpha",
-            "source": "Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3V4Ul9saXFaaVBXSUZxSEg3bHZfcjFzT2FhOVQ2MDd2QThoc2h1V0YxUGp4MUlCaEg1S3BPXzVHcGZSY3BBMWI0QnhQc1A2aFlxSjhCdlJibUFhS2FkcktTSzlGQ3N0OVZ6a1dqOE5EdHBpdm9nQ3dpbmxmcXFNdGtYVENiMXAtaWJHMHQ3aVhRbGEyNzlTdnZUMU9IM1JhLUxCYnNfdDFESXRGUjFvVzZB?oc=5",
-            "publishedAt": "2026-10-15T14:42+00:00"
+            "title": "International Paper entertains offers for EMEA business - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGU5RVZmMHNKQzJGZWZjTUtFcUdZWmduTEVjUEtGTDZzT09hSktwYzU1d25wNnNxYzFCSnF2MzdWRjUwWUo2cUVjOS11OTR0VEIxSU5JRHRPZnVNeVo3M0FwemRsNjNEQ3VLUGRLUDBOU29WZk5wM1V0UUtKTWRIbFVuTHE1ajdRLV8wWnNxajY5ZzNxVElqXzBiV0t2SDA?oc=5",
+            "publishedAt": "2026-10-15T19:49+00:00"
           }
         ],
         "query": "\"DS Smith\" packaging OR corrugated OR distribution when:30d",
@@ -535,8 +541,14 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
+          {
+            "title": "Three key recommendations for balancing automation and compliance in packaging - Automotive Logistics",
+            "source": "Automotive Logistics",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeUtEcVhJQ3FFai1LVDQ3SDY4MHk5NHN6UjhKNmpqSEJDanlfQ0o2MkdITEJiQTNKWmgtZVdjX2FldVdJaXpiLWVnOV9LRHp1Wnh5cExkVjFxMzR3SGZEM1d1R3VHOW9ET2lfWEpaNUVXZEViRXhVb05vbm9Oc3ZiRGYzcVpUTmNmeGV6ZGhBOWtEUW9GYTVwVUo0T2lqQWthZmlYY0QzMVlXUVR5N2pTc3l5NmtNVmdhVTZYRnI0b09NeW1hT3MzOEN1SllkclU?oc=5",
+            "publishedAt": "2026-10-16T10:54+00:00"
+          },
           {
             "title": "Downgauged Stretch Films: HCCB Uses 17\u00b5m Nano Cast Film to Reduce Packaging Material - Trend Hunter",
             "source": "Trend Hunter",
@@ -544,38 +556,32 @@
             "publishedAt": "2026-09-30T07:00+00:00"
           },
           {
-            "title": "64 GB for 300 Euros? How a Used RAM Kit Can Turn Out to Be a Sham - igor\u00b4sLAB",
-            "source": "igor\u00b4sLAB",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tYm04azZzeThIT29HQjRaMi1iQ09VN01xdGFDNmVmVGR0Nmh3UnN5NTFRQ1cwcHpPYk14TUNvWGs2ZDJ5b0hlNnpsdW9KREx5eHBkemdoNFF3Z25MN3hsUWQxUE11S1ZwSThYWnRZVEd2MFk?oc=5",
-            "publishedAt": "2026-10-03T07:00+00:00"
-          },
-          {
-            "title": "Aerosol Packaging Market Size, Share, Segmentation, Regional Analysis, Competitive Landscape & Forecast 2026\u20132035 - Market Business Insights",
-            "source": "Market Business Insights",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LcWJybmZnQjZZNElUb0FiZGZvUXdFbmkxRFY1b2hxTWYwYjJwOU5uWGV0SlVpLVc4VUt3R3NoUmFVeU9udDBTYXp3SFkxVFZuVDJFVTFwQzZ2cmxFZFlYMnNIdU5TYmo3c1RGdVJWSkcyUQ?oc=5",
-            "publishedAt": "2026-10-02T20:41+00:00"
+            "title": "Recycled Mixed Metal Scrap Market Forecast to 2035: Growth Momentum Builds on Circular Economy Mandates - News and Statistics - IndexBox",
+            "source": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMENGWTBsdThRcXBJQURYQWMtNDQzc0NuNEZWMmJNYjJlM3ZhOS1kVmZjQWVlS0hTWU1xNGQ4TE9XSWVydG1lRHVHWkJyc2NaVUNmZ0NVM0FBVlh6VklSdEgtTFRPbTJ4aTZaSmlVM3d2clhISnFvU0lncDg3ZnhVTnpyM1pDeHFmNkw4bUhGY1c4UW9KaWE3emlzdFZFVkcyZk0ydkZQam54WVprWV9WbVFBTzFueUt3TXp5UVpiRTZ5eHM2dFhNNlowd29fdEszbU44Vk9US1RnSGk0?oc=5",
+            "publishedAt": "2026-10-16T14:46+00:00"
           }
         ],
         "hiring": [],
         "moves": [],
         "items": [
           {
+            "title": "Three key recommendations for balancing automation and compliance in packaging - Automotive Logistics",
+            "source": "Automotive Logistics",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeUtEcVhJQ3FFai1LVDQ3SDY4MHk5NHN6UjhKNmpqSEJDanlfQ0o2MkdITEJiQTNKWmgtZVdjX2FldVdJaXpiLWVnOV9LRHp1Wnh5cExkVjFxMzR3SGZEM1d1R3VHOW9ET2lfWEpaNUVXZEViRXhVb05vbm9Oc3ZiRGYzcVpUTmNmeGV6ZGhBOWtEUW9GYTVwVUo0T2lqQWthZmlYY0QzMVlXUVR5N2pTc3l5NmtNVmdhVTZYRnI0b09NeW1hT3MzOEN1SllkclU?oc=5",
+            "publishedAt": "2026-10-16T10:54+00:00"
+          },
+          {
             "title": "Downgauged Stretch Films: HCCB Uses 17\u00b5m Nano Cast Film to Reduce Packaging Material - Trend Hunter",
             "source": "Trend Hunter",
             "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GREhGRU83VGNUdXBmeHgtblpZVnFHY3NibjJEaDVmbnhteHZudkJrenZ5c2ktMTFPNnhraGV4cjBsYm9vZHpsOEpJVlpMZ2NpTHp3ZUx1TmhzSUs2Tk1YYjRSOA?oc=5",
             "publishedAt": "2026-09-30T07:00+00:00"
           },
           {
-            "title": "64 GB for 300 Euros? How a Used RAM Kit Can Turn Out to Be a Sham - igor\u00b4sLAB",
-            "source": "igor\u00b4sLAB",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tYm04azZzeThIT29HQjRaMi1iQ09VN01xdGFDNmVmVGR0Nmh3UnN5NTFRQ1cwcHpPYk14TUNvWGs2ZDJ5b0hlNnpsdW9KREx5eHBkemdoNFF3Z25MN3hsUWQxUE11S1ZwSThYWnRZVEd2MFk?oc=5",
-            "publishedAt": "2026-10-03T07:00+00:00"
-          },
-          {
-            "title": "Aerosol Packaging Market Size, Share, Segmentation, Regional Analysis, Competitive Landscape & Forecast 2026\u20132035 - Market Business Insights",
-            "source": "Market Business Insights",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LcWJybmZnQjZZNElUb0FiZGZvUXdFbmkxRFY1b2hxTWYwYjJwOU5uWGV0SlVpLVc4VUt3R3NoUmFVeU9udDBTYXp3SFkxVFZuVDJFVTFwQzZ2cmxFZFlYMnNIdU5TYmo3c1RGdVJWSkcyUQ?oc=5",
-            "publishedAt": "2026-10-02T20:41+00:00"
+            "title": "Recycled Mixed Metal Scrap Market Forecast to 2035: Growth Momentum Builds on Circular Economy Mandates - News and Statistics - IndexBox",
+            "source": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMENGWTBsdThRcXBJQURYQWMtNDQzc0NuNEZWMmJNYjJlM3ZhOS1kVmZjQWVlS0hTWU1xNGQ4TE9XSWVydG1lRHVHWkJyc2NaVUNmZ0NVM0FBVlh6VklSdEgtTFRPbTJ4aTZaSmlVM3d2clhISnFvU0lncDg3ZnhVTnpyM1pDeHFmNkw4bUhGY1c4UW9KaWE3emlzdFZFVkcyZk0ydkZQam54WVprWV9WbVFBTzFueUt3TXp5UVpiRTZ5eHM2dFhNNlowd29fdEszbU44Vk9US1RnSGk0?oc=5",
+            "publishedAt": "2026-10-16T14:46+00:00"
           }
         ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -592,7 +598,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
             "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
@@ -656,7 +662,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - PR Newswire",
@@ -732,7 +738,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [
           {
             "title": "Paul A. Hadley Obituary (2026) - Aloha, OR - Springer and Son - Aloha Funeral Home & Crematory - Legacy | Obituary",
@@ -798,7 +804,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [],
         "hiring": [
           {
@@ -825,7 +831,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-15T17:48+00:00",
+        "lastUpdated": "2026-10-16T17:31+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -837,8 +843,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-15T17:48+00:00",
-  "lastSuccessfulAt": "2026-10-15T17:48+00:00",
+  "lastAttemptedAt": "2026-10-16T17:31+00:00",
+  "lastSuccessfulAt": "2026-10-16T17:31+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
