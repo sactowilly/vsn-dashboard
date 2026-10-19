@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T17:31+00:00",
+  "lastUpdated": "2026-10-19T19:22+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,59 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "9 km WNW of Anza, CA",
-      "severity": "Low"
+      "region": "203 km WNW of Port-Olry, Vanuatu",
+      "severity": "High"
     },
     {
       "type": "Earthquake",
-      "region": "21 km SSW of Trapper Creek, Alaska",
+      "region": "198 km NW of Port-Olry, Vanuatu",
+      "severity": "High"
+    },
+    {
+      "type": "Earthquake",
+      "region": "88 km WNW of Hihifo, Tonga",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "9 km WNW of The Geysers, CA",
+      "region": "62 km ENE of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "73 km NNE of Port Alsworth, Alaska",
+      "region": "16 km SSW of Jal, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "18 km SSE of Skwentna, Alaska",
+      "region": "44 km WNW of Valdez, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "22 km SSW of Ester, Alaska",
+      "region": "17 km SW of Jal, New Mexico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "26 km WSW of Westley, CA",
+      "region": "17 km SW of Jal, New Mexico",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "34 km NNW of Chickaloon, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Beach Hazards Statement issued October 16 at 9:31AM PDT until October 18 at 9:00PM PDT by NWS San Francisco CA",
-      "region": "San Francisco; Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "type": "Beach Hazards Statement issued October 19 at 1:23AM PDT until October 20 at 9:00AM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued October 16 at 9:31AM PDT until October 16 at 10:00PM PDT by NWS Hanford CA",
-      "region": "Indian Wells Valley; Mojave Desert Slopes; Mojave Desert",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued October 16 at 5:10AM PDT until October 17 at 12:00PM PDT by NWS San Diego CA",
-      "region": "Orange County Inland",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Heat Advisory issued October 16 at 5:10AM PDT until October 17 at 8:00PM PDT by NWS San Diego CA",
-      "region": "Orange County Inland",
+      "type": "Beach Hazards Statement issued October 18 at 12:31PM PDT until October 20 at 9:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-16T17:31+00:00",
-  "lastSuccessfulAt": "2026-10-16T17:31+00:00",
+  "lastAttemptedAt": "2026-10-19T19:22+00:00",
+  "lastSuccessfulAt": "2026-10-19T19:22+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
