@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T19:22+00:00",
+  "lastUpdated": "2026-10-20T18:02+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -24,7 +24,7 @@
       "title": "Amid push for recycled fiber packaging, virgin demand remains strong - Packaging Dive",
       "source": "Packaging Dive",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEd1cHlyUVZSdUxTeTlENTZjdGs2ZHJOZ0RBOTYtWU5iTERfS2pFREVnb3hxaHoyMm0yTEo3NXh6X0xYeGVjMkdEQVd4dkFVemZTYUVvZzlUbHJUcFlVd2l2MWgxY3NOZ2tFU3BPR05Ia1FNb24tQ1FGSkN6c3R1UmhYanNvUG8?oc=5",
-      "publishedAt": "2026-10-12T16:41+00:00",
+      "publishedAt": "2026-10-12T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -32,6 +32,13 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnZUNnFzVlRjdG9nUFpUaEFBUVNGRkFmaEtlNFlmLUFZTFl0bnlkSENKMGI5RmhrV2Y3Tmd3VENQT2xKeEV5MWlITk1zOXhSMHBtNGdVWDJHdFA2OExYakJ4N0dsa2lQSmQ0b1NyV0JuSkFKeEhfMzhpYnh2ZzJLRkhtSjNmOUlvcUpxNDRmN0V3R1hTNVYw?oc=5",
       "publishedAt": "2026-10-19T00:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Virginia Tech Packaging Innovation Hub will offer packaging solutions from materials to marketplace - Virginia Tech News",
+      "source": "Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EcE45VDNpRHRlQ25CWjFSVXlITF83RXdzTzlhaVM2SkVaT3FhRGhCRUZRSDhvckcwR0tCNmJqcVM1aFpZd2VuV1dWUVZIRF9yMnJOWDNaTm1PNHRjcnVXbE9mWDUyUQ?oc=5",
+      "publishedAt": "2026-10-15T19:05+00:00",
       "impact": "Low"
     },
     {
@@ -56,13 +63,6 @@
       "impact": "Low"
     },
     {
-      "title": "AWA bringing insight, data to label and packaging industry with two events - Label and Narrow Web",
-      "source": "Label and Narrow Web",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1c5a1JoNUVRUmdReFlFVmF2ckc5Y2JvYVBlRGV5Z0ZhT0tuWkNOa05IZlBjNVVCdFZPaURsWC1NN3N3anFNREtZOEMxYTFxZUtPRVJDVUZoclczZ1JxZ2FCLWNQS29nd2N6RUszblJPWVE3dTNibVpxWC1uZFRQY3hkREN0cmFRWEp5NzhEZGNURUsyZVRYR0FuRHVSV0ZoWjlVamxHd1IyaGtzOWpIZjNINUZ6TkVHeElz?oc=5",
-      "publishedAt": "2026-10-08T13:45+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "City recyclers across Colorado can now ask for reimbursement as part of state program charging packaging producers - The Colorado Sun",
       "source": "The Colorado Sun",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUHVaQnJUVXBTQ0JfemV5NXkwcWdkX0EtSS14c25ycC1jd1Y1OWR6a1JqbThRZUl3NmRLZ055NFRkYW9DRnBnS21KZlhaVWVvWFhqSGE3T2ZnQnl0bHJNcFlYWGJJZ0JaaXJmSHBPYlFEWTF2WDdXMXhxQVhBQmlHTnZqWlpKYWttbE1BdzZ6NW8?oc=5",
@@ -72,8 +72,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-19T19:22+00:00",
-  "lastSuccessfulAt": "2026-10-19T19:22+00:00",
+  "lastAttemptedAt": "2026-10-20T18:02+00:00",
+  "lastSuccessfulAt": "2026-10-20T18:02+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

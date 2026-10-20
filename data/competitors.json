@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T19:22+00:00",
+  "lastUpdated": "2026-10-20T18:02+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "PCA to close full-line plant in Ohio - Packaging Dive",
@@ -96,7 +96,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "Veritiv Launches Cold-Chain Canister Amid GLP-1 Surge - Packaging Digest",
@@ -161,8 +161,14 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
+          {
+            "title": "Tracking packaging mergers and acquisitions in 2026 - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUxfSkI0Q1hJcmUwUDZDX0hXLUVLX3lXZnFkZXBxbWxaWUdSXzdVbGJEenBhN1hwblNQM05MU3lnOVVZUnR5LW5XeGg5T0lQOW1jTjRkLVVxN0ZYaEY1a0pDdHVYR2tkejlLVWtYWHBqUjRyZDhGTVdJNUF2Y1o4dmE0SXJUYmlBSVJaaW5TaS1QOWxGSURoajNmMWJ0TDY0WnQwaw?oc=5",
+            "publishedAt": "2026-10-15T07:00+00:00"
+          },
           {
             "title": "Tillis\u2019 Imperial Brady Leadership Agenda Built on Scale, Speed and Local Service - Total Food Service",
             "source": "Total Food Service",
@@ -177,8 +183,21 @@
           }
         ],
         "hiring": [],
-        "moves": [],
+        "moves": [
+          {
+            "title": "Tracking packaging mergers and acquisitions in 2026 - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUxfSkI0Q1hJcmUwUDZDX0hXLUVLX3lXZnFkZXBxbWxaWUdSXzdVbGJEenBhN1hwblNQM05MU3lnOVVZUnR5LW5XeGg5T0lQOW1jTjRkLVVxN0ZYaEY1a0pDdHVYR2tkejlLVWtYWHBqUjRyZDhGTVdJNUF2Y1o4dmE0SXJUYmlBSVJaaW5TaS1QOWxGSURoajNmMWJ0TDY0WnQwaw?oc=5",
+            "publishedAt": "2026-10-15T07:00+00:00"
+          }
+        ],
         "items": [
+          {
+            "title": "Tracking packaging mergers and acquisitions in 2026 - Packaging Dive",
+            "source": "Packaging Dive",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUxfSkI0Q1hJcmUwUDZDX0hXLUVLX3lXZnFkZXBxbWxaWUdSXzdVbGJEenBhN1hwblNQM05MU3lnOVVZUnR5LW5XeGg5T0lQOW1jTjRkLVVxN0ZYaEY1a0pDdHVYR2tkejlLVWtYWHBqUjRyZDhGTVdJNUF2Y1o4dmE0SXJUYmlBSVJaaW5TaS1QOWxGSURoajNmMWJ0TDY0WnQwaw?oc=5",
+            "publishedAt": "2026-10-15T07:00+00:00"
+          },
           {
             "title": "Tillis\u2019 Imperial Brady Leadership Agenda Built on Scale, Speed and Local Service - Total Food Service",
             "source": "Total Food Service",
@@ -206,7 +225,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
@@ -278,7 +297,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "International Paper in talks with bidders for EMEA packaging business - Reuters",
@@ -335,7 +354,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "Pratt Industries to Invest $97.6 Million to Construct Corrugated Packaging Plant in Iowa - Paper Industry News",
@@ -413,7 +432,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "Smurfit Westrock to acquire CMPC\u2019s Chilean packaging assets - Yahoo Finance",
@@ -470,7 +489,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "International Paper in talks with bidders for EMEA packaging business - Reuters",
@@ -535,7 +554,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "Three key recommendations for balancing automation and compliance in packaging - Automotive Logistics",
@@ -544,16 +563,16 @@
             "publishedAt": "2026-10-16T10:54+00:00"
           },
           {
-            "title": "Downgauged Stretch Films: HCCB Uses 17\u00b5m Nano Cast Film to Reduce Packaging Material - Trend Hunter",
-            "source": "Trend Hunter",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GREhGRU83VGNUdXBmeHgtblpZVnFHY3NibjJEaDVmbnhteHZudkJrenZ5c2ktMTFPNnhraGV4cjBsYm9vZHpsOEpJVlpMZ2NpTHp3ZUx1TmhzSUs2Tk1YYjRSOA?oc=5",
-            "publishedAt": "2026-09-30T07:00+00:00"
-          },
-          {
             "title": "The Paper and Paperboard Packaging Market Benefits from E-Commerce SKU Expansion, Plastic Restrictions - EIN Presswire",
             "source": "EIN Presswire",
             "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2VrU2FNYndTQlp3RVhQMzdpeUhLQmtYYUVuR2VWU1FuMGIzMlRFV1EzalZvcWtvNnloNlFVRHFlWmpCTkpGUFdOaVdrdjJFSnlNU0otdXB1Qmx1NHZOckhIUEF1eW5yZllSa2diMEJJWi1fd21qLWs5Mnhybng5SEQ2WjF4WV9CTjVyeFlxbktCbmdmdjFKU1d0QzZlZW0wNUE0NEx0VGpxYkM5cmxKdXRVZkdqTGMwbldGWTVOMmlSeXFtOXRxVjBBSmdhTjF5VXcyZjRaajRJX3k4T3luVDZB?oc=5",
             "publishedAt": "2026-10-19T12:23+00:00"
+          },
+          {
+            "title": "64 GB for 300 Euros? How a Used RAM Kit Can Turn Out to Be a Sham - igor\u00b4sLAB",
+            "source": "igor\u00b4sLAB",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tYm04azZzeThIT29HQjRaMi1iQ09VN01xdGFDNmVmVGR0Nmh3UnN5NTFRQ1cwcHpPYk14TUNvWGs2ZDJ5b0hlNnpsdW9KREx5eHBkemdoNFF3Z25MN3hsUWQxUE11S1ZwSThYWnRZVEd2MFk?oc=5",
+            "publishedAt": "2026-10-03T07:00+00:00"
           }
         ],
         "hiring": [],
@@ -573,16 +592,16 @@
             "publishedAt": "2026-10-16T10:54+00:00"
           },
           {
-            "title": "Downgauged Stretch Films: HCCB Uses 17\u00b5m Nano Cast Film to Reduce Packaging Material - Trend Hunter",
-            "source": "Trend Hunter",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GREhGRU83VGNUdXBmeHgtblpZVnFHY3NibjJEaDVmbnhteHZudkJrenZ5c2ktMTFPNnhraGV4cjBsYm9vZHpsOEpJVlpMZ2NpTHp3ZUx1TmhzSUs2Tk1YYjRSOA?oc=5",
-            "publishedAt": "2026-09-30T07:00+00:00"
-          },
-          {
             "title": "The Paper and Paperboard Packaging Market Benefits from E-Commerce SKU Expansion, Plastic Restrictions - EIN Presswire",
             "source": "EIN Presswire",
             "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2VrU2FNYndTQlp3RVhQMzdpeUhLQmtYYUVuR2VWU1FuMGIzMlRFV1EzalZvcWtvNnloNlFVRHFlWmpCTkpGUFdOaVdrdjJFSnlNU0otdXB1Qmx1NHZOckhIUEF1eW5yZllSa2diMEJJWi1fd21qLWs5Mnhybng5SEQ2WjF4WV9CTjVyeFlxbktCbmdmdjFKU1d0QzZlZW0wNUE0NEx0VGpxYkM5cmxKdXRVZkdqTGMwbldGWTVOMmlSeXFtOXRxVjBBSmdhTjF5VXcyZjRaajRJX3k4T3luVDZB?oc=5",
             "publishedAt": "2026-10-19T12:23+00:00"
+          },
+          {
+            "title": "64 GB for 300 Euros? How a Used RAM Kit Can Turn Out to Be a Sham - igor\u00b4sLAB",
+            "source": "igor\u00b4sLAB",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tYm04azZzeThIT29HQjRaMi1iQ09VN01xdGFDNmVmVGR0Nmh3UnN5NTFRQ1cwcHpPYk14TUNvWGs2ZDJ5b0hlNnpsdW9KREx5eHBkemdoNFF3Z25MN3hsUWQxUE11S1ZwSThYWnRZVEd2MFk?oc=5",
+            "publishedAt": "2026-10-03T07:00+00:00"
           }
         ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -599,7 +618,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
@@ -663,7 +682,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - Packaging World",
@@ -672,16 +691,16 @@
             "publishedAt": "2026-10-06T03:32+00:00"
           },
           {
+            "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
+            "source": "Packaging Strategies",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2VnbW1TUlhCSHVlc2o0N1pnSkNicWtKX0t4cFItS0E0ZHVyVGVXNDhPaDJoc1hxUVotWTBIWTM1T3NRV3ZPcVp6VlNCY2MzS2Z2Zy0wemprcENYVWNnTG5iUjVCaGc4cVp3Q2MzbTlHQUlZSXlLTUE4S2NqWjJubXQwSVU3c3R5dVJIS2I0Y0thN2FZbkpTRTNWMnBPajNlQUNOd2Q0c2gtTWJaTlFqRFhIN0JGSmI3Q0ExaE5aTlFNVHRQMWc?oc=5",
+            "publishedAt": "2026-10-06T07:00+00:00"
+          },
+          {
             "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVl5MkZQdGJlUS1WdllGX1d4LXVMSzBXb1FQM0twc0pXNXdUR21zSFNGRDU2d2NsYzNzRkJNMzNlbUY1NVlvZXowajZielZ3QkhzbmRJNElyQXRLNTVGWEdRVExhNnhKTFZqRTZVdTN6SXJfTjVlcElQcXVGa2ltSTFmdmdVNGZ0TDNTcWZoVlk3cGN6VmhmQ1JHazBhZzNOdXFEa3F6UQ?oc=5",
             "publishedAt": "2026-10-02T14:59+00:00"
-          },
-          {
-            "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
-            "source": "Packaging Strategies",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2VnbW1TUlhCSHVlc2o0N1pnSkNicWtKX0t4cFItS0E0ZHVyVGVXNDhPaDJoc1hxUVotWTBIWTM1T3NRV3ZPcVp6VlNCY2MzS2Z2Zy0wemprcENYVWNnTG5iUjVCaGc4cVp3Q2MzbTlHQUlZSXlLTUE4S2NqWjJubXQwSVU3c3R5dVJIS2I0Y0thN2FZbkpTRTNWMnBPajNlQUNOd2Q0c2gtTWJaTlFqRFhIN0JGSmI3Q0ExaE5aTlFNVHRQMWc?oc=5",
-            "publishedAt": "2026-10-06T15:00+00:00"
           }
         ],
         "hiring": [],
@@ -693,16 +712,16 @@
             "publishedAt": "2026-10-06T03:32+00:00"
           },
           {
+            "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
+            "source": "Packaging Strategies",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2VnbW1TUlhCSHVlc2o0N1pnSkNicWtKX0t4cFItS0E0ZHVyVGVXNDhPaDJoc1hxUVotWTBIWTM1T3NRV3ZPcVp6VlNCY2MzS2Z2Zy0wemprcENYVWNnTG5iUjVCaGc4cVp3Q2MzbTlHQUlZSXlLTUE4S2NqWjJubXQwSVU3c3R5dVJIS2I0Y0thN2FZbkpTRTNWMnBPajNlQUNOd2Q0c2gtTWJaTlFqRFhIN0JGSmI3Q0ExaE5aTlFNVHRQMWc?oc=5",
+            "publishedAt": "2026-10-06T07:00+00:00"
+          },
+          {
             "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVl5MkZQdGJlUS1WdllGX1d4LXVMSzBXb1FQM0twc0pXNXdUR21zSFNGRDU2d2NsYzNzRkJNMzNlbUY1NVlvZXowajZielZ3QkhzbmRJNElyQXRLNTVGWEdRVExhNnhKTFZqRTZVdTN6SXJfTjVlcElQcXVGa2ltSTFmdmdVNGZ0TDNTcWZoVlk3cGN6VmhmQ1JHazBhZzNOdXFEa3F6UQ?oc=5",
             "publishedAt": "2026-10-02T14:59+00:00"
-          },
-          {
-            "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
-            "source": "Packaging Strategies",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2VnbW1TUlhCSHVlc2o0N1pnSkNicWtKX0t4cFItS0E0ZHVyVGVXNDhPaDJoc1hxUVotWTBIWTM1T3NRV3ZPcVp6VlNCY2MzS2Z2Zy0wemprcENYVWNnTG5iUjVCaGc4cVp3Q2MzbTlHQUlZSXlLTUE4S2NqWjJubXQwSVU3c3R5dVJIS2I0Y0thN2FZbkpTRTNWMnBPajNlQUNOd2Q0c2gtTWJaTlFqRFhIN0JGSmI3Q0ExaE5aTlFNVHRQMWc?oc=5",
-            "publishedAt": "2026-10-06T15:00+00:00"
           }
         ],
         "items": [
@@ -713,16 +732,16 @@
             "publishedAt": "2026-10-06T03:32+00:00"
           },
           {
+            "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
+            "source": "Packaging Strategies",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2VnbW1TUlhCSHVlc2o0N1pnSkNicWtKX0t4cFItS0E0ZHVyVGVXNDhPaDJoc1hxUVotWTBIWTM1T3NRV3ZPcVp6VlNCY2MzS2Z2Zy0wemprcENYVWNnTG5iUjVCaGc4cVp3Q2MzbTlHQUlZSXlLTUE4S2NqWjJubXQwSVU3c3R5dVJIS2I0Y0thN2FZbkpTRTNWMnBPajNlQUNOd2Q0c2gtTWJaTlFqRFhIN0JGSmI3Q0ExaE5aTlFNVHRQMWc?oc=5",
+            "publishedAt": "2026-10-06T07:00+00:00"
+          },
+          {
             "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVl5MkZQdGJlUS1WdllGX1d4LXVMSzBXb1FQM0twc0pXNXdUR21zSFNGRDU2d2NsYzNzRkJNMzNlbUY1NVlvZXowajZielZ3QkhzbmRJNElyQXRLNTVGWEdRVExhNnhKTFZqRTZVdTN6SXJfTjVlcElQcXVGa2ltSTFmdmdVNGZ0TDNTcWZoVlk3cGN6VmhmQ1JHazBhZzNOdXFEa3F6UQ?oc=5",
             "publishedAt": "2026-10-02T14:59+00:00"
-          },
-          {
-            "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
-            "source": "Packaging Strategies",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2VnbW1TUlhCSHVlc2o0N1pnSkNicWtKX0t4cFItS0E0ZHVyVGVXNDhPaDJoc1hxUVotWTBIWTM1T3NRV3ZPcVp6VlNCY2MzS2Z2Zy0wemprcENYVWNnTG5iUjVCaGc4cVp3Q2MzbTlHQUlZSXlLTUE4S2NqWjJubXQwSVU3c3R5dVJIS2I0Y0thN2FZbkpTRTNWMnBPajNlQUNOd2Q0c2gtTWJaTlFqRFhIN0JGSmI3Q0ExaE5aTlFNVHRQMWc?oc=5",
-            "publishedAt": "2026-10-06T15:00+00:00"
           }
         ],
         "query": "\"SupplyOne\" packaging OR corrugated OR distribution when:30d",
@@ -739,7 +758,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [
           {
             "title": "Wooden pallet industry founds European alliance - packaging journal",
@@ -757,7 +776,7 @@
             "title": "Paul A. Hadley Obituary (2026) - Aloha, OR - Springer and Son - Aloha Funeral Home & Crematory - Legacy | Obituary",
             "source": "Legacy | Obituary",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnREV4Q2QtekdPeS0ybm1PVmRGRi1RQ3U3YXRHdzNOSVM2cmlRYmFXR2tTN1FHeEJBUWZhcGhhWjJWU1BRMWRUaVZha1hrRXZrUTBETVAybUFpNzJUNUtNTC15RmlBcnVITDBpUE5wMkc1eU1JTVRZMzZVdEUtVWM?oc=5",
-            "publishedAt": "2026-10-08T18:56+00:00"
+            "publishedAt": "2026-10-08T07:00+00:00"
           }
         ],
         "hiring": [
@@ -788,7 +807,7 @@
             "title": "Paul A. Hadley Obituary (2026) - Aloha, OR - Springer and Son - Aloha Funeral Home & Crematory - Legacy | Obituary",
             "source": "Legacy | Obituary",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnREV4Q2QtekdPeS0ybm1PVmRGRi1RQ3U3YXRHdzNOSVM2cmlRYmFXR2tTN1FHeEJBUWZhcGhhWjJWU1BRMWRUaVZha1hrRXZrUTBETVAybUFpNzJUNUtNTC15RmlBcnVITDBpUE5wMkc1eU1JTVRZMzZVdEUtVWM?oc=5",
-            "publishedAt": "2026-10-08T18:56+00:00"
+            "publishedAt": "2026-10-08T07:00+00:00"
           }
         ],
         "query": "\"Alliance Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -805,7 +824,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [],
         "hiring": [
           {
@@ -832,7 +851,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-19T19:22+00:00",
+        "lastUpdated": "2026-10-20T18:02+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -844,8 +863,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-19T19:22+00:00",
-  "lastSuccessfulAt": "2026-10-19T19:22+00:00",
+  "lastAttemptedAt": "2026-10-20T18:02+00:00",
+  "lastSuccessfulAt": "2026-10-20T18:02+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
