@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:01+00:00",
+  "lastUpdated": "2026-10-22T18:02+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,59 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km WNW of Cobb, CA",
+      "region": "10 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "192 km S of Burica, Panama",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "1 km SW of Anderson Springs, CA",
+      "region": "10 km SSW of Ridgemark, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km N of The Geysers, CA",
+      "region": "2 km ESE of Running Springs, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km NE of Hollister, CA",
+      "region": "61 km ENE of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "34 km SSW of Primo Tapia, B.C., MX",
+      "region": "6 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km E of Coso Junction, CA",
+      "region": "17 km SE of Clam Gulch, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km SSE of P\u0101hala, Hawaii",
+      "region": "39 km NE of Shikotan, Russia",
       "severity": "Medium"
     },
     {
-      "type": "Beach Hazards Statement issued October 20 at 1:59AM PDT until October 20 at 11:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "type": "Earthquake",
+      "region": "85 km NNW of Karluk, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Special Weather Statement issued October 22 at 11:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Clarita Valley; Ventura County Beaches; Ventura County Inland Coast; Central Ventura County Valleys; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains; Southern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
       "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued October 19 at 12:31PM PDT until October 23 at 3:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
-      "severity": "Moderate"
+      "type": "Flood Advisory issued October 22 at 10:57AM PDT until October 22 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Los Angeles, CA",
+      "severity": "Minor"
+    },
+    {
+      "type": "Flood Advisory issued October 22 at 10:51AM PDT until October 22 at 1:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Los Angeles, CA; Ventura, CA",
+      "severity": "Minor"
+    },
+    {
+      "type": "Flood Advisory issued October 22 at 10:50AM PDT until October 22 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Los Angeles, CA",
+      "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-20T18:01+00:00",
-  "lastSuccessfulAt": "2026-10-20T18:01+00:00",
+  "lastAttemptedAt": "2026-10-22T18:02+00:00",
+  "lastSuccessfulAt": "2026-10-22T18:02+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
