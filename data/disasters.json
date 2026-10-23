@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T18:02+00:00",
+  "lastUpdated": "2026-10-23T17:53+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,22 +19,32 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "10 km WNW of The Geysers, CA",
+      "region": "15 km SW of Volcano, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km SSW of Ridgemark, CA",
+      "region": "17 km WNW of Point MacKenzie, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km ESE of Running Springs, CA",
+      "region": "14 km N of Brooktrails, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "61 km ENE of Pedro Bay, Alaska",
+      "region": "8 km S of P\u0101hala, Hawaii",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "15 km N of Brooktrails, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "53 km ENE of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
@@ -44,44 +54,34 @@
     },
     {
       "type": "Earthquake",
-      "region": "17 km SE of Clam Gulch, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "39 km NE of Shikotan, Russia",
+      "region": "91 km ESE of Tuensang, India",
       "severity": "Medium"
     },
     {
-      "type": "Earthquake",
-      "region": "85 km NNW of Karluk, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Special Weather Statement issued October 22 at 11:00AM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Clarita Valley; Ventura County Beaches; Ventura County Inland Coast; Central Ventura County Valleys; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains; Southern Ventura County Mountains; Interstate 5 Corridor; Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains; Los Angeles County San Gabriel Valley",
+      "type": "Wind Advisory issued October 23 at 10:51AM PDT until October 24 at 11:00AM PDT by NWS Las Vegas NV",
+      "region": "Death Valley National Park",
       "severity": "Moderate"
     },
     {
-      "type": "Flood Advisory issued October 22 at 10:57AM PDT until October 22 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Los Angeles, CA",
+      "type": "Frost Advisory issued October 23 at 10:43AM PDT until October 24 at 9:00AM PDT by NWS Eureka CA",
+      "region": "Coastal Del Norte; Northern Coastal Humboldt",
       "severity": "Minor"
     },
     {
-      "type": "Flood Advisory issued October 22 at 10:51AM PDT until October 22 at 1:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Los Angeles, CA; Ventura, CA",
-      "severity": "Minor"
+      "type": "Freeze Warning issued October 23 at 10:43AM PDT until October 24 at 9:00AM PDT by NWS Eureka CA",
+      "region": "Southern Trinity; Northwestern Interior Mendocino; Northeastern Interior Mendocino; Northern Lake; Northwestern and Central Trinity; Northeastern Trinity",
+      "severity": "Severe"
     },
     {
-      "type": "Flood Advisory issued October 22 at 10:50AM PDT until October 22 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Los Angeles, CA",
+      "type": "Frost Advisory issued October 23 at 10:43AM PDT until October 24 at 9:00AM PDT by NWS Eureka CA",
+      "region": "Interior Del Norte; Southwestern Humboldt; Northeastern Interior Humboldt; Southeastern Interior Humboldt",
       "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-22T18:02+00:00",
-  "lastSuccessfulAt": "2026-10-22T18:02+00:00",
+  "lastAttemptedAt": "2026-10-23T17:53+00:00",
+  "lastSuccessfulAt": "2026-10-23T17:53+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
