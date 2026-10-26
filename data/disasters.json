@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T17:53+00:00",
+  "lastUpdated": "2026-10-26T19:24+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "15 km SW of Volcano, Hawaii",
+      "region": "21 km WNW of Susitna, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km WNW of Point MacKenzie, Alaska",
+      "region": "10 km ESE of Fitzhugh, Oklahoma",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km N of Brooktrails, CA",
+      "region": "7 km ENE of Vallejo, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km S of P\u0101hala, Hawaii",
+      "region": "1 km W of Indios, Puerto Rico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km N of Brooktrails, CA",
+      "region": "25 km NNE of Montecito, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "53 km ENE of Pedro Bay, Alaska",
+      "region": "23 km SSW of Leilani Estates, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NW of The Geysers, CA",
+      "region": "26 km NNE of Montecito, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "91 km ESE of Tuensang, India",
-      "severity": "Medium"
+      "region": "84 km NW of Karluk, Alaska",
+      "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued October 23 at 10:51AM PDT until October 24 at 11:00AM PDT by NWS Las Vegas NV",
-      "region": "Death Valley National Park",
+      "type": "Lake Wind Advisory issued October 26 at 12:01PM PDT until October 26 at 6:00PM PDT by NWS Reno NV",
+      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties",
       "severity": "Moderate"
     },
     {
-      "type": "Frost Advisory issued October 23 at 10:43AM PDT until October 24 at 9:00AM PDT by NWS Eureka CA",
-      "region": "Coastal Del Norte; Northern Coastal Humboldt",
-      "severity": "Minor"
+      "type": "Lake Wind Advisory issued October 26 at 12:01PM PDT until October 26 at 6:00PM PDT by NWS Reno NV",
+      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "severity": "Moderate"
     },
     {
-      "type": "Freeze Warning issued October 23 at 10:43AM PDT until October 24 at 9:00AM PDT by NWS Eureka CA",
-      "region": "Southern Trinity; Northwestern Interior Mendocino; Northeastern Interior Mendocino; Northern Lake; Northwestern and Central Trinity; Northeastern Trinity",
-      "severity": "Severe"
+      "type": "Lake Wind Advisory issued October 26 at 12:01PM PDT until October 26 at 6:00PM PDT by NWS Reno NV",
+      "region": "Mono",
+      "severity": "Moderate"
     },
     {
-      "type": "Frost Advisory issued October 23 at 10:43AM PDT until October 24 at 9:00AM PDT by NWS Eureka CA",
-      "region": "Interior Del Norte; Southwestern Humboldt; Northeastern Interior Humboldt; Southeastern Interior Humboldt",
+      "type": "Coastal Flood Advisory issued October 26 at 11:46AM PDT until October 26 at 2:00PM PDT by NWS Eureka CA",
+      "region": "Northern Coastal Humboldt",
       "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-23T17:53+00:00",
-  "lastSuccessfulAt": "2026-10-23T17:53+00:00",
+  "lastAttemptedAt": "2026-10-26T19:24+00:00",
+  "lastSuccessfulAt": "2026-10-26T19:24+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T17:53+00:00",
+  "lastUpdated": "2026-10-26T19:24+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,13 +14,6 @@
   ],
   "stories": [
     {
-      "title": "Nestl\u00e9 breaks down its path to 2030 for virgin plastic reduction - Packaging Dive",
-      "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXBTRkNTUG53NGxEc3k1NkFsN0xyV3ZCYTVNN3hrU1Y4bjNlUGx4bW5XdUVpcGRiYURlNXRKcFNmVTVXaGtNU29DWVJNWkNzY1dCcmU1TFpLNERZckVRRnNIdXV4LV9qb2lSczgyVWFYQXFydTROb0UzT2prMHNQbTh4aGg2VzY0?oc=5",
-      "publishedAt": "2026-09-24T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging - https://environment.ec.europa.eu/index_en",
       "source": "https://environment.ec.europa.eu/index_en",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6UTUzVWx6dmM0T2V3blJWRkdqdW4zY1lnX29oYnJSYWw4dU1EOVJVTXZsSm5RT0pyMXpmUk52Zi1mWm5TcF9lb3g0ck9BUURBUmU4amJzQjJFTlZXazI0bkxyWmNmT3hvSnhULTk0SU5BMHZFVFRNSFFSNkk5V1hlOGI3SUxNLURXYk8tREVWWXh3OFppN2RMSXBwOFNuRE5PUjhuVTlOR3VxQnc?oc=5",
@@ -28,24 +21,38 @@
       "impact": "Low"
     },
     {
-      "title": "3 Packaging Stocks Worth Watching Despite Industry Pressure - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHBGLTF1OG0zUUNxVmVHNF8zek8zSmY3Qjg5VThtbVFpUU03VHJERWlLdEpiUE1lQkhBdG55MEk5QTFvaFZJbUN3WHhmMGQxaWZsVk5tUlV1THU4WlhYTlhlZHlBMS1XSVVfNGdvNEdlYkFpWk5OZjF5NVpaeF9lZ3NxZmozQV9iMmd2WUF6MGgwaGE3T0ZpQlRxdm1JZG8?oc=5",
-      "publishedAt": "2026-09-25T07:00+00:00",
+      "title": "Corrugated boxes maintain dominance despite shifting market dynamics: FBA - Packaging Dive",
+      "source": "Packaging Dive",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2NtNjRjUEFGaW93ZTEtSmlvbE9iX0RoY1pLOHNialVmamtqdDlGVDJQcGwwOTVqYU50dEd5QnBFVmdYMzlYcV8tUzhFLTBvN2RCYTdfemxkajdUVGdwVGV6WjQtTWlIcXdGNFRDMlo5ejhhRVBnR0pLRHVoUkJuamhFamJqajZHYTNncE52QWpZWHREc1lKaDJSQXJqSjhka3RWZE1adkVha3g4?oc=5",
+      "publishedAt": "2026-10-20T16:03+00:00",
+      "impact": "Medium"
+    },
+    {
+      "title": "Virginia Tech Packaging Innovation Hub will offer packaging solutions from materials to marketplace - Virginia Tech News",
+      "source": "Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EcE45VDNpRHRlQ25CWjFSVXlITF83RXdzTzlhaVM2SkVaT3FhRGhCRUZRSDhvckcwR0tCNmJqcVM1aFpZd2VuV1dWUVZIRF9yMnJOWDNaTm1PNHRjcnVXbE9mWDUyUQ?oc=5",
+      "publishedAt": "2026-10-15T19:05+00:00",
       "impact": "Low"
     },
     {
-      "title": "New Jersey bill targets source reduction in plastic packaging - Recycling Today",
+      "title": "Aimplas project explores DPP and packaging reuse - Recycling Today",
       "source": "Recycling Today",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0Vmall4V3VaSzBwcUJJN0ZOS0NLOExPa29DTFE1U3VfQnJNbnNzOU5YR2EtSXh3eDFIa3pibGFDY2paNjJwTDgwMFRMbEludVNxNDhmQ2tJeUp5TUpLVVNGdXdEa1RaUXlSY21KODN6aDlMWkpxeVFrbGN0UjI3empGejhDWkRuelVGQ1dhYWU5dTh3SzBkb3Rsdl90ZWM?oc=5",
-      "publishedAt": "2026-10-09T07:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY3dTNWNfUC1PLWc1RzZqNktBMGZoYlJ0Q0xSTEgzeUVKclN2N1JwejJ5LXllSm1aSFhwVnVheTJUczQ2b0Y1UlBLSHh6YkFzbVp3akg2R3A1OUJJaWhCNk53NTh5eWtPYzJJRWNySnZsUTdiMlR2R0pOQS1aS3hFcUE5dkx0Y0VmeDE4TGtneGh4dFZGU2tPNjNmSkhtOWl0Qml2Wk85VW9qQQ?oc=5",
+      "publishedAt": "2026-10-21T21:24+00:00",
       "impact": "Low"
     },
     {
-      "title": "Food Packaging Market Size, Share, Trends 2036 - Future Market Insights",
-      "source": "Future Market Insights",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5reVRCZEdwbjZyc0lWekVILUdRZVdMZ0h4dWpnazhzVlFjRlN3cUY3UEJoT09PZmRzWTdyTGpqeFFkSUVTZllXb04waWM3azV0cDd0NHpqT2NlckxScjhaNDE5WjIzVUZ5UXVxTjFwRGp1NDJU?oc=5",
-      "publishedAt": "2026-10-16T07:00+00:00",
+      "title": "Flexible packaging industry braces for more EPR laws in 2027 - Plastics News",
+      "source": "Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0wza3A3NnIzTFRaZDRYQ0p4SmtBdUtGaUZZbzd3QVZuc1pLb2doUkZKeXdySk5TVFNuR3FMd2lVR2ZOS0NsS1dvT0NkYWlUdlNkenE3TjlKaVFoUlZfV2kyeGNWeDBmNzF2YlV2U1R5UUxURTNsTTRXcFRPSW9JNks1aEstU0JfZmhaQ0NIYmFRbXRtdU1UOWxQRGg2TmF2?oc=5",
+      "publishedAt": "2026-10-21T12:54+00:00",
+      "impact": "Medium"
+    },
+    {
+      "title": "The State of Grocery Retail Europe: Implications for packaging players - McKinsey & Company",
+      "source": "McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnNVSmtJMGYyLWtCUjVob1RVTXdMeHZjak5RaEJzWDFHeW0wUUplak5Ma3puRTJwWEE3ejg2VlEtQl9GdFBQQ29jTmVtYkI1bnRnZ2MtSzFGWjRzbWJ0NDRWX0xLWmhLYWlIaEZldTFsVkI2XzFQZXQ3d2QzREFMV2J6QmZrNHRFU3JhWFdndDV2Qlg1SUtwSkpTd255dzJrZ1daaGJEdEdUS0N1UVNjcDB6VnhmVEpGY0tUaEV6ZTFKTmVlUUhndkRXSGlXTHQ1ajl4bg?oc=5",
+      "publishedAt": "2026-10-22T00:00+00:00",
       "impact": "Low"
     },
     {
@@ -56,24 +63,17 @@
       "impact": "Low"
     },
     {
-      "title": "Virginia Tech Packaging Innovation Hub will offer packaging solutions from materials to marketplace - Virginia Tech News",
-      "source": "Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EcE45VDNpRHRlQ25CWjFSVXlITF83RXdzTzlhaVM2SkVaT3FhRGhCRUZRSDhvckcwR0tCNmJqcVM1aFpZd2VuV1dWUVZIRF9yMnJOWDNaTm1PNHRjcnVXbE9mWDUyUQ?oc=5",
-      "publishedAt": "2026-10-15T19:05+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Kraft Heinz Tackles Small-Plastic Packaging Recovery - Packaging Digest",
-      "source": "Packaging Digest",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk1wbFlnbkJ1ZzVkLXIyZE9uZC15c3BzRDduS2JLOXYzMkhFQVdNZjJSQ0wtOWR1dDN2aGk2Z3lDaGRsUl9DUjRiOXRqdGlZVDF4SlZTNURMT0NuSjRfUUNPMTlpSFVFTTdmVHJtYmZ2bm00enA0b18xSDJIdGlNMzF6NjFqT2VFWUh3cTVFVGl0d1ZJdko2ZjYwV2Joem5n?oc=5",
-      "publishedAt": "2026-09-30T07:00+00:00",
-      "impact": "Low"
+      "title": "Corrugated Packaging Boxes and Rising Freight Costs - Fastmarkets",
+      "source": "Fastmarkets",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbTJrNmNnam8yR3FuZ1ZVNEFHY01YMUVkZmx5UjY3eDQxcFZEM3ZlRjYzWGUtSXpzcTFFLTRiXzg4R0JPTHJaVDhPa2VpN2o1Zng2NVN6RV9USGRLTmNZMXhKampXYzNOc2MtYk4yT0NPVTFyTFVsazVxVVVqcnBhZ3E3aGt5U2NLVWJndEVkSl8tdXB4cTZfTzRLbXg5MWlNRFpXSmtJMnBsTDdBQ0dkS0I2QTRuSjdhbTJWbTgwNEU2ZXdBZy1FZGR0bGw5WFRK?oc=5",
+      "publishedAt": "2026-10-21T13:01+00:00",
+      "impact": "Medium"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-23T17:53+00:00",
-  "lastSuccessfulAt": "2026-10-23T17:53+00:00",
+  "lastAttemptedAt": "2026-10-26T19:24+00:00",
+  "lastSuccessfulAt": "2026-10-26T19:24+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
