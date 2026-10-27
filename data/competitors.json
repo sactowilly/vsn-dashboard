@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T19:24+00:00",
+  "lastUpdated": "2026-10-27T18:45+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "PCA to close full-line plant in Ohio - Packaging Dive",
@@ -90,7 +90,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "Veritiv Makes Acquisitions in Florida & New Jersey - National Association of Wholesaler-Distributors",
@@ -162,7 +162,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "Imperial Dade, BradyPlus Complete JanSan Megamerger - National Association of Wholesaler-Distributors",
@@ -180,7 +180,7 @@
             "title": "Central National Gottesman Inc. (CNG) Acquires Nebraska-Based Omaha Paper Company - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTU1VQ2ttb2ZCcEJ0d2p2ZkUxd1dhRmJkX0RlVThqSlhYMFpXR0hGWFJXLU93X1cwZ3BkRlNtTGRiaEJDMWVWY29XaHhXWFowYmI5RmNkUjd3ZGZjY3dNOFFNaUtoOWxzcm82dGxpOGNTdjlheEpjcDJ6aUViXzJyd01kOXotWkY2ZVZTRXZLYTVScHkxMTVkN2xUV3pDMkRN?oc=5",
-            "publishedAt": "2026-10-19T15:00+00:00"
+            "publishedAt": "2026-10-19T07:00+00:00"
           }
         ],
         "hiring": [],
@@ -189,7 +189,7 @@
             "title": "Central National Gottesman Inc. (CNG) Acquires Nebraska-Based Omaha Paper Company - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTU1VQ2ttb2ZCcEJ0d2p2ZkUxd1dhRmJkX0RlVThqSlhYMFpXR0hGWFJXLU93X1cwZ3BkRlNtTGRiaEJDMWVWY29XaHhXWFowYmI5RmNkUjd3ZGZjY3dNOFFNaUtoOWxzcm82dGxpOGNTdjlheEpjcDJ6aUViXzJyd01kOXotWkY2ZVZTRXZLYTVScHkxMTVkN2xUV3pDMkRN?oc=5",
-            "publishedAt": "2026-10-19T15:00+00:00"
+            "publishedAt": "2026-10-19T07:00+00:00"
           }
         ],
         "items": [
@@ -209,7 +209,7 @@
             "title": "Central National Gottesman Inc. (CNG) Acquires Nebraska-Based Omaha Paper Company - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTU1VQ2ttb2ZCcEJ0d2p2ZkUxd1dhRmJkX0RlVThqSlhYMFpXR0hGWFJXLU93X1cwZ3BkRlNtTGRiaEJDMWVWY29XaHhXWFowYmI5RmNkUjd3ZGZjY3dNOFFNaUtoOWxzcm82dGxpOGNTdjlheEpjcDJ6aUViXzJyd01kOXotWkY2ZVZTRXZLYTVScHkxMTVkN2xUV3pDMkRN?oc=5",
-            "publishedAt": "2026-10-19T15:00+00:00"
+            "publishedAt": "2026-10-19T07:00+00:00"
           }
         ],
         "query": "\"Imperial Dade\" packaging OR corrugated OR distribution when:30d",
@@ -226,7 +226,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
@@ -235,10 +235,10 @@
             "publishedAt": "2026-09-29T07:00+00:00"
           },
           {
-            "title": "New Uline warehouse to bring 90+ jobs to Lower Macungie - WFMZ.com",
-            "source": "WFMZ.com",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEM4bEVqbm0yVm5OR0JCVlRkN19yWE5sR0lTelZhcUY5a1hxWjFkSFUxV2ZKY3I2dVdBbEJ5Y1kwbVUyQkhrczQ2WW5QOUlQMHBoN0lyYmg3X2NYV085Q0Vob1BHUTJlME1ObXprV2pPZEJ0cGNXcWczVjFrTF8tekNiRmxrQjFXNlRNTkM4TnpfRGw0di1zN1diY3JOQ2NscWh4SEhGc0RvRGJIY1gxQzlraXdTdnpGSVNCSUxiSlVQWkhJYy1wc2ktU3BUQ0dIQmYtbmNHaVV3Y0h1c1BDODh3?oc=5",
-            "publishedAt": "2026-10-07T07:00+00:00"
+            "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
+            "source": "Atlanta News First",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDBrVDVtLTEzaGdfaXE2d29PaEo4czVfVjN4NWkxRDNha1VoR1hLeWJFNlcyd1dLcDRQMUx5TF85SS1fWWtkb0JyeVFrOFRuc2o2LUtTSGZVUTY2RXgxUHo2cHQxUTk5NTRrZXJrWGRyeV94ZTR6NFJIeWo3NFphby1PZTJOaG15R2ZwZ0o4aDRDS0RvaW1yUTBMS3g?oc=5",
+            "publishedAt": "2026-10-26T19:44+00:00"
           },
           {
             "title": "3 Billionaires Have Largely Funded Republican Nominee for Wisconsin Governor - The New York Times",
@@ -256,10 +256,10 @@
             "linkStatus": "direct_job_link_unavailable"
           },
           {
-            "title": "New Uline warehouse to bring 90+ jobs to Lower Macungie - WFMZ.com",
-            "source": "WFMZ.com",
+            "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
+            "source": "Atlanta News First",
             "url": "",
-            "publishedAt": "2026-10-07T07:00+00:00",
+            "publishedAt": "2026-10-26T19:44+00:00",
             "linkStatus": "direct_job_link_unavailable"
           }
         ],
@@ -279,10 +279,10 @@
             "publishedAt": "2026-09-29T07:00+00:00"
           },
           {
-            "title": "New Uline warehouse to bring 90+ jobs to Lower Macungie - WFMZ.com",
-            "source": "WFMZ.com",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEM4bEVqbm0yVm5OR0JCVlRkN19yWE5sR0lTelZhcUY5a1hxWjFkSFUxV2ZKY3I2dVdBbEJ5Y1kwbVUyQkhrczQ2WW5QOUlQMHBoN0lyYmg3X2NYV085Q0Vob1BHUTJlME1ObXprV2pPZEJ0cGNXcWczVjFrTF8tekNiRmxrQjFXNlRNTkM4TnpfRGw0di1zN1diY3JOQ2NscWh4SEhGc0RvRGJIY1gxQzlraXdTdnpGSVNCSUxiSlVQWkhJYy1wc2ktU3BUQ0dIQmYtbmNHaVV3Y0h1c1BDODh3?oc=5",
-            "publishedAt": "2026-10-07T07:00+00:00"
+            "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
+            "source": "Atlanta News First",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDBrVDVtLTEzaGdfaXE2d29PaEo4czVfVjN4NWkxRDNha1VoR1hLeWJFNlcyd1dLcDRQMUx5TF85SS1fWWtkb0JyeVFrOFRuc2o2LUtTSGZVUTY2RXgxUHo2cHQxUTk5NTRrZXJrWGRyeV94ZTR6NFJIeWo3NFphby1PZTJOaG15R2ZwZ0o4aDRDS0RvaW1yUTBMS3g?oc=5",
+            "publishedAt": "2026-10-26T19:44+00:00"
           },
           {
             "title": "3 Billionaires Have Largely Funded Republican Nominee for Wisconsin Governor - The New York Times",
@@ -305,7 +305,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "International Paper in talks with bidders for EMEA packaging business - Reuters",
@@ -362,7 +362,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "How Anthony Pratt Built a Manufacturing Fortune From Everyday Packaging - Kalkine",
@@ -434,18 +434,18 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
-          {
-            "title": "Smurfit Westrock acquires CMPC\u2019s Chilean packaging business in multi-million dollar deal - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVNZUlJYW1HbmlfUkQzeUM3amF5XzRBa1JKR1BsTWQ5R2lYanpHMEtWTGcyVXEzb1paWXgxYkNyQXdheU9SbHJ2M3ZBbEdWWHNJdy1vMm13WHg0Um84Z003ODFjYThNVVk4MVdsMVlVTnNlMFNUVGdSendzV29CUjUtOXllOFBuSUJ3?oc=5",
-            "publishedAt": "2026-09-28T07:00+00:00"
-          },
           {
             "title": "Smurfit Westrock to acquire Chilean containerboard assets - Recycling Today",
             "source": "Recycling Today",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUg5WmVGZ1hfb1dpT29NZjFzYy1SQkVPdXA5UXBvdV9oczZoQ3I5bHBxMm80elhrbmxCeEo3ek1PdkNqUHJLeU1sUEtOeDdVWktCV2FPNGV4WmFUblpTNTBBUFhJUFpneEY5OFZNbm00WjBRSmdQN0QwWVBYZi1nUHpoM2VfNHh6U250bmNMYjd0LVg3ZmZ5cU9RdWZWVklIYUJFY3JVX3p2NEk4VnYwMzV3?oc=5",
+            "publishedAt": "2026-09-28T07:00+00:00"
+          },
+          {
+            "title": "Smurfit Westrock acquires CMPC\u2019s Chilean packaging business in multi-million dollar deal - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVNZUlJYW1HbmlfUkQzeUM3amF5XzRBa1JKR1BsTWQ5R2lYanpHMEtWTGcyVXEzb1paWXgxYkNyQXdheU9SbHJ2M3ZBbEdWWHNJdy1vMm13WHg0Um84Z003ODFjYThNVVk4MVdsMVlVTnNlMFNUVGdSendzV29CUjUtOXllOFBuSUJ3?oc=5",
             "publishedAt": "2026-09-28T07:00+00:00"
           },
           {
@@ -466,15 +466,15 @@
         ],
         "items": [
           {
-            "title": "Smurfit Westrock acquires CMPC\u2019s Chilean packaging business in multi-million dollar deal - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVNZUlJYW1HbmlfUkQzeUM3amF5XzRBa1JKR1BsTWQ5R2lYanpHMEtWTGcyVXEzb1paWXgxYkNyQXdheU9SbHJ2M3ZBbEdWWHNJdy1vMm13WHg0Um84Z003ODFjYThNVVk4MVdsMVlVTnNlMFNUVGdSendzV29CUjUtOXllOFBuSUJ3?oc=5",
-            "publishedAt": "2026-09-28T07:00+00:00"
-          },
-          {
             "title": "Smurfit Westrock to acquire Chilean containerboard assets - Recycling Today",
             "source": "Recycling Today",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUg5WmVGZ1hfb1dpT29NZjFzYy1SQkVPdXA5UXBvdV9oczZoQ3I5bHBxMm80elhrbmxCeEo3ek1PdkNqUHJLeU1sUEtOeDdVWktCV2FPNGV4WmFUblpTNTBBUFhJUFpneEY5OFZNbm00WjBRSmdQN0QwWVBYZi1nUHpoM2VfNHh6U250bmNMYjd0LVg3ZmZ5cU9RdWZWVklIYUJFY3JVX3p2NEk4VnYwMzV3?oc=5",
+            "publishedAt": "2026-09-28T07:00+00:00"
+          },
+          {
+            "title": "Smurfit Westrock acquires CMPC\u2019s Chilean packaging business in multi-million dollar deal - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVNZUlJYW1HbmlfUkQzeUM3amF5XzRBa1JKR1BsTWQ5R2lYanpHMEtWTGcyVXEzb1paWXgxYkNyQXdheU9SbHJ2M3ZBbEdWWHNJdy1vMm13WHg0Um84Z003ODFjYThNVVk4MVdsMVlVTnNlMFNUVGdSendzV29CUjUtOXllOFBuSUJ3?oc=5",
             "publishedAt": "2026-09-28T07:00+00:00"
           },
           {
@@ -498,7 +498,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "International Paper gains as PE firms explore bids for DS Smith (update) (IP:NYSE) - Seeking Alpha",
@@ -563,7 +563,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "Three key recommendations for planning in automotive packaging - Automotive Logistics",
@@ -575,7 +575,7 @@
             "title": "NVIDIA Backs Six Supply Chain Partners to Expand Global AI Manufacturing Capacity - Konsulteer",
             "source": "Konsulteer",
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGRVMy15TEUzdG4wVWhLUjZLM2ZRVGc4ekNmZmZBajdhOVE0OGZXdldTcWg5bUZUWkppX1pfZVVlR0dFM21Kc0RjWnFjdnQ4ZkJSTndVdTZSdFk1S0RGVDVhTnFyUG84WjFxTDRCdmJnbGNrWjhVaWFpeVNZQlFkUFRuNWI2aW5RRGRYT0FFUHM3OXFqbmVVdFBld0IzYTJOZDAxM0NfdGVZckpkZTQyZ2Z1THNDYjg?oc=5",
-            "publishedAt": "2026-10-26T11:57+00:00"
+            "publishedAt": "2026-10-26T12:10+00:00"
           },
           {
             "title": "U.S. High Bandwidth Memory (HBM): Solving AI Bottlenecks - Kings Research",
@@ -597,7 +597,7 @@
             "title": "NVIDIA Backs Six Supply Chain Partners to Expand Global AI Manufacturing Capacity - Konsulteer",
             "source": "Konsulteer",
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGRVMy15TEUzdG4wVWhLUjZLM2ZRVGc4ekNmZmZBajdhOVE0OGZXdldTcWg5bUZUWkppX1pfZVVlR0dFM21Kc0RjWnFjdnQ4ZkJSTndVdTZSdFk1S0RGVDVhTnFyUG84WjFxTDRCdmJnbGNrWjhVaWFpeVNZQlFkUFRuNWI2aW5RRGRYT0FFUHM3OXFqbmVVdFBld0IzYTJOZDAxM0NfdGVZckpkZTQyZ2Z1THNDYjg?oc=5",
-            "publishedAt": "2026-10-26T11:57+00:00"
+            "publishedAt": "2026-10-26T12:10+00:00"
           },
           {
             "title": "U.S. High Bandwidth Memory (HBM): Solving AI Bottlenecks - Kings Research",
@@ -620,14 +620,8 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
-          {
-            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T10:55+00:00"
-          },
           {
             "title": "Berlin Packaging Makes Acquisitions in New Jersey, U.K. - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
@@ -635,45 +629,51 @@
             "publishedAt": "2026-10-26T02:28+00:00"
           },
           {
-            "title": "Berlin Packaging and ININUM Win Formes de Luxe Award for Beauty Tech Innovation - Morningstar",
-            "source": "Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWURrd0hoTWFrbmI1Z0Y2MUJyQ01ZRTdQaV9ncWM4Q1REeW9seXhBTjRIa3NRTGh4MFdEbUM3TlhUd0VVZDUxMkc3em5rNUY5aUR3WVhTU1p6M1J5dG11aTRtemxkZzFqZmZyY19ZZzFPUl9GRE9FY0staWc4MjdCdmVmTEVCR2ttLUxINlIxUEJoNWpEX0V6SklrRzQzVGE0R2l1OUxTSlU4YjlUQmQ4NGZ0c3NKS1p4Zm94bjNNUEdZRDFfeEh2X0VoZ3JQWnFZOFd0cjdNdw?oc=5",
-            "publishedAt": "2026-09-29T07:00+00:00"
+            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
+            "publishedAt": "2026-10-13T10:55+00:00"
+          },
+          {
+            "title": "Beyond the Bottle: How Beauty Is Embracing New Packaging Formats - Beauty Packaging",
+            "source": "Beauty Packaging",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1BMXzY3b0p4SVdYeDdSMi1tcVk3NzktazdzaWFxLWJZa3ptMGpfdDFwd2lDd3hXSUNwc2JyMTIxa1ZIakU1MWFNMWpKMjNEUHFRekk4LWtvX09MUUVzRENZZERhb3JWYl9jMXRmM0hXb2xPcENNaFpsMmhFUnNocGF3?oc=5",
+            "publishedAt": "2026-10-19T18:46+00:00"
           }
         ],
         "hiring": [],
         "moves": [
           {
-            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T10:55+00:00"
-          },
-          {
             "title": "Berlin Packaging Makes Acquisitions in New Jersey, U.K. - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3RoTl9ZcExYbER0RHRYYUxpOThPa0NVaHppSllSa01aQ1I2Rm5temtUcTFCR0ZSMWVtY2FqcFR4Yi05U1hJcF9Dcm1nOFpuc1pyRmFxWERERkJYRFdacGZ0bnMwenc1SkxfdUdBbmt2NHo3Z1AyRTJVM0tlSjc5MnF4bGRYMG1hSHZ3?oc=5",
             "publishedAt": "2026-10-26T02:28+00:00"
+          },
+          {
+            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
+            "publishedAt": "2026-10-13T10:55+00:00"
           }
         ],
         "items": [
           {
-            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T10:55+00:00"
-          },
-          {
             "title": "Berlin Packaging Makes Acquisitions in New Jersey, U.K. - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3RoTl9ZcExYbER0RHRYYUxpOThPa0NVaHppSllSa01aQ1I2Rm5temtUcTFCR0ZSMWVtY2FqcFR4Yi05U1hJcF9Dcm1nOFpuc1pyRmFxWERERkJYRFdacGZ0bnMwenc1SkxfdUdBbmt2NHo3Z1AyRTJVM0tlSjc5MnF4bGRYMG1hSHZ3?oc=5",
             "publishedAt": "2026-10-26T02:28+00:00"
           },
           {
-            "title": "Berlin Packaging and ININUM Win Formes de Luxe Award for Beauty Tech Innovation - Morningstar",
-            "source": "Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWURrd0hoTWFrbmI1Z0Y2MUJyQ01ZRTdQaV9ncWM4Q1REeW9seXhBTjRIa3NRTGh4MFdEbUM3TlhUd0VVZDUxMkc3em5rNUY5aUR3WVhTU1p6M1J5dG11aTRtemxkZzFqZmZyY19ZZzFPUl9GRE9FY0staWc4MjdCdmVmTEVCR2ttLUxINlIxUEJoNWpEX0V6SklrRzQzVGE0R2l1OUxTSlU4YjlUQmQ4NGZ0c3NKS1p4Zm94bjNNUEdZRDFfeEh2X0VoZ3JQWnFZOFd0cjdNdw?oc=5",
-            "publishedAt": "2026-09-29T07:00+00:00"
+            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
+            "source": "Packaging Insights",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
+            "publishedAt": "2026-10-13T10:55+00:00"
+          },
+          {
+            "title": "Beyond the Bottle: How Beauty Is Embracing New Packaging Formats - Beauty Packaging",
+            "source": "Beauty Packaging",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1BMXzY3b0p4SVdYeDdSMi1tcVk3NzktazdzaWFxLWJZa3ptMGpfdDFwd2lDd3hXSUNwc2JyMTIxa1ZIakU1MWFNMWpKMjNEUHFRekk4LWtvX09MUUVzRENZZERhb3JWYl9jMXRmM0hXb2xPcENNaFpsMmhFUnNocGF3?oc=5",
+            "publishedAt": "2026-10-19T18:46+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -690,19 +690,19 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
-          {
-            "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
-            "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xpSnNGZ0x1VjFxNF9yMV9SZ25Uck94QktNY0RLY2U4M0Vlc3ZaVVZ3UzhQRDNjLWJsZjNSXzhnbmNVbGc2Y1R2MlZ3NFByQUdET2VtNHNSX00wa04yUlpHMkpwNDZlVkgtVFRXZFgxUkZHMHdnaUpOZlJVbUFPZW9pWE9VNTFVbzlfd3hXei0?oc=5",
-            "publishedAt": "2026-10-02T07:00+00:00"
-          },
           {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - Packaging World",
             "source": "Packaging World",
             "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHdPckw4MkpTa3VudGNET2ZUX21mWm1rcl8wSXpjQU5jYVlFS2MzSHpyQUFFSnZwWHBONmMwb2tQbkVlMFE4SHZVTW9DcWtfbzdwZ19DREwwWjMxS3IyMnJlRXJNdjNRemNDa0FqR0FldW5nNXgxTzVoMXhSRWJsOUlURllXajR6S0wwdDN6azIyblR0MEVuX1Y3djItNFF6TW5xNkQ0SXhRQ0M2ZDQzUlRsNkRTSE1xQUZJOHAwSTNOaE9FbFl4a2FUbE9YaHpaQ3plczFjRHBDSHBrcUFFQWdHNmwwYThm?oc=5",
             "publishedAt": "2026-10-05T07:00+00:00"
+          },
+          {
+            "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
+            "source": "National Association of Wholesaler-Distributors",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xpSnNGZ0x1VjFxNF9yMV9SZ25Uck94QktNY0RLY2U4M0Vlc3ZaVVZ3UzhQRDNjLWJsZjNSXzhnbmNVbGc2Y1R2MlZ3NFByQUdET2VtNHNSX00wa04yUlpHMkpwNDZlVkgtVFRXZFgxUkZHMHdnaUpOZlJVbUFPZW9pWE9VNTFVbzlfd3hXei0?oc=5",
+            "publishedAt": "2026-10-02T07:00+00:00"
           },
           {
             "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
@@ -714,16 +714,16 @@
         "hiring": [],
         "moves": [
           {
-            "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
-            "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xpSnNGZ0x1VjFxNF9yMV9SZ25Uck94QktNY0RLY2U4M0Vlc3ZaVVZ3UzhQRDNjLWJsZjNSXzhnbmNVbGc2Y1R2MlZ3NFByQUdET2VtNHNSX00wa04yUlpHMkpwNDZlVkgtVFRXZFgxUkZHMHdnaUpOZlJVbUFPZW9pWE9VNTFVbzlfd3hXei0?oc=5",
-            "publishedAt": "2026-10-02T07:00+00:00"
-          },
-          {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - Packaging World",
             "source": "Packaging World",
             "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHdPckw4MkpTa3VudGNET2ZUX21mWm1rcl8wSXpjQU5jYVlFS2MzSHpyQUFFSnZwWHBONmMwb2tQbkVlMFE4SHZVTW9DcWtfbzdwZ19DREwwWjMxS3IyMnJlRXJNdjNRemNDa0FqR0FldW5nNXgxTzVoMXhSRWJsOUlURllXajR6S0wwdDN6azIyblR0MEVuX1Y3djItNFF6TW5xNkQ0SXhRQ0M2ZDQzUlRsNkRTSE1xQUZJOHAwSTNOaE9FbFl4a2FUbE9YaHpaQ3plczFjRHBDSHBrcUFFQWdHNmwwYThm?oc=5",
             "publishedAt": "2026-10-05T07:00+00:00"
+          },
+          {
+            "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
+            "source": "National Association of Wholesaler-Distributors",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xpSnNGZ0x1VjFxNF9yMV9SZ25Uck94QktNY0RLY2U4M0Vlc3ZaVVZ3UzhQRDNjLWJsZjNSXzhnbmNVbGc2Y1R2MlZ3NFByQUdET2VtNHNSX00wa04yUlpHMkpwNDZlVkgtVFRXZFgxUkZHMHdnaUpOZlJVbUFPZW9pWE9VNTFVbzlfd3hXei0?oc=5",
+            "publishedAt": "2026-10-02T07:00+00:00"
           },
           {
             "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
@@ -734,16 +734,16 @@
         ],
         "items": [
           {
-            "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
-            "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xpSnNGZ0x1VjFxNF9yMV9SZ25Uck94QktNY0RLY2U4M0Vlc3ZaVVZ3UzhQRDNjLWJsZjNSXzhnbmNVbGc2Y1R2MlZ3NFByQUdET2VtNHNSX00wa04yUlpHMkpwNDZlVkgtVFRXZFgxUkZHMHdnaUpOZlJVbUFPZW9pWE9VNTFVbzlfd3hXei0?oc=5",
-            "publishedAt": "2026-10-02T07:00+00:00"
-          },
-          {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - Packaging World",
             "source": "Packaging World",
             "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHdPckw4MkpTa3VudGNET2ZUX21mWm1rcl8wSXpjQU5jYVlFS2MzSHpyQUFFSnZwWHBONmMwb2tQbkVlMFE4SHZVTW9DcWtfbzdwZ19DREwwWjMxS3IyMnJlRXJNdjNRemNDa0FqR0FldW5nNXgxTzVoMXhSRWJsOUlURllXajR6S0wwdDN6azIyblR0MEVuX1Y3djItNFF6TW5xNkQ0SXhRQ0M2ZDQzUlRsNkRTSE1xQUZJOHAwSTNOaE9FbFl4a2FUbE9YaHpaQ3plczFjRHBDSHBrcUFFQWdHNmwwYThm?oc=5",
             "publishedAt": "2026-10-05T07:00+00:00"
+          },
+          {
+            "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
+            "source": "National Association of Wholesaler-Distributors",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xpSnNGZ0x1VjFxNF9yMV9SZ25Uck94QktNY0RLY2U4M0Vlc3ZaVVZ3UzhQRDNjLWJsZjNSXzhnbmNVbGc2Y1R2MlZ3NFByQUdET2VtNHNSX00wa04yUlpHMkpwNDZlVkgtVFRXZFgxUkZHMHdnaUpOZlJVbUFPZW9pWE9VNTFVbzlfd3hXei0?oc=5",
+            "publishedAt": "2026-10-02T07:00+00:00"
           },
           {
             "title": "SupplyOne acquires Packaging Design Corporation, continues Chicago expansion - Packaging Strategies",
@@ -766,7 +766,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [
           {
             "title": "Hannah Bell, Performance Vehicle Works Racing, Looking to Build on Encouraging Run at Tri-County Speedway - Catchfence",
@@ -820,7 +820,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [],
         "hiring": [
           {
@@ -847,7 +847,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-26T19:24+00:00",
+        "lastUpdated": "2026-10-27T18:45+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -859,8 +859,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-26T19:24+00:00",
-  "lastSuccessfulAt": "2026-10-26T19:24+00:00",
+  "lastAttemptedAt": "2026-10-27T18:45+00:00",
+  "lastSuccessfulAt": "2026-10-27T18:45+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
