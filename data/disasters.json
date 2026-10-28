@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T18:45+00:00",
+  "lastUpdated": "2026-10-28T18:55+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "11 km N of Redwood Valley, CA",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "30 km WNW of Petersville, Alaska",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "21 km ESE of Naalehu, Hawaii",
+      "region": "31 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km NE of Milford, Utah",
+      "region": "66 km WNW of Beluga, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "63 km E of Denali Park, Alaska",
+      "region": "7 km SSE of Idyllwild, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km E of Susitna North, Alaska",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "74 km WNW of Beluga, Alaska",
+      "region": "6 km N of Banning, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "39 km W of Aleneva, Alaska",
+      "region": "13 km W of Enoch, Utah",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued October 27 at 7:17AM PDT until October 27 at 3:00PM PDT by NWS Eureka CA",
-      "region": "Northern Coastal Humboldt",
+      "type": "Earthquake",
+      "region": "2 km NNW of The Geysers, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Coastal Flood Warning issued October 28 at 11:46AM PDT until October 29 at 1:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "severity": "Severe"
+    },
+    {
+      "type": "Coastal Flood Advisory issued October 28 at 11:46AM PDT until October 30 at 2:00PM PDT by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Minor"
     },
     {
-      "type": "Coastal Flood Advisory issued October 27 at 6:54AM PDT until October 29 at 1:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands",
-      "severity": "Minor"
-    },
-    {
-      "type": "Coastal Flood Advisory issued October 27 at 6:54AM PDT until October 29 at 1:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "type": "Coastal Flood Advisory issued October 28 at 11:39AM PDT until October 30 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
       "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
       "severity": "Minor"
     },
     {
-      "type": "Coastal Flood Advisory issued October 27 at 5:41AM PDT until October 30 at 5:00PM PDT by NWS San Francisco CA",
-      "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast",
+      "type": "Coastal Flood Advisory issued October 28 at 11:39AM PDT until October 30 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands",
       "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-27T18:45+00:00",
-  "lastSuccessfulAt": "2026-10-27T18:45+00:00",
+  "lastAttemptedAt": "2026-10-28T18:55+00:00",
+  "lastSuccessfulAt": "2026-10-28T18:55+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
