@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T18:55+00:00",
+  "lastUpdated": "2026-10-29T19:00+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "PCA to close full-line plant in Ohio - Packaging Dive",
@@ -90,7 +90,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "Veritiv Makes Acquisitions in Florida & New Jersey - National Association of Wholesaler-Distributors",
@@ -162,7 +162,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "Imperial Dade, BradyPlus Complete JanSan Megamerger - National Association of Wholesaler-Distributors",
@@ -219,14 +219,8 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
-          {
-            "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
-            "source": "CT Insider",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanl5eThWcE5jNXV3SUdNNFBiNERBTFpGa0JoNGFISmNxRVFZWFlqZ3MyRnVwYm9mUTd1UTZBUEVOUnRqdk1CTWlJUl9DRm1PNGJJR3BBQzFkTGRtdVZRcFVIQmVqZlgyTW9ob1UyMG4tMmlGNk1RVTRGa3JyS2hPaUZpZ2NVRHd2TnZkZWx0S0RKU0diUXhncG9ZdUVBZw?oc=5",
-            "publishedAt": "2026-09-29T07:00+00:00"
-          },
           {
             "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
             "source": "Atlanta News First",
@@ -234,43 +228,36 @@
             "publishedAt": "2026-10-26T19:44+00:00"
           },
           {
-            "title": "3 Billionaires Have Largely Funded Republican Nominee for Wisconsin Governor - The New York Times",
-            "source": "The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdUZIQ013T2Jhc2dPbHlUdHBhNERYbm1SZk0zVmR2X1FaRzFuZ2pBNWZtd0FnT1c2NHotblViS0V5aFZjTkhrLUtzSmk4Tjk3MVBHWkpHcFlGQ2RCbnNOSUEzTm4zOHJBYXpzY3J3b0pmODlONVlIbExFNG5HVTlyLVhLYUdoaWJZY2FpYTM1bw?oc=5",
-            "publishedAt": "2026-10-01T07:00+00:00"
+            "title": "New Uline warehouse to bring 90+ jobs to Lower Macungie - WFMZ.com",
+            "source": "WFMZ.com",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEM4bEVqbm0yVm5OR0JCVlRkN19yWE5sR0lTelZhcUY5a1hxWjFkSFUxV2ZKY3I2dVdBbEJ5Y1kwbVUyQkhrczQ2WW5QOUlQMHBoN0lyYmg3X2NYV085Q0Vob1BHUTJlME1ObXprV2pPZEJ0cGNXcWczVjFrTF8tekNiRmxrQjFXNlRNTkM4TnpfRGw0di1zN1diY3JOQ2NscWh4SEhGc0RvRGJIY1gxQzlraXdTdnpGSVNCSUxiSlVQWkhJYy1wc2ktU3BUQ0dIQmYtbmNHaVV3Y0h1c1BDODh3?oc=5",
+            "publishedAt": "2026-10-07T07:00+00:00"
+          },
+          {
+            "title": "Here are the megadonors bankrolling California\u2019s voter ID ballot measure - CalMatters",
+            "source": "CalMatters",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNGhTeWM5aHl1NXVZc2tITDNWWnQyc056TzZ5SEgwRWNaUGJpXzZrSldQV1lUQ0xGazlrU2g3YUtOODBwWWFKdm5IRnktcjBncDJKRXlVeHNxWDdZVFBXbG12TlUyemYxSVJmMGZERU9YVTI0SE9Zek9TWXFudFhlbGcxRFNFNm0zRFV0dw?oc=5",
+            "publishedAt": "2026-10-07T07:00+00:00"
           }
         ],
         "hiring": [
-          {
-            "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
-            "source": "CT Insider",
-            "url": "",
-            "publishedAt": "2026-09-29T07:00+00:00",
-            "linkStatus": "direct_job_link_unavailable"
-          },
           {
             "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
             "source": "Atlanta News First",
             "url": "",
             "publishedAt": "2026-10-26T19:44+00:00",
             "linkStatus": "direct_job_link_unavailable"
-          }
-        ],
-        "moves": [
-          {
-            "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
-            "source": "CT Insider",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanl5eThWcE5jNXV3SUdNNFBiNERBTFpGa0JoNGFISmNxRVFZWFlqZ3MyRnVwYm9mUTd1UTZBUEVOUnRqdk1CTWlJUl9DRm1PNGJJR3BBQzFkTGRtdVZRcFVIQmVqZlgyTW9ob1UyMG4tMmlGNk1RVTRGa3JyS2hPaUZpZ2NVRHd2TnZkZWx0S0RKU0diUXhncG9ZdUVBZw?oc=5",
-            "publishedAt": "2026-09-29T07:00+00:00"
-          }
-        ],
-        "items": [
-          {
-            "title": "Recruitment for huge new distribution center in CT includes $5,000 signing bonuses, up to $34 an hour - CT Insider",
-            "source": "CT Insider",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanl5eThWcE5jNXV3SUdNNFBiNERBTFpGa0JoNGFISmNxRVFZWFlqZ3MyRnVwYm9mUTd1UTZBUEVOUnRqdk1CTWlJUl9DRm1PNGJJR3BBQzFkTGRtdVZRcFVIQmVqZlgyTW9ob1UyMG4tMmlGNk1RVTRGa3JyS2hPaUZpZ2NVRHd2TnZkZWx0S0RKU0diUXhncG9ZdUVBZw?oc=5",
-            "publishedAt": "2026-09-29T07:00+00:00"
           },
+          {
+            "title": "New Uline warehouse to bring 90+ jobs to Lower Macungie - WFMZ.com",
+            "source": "WFMZ.com",
+            "url": "",
+            "publishedAt": "2026-10-07T07:00+00:00",
+            "linkStatus": "direct_job_link_unavailable"
+          }
+        ],
+        "moves": [],
+        "items": [
           {
             "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
             "source": "Atlanta News First",
@@ -278,10 +265,16 @@
             "publishedAt": "2026-10-26T19:44+00:00"
           },
           {
-            "title": "3 Billionaires Have Largely Funded Republican Nominee for Wisconsin Governor - The New York Times",
-            "source": "The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdUZIQ013T2Jhc2dPbHlUdHBhNERYbm1SZk0zVmR2X1FaRzFuZ2pBNWZtd0FnT1c2NHotblViS0V5aFZjTkhrLUtzSmk4Tjk3MVBHWkpHcFlGQ2RCbnNOSUEzTm4zOHJBYXpzY3J3b0pmODlONVlIbExFNG5HVTlyLVhLYUdoaWJZY2FpYTM1bw?oc=5",
-            "publishedAt": "2026-10-01T07:00+00:00"
+            "title": "New Uline warehouse to bring 90+ jobs to Lower Macungie - WFMZ.com",
+            "source": "WFMZ.com",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEM4bEVqbm0yVm5OR0JCVlRkN19yWE5sR0lTelZhcUY5a1hxWjFkSFUxV2ZKY3I2dVdBbEJ5Y1kwbVUyQkhrczQ2WW5QOUlQMHBoN0lyYmg3X2NYV085Q0Vob1BHUTJlME1ObXprV2pPZEJ0cGNXcWczVjFrTF8tekNiRmxrQjFXNlRNTkM4TnpfRGw0di1zN1diY3JOQ2NscWh4SEhGc0RvRGJIY1gxQzlraXdTdnpGSVNCSUxiSlVQWkhJYy1wc2ktU3BUQ0dIQmYtbmNHaVV3Y0h1c1BDODh3?oc=5",
+            "publishedAt": "2026-10-07T07:00+00:00"
+          },
+          {
+            "title": "Here are the megadonors bankrolling California\u2019s voter ID ballot measure - CalMatters",
+            "source": "CalMatters",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNGhTeWM5aHl1NXVZc2tITDNWWnQyc056TzZ5SEgwRWNaUGJpXzZrSldQV1lUQ0xGazlrU2g3YUtOODBwWWFKdm5IRnktcjBncDJKRXlVeHNxWDdZVFBXbG12TlUyemYxSVJmMGZERU9YVTI0SE9Zek9TWXFudFhlbGcxRFNFNm0zRFV0dw?oc=5",
+            "publishedAt": "2026-10-07T07:00+00:00"
           }
         ],
         "query": "\"Uline\" packaging OR corrugated OR distribution when:30d",
@@ -298,7 +291,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "International Paper in talks with bidders for EMEA packaging business - Reuters",
@@ -316,7 +309,7 @@
             "title": "International Paper enters talks over potential EMEA packaging sale - Packaging Insights",
             "source": "Packaging Insights",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04S0JsVWs2TzBVSERVSzhTdDA4aExLVmNKeU1pZEtSdlZoaEY1dldxMWdDaVFjMHRTTTd0ODZCbGd1bUp4Qk5JbGs0TEtBNndBWnl5ZzRLNkNyUFA1b3NsdjhMaktXaUt5YnlFalB1ZzhLNXA0QUZoaDRSbjZsQQ?oc=5",
-            "publishedAt": "2026-10-16T13:24+00:00"
+            "publishedAt": "2026-10-16T07:00+00:00"
           }
         ],
         "hiring": [],
@@ -338,7 +331,7 @@
             "title": "International Paper enters talks over potential EMEA packaging sale - Packaging Insights",
             "source": "Packaging Insights",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04S0JsVWs2TzBVSERVSzhTdDA4aExLVmNKeU1pZEtSdlZoaEY1dldxMWdDaVFjMHRTTTd0ODZCbGd1bUp4Qk5JbGs0TEtBNndBWnl5ZzRLNkNyUFA1b3NsdjhMaktXaUt5YnlFalB1ZzhLNXA0QUZoaDRSbjZsQQ?oc=5",
-            "publishedAt": "2026-10-16T13:24+00:00"
+            "publishedAt": "2026-10-16T07:00+00:00"
           }
         ],
         "query": "\"International Paper\" packaging OR corrugated OR distribution when:30d",
@@ -355,7 +348,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "US investigates dumping claims over imported pizza boxes - PULPAPERnews.com",
@@ -420,7 +413,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "Smurfit Westrock anticipates $700M hit in 2026 from cost inflation - Packaging Dive",
@@ -429,16 +422,16 @@
             "publishedAt": "2026-10-28T15:28+00:00"
           },
           {
-            "title": "Smurfit Westrock Plc (SW) stock price, news, quote and history - Yahoo Finance Singapore",
-            "source": "Yahoo Finance Singapore",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUTZXVHRCdzd2TjZWS2FMUnEwUmswQTNFUDFQLVJmY3hHUlgtUUdmRU9aMGZWTGprTEE5LS02UDE4RU5yN29SZGlZRGxuSE0?oc=5",
-            "publishedAt": "2026-10-26T20:51+00:00"
+            "title": "Smurfit Westrock profits narrow in Q3 - Waste Today -",
+            "source": "Waste Today -",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXVmQW9DcHdZSkFUZkluVWxnM0lRSUxGUWl5ZG1ycHpVcFFYVWtYVnk2TkNtZEVIOV9TR2h4dGlsVG1OS2ZzTWk1VnhKZnZfV2NiS0pHd09yYnIxbFgwMUNRak43M2psVkFRd2wwcW4wVXJiYURrR3RueG5Ic2lmcHlRS0ZWQ2VIRlNIdUhiMHhwRWlMN1A4SGlGZmdLRTdsbXoxbVdCRnQyLU8tMHFRZlBEMkVkS2hOeGhWSFZhYkQyUQ?oc=5",
+            "publishedAt": "2026-10-29T06:19+00:00"
           },
           {
-            "title": "Texas real estate firm enters Cincinnati market with $29M purchase - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU1yLXBEV3RTNy01NXR6NlFjdFNrN2pWU2l5Sjg1cm1BRG5FLXg3QkxFZHdZVk81MTBVNGNicDhDT29VT3RaUks4SktZNmVOZS1wSm5EQ3FyLXB0ZkFaTXg1R0xUU1pKMGYtWlVDVlEtenlYQjJLVjBsaE4tUGpyaklKX3kzR0UwWmw3Zk1IQjUwTUdzd1B3bWlVekdxemtNMUxvZUFxMUt3b2VCMVJv?oc=5",
-            "publishedAt": "2026-10-05T07:00+00:00"
+            "title": "Why Is Smurfit WestRock Stock Falling? - Trefis",
+            "source": "Trefis",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1FOazhPRTFGMXBZYk1qVDdhTXoyN1cwbnVQVUVFWHRiQWstXzJ5SU84V3NEUms4Y1B0cU8wX3JLZXlJTk9OVVBiQ09FdW1nb2p0dWgwd1JoMmhfTUhvZWtSUEZaWWxxcFNCNDZVekRNblNRZjJZdkR1ZFZTNnlFUE9QelRHUXVCMXVtUDhscGt3NzBjQVN0ZVJia3o?oc=5",
+            "publishedAt": "2026-10-29T18:20+00:00"
           }
         ],
         "hiring": [],
@@ -451,16 +444,16 @@
             "publishedAt": "2026-10-28T15:28+00:00"
           },
           {
-            "title": "Smurfit Westrock Plc (SW) stock price, news, quote and history - Yahoo Finance Singapore",
-            "source": "Yahoo Finance Singapore",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUTZXVHRCdzd2TjZWS2FMUnEwUmswQTNFUDFQLVJmY3hHUlgtUUdmRU9aMGZWTGprTEE5LS02UDE4RU5yN29SZGlZRGxuSE0?oc=5",
-            "publishedAt": "2026-10-26T20:51+00:00"
+            "title": "Smurfit Westrock profits narrow in Q3 - Waste Today -",
+            "source": "Waste Today -",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXVmQW9DcHdZSkFUZkluVWxnM0lRSUxGUWl5ZG1ycHpVcFFYVWtYVnk2TkNtZEVIOV9TR2h4dGlsVG1OS2ZzTWk1VnhKZnZfV2NiS0pHd09yYnIxbFgwMUNRak43M2psVkFRd2wwcW4wVXJiYURrR3RueG5Ic2lmcHlRS0ZWQ2VIRlNIdUhiMHhwRWlMN1A4SGlGZmdLRTdsbXoxbVdCRnQyLU8tMHFRZlBEMkVkS2hOeGhWSFZhYkQyUQ?oc=5",
+            "publishedAt": "2026-10-29T06:19+00:00"
           },
           {
-            "title": "Texas real estate firm enters Cincinnati market with $29M purchase - The Business Journals",
-            "source": "The Business Journals",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU1yLXBEV3RTNy01NXR6NlFjdFNrN2pWU2l5Sjg1cm1BRG5FLXg3QkxFZHdZVk81MTBVNGNicDhDT29VT3RaUks4SktZNmVOZS1wSm5EQ3FyLXB0ZkFaTXg1R0xUU1pKMGYtWlVDVlEtenlYQjJLVjBsaE4tUGpyaklKX3kzR0UwWmw3Zk1IQjUwTUdzd1B3bWlVekdxemtNMUxvZUFxMUt3b2VCMVJv?oc=5",
-            "publishedAt": "2026-10-05T07:00+00:00"
+            "title": "Why Is Smurfit WestRock Stock Falling? - Trefis",
+            "source": "Trefis",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1FOazhPRTFGMXBZYk1qVDdhTXoyN1cwbnVQVUVFWHRiQWstXzJ5SU84V3NEUms4Y1B0cU8wX3JLZXlJTk9OVVBiQ09FdW1nb2p0dWgwd1JoMmhfTUhvZWtSUEZaWWxxcFNCNDZVekRNblNRZjJZdkR1ZFZTNnlFUE9QelRHUXVCMXVtUDhscGt3NzBjQVN0ZVJia3o?oc=5",
+            "publishedAt": "2026-10-29T18:20+00:00"
           }
         ],
         "query": "\"WestRock\" packaging OR corrugated OR distribution when:30d",
@@ -477,7 +470,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "International Paper gains as PE firms explore bids for DS Smith (update) (IP:NYSE) - Seeking Alpha",
@@ -492,10 +485,10 @@
             "publishedAt": "2026-10-15T07:00+00:00"
           },
           {
-            "title": "International Paper entertains offers for EMEA business - Packaging Dive",
+            "title": "International Paper talks cost challenges ahead of DS Smith split - Packaging Dive",
             "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGU5RVZmMHNKQzJGZWZjTUtFcUdZWmduTEVjUEtGTDZzT09hSktwYzU1d25wNnNxYzFCSnF2MzdWRjUwWUo2cUVjOS11OTR0VEIxSU5JRHRPZnVNeVo3M0FwemRsNjNEQ3VLUGRLUDBOU29WZk5wM1V0UUtKTWRIbFVuTHE1ajdRLV8wWnNxajY5ZzNxVElqXzBiV0t2SDA?oc=5",
-            "publishedAt": "2026-10-15T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMERyRDJFVWRkeUI1WVhEMDdRM0hjSkRBV01qSWZxVWwzREJXcEt2bVlOdHhmandMV0dGTVh3bTZxTHBUQ1lOVEJpa2ZpYWc1ak14VHpiX2EwX2g0QU05VnNsZldEbE42NEdnS3JWZFBtRHBJX2lmOVFEMUlNenRpMHd0R1pMOGFHTWNQLVQzLWtuQ0E?oc=5",
+            "publishedAt": "2026-10-29T15:57+00:00"
           }
         ],
         "hiring": [
@@ -522,10 +515,10 @@
             "publishedAt": "2026-10-15T07:00+00:00"
           },
           {
-            "title": "International Paper entertains offers for EMEA business - Packaging Dive",
+            "title": "International Paper talks cost challenges ahead of DS Smith split - Packaging Dive",
             "source": "Packaging Dive",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGU5RVZmMHNKQzJGZWZjTUtFcUdZWmduTEVjUEtGTDZzT09hSktwYzU1d25wNnNxYzFCSnF2MzdWRjUwWUo2cUVjOS11OTR0VEIxSU5JRHRPZnVNeVo3M0FwemRsNjNEQ3VLUGRLUDBOU29WZk5wM1V0UUtKTWRIbFVuTHE1ajdRLV8wWnNxajY5ZzNxVElqXzBiV0t2SDA?oc=5",
-            "publishedAt": "2026-10-15T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMERyRDJFVWRkeUI1WVhEMDdRM0hjSkRBV01qSWZxVWwzREJXcEt2bVlOdHhmandMV0dGTVh3bTZxTHBUQ1lOVEJpa2ZpYWc1ak14VHpiX2EwX2g0QU05VnNsZldEbE42NEdnS3JWZFBtRHBJX2lmOVFEMUlNenRpMHd0R1pMOGFHTWNQLVQzLWtuQ0E?oc=5",
+            "publishedAt": "2026-10-29T15:57+00:00"
           }
         ],
         "query": "\"DS Smith\" packaging OR corrugated OR distribution when:30d",
@@ -542,7 +535,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "Three key recommendations for planning in automotive packaging - Automotive Logistics",
@@ -599,7 +592,7 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "Berlin Packaging Makes Acquisitions in New Jersey, U.K. - National Association of Wholesaler-Distributors",
@@ -611,13 +604,13 @@
             "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
             "source": "Packaging Insights",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T10:55+00:00"
+            "publishedAt": "2026-10-13T07:00+00:00"
           },
           {
-            "title": "Berlin Packaging and ININUM Win Formes de Luxe Award for Beauty Tech Innovation - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlF6bnk0bHJ2emNGTFAwNl9ibUpyN1ZZdEtyX1BqYmpkeU16aHlmUkd1U3FPaVFpSll5TVYtMWFaODhPMU45QTROVXE1elJSeTcwRFV5eTgzdnB0N3VXbklvOWJ6X1R0YUVqdkhncXBQeEkwMmdrYk40bFU0YmFZRFV0QmFHNWc4RFZCYzFIRjVONnJsTkRmU3Nlb2V5cGs?oc=5",
-            "publishedAt": "2026-09-29T07:00+00:00"
+            "title": "Berlin Packaging Named One of America's Greenest Companies 2027 by Newsweek - PR Newswire",
+            "source": "PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHp5YXJESmdJX3NyZnZnNXpEdDFWaXhYcV9fdkZibTZYeGtNejkzZGFKRnA1bFdlMlExS3lqZ3JsSzA1TU1DZDhiRFBwWm5fNEtUVG5OOVVLRS1rZDNRMF9Uczdmb09qVTdPWjlNczlkbUh3NGlXaENFRHVzdTFvMTJ0ZHdNbFR6YmpOSGVPZzBvWkVYaUxVamxvZkNCZmVrUXRRY2s1U2VZU3RDNVkzbVE1ejlDM0Vaa21qOWZqWWk3R2Y3S3FUYzV3?oc=5",
+            "publishedAt": "2026-10-14T14:00+00:00"
           }
         ],
         "hiring": [],
@@ -632,7 +625,7 @@
             "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
             "source": "Packaging Insights",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T10:55+00:00"
+            "publishedAt": "2026-10-13T07:00+00:00"
           }
         ],
         "items": [
@@ -646,13 +639,13 @@
             "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
             "source": "Packaging Insights",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T10:55+00:00"
+            "publishedAt": "2026-10-13T07:00+00:00"
           },
           {
-            "title": "Berlin Packaging and ININUM Win Formes de Luxe Award for Beauty Tech Innovation - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlF6bnk0bHJ2emNGTFAwNl9ibUpyN1ZZdEtyX1BqYmpkeU16aHlmUkd1U3FPaVFpSll5TVYtMWFaODhPMU45QTROVXE1elJSeTcwRFV5eTgzdnB0N3VXbklvOWJ6X1R0YUVqdkhncXBQeEkwMmdrYk40bFU0YmFZRFV0QmFHNWc4RFZCYzFIRjVONnJsTkRmU3Nlb2V5cGs?oc=5",
-            "publishedAt": "2026-09-29T07:00+00:00"
+            "title": "Berlin Packaging Named One of America's Greenest Companies 2027 by Newsweek - PR Newswire",
+            "source": "PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHp5YXJESmdJX3NyZnZnNXpEdDFWaXhYcV9fdkZibTZYeGtNejkzZGFKRnA1bFdlMlExS3lqZ3JsSzA1TU1DZDhiRFBwWm5fNEtUVG5OOVVLRS1rZDNRMF9Uczdmb09qVTdPWjlNczlkbUh3NGlXaENFRHVzdTFvMTJ0ZHdNbFR6YmpOSGVPZzBvWkVYaUxVamxvZkNCZmVrUXRRY2s1U2VZU3RDNVkzbVE1ejlDM0Vaa21qOWZqWWk3R2Y3S3FUYzV3?oc=5",
+            "publishedAt": "2026-10-14T14:00+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -669,7 +662,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "SupplyOne Acquires Packaging Design Corporation to Continue Chicago Expansion - Packaging World",
@@ -745,7 +738,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
           {
             "title": "Hannah Bell, Performance Vehicle Works Racing, Looking to Build on Encouraging Run at Tri-County Speedway - Catchfence",
@@ -811,8 +804,14 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [
+          {
+            "title": "\u2018Lot Patrol\u2019 Co-Creator Ernest L. Dancy Launches Streaming and Social App Views - Blex Media",
+            "source": "Blex Media",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmRqa3BXTC1QWDlhakNHTVh0N00zaGZzRnAyQllGT1pPT1BlRHhWWTBhaURKTWZzczNnczU1ZE5nRjhzdE51UkdNZmZPUHYyZm0tTm9ieTc0cG4zQm8yb2Q2OVRFVHhRdTNoZlI2d3hDQXcwd29tdzhrVzZwcVdvdktXZw?oc=5",
+            "publishedAt": "2026-10-29T05:13+00:00"
+          },
           {
             "title": "Ernest Shonekan Centre Launches Portal to Track Legislation Affecting Nigeria\u2019s Business Environment - Nairametrics",
             "source": "Nairametrics",
@@ -831,6 +830,12 @@
         ],
         "moves": [],
         "items": [
+          {
+            "title": "\u2018Lot Patrol\u2019 Co-Creator Ernest L. Dancy Launches Streaming and Social App Views - Blex Media",
+            "source": "Blex Media",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmRqa3BXTC1QWDlhakNHTVh0N00zaGZzRnAyQllGT1pPT1BlRHhWWTBhaURKTWZzczNnczU1ZE5nRjhzdE51UkdNZmZPUHYyZm0tTm9ieTc0cG4zQm8yb2Q2OVRFVHhRdTNoZlI2d3hDQXcwd29tdzhrVzZwcVdvdktXZw?oc=5",
+            "publishedAt": "2026-10-29T05:13+00:00"
+          },
           {
             "title": "Ernest Shonekan Centre Launches Portal to Track Legislation Affecting Nigeria\u2019s Business Environment - Nairametrics",
             "source": "Nairametrics",
@@ -852,7 +857,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-10-28T18:55+00:00",
+        "lastUpdated": "2026-10-29T19:00+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -864,8 +869,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-28T18:55+00:00",
-  "lastSuccessfulAt": "2026-10-28T18:55+00:00",
+  "lastAttemptedAt": "2026-10-29T19:00+00:00",
+  "lastSuccessfulAt": "2026-10-29T19:00+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

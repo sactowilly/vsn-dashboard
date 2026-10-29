@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T18:55+00:00",
+  "lastUpdated": "2026-10-29T19:00+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -21,13 +21,6 @@
       "impact": "Low"
     },
     {
-      "title": "Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging - https://environment.ec.europa.eu/index_en",
-      "source": "https://environment.ec.europa.eu/index_en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6UTUzVWx6dmM0T2V3blJWRkdqdW4zY1lnX29oYnJSYWw4dU1EOVJVTXZsSm5RT0pyMXpmUk52Zi1mWm5TcF9lb3g0ck9BUURBUmU4amJzQjJFTlZXazI0bkxyWmNmT3hvSnhULTk0SU5BMHZFVFRNSFFSNkk5V1hlOGI3SUxNLURXYk8tREVWWXh3OFppN2RMSXBwOFNuRE5PUjhuVTlOR3VxQnc?oc=5",
-      "publishedAt": "2026-10-21T14:56+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Virginia Tech Packaging Innovation Hub will offer packaging solutions from materials to marketplace - Virginia Tech News",
       "source": "Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EcE45VDNpRHRlQ25CWjFSVXlITF83RXdzTzlhaVM2SkVaT3FhRGhCRUZRSDhvckcwR0tCNmJqcVM1aFpZd2VuV1dWUVZIRF9yMnJOWDNaTm1PNHRjcnVXbE9mWDUyUQ?oc=5",
@@ -35,10 +28,10 @@
       "impact": "Low"
     },
     {
-      "title": "New Platform Automates Plastic Packaging Design Assessment - PlasticsToday",
-      "source": "PlasticsToday",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOci1SQkxQUHhrWi1nNVNqc0R6bjU2cEN5eFFMd3pSQ2lmRGlMMVYzeEJEenpZWUlMbjJXRE0wbjB4cFdkaTlNb2J5cjZwTUgzUlBOazllTHc3T19Oa2RNeFVZSUZodS1jMmQtYWlLR21PSjhaaVFITzc1Q1JIN2VrUnZUYTZTYTJuNVZhcWlGY25hWGgycmNENA?oc=5",
-      "publishedAt": "2026-09-30T07:00+00:00",
+      "title": "Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging - https://environment.ec.europa.eu/index_en",
+      "source": "https://environment.ec.europa.eu/index_en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6UTUzVWx6dmM0T2V3blJWRkdqdW4zY1lnX29oYnJSYWw4dU1EOVJVTXZsSm5RT0pyMXpmUk52Zi1mWm5TcF9lb3g0ck9BUURBUmU4amJzQjJFTlZXazI0bkxyWmNmT3hvSnhULTk0SU5BMHZFVFRNSFFSNkk5V1hlOGI3SUxNLURXYk8tREVWWXh3OFppN2RMSXBwOFNuRE5PUjhuVTlOR3VxQnc?oc=5",
+      "publishedAt": "2026-10-21T14:56+00:00",
       "impact": "Low"
     },
     {
@@ -49,17 +42,24 @@
       "impact": "Low"
     },
     {
-      "title": "Flexible packaging industry braces for more EPR laws in 2027 - Plastics News",
-      "source": "Plastics News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0wza3A3NnIzTFRaZDRYQ0p4SmtBdUtGaUZZbzd3QVZuc1pLb2doUkZKeXdySk5TVFNuR3FMd2lVR2ZOS0NsS1dvT0NkYWlUdlNkenE3TjlKaVFoUlZfV2kyeGNWeDBmNzF2YlV2U1R5UUxURTNsTTRXcFRPSW9JNks1aEstU0JfZmhaQ0NIYmFRbXRtdU1UOWxQRGg2TmF2?oc=5",
-      "publishedAt": "2026-10-21T12:54+00:00",
+      "title": "New Platform Automates Plastic Packaging Design Assessment - PlasticsToday",
+      "source": "PlasticsToday",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOci1SQkxQUHhrWi1nNVNqc0R6bjU2cEN5eFFMd3pSQ2lmRGlMMVYzeEJEenpZWUlMbjJXRE0wbjB4cFdkaTlNb2J5cjZwTUgzUlBOazllTHc3T19Oa2RNeFVZSUZodS1jMmQtYWlLR21PSjhaaVFITzc1Q1JIN2VrUnZUYTZTYTJuNVZhcWlGY25hWGgycmNENA?oc=5",
+      "publishedAt": "2026-09-30T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
+      "source": "National Association of Wholesaler-Distributors",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xpSnNGZ0x1VjFxNF9yMV9SZ25Uck94QktNY0RLY2U4M0Vlc3ZaVVZ3UzhQRDNjLWJsZjNSXzhnbmNVbGc2Y1R2MlZ3NFByQUdET2VtNHNSX00wa04yUlpHMkpwNDZlVkgtVFRXZFgxUkZHMHdnaUpOZlJVbUFPZW9pWE9VNTFVbzlfd3hXei0?oc=5",
+      "publishedAt": "2026-10-02T07:00+00:00",
       "impact": "Medium"
     },
     {
-      "title": "Kraft Heinz Tackles Small-Plastic Packaging Recovery - Packaging Digest",
-      "source": "Packaging Digest",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk1wbFlnbkJ1ZzVkLXIyZE9uZC15c3BzRDduS2JLOXYzMkhFQVdNZjJSQ0wtOWR1dDN2aGk2Z3lDaGRsUl9DUjRiOXRqdGlZVDF4SlZTNURMT0NuSjRfUUNPMTlpSFVFTTdmVHJtYmZ2bm00enA0b18xSDJIdGlNMzF6NjFqT2VFWUh3cTVFVGl0d1ZJdko2ZjYwV2Joem5n?oc=5",
-      "publishedAt": "2026-09-30T07:00+00:00",
+      "title": "Why Is Est\u00e9e Lauder Companies (EL) Facing A Showdown Over Plastic Packaging? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWkteUxCeG9kZFRDOHNNZXVILTlqRXUxRkp4bTdjYUkyTnFUOVh4YVdfRmp4c0FLMVhWS1RnTm85cFJ2emFSTGlWRjlmUU1sMnVOalFEUXVfNWhPSEc3dVl1ZG5SNWJRQW1zVkJGZTdyd1YwZmR2bm1ZREU1c2ZmTDB1cHo1UEJKTjNkRmY3TGNXSDI5MUE?oc=5",
+      "publishedAt": "2026-10-09T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -72,8 +72,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-28T18:55+00:00",
-  "lastSuccessfulAt": "2026-10-28T18:55+00:00",
+  "lastAttemptedAt": "2026-10-29T19:00+00:00",
+  "lastSuccessfulAt": "2026-10-29T19:00+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

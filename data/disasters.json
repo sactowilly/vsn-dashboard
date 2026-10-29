@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T18:55+00:00",
+  "lastUpdated": "2026-10-29T19:00+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "8 km W of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "4 km SSE of Home Gardens, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "31 km NNW of Karluk, Alaska",
+      "region": "10 km N of Cabazon, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "66 km WNW of Beluga, Alaska",
+      "region": "7 km WNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km SSE of Idyllwild, CA",
+      "region": "67 km SW of Nanwalek, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km N of Banning, CA",
+      "region": "20 km SW of Ocotillo Wells, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "13 km W of Enoch, Utah",
+      "region": "4 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NNW of The Geysers, CA",
+      "region": "72 km WNW of Beluga, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Warning issued October 28 at 11:46AM PDT until October 29 at 1:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Severe"
+      "type": "Winter Weather Advisory issued October 29 at 11:13AM PDT until November 1 at 7:00AM PST by NWS Sacramento CA",
+      "region": "Sierra Nevada of Sierra-Nevada-Placer Counties Above 5000 ft Including Interstate 80; Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
+      "severity": "Moderate"
     },
     {
-      "type": "Coastal Flood Advisory issued October 28 at 11:46AM PDT until October 30 at 2:00PM PDT by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Minor"
+      "type": "Winter Weather Advisory issued October 29 at 10:54AM PDT until November 1 at 7:00AM PST by NWS Hanford CA",
+      "region": "Yosemite NP outside of the valley; Upper San Joaquin River; Kaiser to Rodgers Ridge; Kings Canyon NP; Sequoia NP",
+      "severity": "Moderate"
     },
     {
-      "type": "Coastal Flood Advisory issued October 28 at 11:39AM PDT until October 30 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
-      "severity": "Minor"
+      "type": "Winter Weather Advisory issued October 29 at 10:39AM PDT until November 1 at 7:00AM PST by NWS Reno NV",
+      "region": "Mono",
+      "severity": "Moderate"
     },
     {
-      "type": "Coastal Flood Advisory issued October 28 at 11:39AM PDT until October 30 at 2:00PM PDT by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands",
-      "severity": "Minor"
+      "type": "Winter Weather Advisory issued October 29 at 10:39AM PDT until November 1 at 7:00AM PST by NWS Reno NV",
+      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-28T18:55+00:00",
-  "lastSuccessfulAt": "2026-10-28T18:55+00:00",
+  "lastAttemptedAt": "2026-10-29T19:00+00:00",
+  "lastSuccessfulAt": "2026-10-29T19:00+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
