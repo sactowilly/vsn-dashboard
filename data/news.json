@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T19:00+00:00",
+  "lastUpdated": "2026-10-30T18:40+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,10 +14,10 @@
   ],
   "stories": [
     {
-      "title": "Trump adjusts list of Canadian packaging, products subject to tariffs - Packaging Dive",
+      "title": "Amid push for recycled fiber packaging, virgin demand remains strong - Packaging Dive",
       "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTZQdnRYdlV3UjFMMFhWZ194NENOSTBiTjhzUndkVkkwZEFHZXZNTTUwLWxPWDJsanRJVF9sZVpfbXo0VGxwdmNOX2Z5RU1hTWg2cDdQVV9zRExOMjVfOS1BUEwzc2JvVWdwZXl1V2l4WmI2eFY0RldvT1FybVdBRlpGRVh0WWdLZVJuVEZMdTZsTi1IQWc?oc=5",
-      "publishedAt": "2026-10-26T15:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEd1cHlyUVZSdUxTeTlENTZjdGs2ZHJOZ0RBOTYtWU5iTERfS2pFREVnb3hxaHoyMm0yTEo3NXh6X0xYeGVjMkdEQVd4dkFVemZTYUVvZzlUbHJUcFlVd2l2MWgxY3NOZ2tFU3BPR05Ia1FNb24tQ1FGSkN6c3R1UmhYanNvUG8?oc=5",
+      "publishedAt": "2026-10-12T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -35,6 +35,13 @@
       "impact": "Low"
     },
     {
+      "title": "AMERIPEN study explores US packaging industry\u2019s economic impact - Recycling Today",
+      "source": "Recycling Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzYyWVVuazY3LWgxOUFNTkFsbEdZb2E2LW5FXzR3RFY5QW9uRFRxMTQyS1pDT0xwYlZxX1lmNGZTeTlGVHVzeDhKSDZDUDJLLU94bkxjTC1NUEhadzdMRk5KRkI2S1JvRDg5ZzVrQ3FoVHduY3pfRldMLVFianlkejJ0b00xUjA4OFYydjdubXkxYjhDcVl1OXFUVmc2Yy03QXFoaXh6UHp1NEtXbFE?oc=5",
+      "publishedAt": "2026-10-30T13:50+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "The State of Grocery Retail Europe: Implications for packaging players - McKinsey & Company",
       "source": "McKinsey & Company",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnNVSmtJMGYyLWtCUjVob1RVTXdMeHZjak5RaEJzWDFHeW0wUUplak5Ma3puRTJwWEE3ejg2VlEtQl9GdFBQQ29jTmVtYkI1bnRnZ2MtSzFGWjRzbWJ0NDRWX0xLWmhLYWlIaEZldTFsVkI2XzFQZXQ3d2QzREFMV2J6QmZrNHRFU3JhWFdndDV2Qlg1SUtwSkpTd255dzJrZ1daaGJEdEdUS0N1UVNjcDB6VnhmVEpGY0tUaEV6ZTFKTmVlUUhndkRXSGlXTHQ1ajl4bg?oc=5",
@@ -42,11 +49,11 @@
       "impact": "Low"
     },
     {
-      "title": "New Platform Automates Plastic Packaging Design Assessment - PlasticsToday",
-      "source": "PlasticsToday",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOci1SQkxQUHhrWi1nNVNqc0R6bjU2cEN5eFFMd3pSQ2lmRGlMMVYzeEJEenpZWUlMbjJXRE0wbjB4cFdkaTlNb2J5cjZwTUgzUlBOazllTHc3T19Oa2RNeFVZSUZodS1jMmQtYWlLR21PSjhaaVFITzc1Q1JIN2VrUnZUYTZTYTJuNVZhcWlGY25hWGgycmNENA?oc=5",
-      "publishedAt": "2026-09-30T07:00+00:00",
-      "impact": "Low"
+      "title": "Flexible packaging industry braces for more EPR laws in 2027 - Plastics News",
+      "source": "Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0wza3A3NnIzTFRaZDRYQ0p4SmtBdUtGaUZZbzd3QVZuc1pLb2doUkZKeXdySk5TVFNuR3FMd2lVR2ZOS0NsS1dvT0NkYWlUdlNkenE3TjlKaVFoUlZfV2kyeGNWeDBmNzF2YlV2U1R5UUxURTNsTTRXcFRPSW9JNks1aEstU0JfZmhaQ0NIYmFRbXRtdU1UOWxQRGg2TmF2?oc=5",
+      "publishedAt": "2026-10-21T07:00+00:00",
+      "impact": "Medium"
     },
     {
       "title": "SupplyOne Adds Packaging Design Corp. in Chicago Expansion - National Association of Wholesaler-Distributors",
@@ -61,19 +68,12 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWkteUxCeG9kZFRDOHNNZXVILTlqRXUxRkp4bTdjYUkyTnFUOVh4YVdfRmp4c0FLMVhWS1RnTm85cFJ2emFSTGlWRjlmUU1sMnVOalFEUXVfNWhPSEc3dVl1ZG5SNWJRQW1zVkJGZTdyd1YwZmR2bm1ZREU1c2ZmTDB1cHo1UEJKTjNkRmY3TGNXSDI5MUE?oc=5",
       "publishedAt": "2026-10-09T07:00+00:00",
       "impact": "Low"
-    },
-    {
-      "title": "Beyond the pandemic: the reshaping of the packaging industry - Packaging Europe",
-      "source": "Packaging Europe",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaV9nbmMxYW4xUXBlQTVGVGZiTmd6UlNTRFZXWF9vUU9oa2Yzdkd6SENnQnFxS1dwUW0wZmRHakRvLVVlVTJEQTEyTG81YWRxNURxQU4zbnJTY2lsd3RqOXJ1T1FyMHpIQ3U5TWJzX2lIeWloVzJzUEYzMndZUmwzRi0tTVpNX1FFVEs0aGRVc3ZHcVQxVFhB?oc=5",
-      "publishedAt": "2026-10-12T07:00+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-29T19:00+00:00",
-  "lastSuccessfulAt": "2026-10-29T19:00+00:00",
+  "lastAttemptedAt": "2026-10-30T18:40+00:00",
+  "lastSuccessfulAt": "2026-10-30T18:40+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T19:00+00:00",
+  "lastUpdated": "2026-10-30T18:40+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "8 km W of Cobb, CA",
+      "region": "6 km E of Puebla, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km SSE of Home Gardens, CA",
+      "region": "9 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km N of Cabazon, CA",
+      "region": "7 km E of Lebec, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km WNW of The Geysers, CA",
+      "region": "8 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "67 km SW of Nanwalek, Alaska",
+      "region": "6 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "20 km SW of Ocotillo Wells, CA",
+      "region": "17 km NW of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km NNW of The Geysers, CA",
+      "region": "44 km W of Anchor Point, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "72 km WNW of Beluga, Alaska",
+      "region": "3 km SW of Ashford, Washington",
       "severity": "Low"
     },
     {
-      "type": "Winter Weather Advisory issued October 29 at 11:13AM PDT until November 1 at 7:00AM PST by NWS Sacramento CA",
-      "region": "Sierra Nevada of Sierra-Nevada-Placer Counties Above 5000 ft Including Interstate 80; Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Winter Weather Advisory issued October 29 at 10:54AM PDT until November 1 at 7:00AM PST by NWS Hanford CA",
+      "type": "Winter Weather Advisory issued October 30 at 11:32AM PDT until November 1 at 7:00AM PST by NWS Hanford CA",
       "region": "Yosemite NP outside of the valley; Upper San Joaquin River; Kaiser to Rodgers Ridge; Kings Canyon NP; Sequoia NP",
       "severity": "Moderate"
     },
     {
-      "type": "Winter Weather Advisory issued October 29 at 10:39AM PDT until November 1 at 7:00AM PST by NWS Reno NV",
-      "region": "Mono",
+      "type": "Winter Weather Advisory issued October 30 at 9:48AM PDT until November 1 at 7:00AM PST by NWS Sacramento CA",
+      "region": "Sierra Nevada of Sierra-Nevada-Placer Counties Above 5000 ft Including Interstate 80; Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
       "severity": "Moderate"
     },
     {
-      "type": "Winter Weather Advisory issued October 29 at 10:39AM PDT until November 1 at 7:00AM PST by NWS Reno NV",
+      "type": "Winter Weather Advisory issued October 30 at 9:10AM PDT until November 1 at 7:00AM PST by NWS Reno NV",
       "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Winter Weather Advisory issued October 30 at 9:10AM PDT until November 1 at 7:00AM PST by NWS Reno NV",
+      "region": "Mono",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-29T19:00+00:00",
-  "lastSuccessfulAt": "2026-10-29T19:00+00:00",
+  "lastAttemptedAt": "2026-10-30T18:40+00:00",
+  "lastSuccessfulAt": "2026-10-30T18:40+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
