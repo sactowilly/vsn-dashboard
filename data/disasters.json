@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T18:40+00:00",
+  "lastUpdated": "2026-11-02T22:21+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "6 km E of Puebla, B.C., MX",
+      "region": "10 km WSW of Manley Hot Springs, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km NW of The Geysers, CA",
+      "region": "3 km SE of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km E of Lebec, CA",
+      "region": "5 km E of Calimesa, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km WNW of Cobb, CA",
+      "region": "41 km SSW of Manley Hot Springs, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km WNW of Cobb, CA",
+      "region": "3 km NNW of Quincy, Washington",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km NW of Pinnacles, CA",
+      "region": "9 km NNE of Delta, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "44 km W of Anchor Point, Alaska",
+      "region": "10 km WNW of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SW of Ashford, Washington",
+      "region": "10 km NE of Abbotsford, Canada",
       "severity": "Low"
     },
     {
-      "type": "Winter Weather Advisory issued October 30 at 11:32AM PDT until November 1 at 7:00AM PST by NWS Hanford CA",
-      "region": "Yosemite NP outside of the valley; Upper San Joaquin River; Kaiser to Rodgers Ridge; Kings Canyon NP; Sequoia NP",
+      "type": "Beach Hazards Statement issued November 2 at 12:12PM PST until November 2 at 6:00PM PST by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Moderate"
     },
     {
-      "type": "Winter Weather Advisory issued October 30 at 9:48AM PDT until November 1 at 7:00AM PST by NWS Sacramento CA",
-      "region": "Sierra Nevada of Sierra-Nevada-Placer Counties Above 5000 ft Including Interstate 80; Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
+      "type": "Frost Advisory issued November 2 at 12:00PM PST until November 3 at 9:00AM PST by NWS Eureka CA",
+      "region": "Northwestern Interior Mendocino; Northeastern Interior Mendocino; Northern Lake",
+      "severity": "Minor"
+    },
+    {
+      "type": "Beach Hazards Statement issued November 2 at 10:33AM PST until November 2 at 10:00PM PST by NWS Eureka CA",
+      "region": "Coastal Del Norte; Northern Coastal Humboldt; Southwestern Humboldt; Coastal Mendocino",
       "severity": "Moderate"
     },
     {
-      "type": "Winter Weather Advisory issued October 30 at 9:10AM PDT until November 1 at 7:00AM PST by NWS Reno NV",
+      "type": "Lake Wind Advisory issued November 2 at 10:04AM PST until November 3 at 4:00PM PST by NWS Reno NV",
       "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Winter Weather Advisory issued October 30 at 9:10AM PDT until November 1 at 7:00AM PST by NWS Reno NV",
-      "region": "Mono",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-10-30T18:40+00:00",
-  "lastSuccessfulAt": "2026-10-30T18:40+00:00",
+  "lastAttemptedAt": "2026-11-02T22:21+00:00",
+  "lastSuccessfulAt": "2026-11-02T22:21+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
