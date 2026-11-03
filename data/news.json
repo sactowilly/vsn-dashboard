@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T22:21+00:00",
+  "lastUpdated": "2026-11-03T20:09+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -13,13 +13,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "AMERIPEN study explores US packaging industry\u2019s economic impact - Recycling Today",
-      "source": "Recycling Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzYyWVVuazY3LWgxOUFNTkFsbEdZb2E2LW5FXzR3RFY5QW9uRFRxMTQyS1pDT0xwYlZxX1lmNGZTeTlGVHVzeDhKSDZDUDJLLU94bkxjTC1NUEhadzdMRk5KRkI2S1JvRDg5ZzVrQ3FoVHduY3pfRldMLVFianlkejJ0b00xUjA4OFYydjdubXkxYjhDcVl1OXFUVmc2Yy03QXFoaXh6UHp1NEtXbFE?oc=5",
-      "publishedAt": "2026-10-30T13:50+00:00",
-      "impact": "Low"
-    },
     {
       "title": "Amid push for recycled fiber packaging, virgin demand remains strong - Packaging Dive",
       "source": "Packaging Dive",
@@ -42,17 +35,17 @@
       "impact": "Low"
     },
     {
-      "title": "Virginia Tech Packaging Innovation Hub will offer packaging solutions from materials to marketplace - Virginia Tech News",
-      "source": "Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EcE45VDNpRHRlQ25CWjFSVXlITF83RXdzTzlhaVM2SkVaT3FhRGhCRUZRSDhvckcwR0tCNmJqcVM1aFpZd2VuV1dWUVZIRF9yMnJOWDNaTm1PNHRjcnVXbE9mWDUyUQ?oc=5",
-      "publishedAt": "2026-10-15T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Beyond the pandemic: the reshaping of the packaging industry - Packaging Europe",
       "source": "Packaging Europe",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaV9nbmMxYW4xUXBlQTVGVGZiTmd6UlNTRFZXWF9vUU9oa2Yzdkd6SENnQnFxS1dwUW0wZmRHakRvLVVlVTJEQTEyTG81YWRxNURxQU4zbnJTY2lsd3RqOXJ1T1FyMHpIQ3U5TWJzX2lIeWloVzJzUEYzMndZUmwzRi0tTVpNX1FFVEs0aGRVc3ZHcVQxVFhB?oc=5",
       "publishedAt": "2026-10-12T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Virginia Tech Packaging Innovation Hub will offer packaging solutions from materials to marketplace - Virginia Tech News",
+      "source": "Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EcE45VDNpRHRlQ25CWjFSVXlITF83RXdzTzlhaVM2SkVaT3FhRGhCRUZRSDhvckcwR0tCNmJqcVM1aFpZd2VuV1dWUVZIRF9yMnJOWDNaTm1PNHRjcnVXbE9mWDUyUQ?oc=5",
+      "publishedAt": "2026-10-15T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -68,12 +61,19 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUxrMzRuVTVSaGN2eGlpTzhTVGk5alQ1RG1QUmYxUUNPei1Cem5CVUphZm5DR19wRlhzX0FkTWhvYi1NOUpQWlJWTHAtVUlYbnNTeUllek1uMm5LelpjbUs1cDBtNHlJRy1WZ1FFbTlrVUpQcXFvSk56M2dWa3YtNEhCd3M1eGVnZjItMm5TR2JDTFpwVUkzTlJWaUdfb0E?oc=5",
       "publishedAt": "2026-11-02T12:20+00:00",
       "impact": "Medium"
+    },
+    {
+      "title": "New Jersey bill targets source reduction in plastic packaging - Recycling Today",
+      "source": "Recycling Today",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0Vmall4V3VaSzBwcUJJN0ZOS0NLOExPa29DTFE1U3VfQnJNbnNzOU5YR2EtSXh3eDFIa3pibGFDY2paNjJwTDgwMFRMbEludVNxNDhmQ2tJeUp5TUpLVVNGdXdEa1RaUXlSY21KODN6aDlMWkpxeVFrbGN0UjI3empGejhDWkRuelVGQ1dhYWU5dTh3SzBkb3Rsdl90ZWM?oc=5",
+      "publishedAt": "2026-10-09T07:00+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-02T22:21+00:00",
-  "lastSuccessfulAt": "2026-11-02T22:21+00:00",
+  "lastAttemptedAt": "2026-11-03T20:09+00:00",
+  "lastSuccessfulAt": "2026-11-03T20:09+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

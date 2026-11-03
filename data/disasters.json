@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T22:21+00:00",
+  "lastUpdated": "2026-11-03T20:09+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "10 km WSW of Manley Hot Springs, Alaska",
+      "region": "8 km NNE of Delta, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SE of The Geysers, CA",
+      "region": "8 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km E of Calimesa, CA",
+      "region": "4 km NE of Beaumont, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "41 km SSW of Manley Hot Springs, Alaska",
+      "region": "6 km NE of Delta, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km NNW of Quincy, Washington",
+      "region": "5 km NE of Delta, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km NNE of Delta, B.C., MX",
+      "region": "15 km NNE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km WNW of Cobb, CA",
+      "region": "8 km NNE of Delta, B.C., MX",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km NE of Abbotsford, Canada",
+      "region": "7 km NNE of Delta, B.C., MX",
       "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued November 2 at 12:12PM PST until November 2 at 6:00PM PST by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "type": "Beach Hazards Statement issued November 3 at 11:25AM PST until November 3 at 8:00PM PST by NWS San Francisco CA",
+      "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
       "severity": "Moderate"
     },
     {
-      "type": "Frost Advisory issued November 2 at 12:00PM PST until November 3 at 9:00AM PST by NWS Eureka CA",
-      "region": "Northwestern Interior Mendocino; Northeastern Interior Mendocino; Northern Lake",
+      "type": "Beach Hazards Statement issued November 3 at 11:25AM PST until November 3 at 8:00PM PST by NWS San Francisco CA",
+      "region": "San Francisco",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Coastal Flood Advisory issued November 3 at 11:25AM PST until November 9 at 1:00PM PST by NWS San Francisco CA",
+      "region": "San Francisco",
       "severity": "Minor"
     },
     {
-      "type": "Beach Hazards Statement issued November 2 at 10:33AM PST until November 2 at 10:00PM PST by NWS Eureka CA",
-      "region": "Coastal Del Norte; Northern Coastal Humboldt; Southwestern Humboldt; Coastal Mendocino",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Lake Wind Advisory issued November 2 at 10:04AM PST until November 3 at 4:00PM PST by NWS Reno NV",
-      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
-      "severity": "Moderate"
+      "type": "Coastal Flood Advisory issued November 3 at 11:25AM PST until November 9 at 1:00PM PST by NWS San Francisco CA",
+      "region": "North Bay Interior Valleys; San Francisco Bay Shoreline",
+      "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-02T22:21+00:00",
-  "lastSuccessfulAt": "2026-11-02T22:21+00:00",
+  "lastAttemptedAt": "2026-11-03T20:09+00:00",
+  "lastSuccessfulAt": "2026-11-03T20:09+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
