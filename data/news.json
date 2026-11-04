@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:09+00:00",
+  "lastUpdated": "2026-11-04T20:27+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -26,6 +26,13 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6UTUzVWx6dmM0T2V3blJWRkdqdW4zY1lnX29oYnJSYWw4dU1EOVJVTXZsSm5RT0pyMXpmUk52Zi1mWm5TcF9lb3g0ck9BUURBUmU4amJzQjJFTlZXazI0bkxyWmNmT3hvSnhULTk0SU5BMHZFVFRNSFFSNkk5V1hlOGI3SUxNLURXYk8tREVWWXh3OFppN2RMSXBwOFNuRE5PUjhuVTlOR3VxQnc?oc=5",
       "publishedAt": "2026-10-21T07:00+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "Pack Expo 2026: US EPR patchwork pushes packaging industry toward redesign - Packaging Insights",
+      "source": "Packaging Insights",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUxrMzRuVTVSaGN2eGlpTzhTVGk5alQ1RG1QUmYxUUNPei1Cem5CVUphZm5DR19wRlhzX0FkTWhvYi1NOUpQWlJWTHAtVUlYbnNTeUllek1uMm5LelpjbUs1cDBtNHlJRy1WZ1FFbTlrVUpQcXFvSk56M2dWa3YtNEhCd3M1eGVnZjItMm5TR2JDTFpwVUkzTlJWaUdfb0E?oc=5",
+      "publishedAt": "2026-11-02T12:20+00:00",
+      "impact": "Medium"
     },
     {
       "title": "The State of Grocery Retail Europe: Implications for packaging players - McKinsey & Company",
@@ -56,24 +63,17 @@
       "impact": "Medium"
     },
     {
-      "title": "Pack Expo 2026: US EPR patchwork pushes packaging industry toward redesign - Packaging Insights",
-      "source": "Packaging Insights",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUxrMzRuVTVSaGN2eGlpTzhTVGk5alQ1RG1QUmYxUUNPei1Cem5CVUphZm5DR19wRlhzX0FkTWhvYi1NOUpQWlJWTHAtVUlYbnNTeUllek1uMm5LelpjbUs1cDBtNHlJRy1WZ1FFbTlrVUpQcXFvSk56M2dWa3YtNEhCd3M1eGVnZjItMm5TR2JDTFpwVUkzTlJWaUdfb0E?oc=5",
-      "publishedAt": "2026-11-02T12:20+00:00",
-      "impact": "Medium"
-    },
-    {
-      "title": "New Jersey bill targets source reduction in plastic packaging - Recycling Today",
-      "source": "Recycling Today",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0Vmall4V3VaSzBwcUJJN0ZOS0NLOExPa29DTFE1U3VfQnJNbnNzOU5YR2EtSXh3eDFIa3pibGFDY2paNjJwTDgwMFRMbEludVNxNDhmQ2tJeUp5TUpLVVNGdXdEa1RaUXlSY21KODN6aDlMWkpxeVFrbGN0UjI3empGejhDWkRuelVGQ1dhYWU5dTh3SzBkb3Rsdl90ZWM?oc=5",
-      "publishedAt": "2026-10-09T07:00+00:00",
+      "title": "Mesirow sees opportunities for packaging industry growth, M&A in 2027 - Label and Narrow Web",
+      "source": "Label and Narrow Web",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkpzQVR6T29UekwtVnMyTjFsUTdwZkNIT3BnSVZDbUlhOW1xeVMtUHo1aHNRVE1qekRlcExxM242cmVXVjhOT3NFQkpqci1fWWJZbXUtdlcwWXF5RzBJdGpoeEx4NlJuM3kyampuV0wxblM3X2pIRmRVWVc5ckdhZTNhejkxR21scHJreHRwTHFlUlNIWTAyRHlTYmdCQWYxRzdBRWJZa3pJTDA0MzU3VnFJdw?oc=5",
+      "publishedAt": "2026-10-26T07:00+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-03T20:09+00:00",
-  "lastSuccessfulAt": "2026-11-03T20:09+00:00",
+  "lastAttemptedAt": "2026-11-04T20:27+00:00",
+  "lastSuccessfulAt": "2026-11-04T20:27+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
