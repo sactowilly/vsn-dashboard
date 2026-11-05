@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:27+00:00",
+  "lastUpdated": "2026-11-05T20:42+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -14,11 +14,11 @@
   ],
   "stories": [
     {
-      "title": "Amid push for recycled fiber packaging, virgin demand remains strong - Packaging Dive",
+      "title": "Containerboard production still down in Q3, with some improvement - Packaging Dive",
       "source": "Packaging Dive",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEd1cHlyUVZSdUxTeTlENTZjdGs2ZHJOZ0RBOTYtWU5iTERfS2pFREVnb3hxaHoyMm0yTEo3NXh6X0xYeGVjMkdEQVd4dkFVemZTYUVvZzlUbHJUcFlVd2l2MWgxY3NOZ2tFU3BPR05Ia1FNb24tQ1FGSkN6c3R1UmhYanNvUG8?oc=5",
-      "publishedAt": "2026-10-12T07:00+00:00",
-      "impact": "Low"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWFKWll3SlZCOEw1cG5VMkpucGtaM0pfSDJrWElDUUxlVzdKSnZOcVRkeFptakM4WFk1NXd0d2dNcE5McXllZC11ODNQZGtKTXdqVDBHYndLSU1QRy12d0syU0JKMXRXellrZ2hzLUZ1aTB2YjFFVTBJVEhTUklWWTMwaXM3MWxjQmF2QlI0RUNBaWJ4ZEFWWngxMk8tY0VuYkRuYmlONWpiSm8xNHc?oc=5",
+      "publishedAt": "2026-11-02T16:59+00:00",
+      "impact": "Medium"
     },
     {
       "title": "Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging - https://environment.ec.europa.eu/index_en",
@@ -63,17 +63,17 @@
       "impact": "Medium"
     },
     {
-      "title": "Mesirow sees opportunities for packaging industry growth, M&A in 2027 - Label and Narrow Web",
-      "source": "Label and Narrow Web",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkpzQVR6T29UekwtVnMyTjFsUTdwZkNIT3BnSVZDbUlhOW1xeVMtUHo1aHNRVE1qekRlcExxM242cmVXVjhOT3NFQkpqci1fWWJZbXUtdlcwWXF5RzBJdGpoeEx4NlJuM3kyampuV0wxblM3X2pIRmRVWVc5ckdhZTNhejkxR21scHJreHRwTHFlUlNIWTAyRHlTYmdCQWYxRzdBRWJZa3pJTDA0MzU3VnFJdw?oc=5",
-      "publishedAt": "2026-10-26T07:00+00:00",
+      "title": "New Jersey bill targets source reduction in plastic packaging - Recycling Today",
+      "source": "Recycling Today",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0Vmall4V3VaSzBwcUJJN0ZOS0NLOExPa29DTFE1U3VfQnJNbnNzOU5YR2EtSXh3eDFIa3pibGFDY2paNjJwTDgwMFRMbEludVNxNDhmQ2tJeUp5TUpLVVNGdXdEa1RaUXlSY21KODN6aDlMWkpxeVFrbGN0UjI3empGejhDWkRuelVGQ1dhYWU5dTh3SzBkb3Rsdl90ZWM?oc=5",
+      "publishedAt": "2026-10-09T07:00+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-04T20:27+00:00",
-  "lastSuccessfulAt": "2026-11-04T20:27+00:00",
+  "lastAttemptedAt": "2026-11-05T20:42+00:00",
+  "lastSuccessfulAt": "2026-11-05T20:42+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
