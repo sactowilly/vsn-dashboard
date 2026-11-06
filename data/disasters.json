@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T20:42+00:00",
+  "lastUpdated": "2026-11-06T19:58+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "63 km W of Anchor Point, Alaska",
+      "region": "2 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km W of Cobb, CA",
+      "region": "91 km ESE of Ugashik, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km SSE of Healy, Alaska",
+      "region": "7 km S of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km NNW of Borrego Springs, CA",
+      "region": "15 km NNE of Milford, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km SE of Talkeetna, Alaska",
+      "region": "86 km NNW of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km SW of P\u0101hala, Hawaii",
+      "region": "69 km NNW of Glacier View, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "86 km NW of Karluk, Alaska",
+      "region": "11 km SW of Kelseyville, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km WSW of Anza, CA",
+      "region": "28 km SSW of Petersville, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Frost Advisory issued November 5 at 12:32PM PST until November 6 at 9:00AM PST by NWS Eureka CA",
-      "region": "Southern Trinity; Northeastern Interior Mendocino",
-      "severity": "Minor"
-    },
-    {
-      "type": "Beach Hazards Statement issued November 5 at 11:25AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
-      "region": "Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Beach Hazards Statement issued November 5 at 11:25AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
+      "type": "Beach Hazards Statement issued November 6 at 10:08AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
       "region": "San Francisco",
       "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued November 5 at 11:25AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
+      "type": "Beach Hazards Statement issued November 6 at 10:08AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
+      "region": "Southern Monterey Bay and Big Sur Coast",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Beach Hazards Statement issued November 6 at 10:08AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
       "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay",
       "severity": "Moderate"
+    },
+    {
+      "type": "Coastal Flood Advisory issued November 6 at 10:08AM PST until November 10 at 12:00PM PST by NWS San Francisco CA",
+      "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay",
+      "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-05T20:42+00:00",
-  "lastSuccessfulAt": "2026-11-05T20:42+00:00",
+  "lastAttemptedAt": "2026-11-06T19:58+00:00",
+  "lastSuccessfulAt": "2026-11-06T19:58+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
