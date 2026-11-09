@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T19:58+00:00",
+  "lastUpdated": "2026-11-09T23:01+00:00",
   "sourceStrength": "High",
   "freshness": "Daily",
   "sourceLinks": [
@@ -12,14 +12,6 @@
     "This file is refreshed by GitHub Actions using the FRED API."
   ],
   "series": [
-    {
-      "date": "2026-10-24",
-      "value": 3.88
-    },
-    {
-      "date": "2026-10-25",
-      "value": 3.88
-    },
     {
       "date": "2026-10-26",
       "value": 3.88
@@ -59,12 +51,20 @@
     {
       "date": "2026-11-04",
       "value": 3.88
+    },
+    {
+      "date": "2026-11-05",
+      "value": 3.88
+    },
+    {
+      "date": "2026-11-06",
+      "value": 3.88
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-06T19:58+00:00",
-  "lastSuccessfulAt": "2026-11-06T19:58+00:00",
+  "lastAttemptedAt": "2026-11-09T23:01+00:00",
+  "lastSuccessfulAt": "2026-11-09T23:01+00:00",
   "sourceLimitations": [
     "Daily federal funds data may publish with a short FRED lag."
   ]

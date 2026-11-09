@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T19:58+00:00",
+  "lastUpdated": "2026-11-09T23:02+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "2 km NNW of The Geysers, CA",
+      "region": "1 km N of Beaumont, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "91 km ESE of Ugashik, Alaska",
+      "region": "4 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km S of P\u0101hala, Hawaii",
+      "region": "4 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "15 km NNE of Milford, Utah",
+      "region": "16 km ENE of Hawthorne, Nevada",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "86 km NNW of Karluk, Alaska",
+      "region": "14 km SSE of Katie, Oklahoma",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "69 km NNW of Glacier View, Alaska",
+      "region": "35 km E of Denali National Park, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km SW of Kelseyville, CA",
-      "severity": "Low"
+      "region": "103 km W of Attu Station, Alaska",
+      "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "28 km SSW of Petersville, Alaska",
+      "region": "2 km NE of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued November 6 at 10:08AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
-      "region": "San Francisco",
+      "type": "Beach Hazards Statement issued November 9 at 2:58PM PST until November 10 at 10:00PM PST by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas",
       "severity": "Moderate"
     },
     {
-      "type": "Beach Hazards Statement issued November 6 at 10:08AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
-      "region": "Southern Monterey Bay and Big Sur Coast",
-      "severity": "Moderate"
+      "type": "Coastal Flood Advisory issued November 9 at 2:58PM PST until November 10 at 12:00PM PST by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas",
+      "severity": "Minor"
     },
     {
-      "type": "Beach Hazards Statement issued November 6 at 10:08AM PST until November 9 at 10:00PM PST by NWS San Francisco CA",
-      "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay",
-      "severity": "Moderate"
+      "type": "Coastal Flood Advisory issued November 9 at 2:58PM PST until November 10 at 12:00PM PST by NWS San Diego CA",
+      "region": "Orange County Coastal",
+      "severity": "Minor"
     },
     {
-      "type": "Coastal Flood Advisory issued November 6 at 10:08AM PST until November 10 at 12:00PM PST by NWS San Francisco CA",
-      "region": "Coastal North Bay Including Point Reyes National Seashore; San Francisco Peninsula Coast; Northern Monterey Bay",
+      "type": "High Surf Advisory issued November 9 at 1:34PM PST until November 10 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
       "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-06T19:58+00:00",
-  "lastSuccessfulAt": "2026-11-06T19:58+00:00",
+  "lastAttemptedAt": "2026-11-09T23:02+00:00",
+  "lastSuccessfulAt": "2026-11-09T23:02+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
