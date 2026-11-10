@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T23:02+00:00",
+  "lastUpdated": "2026-11-10T20:29+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -24,7 +24,7 @@
       "title": "AMERIPEN study explores US packaging industry\u2019s economic impact - Recycling Today",
       "source": "Recycling Today",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzYyWVVuazY3LWgxOUFNTkFsbEdZb2E2LW5FXzR3RFY5QW9uRFRxMTQyS1pDT0xwYlZxX1lmNGZTeTlGVHVzeDhKSDZDUDJLLU94bkxjTC1NUEhadzdMRk5KRkI2S1JvRDg5ZzVrQ3FoVHduY3pfRldMLVFianlkejJ0b00xUjA4OFYydjdubXkxYjhDcVl1OXFUVmc2Yy03QXFoaXh6UHp1NEtXbFE?oc=5",
-      "publishedAt": "2026-10-30T13:50+00:00",
+      "publishedAt": "2026-10-30T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -56,24 +56,24 @@
       "impact": "Low"
     },
     {
+      "title": "Flexible Plastic Packaging Market Size, Share, Trends 2036 - Future Market Insights",
+      "source": "Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXk1bk9GLVV2YW9WTWxtd3BqWUpUUTRHV1ZaTDFiWDFDRENZQ3dZSE1ZRm5Ba3ZBWWZzb1JNbmY1WU5nTS1MWHM2SzNQZjRBYjc0X25HN1ZIM3k3ZkV0SXRkNzZyblJQa1dOWmQtZjdvZWdYUF84Vm5ZN29vbXFoWDVpSWk?oc=5",
+      "publishedAt": "2026-11-04T08:00+00:00",
+      "impact": "Low"
+    },
+    {
       "title": "Flexible packaging industry braces for more EPR laws in 2027 - Plastics News",
       "source": "Plastics News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0wza3A3NnIzTFRaZDRYQ0p4SmtBdUtGaUZZbzd3QVZuc1pLb2doUkZKeXdySk5TVFNuR3FMd2lVR2ZOS0NsS1dvT0NkYWlUdlNkenE3TjlKaVFoUlZfV2kyeGNWeDBmNzF2YlV2U1R5UUxURTNsTTRXcFRPSW9JNks1aEstU0JfZmhaQ0NIYmFRbXRtdU1UOWxQRGg2TmF2?oc=5",
       "publishedAt": "2026-10-21T07:00+00:00",
       "impact": "Medium"
-    },
-    {
-      "title": "Mesirow sees opportunities for packaging industry growth, M&A in 2027 - Label and Narrow Web",
-      "source": "Label and Narrow Web",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkpzQVR6T29UekwtVnMyTjFsUTdwZkNIT3BnSVZDbUlhOW1xeVMtUHo1aHNRVE1qekRlcExxM242cmVXVjhOT3NFQkpqci1fWWJZbXUtdlcwWXF5RzBJdGpoeEx4NlJuM3kyampuV0wxblM3X2pIRmRVWVc5ckdhZTNhejkxR21scHJreHRwTHFlUlNIWTAyRHlTYmdCQWYxRzdBRWJZa3pJTDA0MzU3VnFJdw?oc=5",
-      "publishedAt": "2026-10-26T07:00+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-09T23:02+00:00",
-  "lastSuccessfulAt": "2026-11-09T23:02+00:00",
+  "lastAttemptedAt": "2026-11-10T20:29+00:00",
+  "lastSuccessfulAt": "2026-11-10T20:29+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

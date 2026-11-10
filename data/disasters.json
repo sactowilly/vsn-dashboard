@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T23:02+00:00",
+  "lastUpdated": "2026-11-10T20:29+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "1 km N of Beaumont, CA",
+      "region": "12 km NE of Cabazon, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km NW of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "4 km NW of The Geysers, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "16 km ENE of Hawthorne, Nevada",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "14 km SSE of Katie, Oklahoma",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "35 km E of Denali National Park, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "103 km W of Attu Station, Alaska",
+      "region": "207 km NW of Port-Olry, Vanuatu",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NE of The Geysers, CA",
+      "region": "6 km E of Santa Venetia, CA",
       "severity": "Low"
     },
     {
-      "type": "Beach Hazards Statement issued November 9 at 2:58PM PST until November 10 at 10:00PM PST by NWS San Diego CA",
+      "type": "Earthquake",
+      "region": "5 km N of Fontana, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "3 km SSW of Melrose, Oregon",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "16 km WSW of Searles Valley, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "9 km WNW of Anza, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "19 km S of Kittitas, Washington",
+      "severity": "Low"
+    },
+    {
+      "type": "Air Quality Alert issued November 10 at 12:18PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "Los Angeles County Beaches; Los Angeles County Inland Coast including Downtown Los Angeles",
+      "severity": "Unknown"
+    },
+    {
+      "type": "Beach Hazards Statement issued November 10 at 12:15PM PST until November 10 at 10:00PM PST by NWS San Diego CA",
       "region": "San Diego County Coastal Areas",
       "severity": "Moderate"
     },
     {
-      "type": "Coastal Flood Advisory issued November 9 at 2:58PM PST until November 10 at 12:00PM PST by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas",
+      "type": "Coastal Flood Advisory issued November 10 at 12:11PM PST until November 13 at 4:00PM PST by NWS San Francisco CA",
+      "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline",
       "severity": "Minor"
     },
     {
-      "type": "Coastal Flood Advisory issued November 9 at 2:58PM PST until November 10 at 12:00PM PST by NWS San Diego CA",
-      "region": "Orange County Coastal",
-      "severity": "Minor"
-    },
-    {
-      "type": "High Surf Advisory issued November 9 at 1:34PM PST until November 10 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
-      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
+      "type": "Coastal Flood Advisory issued November 10 at 12:11PM PST until November 13 at 4:00PM PST by NWS San Francisco CA",
+      "region": "Southern Monterey Bay and Big Sur Coast",
       "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-09T23:02+00:00",
-  "lastSuccessfulAt": "2026-11-09T23:02+00:00",
+  "lastAttemptedAt": "2026-11-10T20:29+00:00",
+  "lastSuccessfulAt": "2026-11-10T20:29+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
