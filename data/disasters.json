@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T20:29+00:00",
+  "lastUpdated": "2026-11-11T20:14+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "12 km NE of Cabazon, CA",
-      "severity": "Low"
-    },
-    {
-      "type": "Earthquake",
-      "region": "207 km NW of Port-Olry, Vanuatu",
+      "region": "south of the Fiji Islands",
       "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "6 km E of Santa Venetia, CA",
+      "region": "3 km ESE of Berkeley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km N of Fontana, CA",
+      "region": "4 km SSW of Gu\u00e1nica, Puerto Rico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km SSW of Melrose, Oregon",
+      "region": "62 km ENE of Pedro Bay, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "16 km WSW of Searles Valley, CA",
+      "region": "48 km NW of Ancud, Chile",
+      "severity": "High"
+    },
+    {
+      "type": "Earthquake",
+      "region": "2 km S of Pastos, Puerto Rico",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km WNW of Anza, CA",
+      "region": "58 km NW of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km S of Kittitas, Washington",
-      "severity": "Low"
+      "region": "128 km SSE of Old Harbor, Alaska",
+      "severity": "Medium"
     },
     {
-      "type": "Air Quality Alert issued November 10 at 12:18PM PST by NWS Los Angeles/Oxnard CA",
-      "region": "Los Angeles County Beaches; Los Angeles County Inland Coast including Downtown Los Angeles",
-      "severity": "Unknown"
+      "type": "Winter Storm Watch issued November 11 at 12:03PM PST until November 16 at 4:00PM PST by NWS Sacramento CA",
+      "region": "Lassen Volcanic National Park; Sierra Nevada of Sierra-Nevada-Placer Counties Above 5000 ft Including Interstate 80; Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
+      "severity": "Severe"
     },
     {
-      "type": "Beach Hazards Statement issued November 10 at 12:15PM PST until November 10 at 10:00PM PST by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas",
+      "type": "Wind Advisory issued November 11 at 11:54AM PST until November 13 at 7:00PM PST by NWS Sacramento CA",
+      "region": "South-Central Shasta County Including Redding Metro; Northern Sacramento Valley in Tehama County; Central Glenn County Including Interstate 5; Eastern Glenn County; Butte County Below 1000 ft",
       "severity": "Moderate"
     },
     {
-      "type": "Coastal Flood Advisory issued November 10 at 12:11PM PST until November 13 at 4:00PM PST by NWS San Francisco CA",
-      "region": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline",
-      "severity": "Minor"
+      "type": "Lake Wind Advisory issued November 11 at 11:52AM PST until November 13 at 10:00AM PST by NWS Reno NV",
+      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "severity": "Moderate"
     },
     {
-      "type": "Coastal Flood Advisory issued November 10 at 12:11PM PST until November 13 at 4:00PM PST by NWS San Francisco CA",
-      "region": "Southern Monterey Bay and Big Sur Coast",
-      "severity": "Minor"
+      "type": "Wind Advisory issued November 11 at 11:52AM PST until November 13 at 10:00PM PST by NWS Reno NV",
+      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties; Greater Reno-Carson City-Minden Area",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-10T20:29+00:00",
-  "lastSuccessfulAt": "2026-11-10T20:29+00:00",
+  "lastAttemptedAt": "2026-11-11T20:14+00:00",
+  "lastSuccessfulAt": "2026-11-11T20:14+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

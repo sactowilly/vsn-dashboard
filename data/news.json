@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T20:29+00:00",
+  "lastUpdated": "2026-11-11T20:14+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -49,13 +49,6 @@
       "impact": "Low"
     },
     {
-      "title": "Beyond the pandemic: the reshaping of the packaging industry - Packaging Europe",
-      "source": "Packaging Europe",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaV9nbmMxYW4xUXBlQTVGVGZiTmd6UlNTRFZXWF9vUU9oa2Yzdkd6SENnQnFxS1dwUW0wZmRHakRvLVVlVTJEQTEyTG81YWRxNURxQU4zbnJTY2lsd3RqOXJ1T1FyMHpIQ3U5TWJzX2lIeWloVzJzUEYzMndZUmwzRi0tTVpNX1FFVEs0aGRVc3ZHcVQxVFhB?oc=5",
-      "publishedAt": "2026-10-12T07:00+00:00",
-      "impact": "Low"
-    },
-    {
       "title": "Flexible Plastic Packaging Market Size, Share, Trends 2036 - Future Market Insights",
       "source": "Future Market Insights",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXk1bk9GLVV2YW9WTWxtd3BqWUpUUTRHV1ZaTDFiWDFDRENZQ3dZSE1ZRm5Ba3ZBWWZzb1JNbmY1WU5nTS1MWHM2SzNQZjRBYjc0X25HN1ZIM3k3ZkV0SXRkNzZyblJQa1dOWmQtZjdvZWdYUF84Vm5ZN29vbXFoWDVpSWk?oc=5",
@@ -68,12 +61,19 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0wza3A3NnIzTFRaZDRYQ0p4SmtBdUtGaUZZbzd3QVZuc1pLb2doUkZKeXdySk5TVFNuR3FMd2lVR2ZOS0NsS1dvT0NkYWlUdlNkenE3TjlKaVFoUlZfV2kyeGNWeDBmNzF2YlV2U1R5UUxURTNsTTRXcFRPSW9JNks1aEstU0JfZmhaQ0NIYmFRbXRtdU1UOWxQRGg2TmF2?oc=5",
       "publishedAt": "2026-10-21T07:00+00:00",
       "impact": "Medium"
+    },
+    {
+      "title": "Mesirow sees opportunities for packaging industry growth, M&A in 2027 - Label and Narrow Web",
+      "source": "Label and Narrow Web",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkpzQVR6T29UekwtVnMyTjFsUTdwZkNIT3BnSVZDbUlhOW1xeVMtUHo1aHNRVE1qekRlcExxM242cmVXVjhOT3NFQkpqci1fWWJZbXUtdlcwWXF5RzBJdGpoeEx4NlJuM3kyampuV0wxblM3X2pIRmRVWVc5ckdhZTNhejkxR21scHJreHRwTHFlUlNIWTAyRHlTYmdCQWYxRzdBRWJZa3pJTDA0MzU3VnFJdw?oc=5",
+      "publishedAt": "2026-10-26T07:00+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-10T20:29+00:00",
-  "lastSuccessfulAt": "2026-11-10T20:29+00:00",
+  "lastAttemptedAt": "2026-11-11T20:14+00:00",
+  "lastSuccessfulAt": "2026-11-11T20:14+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
