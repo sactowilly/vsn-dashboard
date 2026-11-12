@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T20:14+00:00",
+  "lastUpdated": "2026-11-12T20:55+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "Packaging Corporation of America Reports Third Quarter 2026 Results - Yahoo Finance",
@@ -33,10 +33,10 @@
             "publishedAt": "2026-10-23T07:00+00:00"
           },
           {
-            "title": "Packaging Corporation of America: A Good Company Isn't Always A Good Stock (NYSE:PKG) - Seeking Alpha",
-            "source": "Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JJZGZnaUxXVVIwUTB4bHRtN0lwekpZWEJOM19mcngzN2hIWkJ6V3RkMGg0U0lwM3E5cWdTazlMcy14VlNldVp2azhZbWFSajFtSW9oNFZ2bzhxU29FMVU0U1NaZ1R3a194MXlzdnA1RnRBZ015UVBZOHVfQlVSTi1JOGFwUmxQZnJtNkJqQUtWdGw5aGF5SnVkT2F3TzdxdTZtdnVpRWVqbTNUWEMxVHJDOA?oc=5",
-            "publishedAt": "2026-10-22T07:00+00:00"
+            "title": "Packaging Corp. of America (PKG) Q1 2026 Earnings Call Transcript - Fortune",
+            "source": "Fortune",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNmxmMUdPMXo2QV9OLTZXZ0tBc2tmTmxTaGNQSndjNkZyTjF5V083Z3Rac2dOU09fbUpGd1JJY3JIb2ZnX0FCd095V2xsMllsMXBzc3B0V04tcm9mX2lxdDNsZG9YNGFubF9aZVhsbGM3a0FYWXR3QjFKNA?oc=5",
+            "publishedAt": "2026-10-31T15:37+00:00"
           }
         ],
         "hiring": [
@@ -63,10 +63,10 @@
             "publishedAt": "2026-10-23T07:00+00:00"
           },
           {
-            "title": "Packaging Corporation of America: A Good Company Isn't Always A Good Stock (NYSE:PKG) - Seeking Alpha",
-            "source": "Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JJZGZnaUxXVVIwUTB4bHRtN0lwekpZWEJOM19mcngzN2hIWkJ6V3RkMGg0U0lwM3E5cWdTazlMcy14VlNldVp2azhZbWFSajFtSW9oNFZ2bzhxU29FMVU0U1NaZ1R3a194MXlzdnA1RnRBZ015UVBZOHVfQlVSTi1JOGFwUmxQZnJtNkJqQUtWdGw5aGF5SnVkT2F3TzdxdTZtdnVpRWVqbTNUWEMxVHJDOA?oc=5",
-            "publishedAt": "2026-10-22T07:00+00:00"
+            "title": "Packaging Corp. of America (PKG) Q1 2026 Earnings Call Transcript - Fortune",
+            "source": "Fortune",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNmxmMUdPMXo2QV9OLTZXZ0tBc2tmTmxTaGNQSndjNkZyTjF5V083Z3Rac2dOU09fbUpGd1JJY3JIb2ZnX0FCd095V2xsMllsMXBzc3B0V04tcm9mX2lxdDNsZG9YNGFubF9aZVhsbGM3a0FYWXR3QjFKNA?oc=5",
+            "publishedAt": "2026-10-31T15:37+00:00"
           }
         ],
         "query": "\"Packaging Corporation of America\" packaging OR corrugated OR distribution when:30d",
@@ -83,7 +83,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "LKQ Names Former Veritiv CEO Salvatore Abbate as President & CEO | THE SHOP - THE SHOP",
@@ -92,16 +92,16 @@
             "publishedAt": "2026-10-26T07:00+00:00"
           },
           {
+            "title": "CJK Group acquires Minnesota-based Viking Label & Packaging - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXlUT0d6aFdqWkVaRjdIbHlzVEZ5dEhmbUU1WWZTN1NzdndINWhBVnZmS0k1QW9CVWFxTkpscGtDWnBkN2FTZmpvMVQtel8tc2FhNlBoNE14UjNSeTFhWlNUX1JNQWlFcnRUMHRJR1NmWlRHYnl5T0MtamkyZ2NNNDNhcFFieUE?oc=5",
+            "publishedAt": "2026-11-09T14:06+00:00"
+          },
+          {
             "title": "Weekly Recap: Board review of sale and Salvatore Abbate named chairman CEO - TradingView",
             "source": "TradingView",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZWMxWmgzWkpqbHBTZjJxY0YxN3VGaUx3VkJXZHVxb0o0alp0ZEM1UDlMdmIzUTZValRKR19NdVdwN1JfeFNlOG5hd3hNdnUtM3BjM0g5MmJsSXdDM0xFZWtPNWQ0QmZLb2cyX1FaZjhXR21LZm11NFdtTFFHWlVkT2lXTzlLS3V5Rm5mdHlDcmtXQ1cyeGpaMzBUNVcxQ0prV0FlV1cwenV6WU5pTFpmVjE3d0ZHaGtEQjhsS1VPcngxV0d4TlY1Q29ycVNPRlZu?oc=5",
             "publishedAt": "2026-10-26T07:00+00:00"
-          },
-          {
-            "title": "LKQ Names Sal Abbate President and CEO, Effective Dec. 15 - Traction News",
-            "source": "Traction News",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oTjZfemdkUURJaW5UZFZDdjhiN1JtXzBHQksxQVhja3lxei16cHJJN1czQUt6XzF1bVd3c2gtekI3MFNIbkNUZkRJRG1kR2FTSVJtMFNXR3RKaWhFa0FQMDlyU3N2SVcyTDdnN29OTFluQQ?oc=5",
-            "publishedAt": "2026-10-27T07:00+00:00"
           }
         ],
         "hiring": [
@@ -113,7 +113,14 @@
             "linkStatus": "direct_job_link_unavailable"
           }
         ],
-        "moves": [],
+        "moves": [
+          {
+            "title": "CJK Group acquires Minnesota-based Viking Label & Packaging - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXlUT0d6aFdqWkVaRjdIbHlzVEZ5dEhmbUU1WWZTN1NzdndINWhBVnZmS0k1QW9CVWFxTkpscGtDWnBkN2FTZmpvMVQtel8tc2FhNlBoNE14UjNSeTFhWlNUX1JNQWlFcnRUMHRJR1NmWlRHYnl5T0MtamkyZ2NNNDNhcFFieUE?oc=5",
+            "publishedAt": "2026-11-09T14:06+00:00"
+          }
+        ],
         "items": [
           {
             "title": "LKQ Names Former Veritiv CEO Salvatore Abbate as President & CEO | THE SHOP - THE SHOP",
@@ -122,16 +129,16 @@
             "publishedAt": "2026-10-26T07:00+00:00"
           },
           {
+            "title": "CJK Group acquires Minnesota-based Viking Label & Packaging - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXlUT0d6aFdqWkVaRjdIbHlzVEZ5dEhmbUU1WWZTN1NzdndINWhBVnZmS0k1QW9CVWFxTkpscGtDWnBkN2FTZmpvMVQtel8tc2FhNlBoNE14UjNSeTFhWlNUX1JNQWlFcnRUMHRJR1NmWlRHYnl5T0MtamkyZ2NNNDNhcFFieUE?oc=5",
+            "publishedAt": "2026-11-09T14:06+00:00"
+          },
+          {
             "title": "Weekly Recap: Board review of sale and Salvatore Abbate named chairman CEO - TradingView",
             "source": "TradingView",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZWMxWmgzWkpqbHBTZjJxY0YxN3VGaUx3VkJXZHVxb0o0alp0ZEM1UDlMdmIzUTZValRKR19NdVdwN1JfeFNlOG5hd3hNdnUtM3BjM0g5MmJsSXdDM0xFZWtPNWQ0QmZLb2cyX1FaZjhXR21LZm11NFdtTFFHWlVkT2lXTzlLS3V5Rm5mdHlDcmtXQ1cyeGpaMzBUNVcxQ0prV0FlV1cwenV6WU5pTFpmVjE3d0ZHaGtEQjhsS1VPcngxV0d4TlY1Q29ycVNPRlZu?oc=5",
             "publishedAt": "2026-10-26T07:00+00:00"
-          },
-          {
-            "title": "LKQ Names Sal Abbate President and CEO, Effective Dec. 15 - Traction News",
-            "source": "Traction News",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oTjZfemdkUURJaW5UZFZDdjhiN1JtXzBHQksxQVhja3lxei16cHJJN1czQUt6XzF1bVd3c2gtekI3MFNIbkNUZkRJRG1kR2FTSVJtMFNXR3RKaWhFa0FQMDlyU3N2SVcyTDdnN29OTFluQQ?oc=5",
-            "publishedAt": "2026-10-27T07:00+00:00"
           }
         ],
         "query": "\"Veritiv\" packaging OR corrugated OR distribution when:30d",
@@ -148,7 +155,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "How Supply Chain, Inflation and Labor Issues are Impacting Imperial Dade - National Association of Wholesaler-Distributors",
@@ -160,7 +167,7 @@
             "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
             "source": "Cleaning & Maintenance Management",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
-            "publishedAt": "2026-11-04T20:33+00:00"
+            "publishedAt": "2026-11-09T06:32+00:00"
           },
           {
             "title": "Recycled paper producer Sustana acquired by Hivest - Yahoo Finance",
@@ -182,7 +189,7 @@
             "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
             "source": "Cleaning & Maintenance Management",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
-            "publishedAt": "2026-11-04T20:33+00:00"
+            "publishedAt": "2026-11-09T06:32+00:00"
           },
           {
             "title": "Recycled paper producer Sustana acquired by Hivest - Yahoo Finance",
@@ -205,28 +212,35 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
-            "title": "Uline looking to fill dozens of warehouse positions | Homepage Top Stories - WFMZ.com",
-            "source": "WFMZ.com",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbTBkS3FYeHZocEc1VXdfN0VZOTNjRHFaT05sczB1cUs2M3hicDc4TmRJSUFMc1dhRXdveWlsc3JSanV3Wk11dU9ETi1yVXVvaUROVjdTVXhkR1R2d09fQ0xPY1RQRmxGMFdWVk1LNHZKbkVqNWFQVkVYaE03UDhpVVVENEdBWi14bC0tUGV5b2YwN3lJcXI1ZXRXX0FLdTRobmdkTXVFeWZsUmhRQkhoajZhci1kUzhDbVd0WGozSWY1LVFON2wwclE3djRCNF9MTDAxX1VMbDlSZkds?oc=5",
-            "publishedAt": "2026-10-13T07:00+00:00"
+            "title": "Uline Hiring for Long-Term Careers in Kenosha - Urban Milwaukee",
+            "source": "Urban Milwaukee",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWpWOTk2MFBLT0tFVFNBa0gyYVRvWmgwQWhZNmcxY0dzc1VTeXo1SDV1dmZtY3pJZm9ZOFFJNXNtRnZoZXZ5U0lfRDcySWhBNWhvSkJhZjFJRUJxbGNHWVliQ2tZM19nOEZzT1l3UXVWM0Y0UGo1Q3h0UlA2bVNseW9wNXRuQTg2bnJyOFZvUQ?oc=5",
+            "publishedAt": "2026-11-12T15:10+00:00"
+          },
+          {
+            "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
+            "source": "Atlanta News First",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDBrVDVtLTEzaGdfaXE2d29PaEo4czVfVjN4NWkxRDNha1VoR1hLeWJFNlcyd1dLcDRQMUx5TF85SS1fWWtkb0JyeVFrOFRuc2o2LUtTSGZVUTY2RXgxUHo2cHQxUTk5NTRrZXJrWGRyeV94ZTR6NFJIeWo3NFphby1PZTJOaG15R2ZwZ0o4aDRDS0RvaW1yUTBMS3g?oc=5",
+            "publishedAt": "2026-10-26T07:00+00:00"
           },
           {
             "title": "The biggest political donors in Minnesota races this election season - Star Tribune",
             "source": "Star Tribune",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObW05cGJwTmEwdUtVem1ZbnhFekU5NVpkamU5YXdGczVIanhkcUw3di1sTEJIV1MwblZDNWNYVDl2RzRqN285bzFNU0V1ZXI5OXpqQkdXdVJkSGtJXzlmZmhCUWFfWi14YnBiVlJ5TndWTUR3bFB6endXQWlJWFZZd3FnckV2UTluUmJwSQ?oc=5",
             "publishedAt": "2026-10-24T07:00+00:00"
-          },
-          {
-            "title": "Opinion | The gigantic \u2014 but underdiscussed \u2014 threat of Tom Tiffany - The Capital Times",
-            "source": "The Capital Times",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRHBPTHVsZGQxNnZHQzZGeDllVllHRFBWdXcxYzM5aDQtS1hrWkZtQWhMOVNaamZzbnJlLVVOVnFlNE9TYnBnU2NMUlpYR0RqZ3VUSEF2VVo4RnBvdTA0RHd2U0hLSURTUU9uYnlaUkZzazhkQjBzLVR4am4wZHpPVWlWT0xTa3lrUVdaRi1zazBrUVdhaW9aSkpyWDNLMzJQby05UWc4OE9XRHMtaVhxMEp5MU5iY3MycmZiUDlfcHBGSWVVQWhPeURLM1JfclExdDhhZWhtZXBCMm5JTTJld0VrNEtlUmRv?oc=5",
-            "publishedAt": "2026-10-23T07:00+00:00"
           }
         ],
         "hiring": [
+          {
+            "title": "Uline Hiring for Long-Term Careers in Kenosha - Urban Milwaukee",
+            "source": "Urban Milwaukee",
+            "url": "",
+            "publishedAt": "2026-11-12T15:10+00:00",
+            "linkStatus": "direct_job_link_unavailable"
+          },
           {
             "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
             "source": "Atlanta News First",
@@ -238,22 +252,22 @@
         "moves": [],
         "items": [
           {
-            "title": "Uline looking to fill dozens of warehouse positions | Homepage Top Stories - WFMZ.com",
-            "source": "WFMZ.com",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbTBkS3FYeHZocEc1VXdfN0VZOTNjRHFaT05sczB1cUs2M3hicDc4TmRJSUFMc1dhRXdveWlsc3JSanV3Wk11dU9ETi1yVXVvaUROVjdTVXhkR1R2d09fQ0xPY1RQRmxGMFdWVk1LNHZKbkVqNWFQVkVYaE03UDhpVVVENEdBWi14bC0tUGV5b2YwN3lJcXI1ZXRXX0FLdTRobmdkTXVFeWZsUmhRQkhoajZhci1kUzhDbVd0WGozSWY1LVFON2wwclE3djRCNF9MTDAxX1VMbDlSZkds?oc=5",
-            "publishedAt": "2026-10-13T07:00+00:00"
+            "title": "Uline Hiring for Long-Term Careers in Kenosha - Urban Milwaukee",
+            "source": "Urban Milwaukee",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWpWOTk2MFBLT0tFVFNBa0gyYVRvWmgwQWhZNmcxY0dzc1VTeXo1SDV1dmZtY3pJZm9ZOFFJNXNtRnZoZXZ5U0lfRDcySWhBNWhvSkJhZjFJRUJxbGNHWVliQ2tZM19nOEZzT1l3UXVWM0Y0UGo1Q3h0UlA2bVNseW9wNXRuQTg2bnJyOFZvUQ?oc=5",
+            "publishedAt": "2026-11-12T15:10+00:00"
+          },
+          {
+            "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
+            "source": "Atlanta News First",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDBrVDVtLTEzaGdfaXE2d29PaEo4czVfVjN4NWkxRDNha1VoR1hLeWJFNlcyd1dLcDRQMUx5TF85SS1fWWtkb0JyeVFrOFRuc2o2LUtTSGZVUTY2RXgxUHo2cHQxUTk5NTRrZXJrWGRyeV94ZTR6NFJIeWo3NFphby1PZTJOaG15R2ZwZ0o4aDRDS0RvaW1yUTBMS3g?oc=5",
+            "publishedAt": "2026-10-26T07:00+00:00"
           },
           {
             "title": "The biggest political donors in Minnesota races this election season - Star Tribune",
             "source": "Star Tribune",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObW05cGJwTmEwdUtVem1ZbnhFekU5NVpkamU5YXdGczVIanhkcUw3di1sTEJIV1MwblZDNWNYVDl2RzRqN285bzFNU0V1ZXI5OXpqQkdXdVJkSGtJXzlmZmhCUWFfWi14YnBiVlJ5TndWTUR3bFB6endXQWlJWFZZd3FnckV2UTluUmJwSQ?oc=5",
             "publishedAt": "2026-10-24T07:00+00:00"
-          },
-          {
-            "title": "Opinion | The gigantic \u2014 but underdiscussed \u2014 threat of Tom Tiffany - The Capital Times",
-            "source": "The Capital Times",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRHBPTHVsZGQxNnZHQzZGeDllVllHRFBWdXcxYzM5aDQtS1hrWkZtQWhMOVNaamZzbnJlLVVOVnFlNE9TYnBnU2NMUlpYR0RqZ3VUSEF2VVo4RnBvdTA0RHd2U0hLSURTUU9uYnlaUkZzazhkQjBzLVR4am4wZHpPVWlWT0xTa3lrUVdaRi1zazBrUVdhaW9aSkpyWDNLMzJQby05UWc4OE9XRHMtaVhxMEp5MU5iY3MycmZiUDlfcHBGSWVVQWhPeURLM1JfclExdDhhZWhtZXBCMm5JTTJld0VrNEtlUmRv?oc=5",
-            "publishedAt": "2026-10-23T07:00+00:00"
           }
         ],
         "query": "\"Uline\" packaging OR corrugated OR distribution when:30d",
@@ -270,7 +284,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "International Paper talks cost challenges ahead of DS Smith split - Packaging Dive",
@@ -327,7 +341,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "PATENT\u2014W.D. Wis.: Packaging manufacturer did not infringe convertible shipping box patents - VitalLaw.com",
@@ -392,13 +406,13 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "DOJ subpoenas Smurfit Westrock, IP, PCA, Cascades over containerboard pricing - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzY2TGxQM0xJMnljbUk4aVBmX2pTS1pvc1B3cndoUTZZYXBBT2o1ZloxaWVWcV84aURDYnVkMG9Zdl80RUp4emZheFFuc2UyN0dkcjlQd2FUS3hrNHNjN0FCM0JOYnh3R052T0s5Xy16dnZwMk9KV0ptTWJKZUljUnVfOEc3TzJBRWxKbzBiMmgxbHV0VVBKN0FtZEdyUVZYM3Mw?oc=5",
-            "publishedAt": "2026-11-04T17:46+00:00"
+            "publishedAt": "2026-11-04T08:00+00:00"
           },
           {
             "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
@@ -420,7 +434,7 @@
             "title": "DOJ subpoenas Smurfit Westrock, IP, PCA, Cascades over containerboard pricing - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzY2TGxQM0xJMnljbUk4aVBmX2pTS1pvc1B3cndoUTZZYXBBT2o1ZloxaWVWcV84aURDYnVkMG9Zdl80RUp4emZheFFuc2UyN0dkcjlQd2FUS3hrNHNjN0FCM0JOYnh3R052T0s5Xy16dnZwMk9KV0ptTWJKZUljUnVfOEc3TzJBRWxKbzBiMmgxbHV0VVBKN0FtZEdyUVZYM3Mw?oc=5",
-            "publishedAt": "2026-11-04T17:46+00:00"
+            "publishedAt": "2026-11-04T08:00+00:00"
           },
           {
             "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
@@ -449,7 +463,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "DS Smith details \u2018transformation\u2019 prior to spinning off from IP - Packaging Dive",
@@ -521,7 +535,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "Three key recommendations for balancing automation and compliance in packaging - Automotive Logistics",
@@ -578,14 +592,8 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
-          {
-            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T07:00+00:00"
-          },
           {
             "title": "Berlin Packaging Named One of America's Greenest Companies 2027 by Newsweek - Yahoo Finance",
             "source": "Yahoo Finance",
@@ -597,16 +605,16 @@
             "source": "Canadian Plastics",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdy03X3FsTDlLMnFmc2tOWkFNWnVSOHM1Q3JHd3p1dnlaQ1ZWc2h1TElDSzlzVWRQVlpfSFVMVWRUZXNpZG9RcGZsb3IzR1FyaXdpSHJJbDMwRjdQS2pSSE1lMzlmS0dJZ3JzeTFwbWpSR1FzX0Z2T3FYUEN3YTg1TWJwOXI2YkxZRGZGcEZWNHRhbkx3ODZZdzJDRGdJeUhqZHVV?oc=5",
             "publishedAt": "2026-11-06T16:58+00:00"
+          },
+          {
+            "title": "Skincare Packaging That Works Harder - Beauty Packaging",
+            "source": "Beauty Packaging",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LQWhyRjBvY2tvc0ZBX0VkZDFwYkZCTlh0bUt4ZHdjSTB2Y05OdmN6SnhKZFVYel9kel9WTU5WdThKM0RqVTBEQWtxSVZBQXNpcEwwYUdWcE1WMC1mdkdBRmJZdFJrMHpXMHdtMUdzVDRGbDM0NlpzNA?oc=5",
+            "publishedAt": "2026-10-20T07:00+00:00"
           }
         ],
         "hiring": [],
         "moves": [
-          {
-            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T07:00+00:00"
-          },
           {
             "title": "Berlin Packaging Expands In Europe With Two Acquisitions - Canadian Plastics",
             "source": "Canadian Plastics",
@@ -616,12 +624,6 @@
         ],
         "items": [
           {
-            "title": "Berlin Packaging expands spirits portfolio with lightweight PET and customizable glass - Packaging Insights",
-            "source": "Packaging Insights",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhYeUJucjVnWFpfWldEMXlpS1F2aXhDY3dWOTdjSldCazBhUk5NNDhMZVk1VUxvaVo2Zlk4NjlUVWkwSmVMZXhGakdKdXRaUGZEd0JUV1Z1dmpqOGlhRWxxYXV5RDhLUjdxY2FWQTdxUUdrUE5iQkJKWld6RWdmVGNDRHBseGw0dUFGZ3FzRFl0REE?oc=5",
-            "publishedAt": "2026-10-13T07:00+00:00"
-          },
-          {
             "title": "Berlin Packaging Named One of America's Greenest Companies 2027 by Newsweek - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTk9Wcm10M25BZXZuUWNuTUVJbVNsSW9YcnZkbDNsQVVwUFpZYTFtb3E2aGF3ZVVFemFjMFhOa05BNkJxcVphQWtsLVNNTXBzVk9mNEEyemdRaHhXUFRiaTBwdV9SV1dUVFF2algyY3hNUnpvbFJXNmdwanZRa2Z0d0lJTVZ3RWhwc0NTUUI1NGFESFNyZDVJ?oc=5",
@@ -632,6 +634,12 @@
             "source": "Canadian Plastics",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdy03X3FsTDlLMnFmc2tOWkFNWnVSOHM1Q3JHd3p1dnlaQ1ZWc2h1TElDSzlzVWRQVlpfSFVMVWRUZXNpZG9RcGZsb3IzR1FyaXdpSHJJbDMwRjdQS2pSSE1lMzlmS0dJZ3JzeTFwbWpSR1FzX0Z2T3FYUEN3YTg1TWJwOXI2YkxZRGZGcEZWNHRhbkx3ODZZdzJDRGdJeUhqZHVV?oc=5",
             "publishedAt": "2026-11-06T16:58+00:00"
+          },
+          {
+            "title": "Skincare Packaging That Works Harder - Beauty Packaging",
+            "source": "Beauty Packaging",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LQWhyRjBvY2tvc0ZBX0VkZDFwYkZCTlh0bUt4ZHdjSTB2Y05OdmN6SnhKZFVYel9kel9WTU5WdThKM0RqVTBEQWtxSVZBQXNpcEwwYUdWcE1WMC1mdkdBRmJZdFJrMHpXMHdtMUdzVDRGbDM0NlpzNA?oc=5",
+            "publishedAt": "2026-10-20T07:00+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -648,7 +656,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "Millcraft Acquires Protective Packaging Products in KY - National Association of Wholesaler-Distributors",
@@ -718,7 +726,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "Paper Board Partition Market To 2035: E-Commerce Packaging Demand Drives Growth - News and Statistics - IndexBox",
@@ -772,7 +780,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [
           {
             "title": "Ernest Packaging - The Dream Division \u2014 LBB - LBB - Little Black Book",
@@ -837,7 +845,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-11T20:14+00:00",
+        "lastUpdated": "2026-11-12T20:55+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -849,8 +857,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-11T20:14+00:00",
-  "lastSuccessfulAt": "2026-11-11T20:14+00:00",
+  "lastAttemptedAt": "2026-11-12T20:55+00:00",
+  "lastSuccessfulAt": "2026-11-12T20:55+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

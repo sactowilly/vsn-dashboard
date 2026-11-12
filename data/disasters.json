@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T20:14+00:00",
+  "lastUpdated": "2026-11-12T20:55+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "south of the Fiji Islands",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "3 km ESE of Berkeley, CA",
+      "region": "3 km SSW of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km SSW of Gu\u00e1nica, Puerto Rico",
+      "region": "26 km NW of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "62 km ENE of Pedro Bay, Alaska",
+      "region": "32 km WNW of Happy Valley, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "48 km NW of Ancud, Chile",
-      "severity": "High"
-    },
-    {
-      "type": "Earthquake",
-      "region": "2 km S of Pastos, Puerto Rico",
+      "region": "41 km WNW of Clam Gulch, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "58 km NW of Petersville, Alaska",
+      "region": "67 km WNW of Beluga, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "128 km SSE of Old Harbor, Alaska",
-      "severity": "Medium"
+      "region": "10 km SE of Ocotillo Wells, CA",
+      "severity": "Low"
     },
     {
-      "type": "Winter Storm Watch issued November 11 at 12:03PM PST until November 16 at 4:00PM PST by NWS Sacramento CA",
-      "region": "Lassen Volcanic National Park; Sierra Nevada of Sierra-Nevada-Placer Counties Above 5000 ft Including Interstate 80; Sierra Nevada of El Dorado-Amador-Northern Alpine Counties Above 5000 ft Including Highway 50; Sierra Nevada of Calaveras-Tuolumne-Southern Alpine Counties Above 5000 ft",
-      "severity": "Severe"
+      "type": "Earthquake",
+      "region": "4 km SW of Port Ludlow, Washington",
+      "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued November 11 at 11:54AM PST until November 13 at 7:00PM PST by NWS Sacramento CA",
-      "region": "South-Central Shasta County Including Redding Metro; Northern Sacramento Valley in Tehama County; Central Glenn County Including Interstate 5; Eastern Glenn County; Butte County Below 1000 ft",
+      "type": "Earthquake",
+      "region": "54 km NW of Ninilchik, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "High Surf Warning issued November 12 at 12:43PM PST until November 15 at 4:00AM PST by NWS Eureka CA",
+      "region": "Southwestern Humboldt; Coastal Mendocino",
       "severity": "Moderate"
     },
     {
-      "type": "Lake Wind Advisory issued November 11 at 11:52AM PST until November 13 at 10:00AM PST by NWS Reno NV",
-      "region": "Greater Lake Tahoe Area; Greater Lake Tahoe Area",
+      "type": "High Surf Warning issued November 12 at 12:43PM PST until November 15 at 4:00AM PST by NWS Eureka CA",
+      "region": "Coastal Del Norte; Northern Coastal Humboldt",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued November 11 at 11:52AM PST until November 13 at 10:00PM PST by NWS Reno NV",
+      "type": "Wind Advisory issued November 12 at 12:40PM PST until November 13 at 7:00PM PST by NWS Reno NV",
+      "region": "Surprise Valley California; Northern Washoe County",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued November 12 at 12:40PM PST until November 13 at 10:00PM PST by NWS Reno NV",
       "region": "Lassen-Eastern Plumas-Eastern Sierra Counties; Greater Reno-Carson City-Minden Area",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-11T20:14+00:00",
-  "lastSuccessfulAt": "2026-11-11T20:14+00:00",
+  "lastAttemptedAt": "2026-11-12T20:55+00:00",
+  "lastSuccessfulAt": "2026-11-12T20:55+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

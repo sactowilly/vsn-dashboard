@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T20:14+00:00",
+  "lastUpdated": "2026-11-12T20:55+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -17,7 +17,7 @@
       "title": "DOJ subpoenas Smurfit Westrock, IP, PCA, Cascades over containerboard pricing - Packaging Dive",
       "source": "Packaging Dive",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzY2TGxQM0xJMnljbUk4aVBmX2pTS1pvc1B3cndoUTZZYXBBT2o1ZloxaWVWcV84aURDYnVkMG9Zdl80RUp4emZheFFuc2UyN0dkcjlQd2FUS3hrNHNjN0FCM0JOYnh3R052T0s5Xy16dnZwMk9KV0ptTWJKZUljUnVfOEc3TzJBRWxKbzBiMmgxbHV0VVBKN0FtZEdyUVZYM3Mw?oc=5",
-      "publishedAt": "2026-11-04T17:46+00:00",
+      "publishedAt": "2026-11-04T08:00+00:00",
       "impact": "Medium"
     },
     {
@@ -49,6 +49,13 @@
       "impact": "Low"
     },
     {
+      "title": "Emtec connects with corrugated packaging industry at VDW's Technical Members' Meeting - PULPAPERnews.com",
+      "source": "PULPAPERnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0d5ZGs0a1NxX1FobFRNZWZTQTA0dTZqX2dQV2FvSF9VUkZCdDgtWU5KcnFOR0RqS01kd0pGemppaWpwWG9JLWRLeGhfU203RXJ2eFJrZHpyZXZqYVRYSGxZZV9yNDluQlctOWxHLUtLaXNvZHVCM1Bqc0FpaXhIVVNSdU1OZGlBQk84Uk1zUTdHR3VmRFlLRUtBb0ZlVlVzLUpiUUhndk4yMUNKUUVDZVY2WnVXakdKUUU4?oc=5",
+      "publishedAt": "2026-11-06T09:28+00:00",
+      "impact": "Medium"
+    },
+    {
       "title": "Flexible Plastic Packaging Market Size, Share, Trends 2036 - Future Market Insights",
       "source": "Future Market Insights",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXk1bk9GLVV2YW9WTWxtd3BqWUpUUTRHV1ZaTDFiWDFDRENZQ3dZSE1ZRm5Ba3ZBWWZzb1JNbmY1WU5nTS1MWHM2SzNQZjRBYjc0X25HN1ZIM3k3ZkV0SXRkNzZyblJQa1dOWmQtZjdvZWdYUF84Vm5ZN29vbXFoWDVpSWk?oc=5",
@@ -61,19 +68,12 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0wza3A3NnIzTFRaZDRYQ0p4SmtBdUtGaUZZbzd3QVZuc1pLb2doUkZKeXdySk5TVFNuR3FMd2lVR2ZOS0NsS1dvT0NkYWlUdlNkenE3TjlKaVFoUlZfV2kyeGNWeDBmNzF2YlV2U1R5UUxURTNsTTRXcFRPSW9JNks1aEstU0JfZmhaQ0NIYmFRbXRtdU1UOWxQRGg2TmF2?oc=5",
       "publishedAt": "2026-10-21T07:00+00:00",
       "impact": "Medium"
-    },
-    {
-      "title": "Mesirow sees opportunities for packaging industry growth, M&A in 2027 - Label and Narrow Web",
-      "source": "Label and Narrow Web",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkpzQVR6T29UekwtVnMyTjFsUTdwZkNIT3BnSVZDbUlhOW1xeVMtUHo1aHNRVE1qekRlcExxM242cmVXVjhOT3NFQkpqci1fWWJZbXUtdlcwWXF5RzBJdGpoeEx4NlJuM3kyampuV0wxblM3X2pIRmRVWVc5ckdhZTNhejkxR21scHJreHRwTHFlUlNIWTAyRHlTYmdCQWYxRzdBRWJZa3pJTDA0MzU3VnFJdw?oc=5",
-      "publishedAt": "2026-10-26T07:00+00:00",
-      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-11T20:14+00:00",
-  "lastSuccessfulAt": "2026-11-11T20:14+00:00",
+  "lastAttemptedAt": "2026-11-12T20:55+00:00",
+  "lastSuccessfulAt": "2026-11-12T20:55+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
