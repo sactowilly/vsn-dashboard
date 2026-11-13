@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T20:55+00:00",
+  "lastUpdated": "2026-11-13T20:31+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "3 km SSW of P\u0101hala, Hawaii",
+      "region": "74 km WNW of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "26 km NW of Petersville, Alaska",
+      "region": "8 km SE of Coto De Caza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "32 km WNW of Happy Valley, Alaska",
+      "region": "70 km SSW of Kaktovik, Alaska",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "7 km WSW of Erlands Point-Kitsap Lake, Washington",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "41 km WNW of Clam Gulch, Alaska",
+      "region": "9 km WSW of Chaparral, Colombia",
+      "severity": "Medium"
+    },
+    {
+      "type": "Earthquake",
+      "region": "9 km WSW of Morongo Valley, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "67 km WNW of Beluga, Alaska",
+      "region": "3 km S of Cobb, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "10 km SE of Ocotillo Wells, CA",
+      "region": "64 km ENE of Susitna North, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Earthquake",
-      "region": "4 km SW of Port Ludlow, Washington",
-      "severity": "Low"
+      "type": "Coastal Flood Advisory issued November 13 at 12:15PM PST until November 14 at 4:00PM PST by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "severity": "Minor"
     },
     {
-      "type": "Earthquake",
-      "region": "54 km NW of Ninilchik, Alaska",
-      "severity": "Low"
+      "type": "High Surf Advisory issued November 13 at 12:15PM PST until November 15 at 10:00AM PST by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "severity": "Minor"
     },
     {
-      "type": "High Surf Warning issued November 12 at 12:43PM PST until November 15 at 4:00AM PST by NWS Eureka CA",
-      "region": "Southwestern Humboldt; Coastal Mendocino",
+      "type": "Beach Hazards Statement issued November 13 at 12:05PM PST until November 17 at 3:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands",
       "severity": "Moderate"
     },
     {
-      "type": "High Surf Warning issued November 12 at 12:43PM PST until November 15 at 4:00AM PST by NWS Eureka CA",
-      "region": "Coastal Del Norte; Northern Coastal Humboldt",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued November 12 at 12:40PM PST until November 13 at 7:00PM PST by NWS Reno NV",
-      "region": "Surprise Valley California; Northern Washoe County",
-      "severity": "Moderate"
-    },
-    {
-      "type": "Wind Advisory issued November 12 at 12:40PM PST until November 13 at 10:00PM PST by NWS Reno NV",
-      "region": "Lassen-Eastern Plumas-Eastern Sierra Counties; Greater Reno-Carson City-Minden Area",
-      "severity": "Moderate"
+      "type": "High Surf Advisory issued November 13 at 12:05PM PST until November 13 at 9:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
+      "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-12T20:55+00:00",
-  "lastSuccessfulAt": "2026-11-12T20:55+00:00",
+  "lastAttemptedAt": "2026-11-13T20:31+00:00",
+  "lastSuccessfulAt": "2026-11-13T20:31+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

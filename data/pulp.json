@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-12T20:55+00:00",
+  "lastUpdated": "2026-11-13T20:31+00:00",
   "sourceStrength": "High",
   "freshness": "Monthly market action + proxy",
-  "whatChanged": "Containerboard +$50/ST is the operating market action; proxy moved +3.1 index points versus the prior published month.",
+  "whatChanged": "Containerboard +$50/ST is the operating market action; proxy moved +4.1 index points versus the prior published month.",
   "sourceLinks": [
     {
       "label": "FRED Pulp, Paper, and Allied Products PPI",
@@ -38,7 +38,7 @@
     "Proxy refreshed from FRED Pulp, Paper, and Allied Products PPI.",
     "Use market action for pricing conversations; use proxy as directional context only."
   ],
-  "currentDeltaIndex": 3.05,
+  "currentDeltaIndex": 4.15,
   "marketAction": {
     "label": "Containerboard +$50/ST",
     "market": "North American containerboard",
@@ -136,10 +136,6 @@
   ],
   "series": [
     {
-      "date": "2025-10",
-      "value": 215.803
-    },
-    {
       "date": "2025-11",
       "value": 209.19
     },
@@ -173,21 +169,25 @@
     },
     {
       "date": "2026-07",
-      "value": 216.064
+      "value": 216.483
     },
     {
       "date": "2026-08",
-      "value": 219.93
+      "value": 220.748
     },
     {
       "date": "2026-09",
-      "value": 222.983
+      "value": 224.429
+    },
+    {
+      "date": "2026-10",
+      "value": 228.576
     }
   ],
   "sourceType": "proxy",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-12T20:55+00:00",
-  "lastSuccessfulAt": "2026-11-12T20:55+00:00",
+  "lastAttemptedAt": "2026-11-13T20:31+00:00",
+  "lastSuccessfulAt": "2026-11-13T20:31+00:00",
   "sourceLimitations": [
     "Containerboard market action is curated from public market reporting; FRED/BLS PPI remains a proxy trend only.",
     "This is not a supplier-specific quote and may not match every mill, sheet plant, grade, or customer contract.",
