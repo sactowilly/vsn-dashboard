@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T20:31+00:00",
+  "lastUpdated": "2026-11-17T21:49+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -35,11 +35,11 @@
       "impact": "Low"
     },
     {
-      "title": "The State of Grocery Retail Europe: Implications for packaging players - McKinsey & Company",
-      "source": "McKinsey & Company",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnNVSmtJMGYyLWtCUjVob1RVTXdMeHZjak5RaEJzWDFHeW0wUUplak5Ma3puRTJwWEE3ejg2VlEtQl9GdFBQQ29jTmVtYkI1bnRnZ2MtSzFGWjRzbWJ0NDRWX0xLWmhLYWlIaEZldTFsVkI2XzFQZXQ3d2QzREFMV2J6QmZrNHRFU3JhWFdndDV2Qlg1SUtwSkpTd255dzJrZ1daaGJEdEdUS0N1UVNjcDB6VnhmVEpGY0tUaEV6ZTFKTmVlUUhndkRXSGlXTHQ1ajl4bg?oc=5",
-      "publishedAt": "2026-10-22T00:00+00:00",
-      "impact": "Low"
+      "title": "Georgia-Pacific named John Taylor president of it's corrugated packaging business, overseeing 32 sites nationwide - Georgia-Pacific",
+      "source": "Georgia-Pacific",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3ZSREdteTRNUWEzTlpFTmQ2TklaWGl1akZsOTlaMHNLRjd1RWxKZFVSQThNUDJVVklPV3pUZnR0b1FzODc0ZVctNHZYaTB3bEFwbHVldnlGYngwYmJwc3U3Q2E4cU02MUE4b3NQaUlsRXdlT0szRzBGN3dEdVRMTTltcmFUR1p0Z3hiT0REYWY?oc=5",
+      "publishedAt": "2026-11-16T19:43+00:00",
+      "impact": "Medium"
     },
     {
       "title": "Pack Expo 2026: US EPR patchwork pushes packaging industry toward redesign - Packaging Insights",
@@ -49,10 +49,10 @@
       "impact": "Medium"
     },
     {
-      "title": "Virginia Tech Packaging Innovation Hub will offer packaging solutions from materials to marketplace - Virginia Tech News",
-      "source": "Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EcE45VDNpRHRlQ25CWjFSVXlITF83RXdzTzlhaVM2SkVaT3FhRGhCRUZRSDhvckcwR0tCNmJqcVM1aFpZd2VuV1dWUVZIRF9yMnJOWDNaTm1PNHRjcnVXbE9mWDUyUQ?oc=5",
-      "publishedAt": "2026-10-15T07:00+00:00",
+      "title": "The State of Grocery Retail Europe: Implications for packaging players - McKinsey & Company",
+      "source": "McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnNVSmtJMGYyLWtCUjVob1RVTXdMeHZjak5RaEJzWDFHeW0wUUplak5Ma3puRTJwWEE3ejg2VlEtQl9GdFBQQ29jTmVtYkI1bnRnZ2MtSzFGWjRzbWJ0NDRWX0xLWmhLYWlIaEZldTFsVkI2XzFQZXQ3d2QzREFMV2J6QmZrNHRFU3JhWFdndDV2Qlg1SUtwSkpTd255dzJrZ1daaGJEdEdUS0N1UVNjcDB6VnhmVEpGY0tUaEV6ZTFKTmVlUUhndkRXSGlXTHQ1ajl4bg?oc=5",
+      "publishedAt": "2026-10-22T07:00+00:00",
       "impact": "Low"
     },
     {
@@ -72,8 +72,8 @@
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-13T20:31+00:00",
-  "lastSuccessfulAt": "2026-11-13T20:31+00:00",
+  "lastAttemptedAt": "2026-11-17T21:49+00:00",
+  "lastSuccessfulAt": "2026-11-17T21:49+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

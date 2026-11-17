@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T20:31+00:00",
+  "lastUpdated": "2026-11-17T21:49+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "74 km WNW of Petersville, Alaska",
+      "region": "29 km N of Skwentna, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km SE of Coto De Caza, CA",
+      "region": "4 km SW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "70 km SSW of Kaktovik, Alaska",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "7 km WSW of Erlands Point-Kitsap Lake, Washington",
+      "region": "6 km NNE of Willow, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "9 km WSW of Chaparral, Colombia",
-      "severity": "Medium"
-    },
-    {
-      "type": "Earthquake",
-      "region": "9 km WSW of Morongo Valley, CA",
+      "region": "5 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km S of Cobb, CA",
+      "region": "5 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "64 km ENE of Susitna North, Alaska",
+      "region": "2 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Coastal Flood Advisory issued November 13 at 12:15PM PST until November 14 at 4:00PM PST by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
+      "type": "Earthquake",
+      "region": "51 km SSE of Denali National Park, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "2 km ESE of Home Gardens, CA",
+      "severity": "Low"
+    },
+    {
+      "type": "Winter Storm Warning issued November 17 at 1:46PM PST until November 19 at 1:00AM PST by NWS Eureka CA",
+      "region": "Southern Trinity; Northeastern Trinity",
+      "severity": "Severe"
+    },
+    {
+      "type": "Frost Advisory issued November 17 at 1:43PM PST until November 18 at 7:00AM PST by NWS Los Angeles/Oxnard CA",
+      "region": "Antelope Valley",
       "severity": "Minor"
     },
     {
-      "type": "High Surf Advisory issued November 13 at 12:15PM PST until November 15 at 10:00AM PST by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; Orange County Coastal",
-      "severity": "Minor"
-    },
-    {
-      "type": "Beach Hazards Statement issued November 13 at 12:05PM PST until November 17 at 3:00PM PST by NWS Los Angeles/Oxnard CA",
-      "region": "Catalina and Santa Barbara Islands",
+      "type": "Wind Advisory issued November 17 at 1:42PM PST until November 18 at 4:00AM PST by NWS Eureka CA",
+      "region": "Coastal Mendocino; Northwestern Interior Mendocino; Northeastern Interior Mendocino; Southwestern Interior Mendocino",
       "severity": "Moderate"
     },
     {
-      "type": "High Surf Advisory issued November 13 at 12:05PM PST until November 13 at 9:00PM PST by NWS Los Angeles/Oxnard CA",
-      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
-      "severity": "Minor"
+      "type": "Wind Advisory issued November 17 at 1:42PM PST until November 18 at 2:00AM PST by NWS Eureka CA",
+      "region": "Coastal Del Norte; Northern Coastal Humboldt",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-13T20:31+00:00",
-  "lastSuccessfulAt": "2026-11-13T20:31+00:00",
+  "lastAttemptedAt": "2026-11-17T21:49+00:00",
+  "lastSuccessfulAt": "2026-11-17T21:49+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
