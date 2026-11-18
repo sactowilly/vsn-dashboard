@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T21:49+00:00",
+  "lastUpdated": "2026-11-18T21:28+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "29 km N of Skwentna, Alaska",
+      "region": "45 km SSE of Mammoth, Wyoming",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km SW of Anza, CA",
+      "region": "19 km S of Tatitlek, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NNE of Willow, Alaska",
+      "region": "4 km NNW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of The Geysers, CA",
+      "region": "21 km WSW of Susitna, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NW of The Geysers, CA",
+      "region": "73 km WNW of Beluga, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km NNW of The Geysers, CA",
+      "region": "3 km WSW of Anza, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "51 km SSE of Denali National Park, Alaska",
+      "region": "17 km WSW of Levan, Utah",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "2 km ESE of Home Gardens, CA",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
-      "type": "Winter Storm Warning issued November 17 at 1:46PM PST until November 19 at 1:00AM PST by NWS Eureka CA",
-      "region": "Southern Trinity; Northeastern Trinity",
-      "severity": "Severe"
-    },
-    {
-      "type": "Frost Advisory issued November 17 at 1:43PM PST until November 18 at 7:00AM PST by NWS Los Angeles/Oxnard CA",
-      "region": "Antelope Valley",
+      "type": "Flood Advisory issued November 18 at 1:23PM PST until November 18 at 4:30PM PST by NWS San Francisco CA",
+      "region": "Santa Clara, CA",
       "severity": "Minor"
     },
     {
-      "type": "Wind Advisory issued November 17 at 1:42PM PST until November 18 at 4:00AM PST by NWS Eureka CA",
-      "region": "Coastal Mendocino; Northwestern Interior Mendocino; Northeastern Interior Mendocino; Southwestern Interior Mendocino",
+      "type": "Wind Advisory issued November 18 at 1:20PM PST until November 18 at 4:00PM PST by NWS San Francisco CA",
+      "region": "San Francisco; San Francisco Bay Shoreline; San Francisco Peninsula Coast; Santa Cruz Mountains; Santa Clara Valley Including San Jose; Eastern Santa Clara Hills; Southern Salinas Valley/Arroyo Seco and Lake San Antonio; Santa Lucia Mountains and Los Padres National Forest; Mountains Of San Benito County And Interior Monterey County Including Pinnacles National Park; Northern Salinas Valley/Hollister Valley and Carmel Valley; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued November 17 at 1:42PM PST until November 18 at 2:00AM PST by NWS Eureka CA",
-      "region": "Coastal Del Norte; Northern Coastal Humboldt",
-      "severity": "Moderate"
+      "type": "Flood Advisory issued November 18 at 1:16PM PST until November 18 at 4:15PM PST by NWS San Francisco CA",
+      "region": "Monterey, CA",
+      "severity": "Minor"
+    },
+    {
+      "type": "Flood Advisory issued November 18 at 1:08PM PST until November 18 at 3:30PM PST by NWS San Francisco CA",
+      "region": "Alameda, CA; Contra Costa, CA; San Francisco, CA; San Mateo, CA; Santa Clara, CA",
+      "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-17T21:49+00:00",
-  "lastSuccessfulAt": "2026-11-17T21:49+00:00",
+  "lastAttemptedAt": "2026-11-18T21:28+00:00",
+  "lastSuccessfulAt": "2026-11-18T21:28+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

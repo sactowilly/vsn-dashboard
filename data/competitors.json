@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T21:49+00:00",
+  "lastUpdated": "2026-11-18T21:28+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,13 +18,13 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
-            "title": "5 insightful analyst questions from Packaging Corporation of America\u2019s Q3 earnings call - Yahoo Finance",
+            "title": "Packaging Corporation of America: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
             "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGFDX1p0MjFScXZ1SUhqWEpvTFdTTjkyWC12elI2YVF1QWVoODRjdVowVHQ0TUxzV1E5dzMtV05qdTd4akpkRWVKT3p1SENiZ0U3dEpfbG9MVnIzMkZJekZfU3YyeW4tRDJpWHo4OHktUHdndk01M3FnZ2l0RWRYcXF0ZWNZTV9XanR4RXpOUjRodkNFbkstSGY5TUptUlNOMzc4V3Z0Wjk?oc=5",
-            "publishedAt": "2026-10-23T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUJ5NTdIdF83NEl5S1ZvNjQtM01aYmxtRm82WjZIRl9KOF83bmwxc0VoMTBLNUF1RS1tdFBUd25kTUhqYWExS181Zmdrd2wyZ2ptNEUxbmlKLUJaV3Vua1NYNDd1cFUyOGFUZk5wWGhLSElDNXN0R1NoMlRpaHhiSzkxazJfcnRyYzN1eWxza3BGR2tHXzJXeFp1amhLYzhLRXc?oc=5",
+            "publishedAt": "2026-11-01T07:00+00:00"
           },
           {
             "title": "Pricing is PCA\u2019s \u2018supreme focus\u2019 right now - Packaging Dive",
@@ -33,10 +33,10 @@
             "publishedAt": "2026-10-23T07:00+00:00"
           },
           {
-            "title": "Packaging Corporation of America: A Good Company Isn't Always A Good Stock (NYSE:PKG) - Seeking Alpha",
-            "source": "Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JJZGZnaUxXVVIwUTB4bHRtN0lwekpZWEJOM19mcngzN2hIWkJ6V3RkMGg0U0lwM3E5cWdTazlMcy14VlNldVp2azhZbWFSajFtSW9oNFZ2bzhxU29FMVU0U1NaZ1R3a194MXlzdnA1RnRBZ015UVBZOHVfQlVSTi1JOGFwUmxQZnJtNkJqQUtWdGw5aGF5SnVkT2F3TzdxdTZtdnVpRWVqbTNUWEMxVHJDOA?oc=5",
-            "publishedAt": "2026-10-22T07:00+00:00"
+            "title": "Packaging Corp. of America (PKG) Q1 2026 Earnings Call Transcript - Fortune",
+            "source": "Fortune",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNmxmMUdPMXo2QV9OLTZXZ0tBc2tmTmxTaGNQSndjNkZyTjF5V083Z3Rac2dOU09fbUpGd1JJY3JIb2ZnX0FCd095V2xsMllsMXBzc3B0V04tcm9mX2lxdDNsZG9YNGFubF9aZVhsbGM3a0FYWXR3QjFKNA?oc=5",
+            "publishedAt": "2026-11-15T10:59+00:00"
           }
         ],
         "hiring": [
@@ -51,10 +51,10 @@
         "moves": [],
         "items": [
           {
-            "title": "5 insightful analyst questions from Packaging Corporation of America\u2019s Q3 earnings call - Yahoo Finance",
+            "title": "Packaging Corporation of America: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
             "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGFDX1p0MjFScXZ1SUhqWEpvTFdTTjkyWC12elI2YVF1QWVoODRjdVowVHQ0TUxzV1E5dzMtV05qdTd4akpkRWVKT3p1SENiZ0U3dEpfbG9MVnIzMkZJekZfU3YyeW4tRDJpWHo4OHktUHdndk01M3FnZ2l0RWRYcXF0ZWNZTV9XanR4RXpOUjRodkNFbkstSGY5TUptUlNOMzc4V3Z0Wjk?oc=5",
-            "publishedAt": "2026-10-23T07:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUJ5NTdIdF83NEl5S1ZvNjQtM01aYmxtRm82WjZIRl9KOF83bmwxc0VoMTBLNUF1RS1tdFBUd25kTUhqYWExS181Zmdrd2wyZ2ptNEUxbmlKLUJaV3Vua1NYNDd1cFUyOGFUZk5wWGhLSElDNXN0R1NoMlRpaHhiSzkxazJfcnRyYzN1eWxza3BGR2tHXzJXeFp1amhLYzhLRXc?oc=5",
+            "publishedAt": "2026-11-01T07:00+00:00"
           },
           {
             "title": "Pricing is PCA\u2019s \u2018supreme focus\u2019 right now - Packaging Dive",
@@ -63,10 +63,10 @@
             "publishedAt": "2026-10-23T07:00+00:00"
           },
           {
-            "title": "Packaging Corporation of America: A Good Company Isn't Always A Good Stock (NYSE:PKG) - Seeking Alpha",
-            "source": "Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JJZGZnaUxXVVIwUTB4bHRtN0lwekpZWEJOM19mcngzN2hIWkJ6V3RkMGg0U0lwM3E5cWdTazlMcy14VlNldVp2azhZbWFSajFtSW9oNFZ2bzhxU29FMVU0U1NaZ1R3a194MXlzdnA1RnRBZ015UVBZOHVfQlVSTi1JOGFwUmxQZnJtNkJqQUtWdGw5aGF5SnVkT2F3TzdxdTZtdnVpRWVqbTNUWEMxVHJDOA?oc=5",
-            "publishedAt": "2026-10-22T07:00+00:00"
+            "title": "Packaging Corp. of America (PKG) Q1 2026 Earnings Call Transcript - Fortune",
+            "source": "Fortune",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNmxmMUdPMXo2QV9OLTZXZ0tBc2tmTmxTaGNQSndjNkZyTjF5V083Z3Rac2dOU09fbUpGd1JJY3JIb2ZnX0FCd095V2xsMllsMXBzc3B0V04tcm9mX2lxdDNsZG9YNGFubF9aZVhsbGM3a0FYWXR3QjFKNA?oc=5",
+            "publishedAt": "2026-11-15T10:59+00:00"
           }
         ],
         "query": "\"Packaging Corporation of America\" packaging OR corrugated OR distribution when:30d",
@@ -83,7 +83,7 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "LKQ Names Former Veritiv CEO Salvatore Abbate as President & CEO | THE SHOP - THE SHOP",
@@ -92,16 +92,16 @@
             "publishedAt": "2026-10-26T07:00+00:00"
           },
           {
+            "title": "LKQ Corporation Appoints Salvatore A. Abbate as President and Chief Executive Officer - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHZIVlNvZXcxQ0FDdnN5dlV2ZC1NYjlYb3R3OVV4VkpJaElUdzNrS1pOZzBWNGtWaWZCOU1LNlVqWUNCMkQ0UWsxWTB1c3hBdFBMMUhHWDNzaEl2ODBabUZCQmw3aDhTdE5vbEp0TEJhLUU0RDJfLURHcW9KOHNqNjV4MEkxNHhVUVhQdGczVXozc0p2SkstUXIyZG83ZEZJelJuSmVsNV9tZw?oc=5",
+            "publishedAt": "2026-10-23T07:00+00:00"
+          },
+          {
             "title": "LKQ Names Sal Abbate President and CEO, Effective Dec. 15 - Traction News",
             "source": "Traction News",
             "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oTjZfemdkUURJaW5UZFZDdjhiN1JtXzBHQksxQVhja3lxei16cHJJN1czQUt6XzF1bVd3c2gtekI3MFNIbkNUZkRJRG1kR2FTSVJtMFNXR3RKaWhFa0FQMDlyU3N2SVcyTDdnN29OTFluQQ?oc=5",
             "publishedAt": "2026-10-27T07:00+00:00"
-          },
-          {
-            "title": "LKQ Names Salvatore Abbate CEO - CollisionWeek",
-            "source": "CollisionWeek",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZ092WmZTSW1Lb21rU0lBbU44dnNFREVZR2ZwTExRV2g5Qmlpb3VuY3lLUFpDeTNpeE9ibGd5UEU1MEtHNHdlaGRJTktpTld0TzBVUUhmaGctWU5ZOFNyYkZ5VHI1bzFBakdQR1RMMWl0d2hYWWRV?oc=5",
-            "publishedAt": "2026-10-23T07:00+00:00"
           }
         ],
         "hiring": [
@@ -122,16 +122,16 @@
             "publishedAt": "2026-10-26T07:00+00:00"
           },
           {
+            "title": "LKQ Corporation Appoints Salvatore A. Abbate as President and Chief Executive Officer - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHZIVlNvZXcxQ0FDdnN5dlV2ZC1NYjlYb3R3OVV4VkpJaElUdzNrS1pOZzBWNGtWaWZCOU1LNlVqWUNCMkQ0UWsxWTB1c3hBdFBMMUhHWDNzaEl2ODBabUZCQmw3aDhTdE5vbEp0TEJhLUU0RDJfLURHcW9KOHNqNjV4MEkxNHhVUVhQdGczVXozc0p2SkstUXIyZG83ZEZJelJuSmVsNV9tZw?oc=5",
+            "publishedAt": "2026-10-23T07:00+00:00"
+          },
+          {
             "title": "LKQ Names Sal Abbate President and CEO, Effective Dec. 15 - Traction News",
             "source": "Traction News",
             "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oTjZfemdkUURJaW5UZFZDdjhiN1JtXzBHQksxQVhja3lxei16cHJJN1czQUt6XzF1bVd3c2gtekI3MFNIbkNUZkRJRG1kR2FTSVJtMFNXR3RKaWhFa0FQMDlyU3N2SVcyTDdnN29OTFluQQ?oc=5",
             "publishedAt": "2026-10-27T07:00+00:00"
-          },
-          {
-            "title": "LKQ Names Salvatore Abbate CEO - CollisionWeek",
-            "source": "CollisionWeek",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZ092WmZTSW1Lb21rU0lBbU44dnNFREVZR2ZwTExRV2g5Qmlpb3VuY3lLUFpDeTNpeE9ibGd5UEU1MEtHNHdlaGRJTktpTld0TzBVUUhmaGctWU5ZOFNyYkZ5VHI1bzFBakdQR1RMMWl0d2hYWWRV?oc=5",
-            "publishedAt": "2026-10-23T07:00+00:00"
           }
         ],
         "query": "\"Veritiv\" packaging OR corrugated OR distribution when:30d",
@@ -148,7 +148,7 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "How Supply Chain, Inflation and Labor Issues are Impacting Imperial Dade - National Association of Wholesaler-Distributors",
@@ -212,7 +212,7 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "Uline holding warehouse hiring event Thursday - Atlanta News First",
@@ -284,7 +284,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "International Paper talks cost challenges ahead of DS Smith split - Packaging Dive",
@@ -341,7 +341,7 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "Unpacking the DOJ\u2019s investigation of containerboard producers - Packaging Dive",
@@ -350,15 +350,15 @@
             "publishedAt": "2026-11-10T16:53+00:00"
           },
           {
-            "title": "Cardboard Boxes Market To 2035: E-Commerce and Sustainability Drive Growth - News and Statistics - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZW13ekZlR3VWOVp3Si1FTFd1NzhCT3huYmhaSDM3Z285WFlaa2M1MGwwR0F1SlR3ZHRNeUFDQ2pnWkdtdV9hd0tGekRLN0VoUGtqZGladE9adlJtWDY5YXNWek1RcUJVcHFIQjJ6cjlfMjlZNlJFVjJ5RlVndjZHT3diWDhET2RlZUlWM1hlVG5WZTE4bnRYQ0F0d2pweklrZkxyMTRuUk4tLVFYbERVT2RvWDJRbXNOVGlaWWQ4a0lFSXlwR2ZueGxkRllMLWJFUFRwYkdfYjJMQQ?oc=5",
-            "publishedAt": "2026-11-13T05:26+00:00"
-          },
-          {
             "title": "Justice Department probes packaging firms over box prices - Transport Topics",
             "source": "Transport Topics",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NQVpVS29maWNlaU5qeVBUQ0MwNk8wNGF1NUNfMy03T0JqOUFreTVoV0prSlM0em1Xc1RHaEtnVXZSZXY4M1dJTFNpYlRaN0hYWE5MNnIwRVd3U3VwTTJXN2lB?oc=5",
+            "publishedAt": "2026-11-05T08:00+00:00"
+          },
+          {
+            "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
+            "source": "Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTF0Q01IMmVDLWVYZEpwTGlUTjNOMGh4WVVLY3NPd2VwdzRsZk9MbWMydk9lX2xXMkxoanFib2NQdmFnYzRTeTBrQ2dIN2JBRm9XOVdhYldGWGdaa25rQlJBVENXRS0takR5bG0yQlgyWmotMlRkNUtfVmg0TkdqUnlJb3d2RXk3dkVsUlJhdVEyajVnSlJISmZXQjhRa25mOFA4NFJiMDlpdUM2M3RmSzNpUzF4dw?oc=5",
             "publishedAt": "2026-11-05T08:00+00:00"
           }
         ],
@@ -380,15 +380,15 @@
             "publishedAt": "2026-11-10T16:53+00:00"
           },
           {
-            "title": "Cardboard Boxes Market To 2035: E-Commerce and Sustainability Drive Growth - News and Statistics - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZW13ekZlR3VWOVp3Si1FTFd1NzhCT3huYmhaSDM3Z285WFlaa2M1MGwwR0F1SlR3ZHRNeUFDQ2pnWkdtdV9hd0tGekRLN0VoUGtqZGladE9adlJtWDY5YXNWek1RcUJVcHFIQjJ6cjlfMjlZNlJFVjJ5RlVndjZHT3diWDhET2RlZUlWM1hlVG5WZTE4bnRYQ0F0d2pweklrZkxyMTRuUk4tLVFYbERVT2RvWDJRbXNOVGlaWWQ4a0lFSXlwR2ZueGxkRllMLWJFUFRwYkdfYjJMQQ?oc=5",
-            "publishedAt": "2026-11-13T05:26+00:00"
-          },
-          {
             "title": "Justice Department probes packaging firms over box prices - Transport Topics",
             "source": "Transport Topics",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NQVpVS29maWNlaU5qeVBUQ0MwNk8wNGF1NUNfMy03T0JqOUFreTVoV0prSlM0em1Xc1RHaEtnVXZSZXY4M1dJTFNpYlRaN0hYWE5MNnIwRVd3U3VwTTJXN2lB?oc=5",
+            "publishedAt": "2026-11-05T08:00+00:00"
+          },
+          {
+            "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
+            "source": "Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTF0Q01IMmVDLWVYZEpwTGlUTjNOMGh4WVVLY3NPd2VwdzRsZk9MbWMydk9lX2xXMkxoanFib2NQdmFnYzRTeTBrQ2dIN2JBRm9XOVdhYldGWGdaa25rQlJBVENXRS0takR5bG0yQlgyWmotMlRkNUtfVmg0TkdqUnlJb3d2RXk3dkVsUlJhdVEyajVnSlJISmZXQjhRa25mOFA4NFJiMDlpdUM2M3RmSzNpUzF4dw?oc=5",
             "publishedAt": "2026-11-05T08:00+00:00"
           }
         ],
@@ -406,7 +406,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "DOJ subpoenas Smurfit Westrock, IP, PCA, Cascades over containerboard pricing - Packaging Dive",
@@ -421,10 +421,10 @@
             "publishedAt": "2026-10-29T07:00+00:00"
           },
           {
-            "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
-            "source": "Bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTF0Q01IMmVDLWVYZEpwTGlUTjNOMGh4WVVLY3NPd2VwdzRsZk9MbWMydk9lX2xXMkxoanFib2NQdmFnYzRTeTBrQ2dIN2JBRm9XOVdhYldGWGdaa25rQlJBVENXRS0takR5bG0yQlgyWmotMlRkNUtfVmg0TkdqUnlJb3d2RXk3dkVsUlJhdVEyajVnSlJISmZXQjhRa25mOFA4NFJiMDlpdUM2M3RmSzNpUzF4dw?oc=5",
-            "publishedAt": "2026-11-05T08:00+00:00"
+            "title": "Major containerboard producers subpoenaed in US over price-fixing claims - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2NCQzhhTS1OYkw2WERnNWJ2SVE4eWhlYUk1STk5UF9qTXBHeXNxNlg4WXVvZWxNb2ZOSGZVYS1ZMVBhMnNRcUtsVEtndG9kX2ZOWXVudWhkUkFPdDNuWGxZbU5OeUhwVnFMNDBza2VPbnJJMG1jUGVYWG1kODlydFdaUHZfM2w1d1RIZzA3UkNKQVJT?oc=5",
+            "publishedAt": "2026-11-09T08:00+00:00"
           }
         ],
         "hiring": [],
@@ -443,10 +443,10 @@
             "publishedAt": "2026-10-29T07:00+00:00"
           },
           {
-            "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
-            "source": "Bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTF0Q01IMmVDLWVYZEpwTGlUTjNOMGh4WVVLY3NPd2VwdzRsZk9MbWMydk9lX2xXMkxoanFib2NQdmFnYzRTeTBrQ2dIN2JBRm9XOVdhYldGWGdaa25rQlJBVENXRS0takR5bG0yQlgyWmotMlRkNUtfVmg0TkdqUnlJb3d2RXk3dkVsUlJhdVEyajVnSlJISmZXQjhRa25mOFA4NFJiMDlpdUM2M3RmSzNpUzF4dw?oc=5",
-            "publishedAt": "2026-11-05T08:00+00:00"
+            "title": "Major containerboard producers subpoenaed in US over price-fixing claims - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2NCQzhhTS1OYkw2WERnNWJ2SVE4eWhlYUk1STk5UF9qTXBHeXNxNlg4WXVvZWxNb2ZOSGZVYS1ZMVBhMnNRcUtsVEtndG9kX2ZOWXVudWhkUkFPdDNuWGxZbU5OeUhwVnFMNDBza2VPbnJJMG1jUGVYWG1kODlydFdaUHZfM2w1d1RIZzA3UkNKQVJT?oc=5",
+            "publishedAt": "2026-11-09T08:00+00:00"
           }
         ],
         "query": "\"WestRock\" packaging OR corrugated OR distribution when:30d",
@@ -463,7 +463,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "International Paper talks cost challenges ahead of DS Smith split - Packaging Dive",
@@ -535,7 +535,7 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "The packaging compliance data challenge - Packaging Gateway",
@@ -550,21 +550,14 @@
             "publishedAt": "2026-10-26T07:00+00:00"
           },
           {
-            "title": "Face Mists & Essences Market To 2035: Premiumization and Private Label Fuel Expansion - News and Statistics - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX05lRkRJZjRTRm9yZmxRbV9SN3ZoNlNQQk9ac0V2bjNBblRYV1VGWkt4Y2hVOWNwWl90N1ZNSmdqYXdTQ043SmRpdHVROHV6X1RKOFRhZ2RpS0JQLUFUQ2RBclZ6b1czRG5jTFIyWk9xMUpTT196TlNIRDdnNG9Wa002enFDTWpPTFAtMUNLMVFZdkdxTF95ZmphaVZCeUJobWlJaHIzdFFQZjRobUhMTTg1a2FWVlBsYWFOS3pnVmtpTnhjVDBacQ?oc=5",
-            "publishedAt": "2026-11-15T12:46+00:00"
+            "title": "Plastic Packaging Tax Evaluation: technical annexes - GOV.UK",
+            "source": "GOV.UK",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPalpBcE9FZDdWa1JlMUtuRjhsVkE1aGhvRHZTNUo3aFRVdW5TWlNUTTBSSjJqb3VIZkp1LVB5VHpROF84eW9famNKTHJiZ2gxX2lNdjlwX29zNnlqVjBMRWNwRTVBSkdJenZtT2pnMGRpbzF0elpYRlpOR25tbi01QjBfV1ZIZ3FpUjJRZFRRcnpnS1NhUUc0SEFLLXNLR0R5THgtdVJwLUZXdk1ERHhReFRkQmdWYV9oRTJZODdpd1haRHRo?oc=5",
+            "publishedAt": "2026-10-28T07:00+00:00"
           }
         ],
         "hiring": [],
-        "moves": [
-          {
-            "title": "Face Mists & Essences Market To 2035: Premiumization and Private Label Fuel Expansion - News and Statistics - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX05lRkRJZjRTRm9yZmxRbV9SN3ZoNlNQQk9ac0V2bjNBblRYV1VGWkt4Y2hVOWNwWl90N1ZNSmdqYXdTQ043SmRpdHVROHV6X1RKOFRhZ2RpS0JQLUFUQ2RBclZ6b1czRG5jTFIyWk9xMUpTT196TlNIRDdnNG9Wa002enFDTWpPTFAtMUNLMVFZdkdxTF95ZmphaVZCeUJobWlJaHIzdFFQZjRobUhMTTg1a2FWVlBsYWFOS3pnVmtpTnhjVDBacQ?oc=5",
-            "publishedAt": "2026-11-15T12:46+00:00"
-          }
-        ],
+        "moves": [],
         "items": [
           {
             "title": "The packaging compliance data challenge - Packaging Gateway",
@@ -579,10 +572,10 @@
             "publishedAt": "2026-10-26T07:00+00:00"
           },
           {
-            "title": "Face Mists & Essences Market To 2035: Premiumization and Private Label Fuel Expansion - News and Statistics - IndexBox",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX05lRkRJZjRTRm9yZmxRbV9SN3ZoNlNQQk9ac0V2bjNBblRYV1VGWkt4Y2hVOWNwWl90N1ZNSmdqYXdTQ043SmRpdHVROHV6X1RKOFRhZ2RpS0JQLUFUQ2RBclZ6b1czRG5jTFIyWk9xMUpTT196TlNIRDdnNG9Wa002enFDTWpPTFAtMUNLMVFZdkdxTF95ZmphaVZCeUJobWlJaHIzdFFQZjRobUhMTTg1a2FWVlBsYWFOS3pnVmtpTnhjVDBacQ?oc=5",
-            "publishedAt": "2026-11-15T12:46+00:00"
+            "title": "Plastic Packaging Tax Evaluation: technical annexes - GOV.UK",
+            "source": "GOV.UK",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPalpBcE9FZDdWa1JlMUtuRjhsVkE1aGhvRHZTNUo3aFRVdW5TWlNUTTBSSjJqb3VIZkp1LVB5VHpROF84eW9famNKTHJiZ2gxX2lNdjlwX29zNnlqVjBMRWNwRTVBSkdJenZtT2pnMGRpbzF0elpYRlpOR25tbi01QjBfV1ZIZ3FpUjJRZFRRcnpnS1NhUUc0SEFLLXNLR0R5THgtdVJwLUZXdk1ERHhReFRkQmdWYV9oRTJZODdpd1haRHRo?oc=5",
+            "publishedAt": "2026-10-28T07:00+00:00"
           }
         ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -599,13 +592,13 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
-            "title": "Beyond the Bottle: How Beauty Is Embracing New Packaging Formats - Happi | Household And Personal Products Industry",
-            "source": "Happi | Household And Personal Products Industry",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9peEMxc2tvdGhJQ1pSc24xaWsyVGdXU0FtSVBNOVRzUnAzUHVmb0FTR0VNMHp1eVBDUmZiS2ZNRkhTMVVvSjJielN0WXNIZl84SjhJSHl1RkJLM0xXRGJYSVBjaHR2QXk3dm53SzRZdTIyQWw3Y2N0aW9RTWx1Q0U?oc=5",
-            "publishedAt": "2026-10-19T07:00+00:00"
+            "title": "Berlin Packaging and Kreatos win Silver at the 2026 Pentawards for QBK Hair Care Packaging - Sustainable Packaging News",
+            "source": "Sustainable Packaging News",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qMG5TY1AwRkowZDZ2ajFmZUpDWXk3RDhfTUJ6akVaVGtwcUNQVlUtSUMxZmIxeG1XYndtVk9mcmM4TlhMZU1NamVGZDl1SWFlUDF1RlFlOE5DaWFlUlBsd3dn0gFiQVVfeXFMTmowblNjUDBGSjBkNnZqMWZlSkNZeTdEOF9NQnpqRVpUa3BxQ1BWVS1JQzFmYjF4bVdid21WT2ZyYzhOWExlTU1qZUZkOXVJYWVQMXVGUWU4TkNpYWVSUGx3d2c?oc=5",
+            "publishedAt": "2026-11-18T11:12+00:00"
           },
           {
             "title": "The Next Wave of Secondary Fiber-Based Packaging - Packaging Strategies",
@@ -624,10 +617,10 @@
         "moves": [],
         "items": [
           {
-            "title": "Beyond the Bottle: How Beauty Is Embracing New Packaging Formats - Happi | Household And Personal Products Industry",
-            "source": "Happi | Household And Personal Products Industry",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9peEMxc2tvdGhJQ1pSc24xaWsyVGdXU0FtSVBNOVRzUnAzUHVmb0FTR0VNMHp1eVBDUmZiS2ZNRkhTMVVvSjJielN0WXNIZl84SjhJSHl1RkJLM0xXRGJYSVBjaHR2QXk3dm53SzRZdTIyQWw3Y2N0aW9RTWx1Q0U?oc=5",
-            "publishedAt": "2026-10-19T07:00+00:00"
+            "title": "Berlin Packaging and Kreatos win Silver at the 2026 Pentawards for QBK Hair Care Packaging - Sustainable Packaging News",
+            "source": "Sustainable Packaging News",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qMG5TY1AwRkowZDZ2ajFmZUpDWXk3RDhfTUJ6akVaVGtwcUNQVlUtSUMxZmIxeG1XYndtVk9mcmM4TlhMZU1NamVGZDl1SWFlUDF1RlFlOE5DaWFlUlBsd3dn0gFiQVVfeXFMTmowblNjUDBGSjBkNnZqMWZlSkNZeTdEOF9NQnpqRVpUa3BxQ1BWVS1JQzFmYjF4bVdid21WT2ZyYzhOWExlTU1qZUZkOXVJYWVQMXVGUWU4TkNpYWVSUGx3d2c?oc=5",
+            "publishedAt": "2026-11-18T11:12+00:00"
           },
           {
             "title": "The Next Wave of Secondary Fiber-Based Packaging - Packaging Strategies",
@@ -656,7 +649,7 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "Packaging dealmaking: October 2026 - Yahoo Finance",
@@ -726,7 +719,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "Hannah Bell, Performance Vehicle Works Racing, Look to Carry Double Top-10 Momentum into Tri-County Season Finale - Catchfence",
@@ -768,7 +761,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [
           {
             "title": "Ernest Packaging - The Dream Division \u2014 LBB - LBB - Little Black Book",
@@ -833,7 +826,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-17T21:49+00:00",
+        "lastUpdated": "2026-11-18T21:28+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -845,8 +838,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-17T21:49+00:00",
-  "lastSuccessfulAt": "2026-11-17T21:49+00:00",
+  "lastAttemptedAt": "2026-11-18T21:28+00:00",
+  "lastSuccessfulAt": "2026-11-18T21:28+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",
