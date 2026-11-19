@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T21:28+00:00",
+  "lastUpdated": "2026-11-19T21:40+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -63,17 +63,17 @@
       "impact": "Medium"
     },
     {
-      "title": "Mesirow sees opportunities for packaging industry growth, M&A in 2027 - Label and Narrow Web",
-      "source": "Label and Narrow Web",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkpzQVR6T29UekwtVnMyTjFsUTdwZkNIT3BnSVZDbUlhOW1xeVMtUHo1aHNRVE1qekRlcExxM242cmVXVjhOT3NFQkpqci1fWWJZbXUtdlcwWXF5RzBJdGpoeEx4NlJuM3kyampuV0wxblM3X2pIRmRVWVc5ckdhZTNhejkxR21scHJreHRwTHFlUlNIWTAyRHlTYmdCQWYxRzdBRWJZa3pJTDA0MzU3VnFJdw?oc=5",
-      "publishedAt": "2026-10-26T07:00+00:00",
+      "title": "Budget 2026: The packaging and processing industry reacts - Sustainable Packaging News",
+      "source": "Sustainable Packaging News",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rUWowRzVYX3d6cTFUOF9qOFhRNVBBSUtzSVFsLU1sdXA4ZDd6OXBtXzhSVTUzbXdlNDhuRGJtUE5yUFhibFHSAVBBVV95cUxQajRLYU5mN2xHb0NpVnBieXVHS1FVNFFWLVpUMExaeTNZck1nM2tEbzRwYUFPejlsM0E2b3lXS3FneTBWZ0lBVGJxaGlKLXp5Qg?oc=5",
+      "publishedAt": "2026-10-30T07:00+00:00",
       "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-18T21:28+00:00",
-  "lastSuccessfulAt": "2026-11-18T21:28+00:00",
+  "lastAttemptedAt": "2026-11-19T21:40+00:00",
+  "lastSuccessfulAt": "2026-11-19T21:40+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."

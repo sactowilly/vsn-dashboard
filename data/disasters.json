@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T21:28+00:00",
+  "lastUpdated": "2026-11-19T21:40+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "45 km SSE of Mammoth, Wyoming",
+      "region": "79 km WNW of Aleneva, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "19 km S of Tatitlek, Alaska",
+      "region": "8 km ENE of Julian, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "4 km NNW of The Geysers, CA",
+      "region": "11 km NE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "21 km WSW of Susitna, Alaska",
+      "region": "12 km NE of P\u0101hala, Hawaii",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "73 km WNW of Beluga, Alaska",
+      "region": "33 km NE of Whittier, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "3 km WSW of Anza, CA",
+      "region": "8 km ENE of Julian, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "17 km WSW of Levan, Utah",
+      "region": "1 km SE of Karluk, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km NW of The Geysers, CA",
+      "region": "42 km WSW of Olancha, CA",
       "severity": "Low"
     },
     {
-      "type": "Flood Advisory issued November 18 at 1:23PM PST until November 18 at 4:30PM PST by NWS San Francisco CA",
-      "region": "Santa Clara, CA",
-      "severity": "Minor"
+      "type": "Severe Thunderstorm Warning issued November 19 at 1:38PM PST until November 19 at 1:45PM PST by NWS Hanford CA",
+      "region": "Fresno, CA",
+      "severity": "Severe"
     },
     {
-      "type": "Wind Advisory issued November 18 at 1:20PM PST until November 18 at 4:00PM PST by NWS San Francisco CA",
-      "region": "San Francisco; San Francisco Bay Shoreline; San Francisco Peninsula Coast; Santa Cruz Mountains; Santa Clara Valley Including San Jose; Eastern Santa Clara Hills; Southern Salinas Valley/Arroyo Seco and Lake San Antonio; Santa Lucia Mountains and Los Padres National Forest; Mountains Of San Benito County And Interior Monterey County Including Pinnacles National Park; Northern Salinas Valley/Hollister Valley and Carmel Valley; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+      "type": "Severe Thunderstorm Warning issued November 19 at 1:38PM PST until November 19 at 2:30PM PST by NWS Hanford CA",
+      "region": "Fresno, CA",
+      "severity": "Severe"
+    },
+    {
+      "type": "Special Weather Statement issued November 19 at 1:22PM PST by NWS Eureka CA",
+      "region": "Northern Coastal Humboldt; Southwestern Humboldt",
       "severity": "Moderate"
     },
     {
-      "type": "Flood Advisory issued November 18 at 1:16PM PST until November 18 at 4:15PM PST by NWS San Francisco CA",
-      "region": "Monterey, CA",
-      "severity": "Minor"
-    },
-    {
-      "type": "Flood Advisory issued November 18 at 1:08PM PST until November 18 at 3:30PM PST by NWS San Francisco CA",
-      "region": "Alameda, CA; Contra Costa, CA; San Francisco, CA; San Mateo, CA; Santa Clara, CA",
-      "severity": "Minor"
+      "type": "Special Weather Statement issued November 19 at 1:17PM PST by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; San Diego County Inland Valleys",
+      "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-18T21:28+00:00",
-  "lastSuccessfulAt": "2026-11-18T21:28+00:00",
+  "lastAttemptedAt": "2026-11-19T21:40+00:00",
+  "lastSuccessfulAt": "2026-11-19T21:40+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
