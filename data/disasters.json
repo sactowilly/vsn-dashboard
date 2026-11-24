@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T21:40+00:00",
+  "lastUpdated": "2026-11-24T01:00+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "79 km WNW of Aleneva, Alaska",
+      "region": "65 km NW of Ninilchik, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km ENE of Julian, CA",
+      "region": "1 km N of Malibu, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "11 km NE of P\u0101hala, Hawaii",
+      "region": "6 km NW of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "12 km NE of P\u0101hala, Hawaii",
+      "region": "52 km E of Port Alsworth, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "33 km NE of Whittier, Alaska",
+      "region": "5 km NNW of Boron, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km ENE of Julian, CA",
+      "region": "8 km NW of Pinnacles, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km SE of Karluk, Alaska",
-      "severity": "Low"
+      "region": "5 km SE of Hoback, Wyoming",
+      "severity": "Medium"
     },
     {
       "type": "Earthquake",
-      "region": "42 km WSW of Olancha, CA",
+      "region": "6 km ENE of Fox, Alaska",
       "severity": "Low"
     },
     {
-      "type": "Severe Thunderstorm Warning issued November 19 at 1:38PM PST until November 19 at 1:45PM PST by NWS Hanford CA",
-      "region": "Fresno, CA",
-      "severity": "Severe"
+      "type": "High Surf Advisory issued November 23 at 4:04PM PST until November 25 at 6:00AM PST by NWS Los Angeles/Oxnard CA",
+      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
+      "severity": "Minor"
     },
     {
-      "type": "Severe Thunderstorm Warning issued November 19 at 1:38PM PST until November 19 at 2:30PM PST by NWS Hanford CA",
-      "region": "Fresno, CA",
-      "severity": "Severe"
-    },
-    {
-      "type": "Special Weather Statement issued November 19 at 1:22PM PST by NWS Eureka CA",
-      "region": "Northern Coastal Humboldt; Southwestern Humboldt",
+      "type": "High Surf Warning issued November 23 at 4:04PM PST until November 26 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "Ventura County Beaches",
       "severity": "Moderate"
     },
     {
-      "type": "Special Weather Statement issued November 19 at 1:17PM PST by NWS San Diego CA",
-      "region": "San Diego County Coastal Areas; San Diego County Inland Valleys",
+      "type": "Coastal Flood Advisory issued November 23 at 4:04PM PST until November 26 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast",
+      "severity": "Minor"
+    },
+    {
+      "type": "High Surf Warning issued November 23 at 4:04PM PST until November 26 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-19T21:40+00:00",
-  "lastSuccessfulAt": "2026-11-19T21:40+00:00",
+  "lastAttemptedAt": "2026-11-24T01:00+00:00",
+  "lastSuccessfulAt": "2026-11-24T01:00+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]

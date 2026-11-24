@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T21:40+00:00",
+  "lastUpdated": "2026-11-24T01:00+00:00",
   "sourceStrength": "Medium",
   "freshness": "Daily signal feed",
   "whatChanged": "Packaging news signal feed refreshed from public Google News RSS.",
@@ -28,18 +28,18 @@
       "impact": "Low"
     },
     {
-      "title": "Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging - https://environment.ec.europa.eu/index_en",
-      "source": "https://environment.ec.europa.eu/index_en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6UTUzVWx6dmM0T2V3blJWRkdqdW4zY1lnX29oYnJSYWw4dU1EOVJVTXZsSm5RT0pyMXpmUk52Zi1mWm5TcF9lb3g0ck9BUURBUmU4amJzQjJFTlZXazI0bkxyWmNmT3hvSnhULTk0SU5BMHZFVFRNSFFSNkk5V1hlOGI3SUxNLURXYk8tREVWWXh3OFppN2RMSXBwOFNuRE5PUjhuVTlOR3VxQnc?oc=5",
-      "publishedAt": "2026-10-21T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Georgia-Pacific named John Taylor president of it's corrugated packaging business, overseeing 32 sites nationwide - Georgia-Pacific",
+      "title": "John Taylor Named President of Georgia-Pacific Corrugated Packaging - Georgia-Pacific",
       "source": "Georgia-Pacific",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3ZSREdteTRNUWEzTlpFTmQ2TklaWGl1akZsOTlaMHNLRjd1RWxKZFVSQThNUDJVVklPV3pUZnR0b1FzODc0ZVctNHZYaTB3bEFwbHVldnlGYngwYmJwc3U3Q2E4cU02MUE4b3NQaUlsRXdlT0szRzBGN3dEdVRMTTltcmFUR1p0Z3hiT0REYWY?oc=5",
       "publishedAt": "2026-11-16T19:43+00:00",
       "impact": "Medium"
+    },
+    {
+      "title": "C3PS brings together packaging industry and academia - Packaging Strategies",
+      "source": "Packaging Strategies",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSTJvWk9kRzNabDdhN25VekZRU2VMSFgzb0RtRjRmMmRQVUhNbkk4cEtPdGRQZjAzdHBoLUp5dUFIR2VXNTIyZFNoeVFtQi0tT2NFYW5QdWh3eDB0UDctenh0YzJ0RzdlUl83VFNjbGJhRGxQWFNoenh3MDNBZnlYMFFNdFZodnZoQjhTOUFQZ00weDljR0Rya3ZXblRQZm04LXE5RXdfdw?oc=5",
+      "publishedAt": "2026-11-23T18:28+00:00",
+      "impact": "Low"
     },
     {
       "title": "Pack Expo 2026: US EPR patchwork pushes packaging industry toward redesign - Packaging Insights",
@@ -49,31 +49,31 @@
       "impact": "Medium"
     },
     {
-      "title": "The State of Grocery Retail Europe: Implications for packaging players - McKinsey & Company",
-      "source": "McKinsey & Company",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnNVSmtJMGYyLWtCUjVob1RVTXdMeHZjak5RaEJzWDFHeW0wUUplak5Ma3puRTJwWEE3ejg2VlEtQl9GdFBQQ29jTmVtYkI1bnRnZ2MtSzFGWjRzbWJ0NDRWX0xLWmhLYWlIaEZldTFsVkI2XzFQZXQ3d2QzREFMV2J6QmZrNHRFU3JhWFdndDV2Qlg1SUtwSkpTd255dzJrZ1daaGJEdEdUS0N1UVNjcDB6VnhmVEpGY0tUaEV6ZTFKTmVlUUhndkRXSGlXTHQ1ajl4bg?oc=5",
-      "publishedAt": "2026-10-22T07:00+00:00",
-      "impact": "Low"
-    },
-    {
-      "title": "Flexible packaging industry braces for more EPR laws in 2027 - Plastics News",
-      "source": "Plastics News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0wza3A3NnIzTFRaZDRYQ0p4SmtBdUtGaUZZbzd3QVZuc1pLb2doUkZKeXdySk5TVFNuR3FMd2lVR2ZOS0NsS1dvT0NkYWlUdlNkenE3TjlKaVFoUlZfV2kyeGNWeDBmNzF2YlV2U1R5UUxURTNsTTRXcFRPSW9JNks1aEstU0JfZmhaQ0NIYmFRbXRtdU1UOWxQRGg2TmF2?oc=5",
-      "publishedAt": "2026-10-21T07:00+00:00",
-      "impact": "Medium"
-    },
-    {
       "title": "Budget 2026: The packaging and processing industry reacts - Sustainable Packaging News",
       "source": "Sustainable Packaging News",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rUWowRzVYX3d6cTFUOF9qOFhRNVBBSUtzSVFsLU1sdXA4ZDd6OXBtXzhSVTUzbXdlNDhuRGJtUE5yUFhibFHSAVBBVV95cUxQajRLYU5mN2xHb0NpVnBieXVHS1FVNFFWLVpUMExaeTNZck1nM2tEbzRwYUFPejlsM0E2b3lXS3FneTBWZ0lBVGJxaGlKLXp5Qg?oc=5",
       "publishedAt": "2026-10-30T07:00+00:00",
       "impact": "Low"
+    },
+    {
+      "title": "Mesirow sees opportunities for packaging industry growth, M&A in 2027 - Label and Narrow Web",
+      "source": "Label and Narrow Web",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkpzQVR6T29UekwtVnMyTjFsUTdwZkNIT3BnSVZDbUlhOW1xeVMtUHo1aHNRVE1qekRlcExxM242cmVXVjhOT3NFQkpqci1fWWJZbXUtdlcwWXF5RzBJdGpoeEx4NlJuM3kyampuV0wxblM3X2pIRmRVWVc5ckdhZTNhejkxR21scHJreHRwTHFlUlNIWTAyRHlTYmdCQWYxRzdBRWJZa3pJTDA0MzU3VnFJdw?oc=5",
+      "publishedAt": "2026-10-26T07:00+00:00",
+      "impact": "Low"
+    },
+    {
+      "title": "Eat your cup: could edible packaging help solve the world\u2019s plastic problem? - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmtQanl2NHl5Z21mN3hLMXJiTWRaT1VON3RGSW1Odkt0UjNibGVFa3JlUDc4U294ZURBSXEwTkxCT3ZTRGxXMnNDenh2eHR3VlRIVE9wUkE5U2dTYU03aUJJUzFWdDVtd2JsMnhrY1lZdXk1Mk9VRkpnYlhXbmJUaXVvblhmUFJuampQdmx5V08xWl9hQ2NvMTVTMDd1emdCWGNDOTZ2ck5RYW8?oc=5",
+      "publishedAt": "2026-11-20T09:47+00:00",
+      "impact": "Low"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-19T21:40+00:00",
-  "lastSuccessfulAt": "2026-11-19T21:40+00:00",
+  "lastAttemptedAt": "2026-11-24T01:00+00:00",
+  "lastSuccessfulAt": "2026-11-24T01:00+00:00",
   "sourceLimitations": [
     "Public Google News RSS results are a signal feed, not a complete industry news database.",
     "Headlines are not manually verified before publication to this dashboard."
