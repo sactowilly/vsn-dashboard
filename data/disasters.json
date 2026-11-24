@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T01:00+00:00",
+  "lastUpdated": "2026-11-24T23:05+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "65 km NW of Ninilchik, Alaska",
+      "region": "70 km ESE of Denali National Park, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "1 km N of Malibu, CA",
+      "region": "42 km WNW of Valdez, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "6 km NW of Pinnacles, CA",
+      "region": "14 km WSW of Ocotillo Wells, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "52 km E of Port Alsworth, Alaska",
+      "region": "8 km SE of Tok, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km NNW of Boron, CA",
+      "region": "24 km W of Petersville, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km NW of Pinnacles, CA",
+      "region": "41 km SSE of Whittier, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "5 km SE of Hoback, Wyoming",
+      "region": "50 km NNW of Beluga, Alaska",
+      "severity": "Low"
+    },
+    {
+      "type": "Earthquake",
+      "region": "7 km SW of Fox River, Alaska",
       "severity": "Medium"
     },
     {
-      "type": "Earthquake",
-      "region": "6 km ENE of Fox, Alaska",
-      "severity": "Low"
-    },
-    {
-      "type": "High Surf Advisory issued November 23 at 4:04PM PST until November 25 at 6:00AM PST by NWS Los Angeles/Oxnard CA",
-      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
-      "severity": "Minor"
-    },
-    {
-      "type": "High Surf Warning issued November 23 at 4:04PM PST until November 26 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
-      "region": "Ventura County Beaches",
+      "type": "Wind Advisory issued November 24 at 3:00PM PST until November 24 at 4:00PM PST by NWS Eureka CA",
+      "region": "Coastal Del Norte",
       "severity": "Moderate"
     },
     {
-      "type": "Coastal Flood Advisory issued November 23 at 4:04PM PST until November 26 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
-      "region": "Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast",
-      "severity": "Minor"
+      "type": "Wind Advisory issued November 24 at 3:00PM PST until November 24 at 4:00PM PST by NWS Eureka CA",
+      "region": "Northern Coastal Humboldt; Southeastern Interior Humboldt",
+      "severity": "Moderate"
     },
     {
-      "type": "High Surf Warning issued November 23 at 4:04PM PST until November 26 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
-      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
+      "type": "Wind Advisory issued November 24 at 3:00PM PST until November 24 at 4:00PM PST by NWS Eureka CA",
+      "region": "Interior Del Norte; Northeastern Interior Humboldt",
+      "severity": "Moderate"
+    },
+    {
+      "type": "Wind Advisory issued November 24 at 3:00PM PST until November 25 at 9:00AM PST by NWS Eureka CA",
+      "region": "Southwestern Humboldt",
       "severity": "Moderate"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-24T01:00+00:00",
-  "lastSuccessfulAt": "2026-11-24T01:00+00:00",
+  "lastAttemptedAt": "2026-11-24T23:05+00:00",
+  "lastSuccessfulAt": "2026-11-24T23:05+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
