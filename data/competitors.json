@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T23:05+00:00",
+  "lastUpdated": "2026-11-27T22:06+00:00",
   "sourceStrength": "Medium",
   "freshness": "Curated list + daily public signals",
   "whatChanged": "Curated competitor list retained; public news signals refreshed from Google News RSS.",
@@ -18,7 +18,7 @@
       "googleNews": "https://news.google.com/search?q=Packaging%20Corporation%20of%20America",
       "search": "https://www.google.com/search?q=Packaging%20Corporation%20of%20America%20California",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
             "title": "Packaging Corporation of America: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
@@ -27,16 +27,16 @@
             "publishedAt": "2026-11-01T07:00+00:00"
           },
           {
+            "title": "Are Wall Street Analysts Bullish on Packaging Corporation of America Stock? - Barchart.com",
+            "source": "Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZUhJSHdfbDlENjB5QjhyVnhqVjhFeFpOQ3JwWGlUMUUyZ011Q0Zjb3BmeTZQWm50Uno4MDhFN200ZEpqMEZGWWJaa0NwbzBQRDlDYWtpdjNHclh1MkFIRU9ydTJNX19TNW1jVVpwdXVDZF92Mm1pdE9GTzNLSGpCdUN1ZkhVNHh4Q0Fnczh0VzMwZnljc0pJVngwZjRHTk5qYXN5d0dnOFlQcVlGejVSNzRrYzBzVkRMdUE?oc=5",
+            "publishedAt": "2026-11-26T10:52+00:00"
+          },
+          {
             "title": "DOJ subpoenas Smurfit Westrock, IP, PCA, Cascades over containerboard pricing - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzY2TGxQM0xJMnljbUk4aVBmX2pTS1pvc1B3cndoUTZZYXBBT2o1ZloxaWVWcV84aURDYnVkMG9Zdl80RUp4emZheFFuc2UyN0dkcjlQd2FUS3hrNHNjN0FCM0JOYnh3R052T0s5Xy16dnZwMk9KV0ptTWJKZUljUnVfOEc3TzJBRWxKbzBiMmgxbHV0VVBKN0FtZEdyUVZYM3Mw?oc=5",
             "publishedAt": "2026-11-04T08:00+00:00"
-          },
-          {
-            "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
-            "source": "Bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTF0Q01IMmVDLWVYZEpwTGlUTjNOMGh4WVVLY3NPd2VwdzRsZk9MbWMydk9lX2xXMkxoanFib2NQdmFnYzRTeTBrQ2dIN2JBRm9XOVdhYldGWGdaa25rQlJBVENXRS0takR5bG0yQlgyWmotMlRkNUtfVmg0TkdqUnlJb3d2RXk3dkVsUlJhdVEyajVnSlJISmZXQjhRa25mOFA4NFJiMDlpdUM2M3RmSzNpUzF4dw?oc=5",
-            "publishedAt": "2026-11-05T08:00+00:00"
           }
         ],
         "hiring": [
@@ -57,16 +57,16 @@
             "publishedAt": "2026-11-01T07:00+00:00"
           },
           {
+            "title": "Are Wall Street Analysts Bullish on Packaging Corporation of America Stock? - Barchart.com",
+            "source": "Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZUhJSHdfbDlENjB5QjhyVnhqVjhFeFpOQ3JwWGlUMUUyZ011Q0Zjb3BmeTZQWm50Uno4MDhFN200ZEpqMEZGWWJaa0NwbzBQRDlDYWtpdjNHclh1MkFIRU9ydTJNX19TNW1jVVpwdXVDZF92Mm1pdE9GTzNLSGpCdUN1ZkhVNHh4Q0Fnczh0VzMwZnljc0pJVngwZjRHTk5qYXN5d0dnOFlQcVlGejVSNzRrYzBzVkRMdUE?oc=5",
+            "publishedAt": "2026-11-26T10:52+00:00"
+          },
+          {
             "title": "DOJ subpoenas Smurfit Westrock, IP, PCA, Cascades over containerboard pricing - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzY2TGxQM0xJMnljbUk4aVBmX2pTS1pvc1B3cndoUTZZYXBBT2o1ZloxaWVWcV84aURDYnVkMG9Zdl80RUp4emZheFFuc2UyN0dkcjlQd2FUS3hrNHNjN0FCM0JOYnh3R052T0s5Xy16dnZwMk9KV0ptTWJKZUljUnVfOEc3TzJBRWxKbzBiMmgxbHV0VVBKN0FtZEdyUVZYM3Mw?oc=5",
             "publishedAt": "2026-11-04T08:00+00:00"
-          },
-          {
-            "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
-            "source": "Bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTF0Q01IMmVDLWVYZEpwTGlUTjNOMGh4WVVLY3NPd2VwdzRsZk9MbWMydk9lX2xXMkxoanFib2NQdmFnYzRTeTBrQ2dIN2JBRm9XOVdhYldGWGdaa25rQlJBVENXRS0takR5bG0yQlgyWmotMlRkNUtfVmg0TkdqUnlJb3d2RXk3dkVsUlJhdVEyajVnSlJISmZXQjhRa25mOFA4NFJiMDlpdUM2M3RmSzNpUzF4dw?oc=5",
-            "publishedAt": "2026-11-05T08:00+00:00"
           }
         ],
         "query": "\"Packaging Corporation of America\" packaging OR corrugated OR distribution when:30d",
@@ -83,25 +83,25 @@
       "googleNews": "https://news.google.com/search?q=Veritiv",
       "search": "https://www.google.com/search?q=Veritiv%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
-            "title": "LKQ Names Former Veritiv CEO Salvatore Abbate as President & CEO | THE SHOP - THE SHOP",
-            "source": "THE SHOP",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VRFVPcTZoZ0J6NkVXc3Rrb2VqcnRSYWhjVFBYcjVBZ09UZ1hYakJodlU1RUticE9RbElhTFpROE9tQkRjSWFPSGZjM3ZVanhJRWo0cmVqajFKTWVveEpIYTczOFRVVzNtVVFOdzBlOVRQVVHSAXtBVV95cUxPc0tPX3ZZX0t4U2doNklXeFN2OGoydjNBUTdtTlIxVjd0Vl9CZGktdWNGamtmR2pRSkhoRllseEFCejFXclZXek04VzRPOUZIRDBkZENMS1ZRcDAxZVZEd0dmcnNGdW10N2RoakF3eHNleTd6ek1ZdE9Jbjg?oc=5",
-            "publishedAt": "2026-10-26T07:00+00:00"
-          },
-          {
-            "title": "The Riverside Company Invests in Specialty Packaging Rental Provider, Hoover Circular Solutions - Yahoo Finance",
+            "title": "Silver Point Leads $130 Million Financing Supporting the Acquisition of Hoover CS by The Riverside Company - Yahoo Finance",
             "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1g1aFpzeDU3Mng5aUNKUkZwbXIwOFd3dFM0VjNLSFhGVFJtSDlvYm9MZlBQVVFPQ0g3Tk9hdWhVZy1jQXhjYTM4SFRZdjZjQW4xdVlPNzlvY000QkdOcm9JTFNUZEJWYUhDYnh1a3NpcEx0Y3VoVDJZOE92cHdNeTFQa2lQZXljWTl2b3ZiY2RhVkg5eDdUY0hadG5EN2NEVlhZWWJNbV82RTRPZDNr?oc=5",
-            "publishedAt": "2026-11-05T08:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTlRT1JMbzdCUFJITkRhSk9kaEV1ZWlNSGpNWjBiWTY2UWZfdi1NZEJVd0NoSExZZ1o3dXB4dzBTN3cxVEdXMHh1YVJKbUZ2YnFaaEtMNDJRQ2xGaUMtNTdLMDdRXzlrcnF5Mm1hNlNtUUxOdDVnaUZnbXRfTkU4UmJ5UjJialgxemVlamxEYVpTU0FVdWN4X3oyRQ?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
           },
           {
-            "title": "LKQ Names Sal Abbate President and CEO, Effective Dec. 15 - Traction News",
-            "source": "Traction News",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oTjZfemdkUURJaW5UZFZDdjhiN1JtXzBHQksxQVhja3lxei16cHJJN1czQUt6XzF1bVd3c2gtekI3MFNIbkNUZkRJRG1kR2FTSVJtMFNXR3RKaWhFa0FQMDlyU3N2SVcyTDdnN29OTFluQQ?oc=5",
-            "publishedAt": "2026-10-27T07:00+00:00"
+            "title": "Richard Alexander Obituary November 12, 2026 - Goldsteins Funeral",
+            "source": "Goldsteins Funeral",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BXzJxdkJybUpCZzItX0JGNXBGUFhIYzIzZmpYbGRjZi1VbElhdEphZlpXdkdFV0otZi1OWklLTHFMelJlT1RkYm1fc2NUOW5YNjRHREw2OHRfR0swWlItdEw0eDBSa3lrc1E?oc=5",
+            "publishedAt": "2026-11-12T08:00+00:00"
+          },
+          {
+            "title": "Salvatore Abbate Takes Over as LKQ CEO Ahead of Schedule - CollisionWeek",
+            "source": "CollisionWeek",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2FzSWpBWC1qVjZTRVZZWVN4bGo3QkZ0amlZVFRKYWFIRlZBR2NZY05nWE81LUpDb0Y5d2k1ejc3QUJDbkQ2aGVtdXJ3djRzenFQaktIbUtnQnhDVEVQWUNCbUZuZkl6d0FFbXRZRlNZRFZqSlZQcEJoMXo4bW9sSmJLZ2FEajF1UUxv?oc=5",
+            "publishedAt": "2026-11-09T08:00+00:00"
           }
         ],
         "hiring": [
@@ -113,25 +113,32 @@
             "linkStatus": "direct_job_link_unavailable"
           }
         ],
-        "moves": [],
+        "moves": [
+          {
+            "title": "Silver Point Leads $130 Million Financing Supporting the Acquisition of Hoover CS by The Riverside Company - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTlRT1JMbzdCUFJITkRhSk9kaEV1ZWlNSGpNWjBiWTY2UWZfdi1NZEJVd0NoSExZZ1o3dXB4dzBTN3cxVEdXMHh1YVJKbUZ2YnFaaEtMNDJRQ2xGaUMtNTdLMDdRXzlrcnF5Mm1hNlNtUUxOdDVnaUZnbXRfTkU4UmJ5UjJialgxemVlamxEYVpTU0FVdWN4X3oyRQ?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
+          }
+        ],
         "items": [
           {
-            "title": "LKQ Names Former Veritiv CEO Salvatore Abbate as President & CEO | THE SHOP - THE SHOP",
-            "source": "THE SHOP",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VRFVPcTZoZ0J6NkVXc3Rrb2VqcnRSYWhjVFBYcjVBZ09UZ1hYakJodlU1RUticE9RbElhTFpROE9tQkRjSWFPSGZjM3ZVanhJRWo0cmVqajFKTWVveEpIYTczOFRVVzNtVVFOdzBlOVRQVVHSAXtBVV95cUxPc0tPX3ZZX0t4U2doNklXeFN2OGoydjNBUTdtTlIxVjd0Vl9CZGktdWNGamtmR2pRSkhoRllseEFCejFXclZXek04VzRPOUZIRDBkZENMS1ZRcDAxZVZEd0dmcnNGdW10N2RoakF3eHNleTd6ek1ZdE9Jbjg?oc=5",
-            "publishedAt": "2026-10-26T07:00+00:00"
-          },
-          {
-            "title": "The Riverside Company Invests in Specialty Packaging Rental Provider, Hoover Circular Solutions - Yahoo Finance",
+            "title": "Silver Point Leads $130 Million Financing Supporting the Acquisition of Hoover CS by The Riverside Company - Yahoo Finance",
             "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1g1aFpzeDU3Mng5aUNKUkZwbXIwOFd3dFM0VjNLSFhGVFJtSDlvYm9MZlBQVVFPQ0g3Tk9hdWhVZy1jQXhjYTM4SFRZdjZjQW4xdVlPNzlvY000QkdOcm9JTFNUZEJWYUhDYnh1a3NpcEx0Y3VoVDJZOE92cHdNeTFQa2lQZXljWTl2b3ZiY2RhVkg5eDdUY0hadG5EN2NEVlhZWWJNbV82RTRPZDNr?oc=5",
-            "publishedAt": "2026-11-05T08:00+00:00"
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTlRT1JMbzdCUFJITkRhSk9kaEV1ZWlNSGpNWjBiWTY2UWZfdi1NZEJVd0NoSExZZ1o3dXB4dzBTN3cxVEdXMHh1YVJKbUZ2YnFaaEtMNDJRQ2xGaUMtNTdLMDdRXzlrcnF5Mm1hNlNtUUxOdDVnaUZnbXRfTkU4UmJ5UjJialgxemVlamxEYVpTU0FVdWN4X3oyRQ?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
           },
           {
-            "title": "LKQ Names Sal Abbate President and CEO, Effective Dec. 15 - Traction News",
-            "source": "Traction News",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oTjZfemdkUURJaW5UZFZDdjhiN1JtXzBHQksxQVhja3lxei16cHJJN1czQUt6XzF1bVd3c2gtekI3MFNIbkNUZkRJRG1kR2FTSVJtMFNXR3RKaWhFa0FQMDlyU3N2SVcyTDdnN29OTFluQQ?oc=5",
-            "publishedAt": "2026-10-27T07:00+00:00"
+            "title": "Richard Alexander Obituary November 12, 2026 - Goldsteins Funeral",
+            "source": "Goldsteins Funeral",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BXzJxdkJybUpCZzItX0JGNXBGUFhIYzIzZmpYbGRjZi1VbElhdEphZlpXdkdFV0otZi1OWklLTHFMelJlT1RkYm1fc2NUOW5YNjRHREw2OHRfR0swWlItdEw0eDBSa3lrc1E?oc=5",
+            "publishedAt": "2026-11-12T08:00+00:00"
+          },
+          {
+            "title": "Salvatore Abbate Takes Over as LKQ CEO Ahead of Schedule - CollisionWeek",
+            "source": "CollisionWeek",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2FzSWpBWC1qVjZTRVZZWVN4bGo3QkZ0amlZVFRKYWFIRlZBR2NZY05nWE81LUpDb0Y5d2k1ejc3QUJDbkQ2aGVtdXJ3djRzenFQaktIbUtnQnhDVEVQWUNCbUZuZkl6d0FFbXRZRlNZRFZqSlZQcEJoMXo4bW9sSmJLZ2FEajF1UUxv?oc=5",
+            "publishedAt": "2026-11-09T08:00+00:00"
           }
         ],
         "query": "\"Veritiv\" packaging OR corrugated OR distribution when:30d",
@@ -148,8 +155,14 @@
       "googleNews": "https://news.google.com/search?q=Imperial%20Dade",
       "search": "https://www.google.com/search?q=Imperial%20Dade%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
+          {
+            "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
+            "source": "Cleaning & Maintenance Management",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
+            "publishedAt": "2026-11-23T23:12+00:00"
+          },
           {
             "title": "Preparing to Win in 2027: Three Distribution Leaders on the Year Ahead - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
@@ -157,10 +170,10 @@
             "publishedAt": "2026-11-12T08:00+00:00"
           },
           {
-            "title": "Bain Capital: 'We would never tell our teams they must invest' - PEI Private Equity",
-            "source": "PEI Private Equity",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmRyLVFuMjZmRHJrR21oRDlmWFFweVg0Vk1aTGVKenV6WnA2dVB6ZDNDVWJsOEozNzZPbHVHZ0ZVZTBpcFR5NThyQmc2akpCYWV1TlFfd29laFlqVnE1NTdLVVFjOGRHaW1NZ3Q3QlZ3MjE3SEU4UkVlQUtLUGh3cEY4YjNwX3pBTUpiVVY3eDFYeEtvM1ozZEt4Yw?oc=5",
-            "publishedAt": "2026-11-11T08:00+00:00"
+            "title": "Enjay Converters takes over New Method Packaging - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTRWd0NYOHc2LWc1dDdYWi0wX2JQMmtpZXpVWHR6NFBXOER1Zk45SnZPbElnazZjLWRweWpuMF9vTVl2ZmIzaTJ3OHVlRlNaVmkyaEZuUC1TcDJHWEJyZEYzc1JWSHJBY2NyODdROGhqU3F0dFhNdGtxalFzQnJsVEZZMm9RUlU?oc=5",
+            "publishedAt": "2026-11-16T08:00+00:00"
           }
         ],
         "hiring": [],
@@ -174,16 +187,22 @@
         ],
         "items": [
           {
+            "title": "Imperial Dade and BradyPLUS Finalize Merger - Cleaning & Maintenance Management",
+            "source": "Cleaning & Maintenance Management",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ejA5ZlFPcEI5YTlDTENsT0JmQUVNeHZrN2k5VTZ0VWxkdlgtY01LU2FqYVNPbVRCWDB1azRNRUZMUVl3N1BrX0ZCOW9lMW9hRjlaOHJDS3doQWNfWHlfRlJ0NU9LX3VZcGJ6MEhoRW1mV1NVbkMtSUJB?oc=5",
+            "publishedAt": "2026-11-23T23:12+00:00"
+          },
+          {
             "title": "Preparing to Win in 2027: Three Distribution Leaders on the Year Ahead - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUtGZzFTeEQtUENsYXNzWkxoVk5hN0pFQTRCSVNDelIzeXhTWm02V3lsd25MemhKY0gzaFhGQnUxVkRURE1VYll6V1EzS0NTTFZQYWRmbWgzYzlUZG5ONG5ObDlsX2hua2dzQ1FHcXFoSE5zaUNINlhaSEdUZjROajk3NkdKY0NHYkI3Y0VQRXRiREl0WG9sYWUtN0tlNDBzRU00aw?oc=5",
             "publishedAt": "2026-11-12T08:00+00:00"
           },
           {
-            "title": "Bain Capital: 'We would never tell our teams they must invest' - PEI Private Equity",
-            "source": "PEI Private Equity",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmRyLVFuMjZmRHJrR21oRDlmWFFweVg0Vk1aTGVKenV6WnA2dVB6ZDNDVWJsOEozNzZPbHVHZ0ZVZTBpcFR5NThyQmc2akpCYWV1TlFfd29laFlqVnE1NTdLVVFjOGRHaW1NZ3Q3QlZ3MjE3SEU4UkVlQUtLUGh3cEY4YjNwX3pBTUpiVVY3eDFYeEtvM1ozZEt4Yw?oc=5",
-            "publishedAt": "2026-11-11T08:00+00:00"
+            "title": "Enjay Converters takes over New Method Packaging - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTRWd0NYOHc2LWc1dDdYWi0wX2JQMmtpZXpVWHR6NFBXOER1Zk45SnZPbElnazZjLWRweWpuMF9vTVl2ZmIzaTJ3OHVlRlNaVmkyaEZuUC1TcDJHWEJyZEYzc1JWSHJBY2NyODdROGhqU3F0dFhNdGtxalFzQnJsVEZZMm9RUlU?oc=5",
+            "publishedAt": "2026-11-16T08:00+00:00"
           }
         ],
         "query": "\"Imperial Dade\" packaging OR corrugated OR distribution when:30d",
@@ -200,14 +219,8 @@
       "googleNews": "https://news.google.com/search?q=Uline",
       "search": "https://www.google.com/search?q=Uline%20packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
-          {
-            "title": "Uline Opens Massive New England Distribution Center - National Association of Wholesaler-Distributors",
-            "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejNXc0o3N2d6Zktjd2E1UUVQOVVmWXp2NGkySmdUZGt2Z3hyMXpmaWRtVUMwbHFXRDBBMDZtYjc4d2szMnhGcm13YXlQRC13SHVxN0xwR3h0bjMtX3duS2tXQkNGQ3Y3d3M3YUVlbW8xNXk4TG5TdnVwYzVMWGVOM0wxN0RidFp5?oc=5",
-            "publishedAt": "2026-11-23T18:29+00:00"
-          },
           {
             "title": "Uline Opens 1.25 Million-Square-Foot Connecticut Distribution Center - Distribution Strategy Group",
             "source": "Distribution Strategy Group",
@@ -219,6 +232,12 @@
             "source": "Urban Milwaukee",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWpWOTk2MFBLT0tFVFNBa0gyYVRvWmgwQWhZNmcxY0dzc1VTeXo1SDV1dmZtY3pJZm9ZOFFJNXNtRnZoZXZ5U0lfRDcySWhBNWhvSkJhZjFJRUJxbGNHWVliQ2tZM19nOEZzT1l3UXVWM0Y0UGo1Q3h0UlA2bVNseW9wNXRuQTg2bnJyOFZvUQ?oc=5",
             "publishedAt": "2026-11-12T15:10+00:00"
+          },
+          {
+            "title": "Broadwing Capital Enters Specialty Distribution, Acquires Supply Side - National Association of Wholesaler-Distributors",
+            "source": "National Association of Wholesaler-Distributors",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVl0X3hmNVNNTzhZRVZxRXNNaG1LajZHYnNPMlNHSWFmeWJwd1NtdEdhbUlLSWY2RzY3Ty1qbC1ocThoX2x1cUk5UWdULTNDQ0dkbXAwRFlYeGgta1htSW56TGI4VVFxdnBaaHBVVW03OTVtY1Mzb0VyRUExVWQzczRMbG01TmxrLTRMMERmTFdEajBYa3Z2eUgzX2JBc2s?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
           }
         ],
         "hiring": [
@@ -232,25 +251,19 @@
         ],
         "moves": [
           {
-            "title": "Uline Opens Massive New England Distribution Center - National Association of Wholesaler-Distributors",
-            "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejNXc0o3N2d6Zktjd2E1UUVQOVVmWXp2NGkySmdUZGt2Z3hyMXpmaWRtVUMwbHFXRDBBMDZtYjc4d2szMnhGcm13YXlQRC13SHVxN0xwR3h0bjMtX3duS2tXQkNGQ3Y3d3M3YUVlbW8xNXk4TG5TdnVwYzVMWGVOM0wxN0RidFp5?oc=5",
-            "publishedAt": "2026-11-23T18:29+00:00"
-          },
-          {
             "title": "Uline Opens 1.25 Million-Square-Foot Connecticut Distribution Center - Distribution Strategy Group",
             "source": "Distribution Strategy Group",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW1CSnl2LTQwLVVKR3g4dm44RWRWVURldFM2c2plRVAtUXJicXlpSXFSU1VicTZuNFF2NUI5RERIazRNZXBWcG1rMHFxUDFIenZsdzFQT0JReWdHS1E1cVZid29nNjRQdlR3SGo1ekJURU5TcElkbE44OEJwSHlhcGkybVFhcEpFVWYtTk93cVpweVczQnotNkJ1c2dyLWIxWE02SjlRRjE0d2dUd2dz?oc=5",
             "publishedAt": "2026-11-23T16:32+00:00"
+          },
+          {
+            "title": "Broadwing Capital Enters Specialty Distribution, Acquires Supply Side - National Association of Wholesaler-Distributors",
+            "source": "National Association of Wholesaler-Distributors",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVl0X3hmNVNNTzhZRVZxRXNNaG1LajZHYnNPMlNHSWFmeWJwd1NtdEdhbUlLSWY2RzY3Ty1qbC1ocThoX2x1cUk5UWdULTNDQ0dkbXAwRFlYeGgta1htSW56TGI4VVFxdnBaaHBVVW03OTVtY1Mzb0VyRUExVWQzczRMbG01TmxrLTRMMERmTFdEajBYa3Z2eUgzX2JBc2s?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
           }
         ],
         "items": [
-          {
-            "title": "Uline Opens Massive New England Distribution Center - National Association of Wholesaler-Distributors",
-            "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejNXc0o3N2d6Zktjd2E1UUVQOVVmWXp2NGkySmdUZGt2Z3hyMXpmaWRtVUMwbHFXRDBBMDZtYjc4d2szMnhGcm13YXlQRC13SHVxN0xwR3h0bjMtX3duS2tXQkNGQ3Y3d3M3YUVlbW8xNXk4TG5TdnVwYzVMWGVOM0wxN0RidFp5?oc=5",
-            "publishedAt": "2026-11-23T18:29+00:00"
-          },
           {
             "title": "Uline Opens 1.25 Million-Square-Foot Connecticut Distribution Center - Distribution Strategy Group",
             "source": "Distribution Strategy Group",
@@ -262,6 +275,12 @@
             "source": "Urban Milwaukee",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWpWOTk2MFBLT0tFVFNBa0gyYVRvWmgwQWhZNmcxY0dzc1VTeXo1SDV1dmZtY3pJZm9ZOFFJNXNtRnZoZXZ5U0lfRDcySWhBNWhvSkJhZjFJRUJxbGNHWVliQ2tZM19nOEZzT1l3UXVWM0Y0UGo1Q3h0UlA2bVNseW9wNXRuQTg2bnJyOFZvUQ?oc=5",
             "publishedAt": "2026-11-12T15:10+00:00"
+          },
+          {
+            "title": "Broadwing Capital Enters Specialty Distribution, Acquires Supply Side - National Association of Wholesaler-Distributors",
+            "source": "National Association of Wholesaler-Distributors",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVl0X3hmNVNNTzhZRVZxRXNNaG1LajZHYnNPMlNHSWFmeWJwd1NtdEdhbUlLSWY2RzY3Ty1qbC1ocThoX2x1cUk5UWdULTNDQ0dkbXAwRFlYeGgta1htSW56TGI4VVFxdnBaaHBVVW03OTVtY1Mzb0VyRUExVWQzczRMbG01TmxrLTRMMERmTFdEajBYa3Z2eUgzX2JBc2s?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
           }
         ],
         "query": "\"Uline\" packaging OR corrugated OR distribution when:30d",
@@ -278,7 +297,7 @@
       "googleNews": "https://news.google.com/search?q=International%20Paper",
       "search": "https://www.google.com/search?q=International%20Paper%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
             "title": "International Paper opts to split off, not sell, DS Smith - Packaging Dive",
@@ -335,19 +354,19 @@
       "googleNews": "https://news.google.com/search?q=Pratt%20Industries",
       "search": "https://www.google.com/search?q=Pratt%20Industries%20California%20corrugated",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
+          {
+            "title": "PATENT\u2014W.D. Wis.: Packaging manufacturer did not infringe convertible shipping box patents - VitalLaw.com",
+            "source": "VitalLaw.com",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU2VXc0lBRHFvWURwS0NLWU03Nnh1ejRCbUo2cVFNbTMtQ04xRURfS0RGU1F3LVhEYUJrVWo3SDREdzZ0RGpKaGZtUDFrZlUyb2N4WU41c05BS3NVLVhqM0R2MWxsa0V3QV9wbG1ieTdkNWJNMGV4OUY5R0I2RWt3bUMyOHd1dnZ3RS1kZkx5Wk4yUFpfNGY5ZGxlR0E0bEZMMGtNaVJVMS0xUHNEa1lBZDJIcGNVLTh6OC1pVWt2MldsTmdxSTZ3RUxyVDljajh2RWZWUzNzeVAxV2RjSUY4OTZqTkMzX3ZzTEZv?oc=5",
+            "publishedAt": "2026-11-10T00:28+00:00"
+          },
           {
             "title": "Unpacking the DOJ\u2019s investigation of containerboard producers - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUC1jUkNDcXNyNnBBNjlWUVJpY3NXWm1VQ1hvS2pleGVXWDJ6WUdzYW5HX0JqMm5WbTBPRzh2bVRmRC1PSmhSOE1ucUdlQ0x2MEVBT19oYWI4QS1EMTVHWEVxVGxWWlROWTRIRXNQb0VCQzRWZXdtQjVzU0tadmlERlpMRjVVc1ZILWVvcEkxOHpjX1dtaEE5eTdkYVZ3c0ZQUkFDUXgxN2hESTFrMDVtT2FmUmNnOWZQYkN2VjBqdlNzTkU?oc=5",
             "publishedAt": "2026-11-10T08:00+00:00"
-          },
-          {
-            "title": "Justice Department probes packaging firms over box prices - Transport Topics",
-            "source": "Transport Topics",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NQVpVS29maWNlaU5qeVBUQ0MwNk8wNGF1NUNfMy03T0JqOUFreTVoV0prSlM0em1Xc1RHaEtnVXZSZXY4M1dJTFNpYlRaN0hYWE5MNnIwRVd3U3VwTTJXN2lB?oc=5",
-            "publishedAt": "2026-11-05T08:00+00:00"
           },
           {
             "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
@@ -368,16 +387,16 @@
         "moves": [],
         "items": [
           {
+            "title": "PATENT\u2014W.D. Wis.: Packaging manufacturer did not infringe convertible shipping box patents - VitalLaw.com",
+            "source": "VitalLaw.com",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU2VXc0lBRHFvWURwS0NLWU03Nnh1ejRCbUo2cVFNbTMtQ04xRURfS0RGU1F3LVhEYUJrVWo3SDREdzZ0RGpKaGZtUDFrZlUyb2N4WU41c05BS3NVLVhqM0R2MWxsa0V3QV9wbG1ieTdkNWJNMGV4OUY5R0I2RWt3bUMyOHd1dnZ3RS1kZkx5Wk4yUFpfNGY5ZGxlR0E0bEZMMGtNaVJVMS0xUHNEa1lBZDJIcGNVLTh6OC1pVWt2MldsTmdxSTZ3RUxyVDljajh2RWZWUzNzeVAxV2RjSUY4OTZqTkMzX3ZzTEZv?oc=5",
+            "publishedAt": "2026-11-10T00:28+00:00"
+          },
+          {
             "title": "Unpacking the DOJ\u2019s investigation of containerboard producers - Packaging Dive",
             "source": "Packaging Dive",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUC1jUkNDcXNyNnBBNjlWUVJpY3NXWm1VQ1hvS2pleGVXWDJ6WUdzYW5HX0JqMm5WbTBPRzh2bVRmRC1PSmhSOE1ucUdlQ0x2MEVBT19oYWI4QS1EMTVHWEVxVGxWWlROWTRIRXNQb0VCQzRWZXdtQjVzU0tadmlERlpMRjVVc1ZILWVvcEkxOHpjX1dtaEE5eTdkYVZ3c0ZQUkFDUXgxN2hESTFrMDVtT2FmUmNnOWZQYkN2VjBqdlNzTkU?oc=5",
             "publishedAt": "2026-11-10T08:00+00:00"
-          },
-          {
-            "title": "Justice Department probes packaging firms over box prices - Transport Topics",
-            "source": "Transport Topics",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NQVpVS29maWNlaU5qeVBUQ0MwNk8wNGF1NUNfMy03T0JqOUFreTVoV0prSlM0em1Xc1RHaEtnVXZSZXY4M1dJTFNpYlRaN0hYWE5MNnIwRVd3U3VwTTJXN2lB?oc=5",
-            "publishedAt": "2026-11-05T08:00+00:00"
           },
           {
             "title": "US Justice Department Probes Packaging Companies Over Box Prices - Bloomberg.com",
@@ -400,7 +419,7 @@
       "googleNews": "https://news.google.com/search?q=WestRock",
       "search": "https://www.google.com/search?q=WestRock%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
             "title": "DOJ subpoenas Smurfit Westrock, IP, PCA, Cascades over containerboard pricing - Packaging Dive",
@@ -409,16 +428,16 @@
             "publishedAt": "2026-11-04T08:00+00:00"
           },
           {
-            "title": "Which Gives You More Of A Packaging Rebound, Smurfit WestRock Or Amcor? - Trefis",
-            "source": "Trefis",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTl6aXZoVjNrWlpuX2NDOW9QVHNUR19KR1BuNmMxY3cwVU1IUWtuOS1kR2RxbGpJc2dzOUVPeHFMWUxQOEVERGphRHpId2FGY0pNV2dFaUtHdDhtMUtqQ29sLUFXMF9CeWxiOGdZMTcwX25YY3VZbDhld3Q0b2tDTzQ2eWR0S2JHejhUMTFlbVl3NzFJRWFHSjlqRmhEVEZ6Wmo1bzVFYkM4OXY3RXN0SEZncXMzZ2tHbDZ6SG9XeGJrT2dZQS0w?oc=5",
-            "publishedAt": "2026-11-20T19:08+00:00"
-          },
-          {
             "title": "Smurfit Westrock profits narrow in Q3 - Recycling Today",
             "source": "Recycling Today",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUlTbGU0MEpUbWU3TjM0SlFQb095ZDFTNHpmMEYxOWI1elRSQjBZOUtnR25YNmd2eFlQcEFEZVBsOFZwempyWWpUeGJhVG54NHJfdk9GeGtjNkxPdC1pUVVYUkprcXJ4Z1V1MHhBXzJIT1N1TElmMTB1a0RrVUEwOTdDQ1hHbFdRMDdXMjhtRWlCM0lWVE1TTUhxbVFneE1lMmVIMmd3eHBnbUR2Q0Y0dUlCTDR5TGNMQkVmVg?oc=5",
             "publishedAt": "2026-10-29T07:00+00:00"
+          },
+          {
+            "title": "Which Gives You More Of A Packaging Rebound, Smurfit WestRock Or Amcor? - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1USVh4RFowWkp4aHAtR2NlWTJsTTlRU0w1dHpuakpueUh6SUswRTBBcFp3RkdwQlcxOTc1djBVa1Z3YmVaelN5UmE4cDQ2OHZndGhSRXlwdXVvVzFhUmt4TEI5UkxQRWRFR0Z2c1Npdlc0dnN6eG02X2dfYzYzcHpGb1pRV2h5R0tNNzhsUWVTbHVzXy1YaENfQkloY1JKQS13?oc=5",
+            "publishedAt": "2026-11-20T19:08+00:00"
           }
         ],
         "hiring": [],
@@ -431,16 +450,16 @@
             "publishedAt": "2026-11-04T08:00+00:00"
           },
           {
-            "title": "Which Gives You More Of A Packaging Rebound, Smurfit WestRock Or Amcor? - Trefis",
-            "source": "Trefis",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTl6aXZoVjNrWlpuX2NDOW9QVHNUR19KR1BuNmMxY3cwVU1IUWtuOS1kR2RxbGpJc2dzOUVPeHFMWUxQOEVERGphRHpId2FGY0pNV2dFaUtHdDhtMUtqQ29sLUFXMF9CeWxiOGdZMTcwX25YY3VZbDhld3Q0b2tDTzQ2eWR0S2JHejhUMTFlbVl3NzFJRWFHSjlqRmhEVEZ6Wmo1bzVFYkM4OXY3RXN0SEZncXMzZ2tHbDZ6SG9XeGJrT2dZQS0w?oc=5",
-            "publishedAt": "2026-11-20T19:08+00:00"
-          },
-          {
             "title": "Smurfit Westrock profits narrow in Q3 - Recycling Today",
             "source": "Recycling Today",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUlTbGU0MEpUbWU3TjM0SlFQb095ZDFTNHpmMEYxOWI1elRSQjBZOUtnR25YNmd2eFlQcEFEZVBsOFZwempyWWpUeGJhVG54NHJfdk9GeGtjNkxPdC1pUVVYUkprcXJ4Z1V1MHhBXzJIT1N1TElmMTB1a0RrVUEwOTdDQ1hHbFdRMDdXMjhtRWlCM0lWVE1TTUhxbVFneE1lMmVIMmd3eHBnbUR2Q0Y0dUlCTDR5TGNMQkVmVg?oc=5",
             "publishedAt": "2026-10-29T07:00+00:00"
+          },
+          {
+            "title": "Which Gives You More Of A Packaging Rebound, Smurfit WestRock Or Amcor? - Yahoo Finance",
+            "source": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1USVh4RFowWkp4aHAtR2NlWTJsTTlRU0w1dHpuakpueUh6SUswRTBBcFp3RkdwQlcxOTc1djBVa1Z3YmVaelN5UmE4cDQ2OHZndGhSRXlwdXVvVzFhUmt4TEI5UkxQRWRFR0Z2c1Npdlc0dnN6eG02X2dfYzYzcHpGb1pRV2h5R0tNNzhsUWVTbHVzXy1YaENfQkloY1JKQS13?oc=5",
+            "publishedAt": "2026-11-20T19:08+00:00"
           }
         ],
         "query": "\"WestRock\" packaging OR corrugated OR distribution when:30d",
@@ -457,7 +476,7 @@
       "googleNews": "https://news.google.com/search?q=DS%20Smith",
       "search": "https://www.google.com/search?q=DS%20Smith%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
             "title": "DS Smith details \u2018transformation\u2019 prior to spinning off from IP - Packaging Dive",
@@ -472,10 +491,10 @@
             "publishedAt": "2026-11-05T08:00+00:00"
           },
           {
-            "title": "International Paper\u2019s DS Smith Targets \u20ac480M Savings Ahead of Standalone Listing - TradingView",
-            "source": "TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHp3RzFWdW5NNmc2OUZJRHFfR2JTMUIwSXVKZ1ZwdUxqdHcwYWY0SVNXNGNyQ1ZONTlCb0ZPWmFqTWdOejZpY09ESWZONzdWSDV5RVlMV08ya0NScm5rVjdDNkEwckh0dmJrakZBQS1HeGdCUjh3WEtCdG9kSXBfMG5uMVpZbEpBcXhVR3Nsb2xrdDE4QVY5XzVib2QxUDd4bFBLZFA2cWkwVWlwT2lDS1NGZVJwRmRfbWF0dHRjSzJsalVIRkhkOG1VamtrOUFvT25vSldSRQ?oc=5",
-            "publishedAt": "2026-11-03T08:00+00:00"
+            "title": "International Paper board approves EMEA packaging spinoff - Reuters",
+            "source": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS21mWWtmV05WYVdXbEhRSnQ4T21VR1oyM0tTeFNyQ242Y0xmRmJyejFnYTk5dnZneTduLURROXhlOWpqMG1NX1lCVjhVdlFvbm5iZ1JsQkNLTFVzem5BWERCM0g2V09KSERNaW1zZm1GaHlzcUVWai1LZjdBVXZNMmlVTWhPZE9YTHBlREpGd0hOSW5YV3F2S29rRFR2QzVTWEUyRg?oc=5",
+            "publishedAt": "2026-11-23T12:56+00:00"
           }
         ],
         "hiring": [
@@ -509,10 +528,10 @@
             "publishedAt": "2026-11-05T08:00+00:00"
           },
           {
-            "title": "International Paper\u2019s DS Smith Targets \u20ac480M Savings Ahead of Standalone Listing - TradingView",
-            "source": "TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHp3RzFWdW5NNmc2OUZJRHFfR2JTMUIwSXVKZ1ZwdUxqdHcwYWY0SVNXNGNyQ1ZONTlCb0ZPWmFqTWdOejZpY09ESWZONzdWSDV5RVlMV08ya0NScm5rVjdDNkEwckh0dmJrakZBQS1HeGdCUjh3WEtCdG9kSXBfMG5uMVpZbEpBcXhVR3Nsb2xrdDE4QVY5XzVib2QxUDd4bFBLZFA2cWkwVWlwT2lDS1NGZVJwRmRfbWF0dHRjSzJsalVIRkhkOG1VamtrOUFvT25vSldSRQ?oc=5",
-            "publishedAt": "2026-11-03T08:00+00:00"
+            "title": "International Paper board approves EMEA packaging spinoff - Reuters",
+            "source": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS21mWWtmV05WYVdXbEhRSnQ4T21VR1oyM0tTeFNyQ242Y0xmRmJyejFnYTk5dnZneTduLURROXhlOWpqMG1NX1lCVjhVdlFvbm5iZ1JsQkNLTFVzem5BWERCM0g2V09KSERNaW1zZm1GaHlzcUVWai1LZjdBVXZNMmlVTWhPZE9YTHBlREpGd0hOSW5YV3F2S29rRFR2QzVTWEUyRg?oc=5",
+            "publishedAt": "2026-11-23T12:56+00:00"
           }
         ],
         "query": "\"DS Smith\" packaging OR corrugated OR distribution when:30d",
@@ -529,13 +548,13 @@
       "googleNews": "https://news.google.com/search?q=Associated%20Packaging",
       "search": "https://www.google.com/search?q=Associated%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
             "title": "The packaging compliance data challenge - Packaging Gateway",
             "source": "Packaging Gateway",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHpFdk9SQUgxMnRmSVRaUVlsVnRYcS1DT0JyWGpEcWlmY2J2dGp0cHgyRHZ0QWdkcWdfRlhUQk5xQ3FGMXVTd3A3alVENTBZMTBUN0JybFJyTmVmS3lmTkgyTVpMTF9QOVRFendEUDlqZml6S0VpVS0yTXNoX1V1b1JzekNpR0hGaW1r?oc=5",
-            "publishedAt": "2026-11-06T07:52+00:00"
+            "publishedAt": "2026-11-06T08:00+00:00"
           },
           {
             "title": "\u201cSmall design flaws can lead to big waste,\u201d Dhruvi Thakkar, Sleeve Office - Premium Beauty News",
@@ -544,10 +563,10 @@
             "publishedAt": "2026-11-20T08:00+00:00"
           },
           {
-            "title": "NVIDIA Backs Six Supply Chain Partners to Expand Global AI Manufacturing Capacity - Konsulteer",
-            "source": "Konsulteer",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGRVMy15TEUzdG4wVWhLUjZLM2ZRVGc4ekNmZmZBajdhOVE0OGZXdldTcWg5bUZUWkppX1pfZVVlR0dFM21Kc0RjWnFjdnQ4ZkJSTndVdTZSdFk1S0RGVDVhTnFyUG84WjFxTDRCdmJnbGNrWjhVaWFpeVNZQlFkUFRuNWI2aW5RRGRYT0FFUHM3OXFqbmVVdFBld0IzYTJOZDAxM0NfdGVZckpkZTQyZ2Z1THNDYjg?oc=5",
-            "publishedAt": "2026-10-26T07:00+00:00"
+            "title": "Bacteriophages May Influence Intensive Care Pathogen Domination, Narrative Review Finds - Bioengineer.org",
+            "source": "Bioengineer.org",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjN6S2trUG9pcGlyN0Z2U2poWm53NjA4U2VpR0JjOE52NlR0MlVrT21sNGkyWjhseW13Um9SdG1JS05EWko4RTRVRE95THVWNmJTMVVEUVNEUXdGYXpuY0tBWjZUZmN0WVBRTVNzQk1panctUlViUGk0WU1xMXlnU0g0XzE1elR2NGxIa2RBbnloU3Q0NmlsTDdJRmE4TmdXa2xVYUJFcWdoWmZ0eGJXbA?oc=5",
+            "publishedAt": "2026-11-12T22:24+00:00"
           }
         ],
         "hiring": [],
@@ -557,7 +576,7 @@
             "title": "The packaging compliance data challenge - Packaging Gateway",
             "source": "Packaging Gateway",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHpFdk9SQUgxMnRmSVRaUVlsVnRYcS1DT0JyWGpEcWlmY2J2dGp0cHgyRHZ0QWdkcWdfRlhUQk5xQ3FGMXVTd3A3alVENTBZMTBUN0JybFJyTmVmS3lmTkgyTVpMTF9QOVRFendEUDlqZml6S0VpVS0yTXNoX1V1b1JzekNpR0hGaW1r?oc=5",
-            "publishedAt": "2026-11-06T07:52+00:00"
+            "publishedAt": "2026-11-06T08:00+00:00"
           },
           {
             "title": "\u201cSmall design flaws can lead to big waste,\u201d Dhruvi Thakkar, Sleeve Office - Premium Beauty News",
@@ -566,10 +585,10 @@
             "publishedAt": "2026-11-20T08:00+00:00"
           },
           {
-            "title": "NVIDIA Backs Six Supply Chain Partners to Expand Global AI Manufacturing Capacity - Konsulteer",
-            "source": "Konsulteer",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGRVMy15TEUzdG4wVWhLUjZLM2ZRVGc4ekNmZmZBajdhOVE0OGZXdldTcWg5bUZUWkppX1pfZVVlR0dFM21Kc0RjWnFjdnQ4ZkJSTndVdTZSdFk1S0RGVDVhTnFyUG84WjFxTDRCdmJnbGNrWjhVaWFpeVNZQlFkUFRuNWI2aW5RRGRYT0FFUHM3OXFqbmVVdFBld0IzYTJOZDAxM0NfdGVZckpkZTQyZ2Z1THNDYjg?oc=5",
-            "publishedAt": "2026-10-26T07:00+00:00"
+            "title": "Bacteriophages May Influence Intensive Care Pathogen Domination, Narrative Review Finds - Bioengineer.org",
+            "source": "Bioengineer.org",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjN6S2trUG9pcGlyN0Z2U2poWm53NjA4U2VpR0JjOE52NlR0MlVrT21sNGkyWjhseW13Um9SdG1JS05EWko4RTRVRE95THVWNmJTMVVEUVNEUXdGYXpuY0tBWjZUZmN0WVBRTVNzQk1panctUlViUGk0WU1xMXlnU0g0XzE1elR2NGxIa2RBbnloU3Q0NmlsTDdJRmE4TmdXa2xVYUJFcWdoWmZ0eGJXbA?oc=5",
+            "publishedAt": "2026-11-12T22:24+00:00"
           }
         ],
         "query": "\"Associated Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -586,25 +605,25 @@
       "googleNews": "https://news.google.com/search?q=Berlin%20Packaging",
       "search": "https://www.google.com/search?q=Berlin%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
             "title": "Berlin Packaging and Kreatos Win Silver at the 2026 Pentawards for QBK Hair Care Packaging - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFVNVEZ3cXo4VUxOMmMyY09QZ1hra21SYWgwbVliWjRMLVFrWnRhWmw4aUFhb2ZGcTM0Mk1sSjNDUGVaMXhSRkdYMzBIQ3k5RW9GMERoeDdMajRXVmlYQ1VhNkhMXzJXSUpnYkFmd2t3NkYtRms3YVJCTXNaOGg1aTlTYV81ZDFyVFRGVUJiNGxLMnNpZ0lhRndWUENpRExLZExxNHFB?oc=5",
-            "publishedAt": "2026-11-18T15:00+00:00"
-          },
-          {
-            "title": "Berlin Packaging & Kreatos Win Silver at the 2026 Pentawards - Beauty Packaging",
-            "source": "Beauty Packaging",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1FULW9fdHpIbFRjeUdaaTVSRExpZDFTeE9URkhiWm54X0hlQWpHZ3VmYW90VXRkOG1ieGJnWWNneUY2VXduSmtTRmZ3ZXFEdHY5ck1QY2NZS1RZamhzWFRSTy1qT1BUTkprNGNvRjVHQmlDcFVWVHFJTU5ZSnNsQzZZMUxlVHZwY0dqVDVwTDF3X1ZSclN0YzFiYlVYRnFUWHIwRWRiRm0?oc=5",
-            "publishedAt": "2026-11-23T14:15+00:00"
+            "publishedAt": "2026-11-18T08:00+00:00"
           },
           {
             "title": "The Next Wave of Secondary Fiber-Based Packaging - Packaging Strategies",
             "source": "Packaging Strategies",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEhRcl95SmUyby1Ja0ExdUltUnpRYkpNakpkQk9KbzB3ZHliUHVTZFcwUzJONWJzOTVNTDdXTWN4WEVPdHUydEpocmRPRGpQQWY4MXVmdXZVZUZ1Ylc1VHZXb2p0Xy02a2tFUXhzbjV2eS1xemZ5NjZvTHVEaURKbEZnR3RuVF9WVkN4V0hsNHBjaUVWRnVHOVYzdDhQejNKaWc?oc=5",
             "publishedAt": "2026-11-01T07:00+00:00"
+          },
+          {
+            "title": "Smells Good Enough to Eat: The Rise of Gourmand Fragrances - Beauty Packaging",
+            "source": "Beauty Packaging",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjVLLTBsSlBrX3p5dDZRNDdkSnRrMWk4eVh3REtQMWZpVWVrNG5GZ0lWWHpta1YxRTgzZ2V1Wm5qVXFxQjBsUWN3Yl83S3prNlRNSmIxNGd3UG80OXpwLTRFb2dsVzg1ZE9ZSFpISWs2VmoxT1I4QUNfc0pleDNrM3JNZng3VmkwNnotajh5OWZaS0FES1ZabzREMmVjRDA?oc=5",
+            "publishedAt": "2026-11-04T08:00+00:00"
           }
         ],
         "hiring": [],
@@ -614,19 +633,19 @@
             "title": "Berlin Packaging and Kreatos Win Silver at the 2026 Pentawards for QBK Hair Care Packaging - Yahoo Finance",
             "source": "Yahoo Finance",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFVNVEZ3cXo4VUxOMmMyY09QZ1hra21SYWgwbVliWjRMLVFrWnRhWmw4aUFhb2ZGcTM0Mk1sSjNDUGVaMXhSRkdYMzBIQ3k5RW9GMERoeDdMajRXVmlYQ1VhNkhMXzJXSUpnYkFmd2t3NkYtRms3YVJCTXNaOGg1aTlTYV81ZDFyVFRGVUJiNGxLMnNpZ0lhRndWUENpRExLZExxNHFB?oc=5",
-            "publishedAt": "2026-11-18T15:00+00:00"
-          },
-          {
-            "title": "Berlin Packaging & Kreatos Win Silver at the 2026 Pentawards - Beauty Packaging",
-            "source": "Beauty Packaging",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1FULW9fdHpIbFRjeUdaaTVSRExpZDFTeE9URkhiWm54X0hlQWpHZ3VmYW90VXRkOG1ieGJnWWNneUY2VXduSmtTRmZ3ZXFEdHY5ck1QY2NZS1RZamhzWFRSTy1qT1BUTkprNGNvRjVHQmlDcFVWVHFJTU5ZSnNsQzZZMUxlVHZwY0dqVDVwTDF3X1ZSclN0YzFiYlVYRnFUWHIwRWRiRm0?oc=5",
-            "publishedAt": "2026-11-23T14:15+00:00"
+            "publishedAt": "2026-11-18T08:00+00:00"
           },
           {
             "title": "The Next Wave of Secondary Fiber-Based Packaging - Packaging Strategies",
             "source": "Packaging Strategies",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEhRcl95SmUyby1Ja0ExdUltUnpRYkpNakpkQk9KbzB3ZHliUHVTZFcwUzJONWJzOTVNTDdXTWN4WEVPdHUydEpocmRPRGpQQWY4MXVmdXZVZUZ1Ylc1VHZXb2p0Xy02a2tFUXhzbjV2eS1xemZ5NjZvTHVEaURKbEZnR3RuVF9WVkN4V0hsNHBjaUVWRnVHOVYzdDhQejNKaWc?oc=5",
             "publishedAt": "2026-11-01T07:00+00:00"
+          },
+          {
+            "title": "Smells Good Enough to Eat: The Rise of Gourmand Fragrances - Beauty Packaging",
+            "source": "Beauty Packaging",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjVLLTBsSlBrX3p5dDZRNDdkSnRrMWk4eVh3REtQMWZpVWVrNG5GZ0lWWHpta1YxRTgzZ2V1Wm5qVXFxQjBsUWN3Yl83S3prNlRNSmIxNGd3UG80OXpwLTRFb2dsVzg1ZE9ZSFpISWs2VmoxT1I4QUNfc0pleDNrM3JNZng3VmkwNnotajh5OWZaS0FES1ZabzREMmVjRDA?oc=5",
+            "publishedAt": "2026-11-04T08:00+00:00"
           }
         ],
         "query": "\"Berlin Packaging\" packaging OR corrugated OR distribution when:30d",
@@ -643,60 +662,48 @@
       "googleNews": "https://news.google.com/search?q=SupplyOne",
       "search": "https://www.google.com/search?q=SupplyOne%20California%20packaging",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
-            "title": "Uline Opens Massive New England Distribution Center - National Association of Wholesaler-Distributors",
+            "title": "Broadwing Capital Enters Specialty Distribution, Acquires Supply Side - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejNXc0o3N2d6Zktjd2E1UUVQOVVmWXp2NGkySmdUZGt2Z3hyMXpmaWRtVUMwbHFXRDBBMDZtYjc4d2szMnhGcm13YXlQRC13SHVxN0xwR3h0bjMtX3duS2tXQkNGQ3Y3d3M3YUVlbW8xNXk4TG5TdnVwYzVMWGVOM0wxN0RidFp5?oc=5",
-            "publishedAt": "2026-11-23T18:29+00:00"
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVl0X3hmNVNNTzhZRVZxRXNNaG1LajZHYnNPMlNHSWFmeWJwd1NtdEdhbUlLSWY2RzY3Ty1qbC1ocThoX2x1cUk5UWdULTNDQ0dkbXAwRFlYeGgta1htSW56TGI4VVFxdnBaaHBVVW03OTVtY1Mzb0VyRUExVWQzczRMbG01TmxrLTRMMERmTFdEajBYa3Z2eUgzX2JBc2s?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
           },
           {
-            "title": "Packaging dealmaking: October 2026 - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTRKNEFLRDBzd29hQmp0aHRvOGNVTUpxZDBZNTZIUjVzSFFzM2FKUTZDdjZhUlJKdXZNS0hyR3o1RUxSZHVkRExUd28wMHNBb3U1S0YtZEJBOUxTN1pqblowQVlQT2tjTmFJWmlkSUgyLXpsYXllTW5qak9ra3VMX3JvdlRsS2hiSG1LQ1RrMWtBUWVWcFpPSkVWOXVtdEk?oc=5",
-            "publishedAt": "2026-11-02T08:00+00:00"
-          },
-          {
-            "title": "Broadwing launches distribution platform with Supply Side buy - Dealroom",
-            "source": "Dealroom",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkd4WUp5SUR4MU44Nnc5LWZZbGp1UUV5cnZwNS0yLVhZeGdPZlpUOUN3RHNtMF9ITzFHQ1gxdzlPRHVFYkdFVTlYRnYxNWx4ZjNWc2h0OFdpMlBuLWp5RTVZR3ZPV2lZX2NMbGNMcHc2aVJRY2FwZnBOQ3llWEhzQlBRaUZQYXM4d0U0X0VOaUpIazA1dUUzLUZ1cw?oc=5",
-            "publishedAt": "2026-11-10T15:45+00:00"
+            "title": "List of 17 Acquisitions by SupplyOne (Nov 2026) - Tracxn",
+            "source": "Tracxn",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWpSVy1Dakdha1RFU21UYld0QUdWcGpwX0ZTeFZVV3o4NlRhUkc3QWF4ODlWTW43N0xONV9sb0cyOW9NaFg0Vkx1dEp0NndSb1lVY0RLZUZUSkJyTzZTcGtTc2tJLV9EQWc2RmpCV0E3b3RiSXgyQTJJRi14bTl2MzVselpvUDJtWjljeWZzRHRRRmxvbU1scGRGUFlCSERxSFFmMzloY0c?oc=5",
+            "publishedAt": "2026-11-01T07:00+00:00"
           }
         ],
         "hiring": [],
         "moves": [
           {
-            "title": "Uline Opens Massive New England Distribution Center - National Association of Wholesaler-Distributors",
+            "title": "Broadwing Capital Enters Specialty Distribution, Acquires Supply Side - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejNXc0o3N2d6Zktjd2E1UUVQOVVmWXp2NGkySmdUZGt2Z3hyMXpmaWRtVUMwbHFXRDBBMDZtYjc4d2szMnhGcm13YXlQRC13SHVxN0xwR3h0bjMtX3duS2tXQkNGQ3Y3d3M3YUVlbW8xNXk4TG5TdnVwYzVMWGVOM0wxN0RidFp5?oc=5",
-            "publishedAt": "2026-11-23T18:29+00:00"
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVl0X3hmNVNNTzhZRVZxRXNNaG1LajZHYnNPMlNHSWFmeWJwd1NtdEdhbUlLSWY2RzY3Ty1qbC1ocThoX2x1cUk5UWdULTNDQ0dkbXAwRFlYeGgta1htSW56TGI4VVFxdnBaaHBVVW03OTVtY1Mzb0VyRUExVWQzczRMbG01TmxrLTRMMERmTFdEajBYa3Z2eUgzX2JBc2s?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
           },
           {
-            "title": "Broadwing launches distribution platform with Supply Side buy - Dealroom",
-            "source": "Dealroom",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkd4WUp5SUR4MU44Nnc5LWZZbGp1UUV5cnZwNS0yLVhZeGdPZlpUOUN3RHNtMF9ITzFHQ1gxdzlPRHVFYkdFVTlYRnYxNWx4ZjNWc2h0OFdpMlBuLWp5RTVZR3ZPV2lZX2NMbGNMcHc2aVJRY2FwZnBOQ3llWEhzQlBRaUZQYXM4d0U0X0VOaUpIazA1dUUzLUZ1cw?oc=5",
-            "publishedAt": "2026-11-10T15:45+00:00"
+            "title": "List of 17 Acquisitions by SupplyOne (Nov 2026) - Tracxn",
+            "source": "Tracxn",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWpSVy1Dakdha1RFU21UYld0QUdWcGpwX0ZTeFZVV3o4NlRhUkc3QWF4ODlWTW43N0xONV9sb0cyOW9NaFg0Vkx1dEp0NndSb1lVY0RLZUZUSkJyTzZTcGtTc2tJLV9EQWc2RmpCV0E3b3RiSXgyQTJJRi14bTl2MzVselpvUDJtWjljeWZzRHRRRmxvbU1scGRGUFlCSERxSFFmMzloY0c?oc=5",
+            "publishedAt": "2026-11-01T07:00+00:00"
           }
         ],
         "items": [
           {
-            "title": "Uline Opens Massive New England Distribution Center - National Association of Wholesaler-Distributors",
+            "title": "Broadwing Capital Enters Specialty Distribution, Acquires Supply Side - National Association of Wholesaler-Distributors",
             "source": "National Association of Wholesaler-Distributors",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejNXc0o3N2d6Zktjd2E1UUVQOVVmWXp2NGkySmdUZGt2Z3hyMXpmaWRtVUMwbHFXRDBBMDZtYjc4d2szMnhGcm13YXlQRC13SHVxN0xwR3h0bjMtX3duS2tXQkNGQ3Y3d3M3YUVlbW8xNXk4TG5TdnVwYzVMWGVOM0wxN0RidFp5?oc=5",
-            "publishedAt": "2026-11-23T18:29+00:00"
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVl0X3hmNVNNTzhZRVZxRXNNaG1LajZHYnNPMlNHSWFmeWJwd1NtdEdhbUlLSWY2RzY3Ty1qbC1ocThoX2x1cUk5UWdULTNDQ0dkbXAwRFlYeGgta1htSW56TGI4VVFxdnBaaHBVVW03OTVtY1Mzb0VyRUExVWQzczRMbG01TmxrLTRMMERmTFdEajBYa3Z2eUgzX2JBc2s?oc=5",
+            "publishedAt": "2026-11-10T08:00+00:00"
           },
           {
-            "title": "Packaging dealmaking: October 2026 - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTRKNEFLRDBzd29hQmp0aHRvOGNVTUpxZDBZNTZIUjVzSFFzM2FKUTZDdjZhUlJKdXZNS0hyR3o1RUxSZHVkRExUd28wMHNBb3U1S0YtZEJBOUxTN1pqblowQVlQT2tjTmFJWmlkSUgyLXpsYXllTW5qak9ra3VMX3JvdlRsS2hiSG1LQ1RrMWtBUWVWcFpPSkVWOXVtdEk?oc=5",
-            "publishedAt": "2026-11-02T08:00+00:00"
-          },
-          {
-            "title": "Broadwing launches distribution platform with Supply Side buy - Dealroom",
-            "source": "Dealroom",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkd4WUp5SUR4MU44Nnc5LWZZbGp1UUV5cnZwNS0yLVhZeGdPZlpUOUN3RHNtMF9ITzFHQ1gxdzlPRHVFYkdFVTlYRnYxNWx4ZjNWc2h0OFdpMlBuLWp5RTVZR3ZPV2lZX2NMbGNMcHc2aVJRY2FwZnBOQ3llWEhzQlBRaUZQYXM4d0U0X0VOaUpIazA1dUUzLUZ1cw?oc=5",
-            "publishedAt": "2026-11-10T15:45+00:00"
+            "title": "List of 17 Acquisitions by SupplyOne (Nov 2026) - Tracxn",
+            "source": "Tracxn",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWpSVy1Dakdha1RFU21UYld0QUdWcGpwX0ZTeFZVV3o4NlRhUkc3QWF4ODlWTW43N0xONV9sb0cyOW9NaFg0Vkx1dEp0NndSb1lVY0RLZUZUSkJyTzZTcGtTc2tJLV9EQWc2RmpCV0E3b3RiSXgyQTJJRi14bTl2MzVselpvUDJtWjljeWZzRHRRRmxvbU1scGRGUFlCSERxSFFmMzloY0c?oc=5",
+            "publishedAt": "2026-11-01T07:00+00:00"
           }
         ],
         "query": "\"SupplyOne\" packaging OR corrugated OR distribution when:30d",
@@ -713,7 +720,7 @@
       "googleNews": "https://news.google.com/search?q=Alliance%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Alliance%20Packaging%20Sacramento%20Sales%20Representative%20Packaging",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
             "title": "Hannah Bell, Performance Vehicle Works Racing, Look to Carry Double Top-10 Momentum into Tri-County Season Finale - Catchfence",
@@ -755,7 +762,7 @@
       "googleNews": "https://news.google.com/search?q=Ernest%20Packaging%20Sacramento",
       "search": "https://www.google.com/search?q=Ernest%20Territory%20Sales%20Representative%20Sacramento",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [
           {
             "title": "Sonoco announces CEO succession plan - Recycling Today",
@@ -773,7 +780,7 @@
             "title": "Sonoco Names Ernest Haynes CEO as Howard Coker Plans Retirement After 41 Years - citybiz",
             "source": "citybiz",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVoxbkRuNmVzYjN3NHRGcEo0ZWE0ZXBJZU1WRTQ1aEM2TXFOd21PRmZuOGF4M0ZxMWQyVjcxUEJNSFFEaXlMWG1Kb0lfd3gxNlFwVVkwWTBnUHVEbVVhVDlrVDdiTWZnOHhUUkt3Y2Q1R0dxMGpIcFlhWVJNQTdoSDJtM2NxRElPdGE2MlV6eUNCMXJyQXlsX3hYVXBYWUsxQWNGendtaUstWmtiNlgxUGdJckp1RTlf?oc=5",
-            "publishedAt": "2026-11-09T13:58+00:00"
+            "publishedAt": "2026-11-09T08:00+00:00"
           }
         ],
         "hiring": [
@@ -803,7 +810,7 @@
             "title": "Sonoco Names Ernest Haynes CEO as Howard Coker Plans Retirement After 41 Years - citybiz",
             "source": "citybiz",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVoxbkRuNmVzYjN3NHRGcEo0ZWE0ZXBJZU1WRTQ1aEM2TXFOd21PRmZuOGF4M0ZxMWQyVjcxUEJNSFFEaXlMWG1Kb0lfd3gxNlFwVVkwWTBnUHVEbVVhVDlrVDdiTWZnOHhUUkt3Y2Q1R0dxMGpIcFlhWVJNQTdoSDJtM2NxRElPdGE2MlV6eUNCMXJyQXlsX3hYVXBYWUsxQWNGendtaUstWmtiNlgxUGdJckp1RTlf?oc=5",
-            "publishedAt": "2026-11-09T13:58+00:00"
+            "publishedAt": "2026-11-09T08:00+00:00"
           }
         ],
         "query": "\"Ernest\" packaging OR corrugated OR distribution when:30d",
@@ -820,7 +827,7 @@
       "googleNews": "https://news.google.com/search?q=Bennett%20Packaging",
       "search": "https://www.google.com/search?q=Bennett%20Packaging%20California",
       "signals": {
-        "lastUpdated": "2026-11-24T23:05+00:00",
+        "lastUpdated": "2026-11-27T22:06+00:00",
         "news": [],
         "hiring": [],
         "moves": [],
@@ -832,8 +839,8 @@
   ],
   "sourceType": "hybrid",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-24T23:05+00:00",
-  "lastSuccessfulAt": "2026-11-24T23:05+00:00",
+  "lastAttemptedAt": "2026-11-27T22:06+00:00",
+  "lastSuccessfulAt": "2026-11-27T22:06+00:00",
   "sourceLimitations": [
     "Competitor list is curated manually; this script only refreshes public news signals for listed companies.",
     "Google News RSS can miss relevant account-level activity and can include false positives.",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T23:05+00:00",
+  "lastUpdated": "2026-11-27T22:06+00:00",
   "sourceStrength": "High",
   "freshness": "Live mirror",
   "whatChanged": "USGS and NWS published data were mirrored into local JSON by GitHub Actions.",
@@ -19,69 +19,69 @@
   "events": [
     {
       "type": "Earthquake",
-      "region": "70 km ESE of Denali National Park, Alaska",
+      "region": "7 km NW of The Geysers, CA",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "42 km WNW of Valdez, Alaska",
+      "region": "75 km NW of Aleneva, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "14 km WSW of Ocotillo Wells, CA",
+      "region": "67 km WNW of Beluga, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "8 km SE of Tok, Alaska",
+      "region": "33 km NW of Glacier View, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "24 km W of Petersville, Alaska",
+      "region": "78 km NW of Aleneva, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "41 km SSE of Whittier, Alaska",
+      "region": "19 km NNE of Willow, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "50 km NNW of Beluga, Alaska",
+      "region": "34 km NE of Rampart, Alaska",
       "severity": "Low"
     },
     {
       "type": "Earthquake",
-      "region": "7 km SW of Fox River, Alaska",
-      "severity": "Medium"
+      "region": "84 km NW of Ninilchik, Alaska",
+      "severity": "Low"
     },
     {
-      "type": "Wind Advisory issued November 24 at 3:00PM PST until November 24 at 4:00PM PST by NWS Eureka CA",
-      "region": "Coastal Del Norte",
+      "type": "Beach Hazards Statement issued November 27 at 12:52PM PST until November 28 at 4:00PM PST by NWS San Diego CA",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "severity": "Moderate"
     },
     {
-      "type": "Wind Advisory issued November 24 at 3:00PM PST until November 24 at 4:00PM PST by NWS Eureka CA",
-      "region": "Northern Coastal Humboldt; Southeastern Interior Humboldt",
-      "severity": "Moderate"
+      "type": "Coastal Flood Advisory issued November 27 at 11:41AM PST until November 27 at 4:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "San Luis Obispo County Beaches; Santa Barbara County Central Coast Beaches",
+      "severity": "Minor"
     },
     {
-      "type": "Wind Advisory issued November 24 at 3:00PM PST until November 24 at 4:00PM PST by NWS Eureka CA",
-      "region": "Interior Del Norte; Northeastern Interior Humboldt",
-      "severity": "Moderate"
+      "type": "Coastal Flood Advisory issued November 27 at 11:41AM PST until November 27 at 4:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "Catalina and Santa Barbara Islands",
+      "severity": "Minor"
     },
     {
-      "type": "Wind Advisory issued November 24 at 3:00PM PST until November 25 at 9:00AM PST by NWS Eureka CA",
-      "region": "Southwestern Humboldt",
-      "severity": "Moderate"
+      "type": "Coastal Flood Advisory issued November 27 at 11:41AM PST until November 27 at 4:00PM PST by NWS Los Angeles/Oxnard CA",
+      "region": "Malibu Coast; Los Angeles County Beaches",
+      "severity": "Minor"
     }
   ],
   "sourceType": "automated",
   "refreshStatus": "success",
-  "lastAttemptedAt": "2026-11-24T23:05+00:00",
-  "lastSuccessfulAt": "2026-11-24T23:05+00:00",
+  "lastAttemptedAt": "2026-11-27T22:06+00:00",
+  "lastSuccessfulAt": "2026-11-27T22:06+00:00",
   "sourceLimitations": [
     "Mirrors public USGS and NWS feeds; it is not a full supply-chain disruption model."
   ]
